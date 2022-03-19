@@ -1,0 +1,18 @@
+{
+  "name": "lectionary",
+  "version": "0.1.0",
+  "description": "All Mass readings on JSON format",
+  "main": "index.js",
+  "scripts": {
+    "schema:gen": "typescript-json-schema types/Lectionary.ts Lectionary -o schema/Lectionary.json && ajv compile -s schema/Lectionary.json",
+    "schema:validate": "ajv validate -s schema/Lectionary.json -d data/pt_BR.json"
+  },
+  "author": "maurodev@pm.me",
+  "license": "ISC",
+  "dependencies": {
+    "ajv-cli": "^5.0.0",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.2",
+    "typescript-json-schema": "^0.53.0"
+  }
+}

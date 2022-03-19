@@ -1,0 +1,71 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "additionalProperties": {
+        "properties": {
+            "color": {
+                "$ref": "#/definitions/Color"
+            },
+            "readings": {
+                "items": {
+                    "properties": {
+                        "ref": {
+                            "type": "string"
+                        },
+                        "text": {
+                            "anyOf": [
+                                {
+                                    "properties": {
+                                        "long": {
+                                            "type": "string"
+                                        },
+                                        "short": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "type": "object"
+                                },
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        },
+                        "type": {
+                            "$ref": "#/definitions/ReadingType"
+                        }
+                    },
+                    "type": "object"
+                },
+                "type": "array"
+            },
+            "subtitle": {
+                "type": "string"
+            },
+            "title": {
+                "type": "string"
+            }
+        },
+        "type": "object"
+    },
+    "definitions": {
+        "Color": {
+            "enum": [
+                "green",
+                "pink",
+                "purple",
+                "red",
+                "white"
+            ],
+            "type": "string"
+        },
+        "ReadingType": {
+            "enum": [
+                "gospel",
+                "psalm",
+                "reading"
+            ],
+            "type": "string"
+        }
+    },
+    "type": "object"
+}
+
