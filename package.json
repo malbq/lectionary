@@ -5,12 +5,18 @@
   "main": "index.js",
   "scripts": {
     "schema:gen": "typescript-json-schema types/Lectionary.ts Lectionary -o schema/Lectionary.json && ajv compile -s schema/Lectionary.json",
-    "schema:validate": "ajv validate -s schema/Lectionary.json -d data/pt_BR.json"
+    "schema:validate": "ajv validate -s schema/Lectionary.json -d data/pt_BR.json",
+    "status": "npm run status:s",
+    "status:s": "node --experimental-json-modules cli/index.mjs -s",
+    "status:d": "node --experimental-json-modules cli/index.mjs -d",
+    "status:da": "node --experimental-json-modules cli/index.mjs -da"
   },
   "author": "maurodev@pm.me",
   "license": "ISC",
   "dependencies": {
     "ajv-cli": "^5.0.0",
+    "chalk": "^5.0.1",
+    "commander": "^9.1.0",
     "ts-node": "^10.7.0",
     "typescript": "^4.6.2",
     "typescript-json-schema": "^0.53.0"
