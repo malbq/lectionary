@@ -3,15 +3,15 @@ import chalk from 'chalk'
 import { readFileSync } from 'fs'
 import { fileURLToPath, pathToFileURL } from 'url'
 import { join, dirname } from 'path'
+import yaml from 'js-yaml'
 import { evaluateText, evaluateMeta } from './helpers.mjs'
 
 const thisPath = fileURLToPath(import.meta.url)
-// TODO: Analyze all languages files
-const lectionaryPath = join(dirname(thisPath), '../data/pt_BR.json')
+const lectionaryPath = join(dirname(thisPath), '../data/pt_BR.yaml')
 const lectionaryUrl = pathToFileURL(lectionaryPath)
 
 const lectionaryText = readFileSync(lectionaryPath).toString()
-const lectionary = JSON.parse(lectionaryText)
+const lectionary = yaml.load(lectionaryText)
 
 const program = new Command()
 
@@ -61,35 +61,36 @@ if (options.detailed) {
   const liturgies = Object.entries(lectionary)
   liturgies.forEach(([key, liturgy]) => {
     const resultMeta = evaluateMeta(liturgy)
-    const metaStyle = resultMeta === 2 ? dangerStyle
-      : resultMeta === 1 ? warningStyle : okStyle
+    const metaStyle = resultMeta === 2 ? dangerStyle()
+      : resultMeta === 1 ? warningStyle() : okStyle()
 
     const resultText = evaluateText(liturgy)
-    const textStyle = resultText === 2 ? dangerStyle
-      : resultText === 1 ? warningStyle : okStyle
+    const textStyle = resultText === 2 ? dangerStyle()
+      : resultText === 1 ? warningStyle() : okStyle()
 
     if (options.all || resultMeta > 0 || resultText > 0) {
-      console.log(`${key}: ${metaStyle(1)('meta')} | ${textStyle(1)('text')} ${chalk.dim(`(${lectionaryUrl}:${lineNumber(lectionaryText, new RegExp(`"${key}": {`))})`)}`)
+      const lineNumber = findLineNumber(lectionaryText, new RegExp(`'?${key}'?:`))
+      console.log(`${key}: ${metaStyle('meta')} | ${textStyle('text')} ${chalk.dim(`(${lectionaryUrl}:${lineNumber})`)}`)
     }
   })
 }
 
 function dangerStyle(value) {
-  if (value > 0) return chalk.red
-  return chalk.red.dim
+  if (value === 0) return chalk.red.dim
+  return chalk.red
 }
 
 function warningStyle(value) {
-  if (value > 0) return chalk.yellow
-  return chalk.yellow.dim
+  if (value === 0) return chalk.yellow.dim
+  return chalk.yellow
 }
 
 function okStyle(value) {
-  if (value > 0) return chalk.greenBright
-  return chalk.greenBright.dim
+  if (value === 0) return chalk.greenBright.dim
+  return chalk.greenBright
 }
 
-function lineNumber(text, regex) {
+function findLineNumber(text, regex) {
   return text.split(/\r?\n/).map(function (line, i) {
     if (regex.test(line)) {
       return i + 1

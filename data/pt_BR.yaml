@@ -1,0 +1,9436 @@
+'1217':
+  title: ''
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'1218':
+  title: ''
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'1219':
+  title: ''
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'1220':
+  title: ''
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'1221':
+  title: ''
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'1222':
+  title: ''
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'1223':
+  title: ''
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'1226':
+  title: Santo Estêvão, Primeiro Mártir
+  subtitle: Festa
+  color: red
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'1227':
+  title: São João Evangelista
+  subtitle: Festa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'1228':
+  title: Santos Inocentes, mártires
+  subtitle: Festa
+  color: red
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'1229':
+  title: ''
+  subtitle: Oitava de Natal
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'1230':
+  title: ''
+  subtitle: Oitava de Natal
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'1231':
+  title: ''
+  subtitle: Oitava de Natal
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+holyFamily:
+  title: Sagrada Família
+  subtitle: Festa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+epiphany:
+  title: Epifania do Senhor
+  subtitle: Solenidade
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+baptism:
+  title: Batismo do Senhor
+  subtitle: Festa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+mostHolyTrinity:
+  title: Santíssima Trindade
+  subtitle: Solenidade
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+corpusChristi:
+  title: Corpus Christi
+  subtitle: Solenidade
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+sacredHeartOfJesus:
+  title: Sagrado Coração de Jesus
+  subtitle: Solenidade
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+immaculateHeartOfMary:
+  title: Imaculado Coração de Maria
+  subtitle: Memória
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+assumption:
+  title: Assunção de Nossa Senhora
+  subtitle: Solenidade
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+1224.day:
+  title: ''
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+1224.vigil:
+  title: Natal do Senhor, Missa da Vigília
+  subtitle: Solenidade
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+1224.night:
+  title: Natal do Senhor, Missa da Noite
+  subtitle: Solenidade
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+1225.dawn:
+  title: Natal do Senhor, Missa da Aurora
+  subtitle: Solenidade
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+1225.day:
+  title: Natal do Senhor, Missa do Dia
+  subtitle: Solenidade
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'0101':
+  title: Santa Maria, Mãe de Deus
+  subtitle: Solenidade
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'0102':
+  title: ''
+  subtitle: Antes da Epifania
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'0103':
+  title: ''
+  subtitle: Antes da Epifania
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'0104':
+  title: ''
+  subtitle: Antes da Epifania
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'0105':
+  title: ''
+  subtitle: Antes da Epifania
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'0106':
+  title: ''
+  subtitle: Antes da Epifania
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'0107':
+  title: ''
+  subtitle: Antes da Epifania
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+christmas.week2.2:
+  title: Segunda-feira da 2ª Semana
+  subtitle: Após a Epifania
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+christmas.week2.3:
+  title: Terça-feira da 2ª Semana
+  subtitle: Após a Epifania
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+christmas.week2.4:
+  title: Quarta-feira da 2ª Semana
+  subtitle: Após a Epifania
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+christmas.week2.5:
+  title: Quinta-feira da 2ª Semana
+  subtitle: Após a Epifania
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+christmas.week2.6:
+  title: Sexta-feira da 2ª Semana
+  subtitle: Após a Epifania
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+christmas.week2.7:
+  title: Sábado da 2ª Semana
+  subtitle: Tempo do Natal
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+christmas.week2.1:
+  title: Domingo da 2ª Semana
+  subtitle: Após a Epifania
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week1.1.a:
+  title: Domingo da 1ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week1.1.b:
+  title: Domingo da 1ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week1.1.c:
+  title: Domingo da 1ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week1.2:
+  title: Segunda-feira da 1ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week1.3:
+  title: Terça-feira da 1ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week1.4:
+  title: Quarta-feira da 1ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week1.5:
+  title: Quinta-feira da 1ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week1.6:
+  title: Sexta-feira da 1ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week1.7:
+  title: Sábado da 1ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week2.1.a:
+  title: Domingo da 2ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week2.1.b:
+  title: Domingo da 2ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week2.1.c:
+  title: Domingo da 2ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week2.2:
+  title: Segunda-feira da 2ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week2.3:
+  title: Terça-feira da 2ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week2.4:
+  title: Quarta-feira da 2ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week2.5:
+  title: Quinta-feira da 2ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week2.6:
+  title: Sexta-feira da 2ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week2.7:
+  title: Sábado da 2ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week3.1.a:
+  title: Domingo da 3ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week3.1.b:
+  title: Domingo da 3ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week3.1.c:
+  title: Domingo da 3ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week3.2:
+  title: Segunda-feira da 3ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week3.3:
+  title: Terça-feira da 3ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week3.4:
+  title: Quarta-feira da 3ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week3.5:
+  title: Quinta-feira da 3ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+advent.week3.6:
+  title: Sexta-feira da 3ª Semana
+  subtitle: Tempo do Advento
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week0.4:
+  title: Quarta-feira
+  subtitle: Após as Cinzas
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week0.5:
+  title: Quinta-feira
+  subtitle: Após as Cinzas
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week0.6:
+  title: Sexta-feira
+  subtitle: Após as Cinzas
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week0.7:
+  title: Sábado
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week1.1:
+  title: Domingo da 1ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week1.2:
+  title: Segunda-feira da 1ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week1.3:
+  title: Terça-feira da 1ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week1.4:
+  title: Quarta-feira da 1ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week1.5:
+  title: Quinta-feira da 1ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week1.6:
+  title: Sexta-feira da 1ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week1.7:
+  title: Sábado da 1ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week2.1:
+  title: Domingo da 2ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week2.2:
+  title: Segunda-feira da 2ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week2.3:
+  title: Terça-feira da 2ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week2.4:
+  title: Quarta-feira da 2ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week2.5:
+  title: Quinta-feira da 2ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week2.6:
+  title: Sexta-feira da 2ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week2.7:
+  title: Sábado da 2ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week3.1:
+  title: Domingo da 3ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week3.2:
+  title: Segunda-feira da 3ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week3.3:
+  title: Terça-feira da 3ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week3.4:
+  title: Quarta-feira da 3ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week3.5:
+  title: Quinta-feira da 3ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week3.6:
+  title: Sexta-feira da 3ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week3.7:
+  title: Sábado da 3ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week4.1:
+  title: Domingo da 4ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week4.2:
+  title: Segunda-feira da 4ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week4.3:
+  title: Terça-feira da 4ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week4.4:
+  title: Quarta-feira da 4ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week4.5:
+  title: Quinta-feira da 4ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week4.6:
+  title: Sexta-feira da 4ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week4.7:
+  title: Sábado da 4ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week5.1:
+  title: Domingo da 5ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week5.2:
+  title: Segunda-feira da 5ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week5.3:
+  title: Terça-feira da 5ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week5.4:
+  title: Quarta-feira da 5ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week5.5:
+  title: Quinta-feira da 5ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week5.6:
+  title: Sexta-feira da 5ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week5.7:
+  title: Sábado da 5ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week6.1:
+  title: Domingo
+  subtitle: Semana Santa
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week6.2:
+  title: Segunda-feira
+  subtitle: Semana Santa
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week6.3:
+  title: Terça-feira
+  subtitle: Semana Santa
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+lent.week6.4:
+  title: Quarta-feira da 6ª Semana
+  subtitle: Tempo da Quaresma
+  color: purple
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week0.5.dawn:
+  title: Quinta-feira
+  subtitle: Tríduo Pascal
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week0.5.day:
+  title: Quinta-feira
+  subtitle: Tríduo Pascal
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week0.6:
+  title: Solene Vigília Pascal
+  subtitle: Tríduo Pascal
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week0.7:
+  title: Sábado
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week1.1.a:
+  title: Domingo da 1ª Semana
+  subtitle: Oitava de Páscoas
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week1.1.b:
+  title: Domingo da 1ª Semana
+  subtitle: Oitava de Páscoas
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week1.1.c:
+  title: Domingo da 1ª Semana
+  subtitle: Oitava de Páscoas
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week1.2:
+  title: Segunda-feira da 1ª Semana
+  subtitle: Oitava de Páscoas
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week1.3:
+  title: Terça-feira da 1ª Semana
+  subtitle: Oitava de Páscoas
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week1.4:
+  title: Quarta-feira da 1ª Semana
+  subtitle: Oitava de Páscoas
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week1.5:
+  title: Quinta-feira da 1ª Semana
+  subtitle: Oitava de Páscoas
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week1.6:
+  title: Sexta-feira da 1ª Semana
+  subtitle: Oitava de Páscoas
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week1.7:
+  title: Sábado da 1ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week2.1.a:
+  title: Domingo da 2ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week2.1.b:
+  title: Domingo da 2ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week2.1.c:
+  title: Domingo da 2ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week2.2:
+  title: Segunda-feira da 2ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week2.3:
+  title: Terça-feira da 2ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week2.4:
+  title: Quarta-feira da 2ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week2.5:
+  title: Quinta-feira da 2ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week2.6:
+  title: Sexta-feira da 2ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week2.7:
+  title: Sábado da 2ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week3.1.a:
+  title: Domingo da 3ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week3.1.b:
+  title: Domingo da 3ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week3.1.c:
+  title: Domingo da 3ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week3.2:
+  title: Segunda-feira da 3ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week3.3:
+  title: Terça-feira da 3ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week3.4:
+  title: Quarta-feira da 3ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week3.5:
+  title: Quinta-feira da 3ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week3.6:
+  title: Sexta-feira da 3ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week3.7:
+  title: Sábado da 3ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week4.1.a:
+  title: Domingo da 4ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week4.1.b:
+  title: Domingo da 4ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week4.1.c:
+  title: Domingo da 4ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week4.2:
+  title: Segunda-feira da 4ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week4.3:
+  title: Terça-feira da 4ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week4.4:
+  title: Quarta-feira da 4ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week4.5:
+  title: Quinta-feira da 4ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week4.6:
+  title: Sexta-feira da 4ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week4.7:
+  title: Sábado da 4ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week5.1.a:
+  title: Domingo da 5ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week5.1.b:
+  title: Domingo da 5ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week5.1.c:
+  title: Domingo da 5ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week5.2:
+  title: Segunda-feira da 5ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week5.3:
+  title: Terça-feira da 5ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week5.4:
+  title: Quarta-feira da 5ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week5.5:
+  title: Quinta-feira da 5ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week5.6:
+  title: Sexta-feira da 5ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week5.7:
+  title: Sábado da 5ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week6.1.a:
+  title: Domingo da 6ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week6.1.b:
+  title: Domingo da 6ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week6.1.c:
+  title: Domingo da 6ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week6.2:
+  title: Segunda-feira da 6ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week6.3:
+  title: Terça-feira da 6ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week6.4:
+  title: Quarta-feira da 6ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week6.5:
+  title: Quinta-feira da 6ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week6.6:
+  title: Sexta-feira da 6ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week6.7:
+  title: Sábado da 6ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week7.1.a:
+  title: Domingo da 7ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week7.1.b:
+  title: Domingo da 7ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week7.1.c:
+  title: Domingo da 7ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week7.2:
+  title: Segunda-feira da 7ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week7.3:
+  title: Terça-feira da 7ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week7.4:
+  title: Quarta-feira da 7ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week7.5:
+  title: Quinta-feira da 7ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week7.6:
+  title: Sexta-feira da 7ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week7.7:
+  title: Sábado da 7ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week7.7.vigil:
+  title: Sábado da 7ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+easter.week8.1:
+  title: Domingo da 8ª Semana
+  subtitle: Tempo da Páscoa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week1.2.even:
+  title: Segunda-feira da 1ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week1.2.odd:
+  title: Segunda-feira da 1ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week1.3.even:
+  title: Terça-feira da 1ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week1.3.odd:
+  title: Terça-feira da 1ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week1.4.even:
+  title: Quarta-feira da 1ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week1.4.odd:
+  title: Quarta-feira da 1ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week1.5.even:
+  title: Quinta-feira da 1ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week1.5.odd:
+  title: Quinta-feira da 1ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week1.6.even:
+  title: Sexta-feira da 1ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week1.6.odd:
+  title: Sexta-feira da 1ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week1.7.even:
+  title: Sábado da 1ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week1.7.odd:
+  title: Sábado da 1ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week2.1.a:
+  title: Domingo da 2ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week2.1.b:
+  title: Domingo da 2ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week2.1.c:
+  title: Domingo da 2ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week2.2.even:
+  title: Segunda-feira da 2ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week2.2.odd:
+  title: Segunda-feira da 2ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week2.3.even:
+  title: Terça-feira da 2ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week2.3.odd:
+  title: Terça-feira da 2ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week2.4.even:
+  title: Quarta-feira da 2ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week2.4.odd:
+  title: Quarta-feira da 2ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week2.5.even:
+  title: Quinta-feira da 2ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week2.5.odd:
+  title: Quinta-feira da 2ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week2.6.even:
+  title: Sexta-feira da 2ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week2.6.odd:
+  title: Sexta-feira da 2ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week2.7.even:
+  title: Sábado da 2ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week2.7.odd:
+  title: Sábado da 2ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week3.1.a:
+  title: Domingo da 3ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week3.1.b:
+  title: Domingo da 3ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week3.1.c:
+  title: Domingo da 3ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week3.2.even:
+  title: Segunda-feira da 3ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week3.2.odd:
+  title: Segunda-feira da 3ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week3.3.even:
+  title: Terça-feira da 3ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week3.3.odd:
+  title: Terça-feira da 3ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week3.4.even:
+  title: Quarta-feira da 3ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week3.4.odd:
+  title: Quarta-feira da 3ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week3.5.even:
+  title: Quinta-feira da 3ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week3.5.odd:
+  title: Quinta-feira da 3ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week3.6.even:
+  title: Sexta-feira da 3ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week3.6.odd:
+  title: Sexta-feira da 3ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week3.7.even:
+  title: Sábado da 3ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week3.7.odd:
+  title: Sábado da 3ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week4.1.a:
+  title: Domingo da 4ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week4.1.b:
+  title: Domingo da 4ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week4.1.c:
+  title: Domingo da 4ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week4.2.even:
+  title: Segunda-feira da 4ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week4.2.odd:
+  title: Segunda-feira da 4ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week4.3.even:
+  title: Terça-feira da 4ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week4.3.odd:
+  title: Terça-feira da 4ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week4.4.even:
+  title: Quarta-feira da 4ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week4.4.odd:
+  title: Quarta-feira da 4ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week4.5.even:
+  title: Quinta-feira da 4ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week4.5.odd:
+  title: Quinta-feira da 4ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week4.6.even:
+  title: Sexta-feira da 4ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week4.6.odd:
+  title: Sexta-feira da 4ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week4.7.even:
+  title: Sábado da 4ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week4.7.odd:
+  title: Sábado da 4ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week5.1.a:
+  title: Domingo da 5ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week5.1.b:
+  title: Domingo da 5ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week5.1.c:
+  title: Domingo da 5ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week5.2.even:
+  title: Segunda-feira da 5ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week5.2.odd:
+  title: Segunda-feira da 5ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week5.3.even:
+  title: Terça-feira da 5ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week5.3.odd:
+  title: Terça-feira da 5ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week5.4.even:
+  title: Quarta-feira da 5ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week5.4.odd:
+  title: Quarta-feira da 5ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week5.5.even:
+  title: Quinta-feira da 5ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week5.5.odd:
+  title: Quinta-feira da 5ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week5.6.even:
+  title: Sexta-feira da 5ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week5.6.odd:
+  title: Sexta-feira da 5ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week5.7.even:
+  title: Sábado da 5ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week5.7.odd:
+  title: Sábado da 5ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week6.1.a:
+  title: Domingo da 6ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week6.1.b:
+  title: Domingo da 6ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week6.1.c:
+  title: Domingo da 6ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week6.2.even:
+  title: Segunda-feira da 6ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week6.2.odd:
+  title: Segunda-feira da 6ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week6.3.even:
+  title: Terça-feira da 6ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week6.3.odd:
+  title: Terça-feira da 6ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week6.4.even:
+  title: Quarta-feira da 6ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week6.4.odd:
+  title: Quarta-feira da 6ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week6.5.even:
+  title: Quinta-feira da 6ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week6.5.odd:
+  title: Quinta-feira da 6ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week6.6.even:
+  title: Sexta-feira da 6ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week6.6.odd:
+  title: Sexta-feira da 6ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week6.7.even:
+  title: Sábado da 6ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week6.7.odd:
+  title: Sábado da 6ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week7.1.a:
+  title: Domingo da 7ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week7.1.b:
+  title: Domingo da 7ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week7.1.c:
+  title: Domingo da 7ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week7.2.even:
+  title: Segunda-feira da 7ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week7.2.odd:
+  title: Segunda-feira da 7ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week7.3.even:
+  title: Terça-feira da 7ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week7.3.odd:
+  title: Terça-feira da 7ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week8.2.even:
+  title: Segunda-feira da 8ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week8.2.odd:
+  title: Segunda-feira da 8ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week8.3.even:
+  title: Terça-feira da 8ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week8.3.odd:
+  title: Terça-feira da 8ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week8.4.even:
+  title: Quarta-feira da 8ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week8.4.odd:
+  title: Quarta-feira da 8ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week8.5.even:
+  title: Quinta-feira da 8ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week8.5.odd:
+  title: Quinta-feira da 8ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week8.6.even:
+  title: Sexta-feira da 8ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week8.6.odd:
+  title: Sexta-feira da 8ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week8.7.even:
+  title: Sábado da 8ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week8.7.odd:
+  title: Sábado da 8ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week9.1.a:
+  title: Domingo da 9ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week9.1.b:
+  title: Domingo da 9ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week9.1.c:
+  title: Domingo da 9ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week9.2.even:
+  title: Segunda-feira da 9ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week9.2.odd:
+  title: Segunda-feira da 9ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week9.3.even:
+  title: Terça-feira da 9ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week9.3.odd:
+  title: Terça-feira da 9ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week9.4.even:
+  title: Quarta-feira da 9ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week9.4.odd:
+  title: Quarta-feira da 9ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week9.5.even:
+  title: Quinta-feira da 9ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week9.5.odd:
+  title: Quinta-feira da 9ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week9.6.even:
+  title: Sexta-feira da 9ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week9.6.odd:
+  title: Sexta-feira da 9ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week9.7.even:
+  title: Sábado da 9ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week9.7.odd:
+  title: Sábado da 9ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week10.1.a:
+  title: Domingo da 10ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week10.1.b:
+  title: Domingo da 10ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week10.1.c:
+  title: Domingo da 10ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week10.2.even:
+  title: Segunda-feira da 10ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week10.2.odd:
+  title: Segunda-feira da 10ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week10.3.even:
+  title: Terça-feira da 10ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week10.3.odd:
+  title: Terça-feira da 10ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week10.4.even:
+  title: Quarta-feira da 10ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week10.4.odd:
+  title: Quarta-feira da 10ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week10.5.even:
+  title: Quinta-feira da 10ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week10.5.odd:
+  title: Quinta-feira da 10ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week10.6.even:
+  title: Sexta-feira da 10ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week10.6.odd:
+  title: Sexta-feira da 10ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week10.7.even:
+  title: Sábado da 10ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week10.7.odd:
+  title: Sábado da 10ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week11.1.a:
+  title: Domingo da 11ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week11.1.b:
+  title: Domingo da 11ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week11.1.c:
+  title: Domingo da 11ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week11.2.even:
+  title: Segunda-feira da 11ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week11.2.odd:
+  title: Segunda-feira da 11ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week11.3.even:
+  title: Terça-feira da 11ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week11.3.odd:
+  title: Terça-feira da 11ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week11.4.even:
+  title: Quarta-feira da 11ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week11.4.odd:
+  title: Quarta-feira da 11ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week11.5.even:
+  title: Quinta-feira da 11ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week11.5.odd:
+  title: Quinta-feira da 11ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week11.6.even:
+  title: Sexta-feira da 11ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week11.6.odd:
+  title: Sexta-feira da 11ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week11.7.even:
+  title: Sábado da 11ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week11.7.odd:
+  title: Sábado da 11ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week12.1.a:
+  title: Domingo da 12ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week12.1.b:
+  title: Domingo da 12ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week12.1.c:
+  title: Domingo da 12ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week12.2.even:
+  title: Segunda-feira da 12ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week12.2.odd:
+  title: Segunda-feira da 12ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week12.3.even:
+  title: Terça-feira da 12ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week12.3.odd:
+  title: Terça-feira da 12ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week12.4.even:
+  title: Quarta-feira da 12ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week12.4.odd:
+  title: Quarta-feira da 12ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week12.5.even:
+  title: Quinta-feira da 12ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week12.5.odd:
+  title: Quinta-feira da 12ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week12.6.even:
+  title: Sexta-feira da 12ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week12.6.odd:
+  title: Sexta-feira da 12ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week12.7.even:
+  title: Sábado da 12ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week12.7.odd:
+  title: Sábado da 12ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week13.1.a:
+  title: Domingo da 13ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week13.1.b:
+  title: Domingo da 13ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week13.1.c:
+  title: Domingo da 13ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week13.2.even:
+  title: Segunda-feira da 13ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week13.2.odd:
+  title: Segunda-feira da 13ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week13.3.even:
+  title: Terça-feira da 13ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week13.3.odd:
+  title: Terça-feira da 13ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week13.4.even:
+  title: Quarta-feira da 13ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week13.4.odd:
+  title: Quarta-feira da 13ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week13.5.even:
+  title: Quinta-feira da 13ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week13.5.odd:
+  title: Quinta-feira da 13ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week13.6.even:
+  title: Sexta-feira da 13ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week13.6.odd:
+  title: Sexta-feira da 13ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week13.7.even:
+  title: Sábado da 13ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week13.7.odd:
+  title: Sábado da 13ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week14.1.a:
+  title: Domingo da 14ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week14.1.b:
+  title: Domingo da 14ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week14.1.c:
+  title: Domingo da 14ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week14.2.even:
+  title: Segunda-feira da 14ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week14.2.odd:
+  title: Segunda-feira da 14ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week14.3.even:
+  title: Terça-feira da 14ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week14.3.odd:
+  title: Terça-feira da 14ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week14.4.even:
+  title: Quarta-feira da 14ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week14.4.odd:
+  title: Quarta-feira da 14ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week14.5.even:
+  title: Quinta-feira da 14ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week14.5.odd:
+  title: Quinta-feira da 14ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week14.6.even:
+  title: Sexta-feira da 14ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week14.6.odd:
+  title: Sexta-feira da 14ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week14.7.even:
+  title: Sábado da 14ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week14.7.odd:
+  title: Sábado da 14ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week15.1.a:
+  title: Domingo da 15ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week15.1.b:
+  title: Domingo da 15ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week15.1.c:
+  title: Domingo da 15ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week15.2.even:
+  title: Segunda-feira da 15ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week15.2.odd:
+  title: Segunda-feira da 15ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week15.3.even:
+  title: Terça-feira da 15ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week15.3.odd:
+  title: Terça-feira da 15ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week15.4.even:
+  title: Quarta-feira da 15ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week15.4.odd:
+  title: Quarta-feira da 15ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week15.5.even:
+  title: Quinta-feira da 15ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week15.5.odd:
+  title: Quinta-feira da 15ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week15.6.even:
+  title: Sexta-feira da 15ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week15.6.odd:
+  title: Sexta-feira da 15ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week15.7.even:
+  title: Sábado da 15ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week15.7.odd:
+  title: Sábado da 15ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week16.1.a:
+  title: Domingo da 16ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week16.1.b:
+  title: Domingo da 16ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week16.1.c:
+  title: Domingo da 16ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week16.2.even:
+  title: Segunda-feira da 16ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week16.2.odd:
+  title: Segunda-feira da 16ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week16.3.even:
+  title: Terça-feira da 16ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week16.3.odd:
+  title: Terça-feira da 16ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week16.4.even:
+  title: Quarta-feira da 16ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week16.4.odd:
+  title: Quarta-feira da 16ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week16.5.even:
+  title: Quinta-feira da 16ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week16.5.odd:
+  title: Quinta-feira da 16ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week16.6.even:
+  title: Sexta-feira da 16ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week16.6.odd:
+  title: Sexta-feira da 16ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week16.7.even:
+  title: Sábado da 16ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week16.7.odd:
+  title: Sábado da 16ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week17.1.a:
+  title: Domingo da 17ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week17.1.b:
+  title: Domingo da 17ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week17.1.c:
+  title: Domingo da 17ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week17.2.even:
+  title: Segunda-feira da 17ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week17.2.odd:
+  title: Segunda-feira da 17ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week17.3.even:
+  title: Terça-feira da 17ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week17.3.odd:
+  title: Terça-feira da 17ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week17.4.even:
+  title: Quarta-feira da 17ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week17.4.odd:
+  title: Quarta-feira da 17ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week17.5.even:
+  title: Quinta-feira da 17ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week17.5.odd:
+  title: Quinta-feira da 17ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week17.6.even:
+  title: Sexta-feira da 17ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week17.6.odd:
+  title: Sexta-feira da 17ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week17.7.even:
+  title: Sábado da 17ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week17.7.odd:
+  title: Sábado da 17ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week18.1.a:
+  title: Domingo da 18ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week18.1.b:
+  title: Domingo da 18ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week18.1.c:
+  title: Domingo da 18ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week18.2.even:
+  title: Segunda-feira da 18ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week18.2.odd:
+  title: Segunda-feira da 18ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week18.3.even:
+  title: Terça-feira da 18ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week18.3.odd:
+  title: Terça-feira da 18ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week18.4.even:
+  title: Quarta-feira da 18ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week18.4.odd:
+  title: Quarta-feira da 18ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week18.5.even:
+  title: Quinta-feira da 18ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week18.5.odd:
+  title: Quinta-feira da 18ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week18.6.even:
+  title: Sexta-feira da 18ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week18.6.odd:
+  title: Sexta-feira da 18ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week18.7.even:
+  title: Sábado da 18ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week18.7.odd:
+  title: Sábado da 18ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week19.1.a:
+  title: Domingo da 19ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week19.1.b:
+  title: Domingo da 19ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week19.1.c:
+  title: Domingo da 19ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week19.2.even:
+  title: Segunda-feira da 19ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week19.2.odd:
+  title: Segunda-feira da 19ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week19.3.even:
+  title: Terça-feira da 19ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week19.3.odd:
+  title: Terça-feira da 19ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week19.4.even:
+  title: Quarta-feira da 19ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week19.4.odd:
+  title: Quarta-feira da 19ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week19.5.even:
+  title: Quinta-feira da 19ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week19.5.odd:
+  title: Quinta-feira da 19ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week19.6.even:
+  title: Sexta-feira da 19ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week19.6.odd:
+  title: Sexta-feira da 19ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week19.7.even:
+  title: Sábado da 19ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week19.7.odd:
+  title: Sábado da 19ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week20.1.a:
+  title: Domingo da 20ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week20.1.b:
+  title: Domingo da 20ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week20.1.c:
+  title: Domingo da 20ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week20.2.even:
+  title: Segunda-feira da 20ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week20.2.odd:
+  title: Segunda-feira da 20ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week20.3.even:
+  title: Terça-feira da 20ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week20.3.odd:
+  title: Terça-feira da 20ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week20.4.even:
+  title: Quarta-feira da 20ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week20.4.odd:
+  title: Quarta-feira da 20ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week20.5.even:
+  title: Quinta-feira da 20ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week20.5.odd:
+  title: Quinta-feira da 20ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week20.6.even:
+  title: Sexta-feira da 20ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week20.6.odd:
+  title: Sexta-feira da 20ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week20.7.even:
+  title: Sábado da 20ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week20.7.odd:
+  title: Sábado da 20ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week21.1.a:
+  title: Domingo da 21ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week21.1.b:
+  title: Domingo da 21ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week21.1.c:
+  title: Domingo da 21ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week21.2.even:
+  title: Segunda-feira da 21ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week21.2.odd:
+  title: Segunda-feira da 21ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week21.3.even:
+  title: Terça-feira da 21ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week21.3.odd:
+  title: Terça-feira da 21ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week21.4.even:
+  title: Quarta-feira da 21ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week21.4.odd:
+  title: Quarta-feira da 21ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week21.5.even:
+  title: Quinta-feira da 21ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week21.5.odd:
+  title: Quinta-feira da 21ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week21.6.even:
+  title: Sexta-feira da 21ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week21.6.odd:
+  title: Sexta-feira da 21ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week21.7.even:
+  title: Sábado da 21ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week21.7.odd:
+  title: Sábado da 21ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week22.1.a:
+  title: Domingo da 22ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week22.1.b:
+  title: Domingo da 22ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week22.1.c:
+  title: Domingo da 22ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week22.2.even:
+  title: Segunda-feira da 22ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week22.2.odd:
+  title: Segunda-feira da 22ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week22.3.even:
+  title: Terça-feira da 22ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week22.3.odd:
+  title: Terça-feira da 22ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week22.4.even:
+  title: Quarta-feira da 22ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week22.4.odd:
+  title: Quarta-feira da 22ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week22.5.even:
+  title: Quinta-feira da 22ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week22.5.odd:
+  title: Quinta-feira da 22ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week22.6.even:
+  title: Sexta-feira da 22ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week22.6.odd:
+  title: Sexta-feira da 22ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week22.7.even:
+  title: Sábado da 22ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week22.7.odd:
+  title: Sábado da 22ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week23.1.a:
+  title: Domingo da 23ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week23.1.b:
+  title: Domingo da 23ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week23.1.c:
+  title: Domingo da 23ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week23.2.even:
+  title: Segunda-feira da 23ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week23.2.odd:
+  title: Segunda-feira da 23ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week23.3.even:
+  title: Terça-feira da 23ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week23.3.odd:
+  title: Terça-feira da 23ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week23.4.even:
+  title: Quarta-feira da 23ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week23.4.odd:
+  title: Quarta-feira da 23ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week23.5.even:
+  title: Quinta-feira da 23ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week23.5.odd:
+  title: Quinta-feira da 23ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week23.6.even:
+  title: Sexta-feira da 23ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week23.6.odd:
+  title: Sexta-feira da 23ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week23.7.even:
+  title: Sábado da 23ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week23.7.odd:
+  title: Sábado da 23ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week24.1.a:
+  title: Domingo da 24ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week24.1.b:
+  title: Domingo da 24ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week24.1.c:
+  title: Domingo da 24ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week24.2.even:
+  title: Segunda-feira da 24ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week24.2.odd:
+  title: Segunda-feira da 24ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week24.3.even:
+  title: Terça-feira da 24ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week24.3.odd:
+  title: Terça-feira da 24ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week24.4.even:
+  title: Quarta-feira da 24ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week24.4.odd:
+  title: Quarta-feira da 24ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week24.5.even:
+  title: Quinta-feira da 24ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week24.5.odd:
+  title: Quinta-feira da 24ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week24.6.even:
+  title: Sexta-feira da 24ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week24.6.odd:
+  title: Sexta-feira da 24ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week24.7.even:
+  title: Sábado da 24ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week24.7.odd:
+  title: Sábado da 24ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week25.1.a:
+  title: Domingo da 25ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week25.1.b:
+  title: Domingo da 25ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week25.1.c:
+  title: Domingo da 25ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week25.2.even:
+  title: Segunda-feira da 25ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week25.2.odd:
+  title: Segunda-feira da 25ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week25.3.even:
+  title: Terça-feira da 25ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week25.3.odd:
+  title: Terça-feira da 25ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week25.4.even:
+  title: Quarta-feira da 25ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week25.4.odd:
+  title: Quarta-feira da 25ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week25.5.even:
+  title: Quinta-feira da 25ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week25.5.odd:
+  title: Quinta-feira da 25ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week25.6.even:
+  title: Sexta-feira da 25ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week25.6.odd:
+  title: Sexta-feira da 25ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week25.7.even:
+  title: Sábado da 25ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week25.7.odd:
+  title: Sábado da 25ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week26.1.a:
+  title: Domingo da 26ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week26.1.b:
+  title: Domingo da 26ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week26.1.c:
+  title: Domingo da 26ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week26.2.even:
+  title: Segunda-feira da 26ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week26.2.odd:
+  title: Segunda-feira da 26ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week26.3.even:
+  title: Terça-feira da 26ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week26.3.odd:
+  title: Terça-feira da 26ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week26.4.even:
+  title: Quarta-feira da 26ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week26.4.odd:
+  title: Quarta-feira da 26ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week26.5.even:
+  title: Quinta-feira da 26ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week26.5.odd:
+  title: Quinta-feira da 26ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week26.6.even:
+  title: Sexta-feira da 26ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week26.6.odd:
+  title: Sexta-feira da 26ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week26.7.even:
+  title: Sábado da 26ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week26.7.odd:
+  title: Sábado da 26ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week27.1.a:
+  title: Domingo da 27ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week27.1.b:
+  title: Domingo da 27ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week27.1.c:
+  title: Domingo da 27ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week27.2.even:
+  title: Segunda-feira da 27ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week27.2.odd:
+  title: Segunda-feira da 27ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week27.3.even:
+  title: Terça-feira da 27ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week27.3.odd:
+  title: Terça-feira da 27ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week27.4.even:
+  title: Quarta-feira da 27ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week27.4.odd:
+  title: Quarta-feira da 27ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week27.5.even:
+  title: Quinta-feira da 27ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week27.5.odd:
+  title: Quinta-feira da 27ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week27.6.even:
+  title: Sexta-feira da 27ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week27.6.odd:
+  title: Sexta-feira da 27ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week27.7.even:
+  title: Sábado da 27ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week27.7.odd:
+  title: Sábado da 27ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week28.1.a:
+  title: Domingo da 28ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week28.1.b:
+  title: Domingo da 28ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week28.1.c:
+  title: Domingo da 28ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week28.2.even:
+  title: Segunda-feira da 28ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week28.2.odd:
+  title: Segunda-feira da 28ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week28.3.even:
+  title: Terça-feira da 28ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week28.3.odd:
+  title: Terça-feira da 28ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week28.4.even:
+  title: Quarta-feira da 28ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week28.4.odd:
+  title: Quarta-feira da 28ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week28.5.even:
+  title: Quinta-feira da 28ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week28.5.odd:
+  title: Quinta-feira da 28ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week28.6.even:
+  title: Sexta-feira da 28ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week28.6.odd:
+  title: Sexta-feira da 28ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week28.7.even:
+  title: Sábado da 28ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week28.7.odd:
+  title: Sábado da 28ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week29.1.a:
+  title: Domingo da 29ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week29.1.b:
+  title: Domingo da 29ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week29.1.c:
+  title: Domingo da 29ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week29.2.even:
+  title: Segunda-feira da 29ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week29.2.odd:
+  title: Segunda-feira da 29ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week29.3.even:
+  title: Terça-feira da 29ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week29.3.odd:
+  title: Terça-feira da 29ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week29.4.even:
+  title: Quarta-feira da 29ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week29.4.odd:
+  title: Quarta-feira da 29ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week29.5.even:
+  title: Quinta-feira da 29ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week29.5.odd:
+  title: Quinta-feira da 29ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week29.6.even:
+  title: Sexta-feira da 29ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week29.6.odd:
+  title: Sexta-feira da 29ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week29.7.even:
+  title: Sábado da 29ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week29.7.odd:
+  title: Sábado da 29ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week30.1.a:
+  title: Domingo da 30ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week30.1.b:
+  title: Domingo da 30ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week30.1.c:
+  title: Domingo da 30ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week30.2.even:
+  title: Segunda-feira da 30ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week30.2.odd:
+  title: Segunda-feira da 30ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week30.3.even:
+  title: Terça-feira da 30ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week30.3.odd:
+  title: Terça-feira da 30ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week30.4.even:
+  title: Quarta-feira da 30ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week30.4.odd:
+  title: Quarta-feira da 30ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week30.5.even:
+  title: Quinta-feira da 30ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week30.5.odd:
+  title: Quinta-feira da 30ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week30.6.even:
+  title: Sexta-feira da 30ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week30.6.odd:
+  title: Sexta-feira da 30ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week30.7.even:
+  title: Sábado da 30ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week30.7.odd:
+  title: Sábado da 30ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week31.1.a:
+  title: Domingo da 31ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week31.1.b:
+  title: Domingo da 31ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week31.1.c:
+  title: Domingo da 31ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week31.2.even:
+  title: Segunda-feira da 31ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week31.2.odd:
+  title: Segunda-feira da 31ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week31.3.even:
+  title: Terça-feira da 31ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week31.3.odd:
+  title: Terça-feira da 31ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week31.4.even:
+  title: Quarta-feira da 31ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week31.4.odd:
+  title: Quarta-feira da 31ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week31.5.even:
+  title: Quinta-feira da 31ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week31.5.odd:
+  title: Quinta-feira da 31ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week31.6.even:
+  title: Sexta-feira da 31ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week31.6.odd:
+  title: Sexta-feira da 31ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week31.7.even:
+  title: Sábado da 31ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week31.7.odd:
+  title: Sábado da 31ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week32.1.a:
+  title: Domingo da 32ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week32.1.b:
+  title: Domingo da 32ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week32.1.c:
+  title: Domingo da 32ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week32.2.even:
+  title: Segunda-feira da 32ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week32.2.odd:
+  title: Segunda-feira da 32ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week32.3.even:
+  title: Terça-feira da 32ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week32.3.odd:
+  title: Terça-feira da 32ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week32.4.even:
+  title: Quarta-feira da 32ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week32.4.odd:
+  title: Quarta-feira da 32ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week32.5.even:
+  title: Quinta-feira da 32ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week32.5.odd:
+  title: Quinta-feira da 32ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week32.6.even:
+  title: Sexta-feira da 32ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week32.6.odd:
+  title: Sexta-feira da 32ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week32.7.even:
+  title: Sábado da 32ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week32.7.odd:
+  title: Sábado da 32ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week33.1.a:
+  title: Domingo da 33ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week33.1.b:
+  title: Domingo da 33ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week33.1.c:
+  title: Domingo da 33ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week33.2.even:
+  title: Segunda-feira da 33ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week33.2.odd:
+  title: Segunda-feira da 33ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week33.3.even:
+  title: Terça-feira da 33ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week33.3.odd:
+  title: Terça-feira da 33ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week33.4.even:
+  title: Quarta-feira da 33ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week33.4.odd:
+  title: Quarta-feira da 33ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week33.5.even:
+  title: Quinta-feira da 33ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week33.5.odd:
+  title: Quinta-feira da 33ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week33.6.even:
+  title: Sexta-feira da 33ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week33.6.odd:
+  title: Sexta-feira da 33ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week33.7.even:
+  title: Sábado da 33ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week33.7.odd:
+  title: Sábado da 33ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week34.1.a:
+  title: Domingo da 34ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week34.1.b:
+  title: Domingo da 34ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week34.1.c:
+  title: Domingo da 34ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week34.2.even:
+  title: Segunda-feira da 34ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week34.2.odd:
+  title: Segunda-feira da 34ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week34.3.even:
+  title: Terça-feira da 34ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week34.3.odd:
+  title: Terça-feira da 34ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week34.4.even:
+  title: Quarta-feira da 34ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week34.4.odd:
+  title: Quarta-feira da 34ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week34.5.even:
+  title: Quinta-feira da 34ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week34.5.odd:
+  title: Quinta-feira da 34ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week34.6.even:
+  title: Sexta-feira da 34ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week34.6.odd:
+  title: Sexta-feira da 34ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week34.7.odd:
+  title: Sábado da 34ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week34.7.even:
+  title: Sábado da 34ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
