@@ -4,8 +4,9 @@
   "description": "All Mass readings on JSON format",
   "main": "index.js",
   "scripts": {
+    "json:gen": "js-yaml data/pt_BR.yaml > data/pt_BR.json",
     "schema:gen": "typescript-json-schema types/Lectionary.ts Lectionary -o schema/Lectionary.json && ajv compile -s schema/Lectionary.json",
-    "schema:validate": "js-yaml data/pt_BR.yaml > data/temp.json; ajv validate -s schema/Lectionary.json -d data/temp.json; rm data/temp.json",
+    "schema:validate": "ajv validate -s schema/Lectionary.json -d data/pt_BR.json",
     "status": "npm run status:s",
     "status:s": "node --experimental-json-modules cli/index.mjs -s",
     "status:d": "node --experimental-json-modules cli/index.mjs -d",
