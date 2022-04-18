@@ -8,6 +8,7 @@ export enum Color {
 
 export enum ReadingType {
   reading = 'reading',
+  epistle = 'epistle',
   psalm = 'psalm',
   gospel = 'gospel',
 }

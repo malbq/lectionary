@@ -59,6 +59,7 @@
         },
         "ReadingType": {
             "enum": [
+                "epistle",
                 "gospel",
                 "psalm",
                 "reading"
