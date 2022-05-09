@@ -558,6 +558,9 @@ christmas.week2.1:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -570,6 +573,9 @@ advent.week1.1.a:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -586,6 +592,9 @@ advent.week1.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -598,6 +607,9 @@ advent.week1.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -698,6 +710,9 @@ advent.week2.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -712,6 +727,9 @@ advent.week2.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -724,6 +742,9 @@ advent.week2.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -824,6 +845,9 @@ advent.week3.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -838,6 +862,9 @@ advent.week3.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -850,6 +877,9 @@ advent.week3.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -992,6 +1022,9 @@ lent.week1.1:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -1088,6 +1121,9 @@ lent.week2.1:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -1188,6 +1224,9 @@ lent.week3.1:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -1284,6 +1323,9 @@ lent.week4.1:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -1384,6 +1426,9 @@ lent.week5.1:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -1480,6 +1525,9 @@ lent.week6.1:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -1585,13 +1633,16 @@ easter.week0.7:
       text: ''
 easter.week1.1.a:
   title: Domingo da 1ª Semana
-  subtitle: Oitava de Páscoas
+  subtitle: Oitava de Páscoa
   color: white
   readings:
     - type: reading
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -1599,13 +1650,16 @@ easter.week1.1.a:
       text: ''
 easter.week1.1.b:
   title: Domingo da 1ª Semana
-  subtitle: Oitava de Páscoas
+  subtitle: Oitava de Páscoa
   color: white
   readings:
     - type: reading
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -1613,7 +1667,7 @@ easter.week1.1.b:
       text: ''
 easter.week1.1.c:
   title: Domingo da 1ª Semana
-  subtitle: Oitava de Páscoas
+  subtitle: Oitava de Páscoa
   color: white
   readings:
     - type: reading
@@ -1622,12 +1676,15 @@ easter.week1.1.c:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
 easter.week1.2:
   title: Segunda-feira da 1ª Semana
-  subtitle: Oitava de Páscoas
+  subtitle: Oitava de Páscoa
   color: white
   readings:
     - type: reading
@@ -1641,7 +1698,7 @@ easter.week1.2:
       text: ''
 easter.week1.3:
   title: Terça-feira da 1ª Semana
-  subtitle: Oitava de Páscoas
+  subtitle: Oitava de Páscoa
   color: white
   readings:
     - type: reading
@@ -1655,7 +1712,7 @@ easter.week1.3:
       text: ''
 easter.week1.4:
   title: Quarta-feira da 1ª Semana
-  subtitle: Oitava de Páscoas
+  subtitle: Oitava de Páscoa
   color: white
   readings:
     - type: reading
@@ -1669,7 +1726,7 @@ easter.week1.4:
       text: ''
 easter.week1.5:
   title: Quinta-feira da 1ª Semana
-  subtitle: Oitava de Páscoas
+  subtitle: Oitava de Páscoa
   color: white
   readings:
     - type: reading
@@ -1683,7 +1740,7 @@ easter.week1.5:
       text: ''
 easter.week1.6:
   title: Sexta-feira da 1ª Semana
-  subtitle: Oitava de Páscoas
+  subtitle: Oitava de Páscoa
   color: white
   readings:
     - type: reading
@@ -1720,6 +1777,9 @@ easter.week2.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -1734,6 +1794,9 @@ easter.week2.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -1746,6 +1809,9 @@ easter.week2.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -1846,6 +1912,9 @@ easter.week3.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -1860,6 +1929,9 @@ easter.week3.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -1872,6 +1944,9 @@ easter.week3.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -1972,6 +2047,9 @@ easter.week4.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -1986,6 +2064,9 @@ easter.week4.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -1998,6 +2079,9 @@ easter.week4.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -2098,6 +2182,9 @@ easter.week5.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -2112,6 +2199,9 @@ easter.week5.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -2124,6 +2214,9 @@ easter.week5.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -2224,6 +2317,9 @@ easter.week6.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -2238,6 +2334,9 @@ easter.week6.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -2250,6 +2349,9 @@ easter.week6.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -2350,6 +2452,9 @@ easter.week7.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -2364,6 +2469,9 @@ easter.week7.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -2376,6 +2484,9 @@ easter.week7.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -2488,6 +2599,9 @@ easter.week8.1:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -2672,6 +2786,9 @@ ordinary.week2.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -2686,6 +2803,9 @@ ordinary.week2.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -2698,6 +2818,9 @@ ordinary.week2.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -2882,6 +3005,9 @@ ordinary.week3.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -2896,6 +3022,9 @@ ordinary.week3.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -2908,6 +3037,9 @@ ordinary.week3.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -3092,6 +3224,9 @@ ordinary.week4.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -3106,6 +3241,9 @@ ordinary.week4.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -3118,6 +3256,9 @@ ordinary.week4.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -3302,6 +3443,9 @@ ordinary.week5.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -3316,6 +3460,9 @@ ordinary.week5.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -3328,6 +3475,9 @@ ordinary.week5.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -3512,6 +3662,9 @@ ordinary.week6.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -3526,6 +3679,9 @@ ordinary.week6.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -3538,6 +3694,9 @@ ordinary.week6.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -3722,6 +3881,9 @@ ordinary.week7.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -3736,6 +3898,9 @@ ordinary.week7.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -3748,6 +3913,9 @@ ordinary.week7.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -3804,6 +3972,169 @@ ordinary.week7.3.odd:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week7.4.even:
+  title: Quarta-feira da 7ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week7.4.odd:
+  title: Quarta-feira da 7ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week7.5.even:
+  title: Quinta-feira da 7ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week7.5.odd:
+  title: Quinta-feira da 7ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week7.6.even:
+  title: Sexta-feira da 7ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week7.6.odd:
+  title: Sexta-feira da 7ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week7.7.even:
+  title: Sábado-feira da 7ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week7.7.odd:
+  title: Sábado-feira da 7ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week8.1.a:
+  title: Domingo da 8ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week8.1.b:
+  title: Domingo da 8ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+ordinary.week8.1.c:
+  title: Domingo da 8ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -3988,6 +4319,9 @@ ordinary.week9.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -4002,6 +4336,9 @@ ordinary.week9.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -4014,6 +4351,9 @@ ordinary.week9.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -4198,6 +4538,9 @@ ordinary.week10.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -4212,6 +4555,9 @@ ordinary.week10.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -4224,6 +4570,9 @@ ordinary.week10.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -4408,6 +4757,9 @@ ordinary.week11.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -4422,6 +4774,9 @@ ordinary.week11.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -4434,6 +4789,9 @@ ordinary.week11.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -4618,6 +4976,9 @@ ordinary.week12.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -4632,6 +4993,9 @@ ordinary.week12.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -4644,6 +5008,9 @@ ordinary.week12.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -4828,6 +5195,9 @@ ordinary.week13.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -4842,6 +5212,9 @@ ordinary.week13.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -4854,6 +5227,9 @@ ordinary.week13.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -5038,6 +5414,9 @@ ordinary.week14.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -5052,6 +5431,9 @@ ordinary.week14.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -5064,6 +5446,9 @@ ordinary.week14.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -5248,6 +5633,9 @@ ordinary.week15.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -5262,6 +5650,9 @@ ordinary.week15.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -5274,6 +5665,9 @@ ordinary.week15.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -5458,6 +5852,9 @@ ordinary.week16.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -5472,6 +5869,9 @@ ordinary.week16.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -5484,6 +5884,9 @@ ordinary.week16.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -5668,6 +6071,9 @@ ordinary.week17.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -5682,6 +6088,9 @@ ordinary.week17.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -5694,6 +6103,9 @@ ordinary.week17.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -5878,6 +6290,9 @@ ordinary.week18.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -5892,6 +6307,9 @@ ordinary.week18.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -5904,6 +6322,9 @@ ordinary.week18.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -6088,6 +6509,9 @@ ordinary.week19.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -6102,6 +6526,9 @@ ordinary.week19.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -6114,6 +6541,9 @@ ordinary.week19.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -6298,6 +6728,9 @@ ordinary.week20.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -6312,6 +6745,9 @@ ordinary.week20.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -6324,6 +6760,9 @@ ordinary.week20.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -6508,6 +6947,9 @@ ordinary.week21.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -6522,6 +6964,9 @@ ordinary.week21.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -6534,6 +6979,9 @@ ordinary.week21.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -6718,6 +7166,9 @@ ordinary.week22.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -6732,6 +7183,9 @@ ordinary.week22.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -6744,6 +7198,9 @@ ordinary.week22.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -6928,6 +7385,9 @@ ordinary.week23.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -6942,6 +7402,9 @@ ordinary.week23.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -6954,6 +7417,9 @@ ordinary.week23.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -7138,6 +7604,9 @@ ordinary.week24.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -7152,6 +7621,9 @@ ordinary.week24.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -7164,6 +7636,9 @@ ordinary.week24.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -7348,6 +7823,9 @@ ordinary.week25.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -7362,6 +7840,9 @@ ordinary.week25.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -7374,6 +7855,9 @@ ordinary.week25.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -7558,6 +8042,9 @@ ordinary.week26.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -7572,6 +8059,9 @@ ordinary.week26.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -7584,6 +8074,9 @@ ordinary.week26.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -7768,6 +8261,9 @@ ordinary.week27.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -7782,6 +8278,9 @@ ordinary.week27.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -7794,6 +8293,9 @@ ordinary.week27.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -7978,6 +8480,9 @@ ordinary.week28.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -7992,6 +8497,9 @@ ordinary.week28.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -8004,6 +8512,9 @@ ordinary.week28.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -8188,6 +8699,9 @@ ordinary.week29.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -8202,6 +8716,9 @@ ordinary.week29.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -8214,6 +8731,9 @@ ordinary.week29.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -8398,6 +8918,9 @@ ordinary.week30.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -8412,6 +8935,9 @@ ordinary.week30.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -8424,6 +8950,9 @@ ordinary.week30.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -8608,6 +9137,9 @@ ordinary.week31.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -8622,6 +9154,9 @@ ordinary.week31.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -8634,6 +9169,9 @@ ordinary.week31.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -8818,6 +9356,9 @@ ordinary.week32.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -8832,6 +9373,9 @@ ordinary.week32.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -8844,6 +9388,9 @@ ordinary.week32.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -9028,6 +9575,9 @@ ordinary.week33.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -9042,6 +9592,9 @@ ordinary.week33.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -9054,6 +9607,9 @@ ordinary.week33.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel
@@ -9238,6 +9794,9 @@ ordinary.week34.1.a:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -9252,6 +9811,9 @@ ordinary.week34.1.b:
     - type: psalm
       ref: ''
       text: ''
+    - type: reading
+      ref: ''
+      text: ''
     - type: gospel
       ref: ''
       text: ''
@@ -9264,6 +9826,9 @@ ordinary.week34.1.c:
       ref: ''
       text: ''
     - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
       ref: ''
       text: ''
     - type: gospel

@@ -13,12 +13,12 @@ export enum ReadingType {
   gospel = 'gospel',
 }
 
-type ReadingOption = {
+export type ReadingOption = {
   short: string
   long: string
 }
 
-type Reading = {
+export type Reading = {
   type: ReadingType
   ref: string
   text: string | ReadingOption

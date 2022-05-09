@@ -878,6 +878,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -896,6 +901,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -922,6 +932,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -940,6 +955,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -1098,6 +1118,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -1120,6 +1145,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -1138,6 +1168,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -1296,6 +1331,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -1318,6 +1358,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -1336,6 +1381,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -1560,6 +1610,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -1710,6 +1765,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -1868,6 +1928,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -2018,6 +2083,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -2176,6 +2246,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -2326,6 +2401,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -2492,7 +2572,7 @@
   },
   "easter.week1.1.a": {
     "title": "Domingo da 1ª Semana",
-    "subtitle": "Oitava de Páscoas",
+    "subtitle": "Oitava de Páscoa",
     "color": "white",
     "readings": [
       {
@@ -2502,6 +2582,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -2514,7 +2599,7 @@
   },
   "easter.week1.1.b": {
     "title": "Domingo da 1ª Semana",
-    "subtitle": "Oitava de Páscoas",
+    "subtitle": "Oitava de Páscoa",
     "color": "white",
     "readings": [
       {
@@ -2524,6 +2609,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -2536,7 +2626,7 @@
   },
   "easter.week1.1.c": {
     "title": "Domingo da 1ª Semana",
-    "subtitle": "Oitava de Páscoas",
+    "subtitle": "Oitava de Páscoa",
     "color": "white",
     "readings": [
       {
@@ -2550,6 +2640,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -2558,7 +2653,7 @@
   },
   "easter.week1.2": {
     "title": "Segunda-feira da 1ª Semana",
-    "subtitle": "Oitava de Páscoas",
+    "subtitle": "Oitava de Páscoa",
     "color": "white",
     "readings": [
       {
@@ -2580,7 +2675,7 @@
   },
   "easter.week1.3": {
     "title": "Terça-feira da 1ª Semana",
-    "subtitle": "Oitava de Páscoas",
+    "subtitle": "Oitava de Páscoa",
     "color": "white",
     "readings": [
       {
@@ -2602,7 +2697,7 @@
   },
   "easter.week1.4": {
     "title": "Quarta-feira da 1ª Semana",
-    "subtitle": "Oitava de Páscoas",
+    "subtitle": "Oitava de Páscoa",
     "color": "white",
     "readings": [
       {
@@ -2624,7 +2719,7 @@
   },
   "easter.week1.5": {
     "title": "Quinta-feira da 1ª Semana",
-    "subtitle": "Oitava de Páscoas",
+    "subtitle": "Oitava de Páscoa",
     "color": "white",
     "readings": [
       {
@@ -2646,7 +2741,7 @@
   },
   "easter.week1.6": {
     "title": "Sexta-feira da 1ª Semana",
-    "subtitle": "Oitava de Páscoas",
+    "subtitle": "Oitava de Páscoa",
     "color": "white",
     "readings": [
       {
@@ -2704,6 +2799,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -2726,6 +2826,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -2744,6 +2849,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -2902,6 +3012,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -2924,6 +3039,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -2942,6 +3062,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -3100,6 +3225,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -3122,6 +3252,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -3140,6 +3275,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -3298,6 +3438,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -3320,6 +3465,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -3338,6 +3488,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -3496,6 +3651,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -3518,6 +3678,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -3536,6 +3701,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -3694,6 +3864,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -3716,6 +3891,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -3734,6 +3914,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -3910,6 +4095,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -4200,6 +4390,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -4222,6 +4417,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -4240,6 +4440,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -4530,6 +4735,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -4552,6 +4762,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -4570,6 +4785,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -4860,6 +5080,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -4882,6 +5107,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -4900,6 +5130,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -5190,6 +5425,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -5212,6 +5452,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -5230,6 +5475,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -5520,6 +5770,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -5542,6 +5797,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -5560,6 +5820,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -5850,6 +6115,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -5872,6 +6142,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -5890,6 +6165,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -5978,6 +6258,263 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "gospel",
+        "ref": "",
+        "text": ""
+      }
+    ]
+  },
+  "ordinary.week7.4.even": {
+    "title": "Quarta-feira da 7ª Semana",
+    "subtitle": "Tempo Comum",
+    "color": "green",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "gospel",
+        "ref": "",
+        "text": ""
+      }
+    ]
+  },
+  "ordinary.week7.4.odd": {
+    "title": "Quarta-feira da 7ª Semana",
+    "subtitle": "Tempo Comum",
+    "color": "green",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "gospel",
+        "ref": "",
+        "text": ""
+      }
+    ]
+  },
+  "ordinary.week7.5.even": {
+    "title": "Quinta-feira da 7ª Semana",
+    "subtitle": "Tempo Comum",
+    "color": "green",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "gospel",
+        "ref": "",
+        "text": ""
+      }
+    ]
+  },
+  "ordinary.week7.5.odd": {
+    "title": "Quinta-feira da 7ª Semana",
+    "subtitle": "Tempo Comum",
+    "color": "green",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "gospel",
+        "ref": "",
+        "text": ""
+      }
+    ]
+  },
+  "ordinary.week7.6.even": {
+    "title": "Sexta-feira da 7ª Semana",
+    "subtitle": "Tempo Comum",
+    "color": "green",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "gospel",
+        "ref": "",
+        "text": ""
+      }
+    ]
+  },
+  "ordinary.week7.6.odd": {
+    "title": "Sexta-feira da 7ª Semana",
+    "subtitle": "Tempo Comum",
+    "color": "green",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "gospel",
+        "ref": "",
+        "text": ""
+      }
+    ]
+  },
+  "ordinary.week7.7.even": {
+    "title": "Sábado-feira da 7ª Semana",
+    "subtitle": "Tempo Comum",
+    "color": "green",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "gospel",
+        "ref": "",
+        "text": ""
+      }
+    ]
+  },
+  "ordinary.week7.7.odd": {
+    "title": "Sábado-feira da 7ª Semana",
+    "subtitle": "Tempo Comum",
+    "color": "green",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "gospel",
+        "ref": "",
+        "text": ""
+      }
+    ]
+  },
+  "ordinary.week8.1.a": {
+    "title": "Domingo da 8ª Semana",
+    "subtitle": "Tempo Comum",
+    "color": "green",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "gospel",
+        "ref": "",
+        "text": ""
+      }
+    ]
+  },
+  "ordinary.week8.1.b": {
+    "title": "Domingo da 8ª Semana",
+    "subtitle": "Tempo Comum",
+    "color": "green",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "gospel",
+        "ref": "",
+        "text": ""
+      }
+    ]
+  },
+  "ordinary.week8.1.c": {
+    "title": "Domingo da 8ª Semana",
+    "subtitle": "Tempo Comum",
+    "color": "green",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -6268,6 +6805,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -6290,6 +6832,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -6308,6 +6855,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -6598,6 +7150,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -6620,6 +7177,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -6638,6 +7200,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -6928,6 +7495,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -6950,6 +7522,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -6968,6 +7545,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -7258,6 +7840,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -7280,6 +7867,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -7298,6 +7890,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -7588,6 +8185,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -7610,6 +8212,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -7628,6 +8235,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -7918,6 +8530,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -7940,6 +8557,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -7958,6 +8580,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -8248,6 +8875,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -8270,6 +8902,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -8288,6 +8925,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -8578,6 +9220,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -8600,6 +9247,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -8618,6 +9270,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -8908,6 +9565,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -8930,6 +9592,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -8948,6 +9615,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -9238,6 +9910,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -9260,6 +9937,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -9278,6 +9960,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -9568,6 +10255,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -9590,6 +10282,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -9608,6 +10305,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -9898,6 +10600,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -9920,6 +10627,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -9938,6 +10650,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -10228,6 +10945,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -10250,6 +10972,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -10268,6 +10995,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -10558,6 +11290,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -10580,6 +11317,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -10598,6 +11340,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -10888,6 +11635,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -10910,6 +11662,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -10928,6 +11685,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -11218,6 +11980,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -11240,6 +12007,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -11258,6 +12030,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -11548,6 +12325,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -11570,6 +12352,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -11588,6 +12375,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -11878,6 +12670,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -11900,6 +12697,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -11918,6 +12720,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -12208,6 +13015,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -12230,6 +13042,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -12248,6 +13065,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -12538,6 +13360,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -12560,6 +13387,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -12578,6 +13410,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -12868,6 +13705,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -12890,6 +13732,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -12908,6 +13755,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -13198,6 +14050,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -13220,6 +14077,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -13238,6 +14100,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -13528,6 +14395,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -13550,6 +14422,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -13568,6 +14445,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -13858,6 +14740,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -13880,6 +14767,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -13898,6 +14790,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -14188,6 +15085,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -14210,6 +15112,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -14228,6 +15135,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
@@ -14518,6 +15430,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -14540,6 +15457,11 @@
         "text": ""
       },
       {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
         "type": "gospel",
         "ref": "",
         "text": ""
@@ -14558,6 +15480,11 @@
       },
       {
         "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "reading",
         "ref": "",
         "text": ""
       },
