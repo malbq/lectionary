@@ -2442,7 +2442,7 @@ easter.week6.7:
       ref: ''
       text: ''
 easter.week7.1.a:
-  title: Domingo da 7ª Semana
+  title: Ascensão do Senhor
   subtitle: Tempo da Páscoa
   color: white
   readings:
@@ -2459,7 +2459,7 @@ easter.week7.1.a:
       ref: ''
       text: ''
 easter.week7.1.b:
-  title: Domingo da 7ª Semana
+  title: Ascensão do Senhor
   subtitle: Tempo da Páscoa
   color: white
   readings:
@@ -2476,22 +2476,70 @@ easter.week7.1.b:
       ref: ''
       text: ''
 easter.week7.1.c:
-  title: Domingo da 7ª Semana
+  title: Ascensão do Senhor
   subtitle: Tempo da Páscoa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 'At 1, 1-11'
+      text: |
+        Leitura dos Atos dos Apóstolos
+        No meu primeiro livro, ó Teófilo, já tratei de tudo o que Jesus fez e ensinou, desde o começo,
+        até ao dia em que foi levado para o céu, depois de ter dado instruções pelo Espírito Santo, aos apóstolos que tinha escolhido.
+        Foi a eles que Jesus se mostrou vivo depois da sua paixão, com numerosas provas. Durante quarenta dias, apareceu-lhes falando do Reino de Deus.
+        Durante uma refeição, deu-lhes esta ordem: 'Não vos afasteis de Jerusalém, mas esperai a realização da promessa do Pai, da qual vós me ouvistes falar:
+        'João batizou com água; vós, porém, sereis batizados com o Espírito Santo, dentro de poucos dias`.'
+        Então os que estavam reunidos perguntaram a Jesus: 'Senhor, é agora que vais restaurar o Reino em Israel?'
+        Jesus respondeu: 'Não vos cabe saber os tempos e os momentos que o Pai determinou com a sua própria autoridade.
+        Mas recebereis o poder do Espírito Santo que descerá sobre vós, para serdes minhas testemunhas em Jerusalém, em toda a Judéia e na Samaria, e até os confins da terra.'
+        9Depois de dizer isto, Jesus foi levado ao céu, à vista deles. Uma nuvem o encobriu, de forma que seus olhos não mais podiam vê-lo.
+        Os apóstolos continuavam olhando para o céu, enquanto Jesus subia. Apareceram então dois homens vestidos de branco,
+        que lhes disseram: 'Homens da Galiléia, por que ficais aqui, parados, olhando para o céu? Esse Jesus que vos foi levado para o céu, virá do mesmo modo como o vistes partir para o céu.'
     - type: psalm
-      ref: ''
-      text: ''
+      ref: 'Sl 46(47), 2-3.6-7.8-9 (R.6)'
+      text: |
+        R. Batei palmas, povos todos, o Senhor subiu ao toque da trombeta!
+        Ou: R.Aleluia, Aleluia, Aleluia
+        
+        Povos todos do universo, batei palmas,
+        gritai a Deus aclamações de alegria!
+        Porque sublime é o Senhor, o Deus Altíssimo,
+        o soberano que domina toda a terra. R.
+
+        Por entre aclamações Deus se elevou,
+        o Senhor subiu ao toque da trombeta.
+        Salmodiai ao nosso Deus ao som da harpa,
+        salmodiai ao som da harpa ao nosso Rei! R.
+
+        Porque Deus é o grande Rei de toda a terra,
+        ao som da harpa acompanhai os seus louvores!
+        Deus reina sobre todas as nações,
+        está sentado no seu trono glorioso. R.
     - type: reading
-      ref: ''
-      text: ''
+      ref: 'Ef 1, 17-23'
+      text: |
+        Leitura da Carta de São Paulo aos Efésios
+        Irmãos:
+        O Deus de nosso Senhor Jesus Cristo, o Pai a quem pertence a glória, vos dê um espírito de sabedoria que vo-lo revele e faça verdadeiramente conhecer.
+        Que ele abra o vosso coração à sua luz, para que saibais qual a esperança que o seu chamamento vos dá, qual a riqueza da glória que está na vossa herança com os santos,
+        e que imenso poder ele exerceu em favor de nós que cremos, de acordo com a sua ação e força onipotente.
+        Ele manifestou sua força em Cristo, quando o ressuscitou dos mortos e o fez sentar-se à sua direita nos céus,
+        bem acima de toda a autoridade, poder, potência, soberania ou qualquer título que se possa mencionar não somente neste mundo, mas ainda no mundo futuro.
+        Sim, ele pôs tudo sob os seus pés e fez dele, que está acima de tudo, a Cabeça da Igreja,
+        que é o seu corpo, a plenitude daquele que possui a plenitude universal.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: 'Lc 24, 46-53'
+      text: |
+        Conclusão do Evangelho de Jesus Cristo segundo Lucas
+        Naquele tempo, disse Jesus a seus discípulos:
+        'Assim está escrito: O Cristo sofrerá e ressuscitará dos mortos ao terceiro dia
+        e no seu nome, serão anunciados a conversão e o perdão dos pecados a todas as nações, começando por Jerusalém.
+        Vós sereis testemunhas de tudo isso.
+        Eu enviarei sobre vós aquele que meu Pai prometeu. Por isso, permanecei na cidade, até que sejais revestidos da força do alto'.
+        Então Jesus levou-os para fora, até perto de Betânia. Ali ergueu as mãos e abençoou-os.
+        Enquanto os abençoava, afastou-se deles e foi levado para o céu.
+        Eles o adoraram. Em seguida voltaram para Jerusalém, com grande alegria.
+        E estavam sempre no Templo, bendizendo a Deus.
 easter.week7.2:
   title: Segunda-feira da 7ª Semana
   subtitle: Tempo da Páscoa
