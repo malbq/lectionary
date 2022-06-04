@@ -13,15 +13,30 @@ export enum ReadingType {
   gospel = 'gospel',
 }
 
-export type ReadingOption = {
-  short: string
-  long: string
-}
-
 export type Reading = {
   type: ReadingType
   ref: string
-  text: string | ReadingOption
+  text: string
+} | {
+  type: ReadingType
+  main: {
+    ref: string
+    text: string
+  }
+  optional: {
+    ref: string
+    text: string
+  }
+} | {
+  type: ReadingType
+  short: {
+    ref: string
+    text: string
+  }
+  long: {
+    ref: string
+    text: string
+  }
 }
 
 export type Liturgy = {

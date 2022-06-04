@@ -7,33 +7,82 @@
             },
             "readings": {
                 "items": {
-                    "properties": {
-                        "ref": {
-                            "type": "string"
+                    "anyOf": [
+                        {
+                            "properties": {
+                                "ref": {
+                                    "type": "string"
+                                },
+                                "text": {
+                                    "type": "string"
+                                },
+                                "type": {
+                                    "$ref": "#/definitions/ReadingType"
+                                }
+                            },
+                            "type": "object"
                         },
-                        "text": {
-                            "anyOf": [
-                                {
+                        {
+                            "properties": {
+                                "main": {
                                     "properties": {
-                                        "long": {
+                                        "ref": {
                                             "type": "string"
                                         },
-                                        "short": {
+                                        "text": {
                                             "type": "string"
                                         }
                                     },
                                     "type": "object"
                                 },
-                                {
-                                    "type": "string"
+                                "optional": {
+                                    "properties": {
+                                        "ref": {
+                                            "type": "string"
+                                        },
+                                        "text": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "type": "object"
+                                },
+                                "type": {
+                                    "$ref": "#/definitions/ReadingType"
                                 }
-                            ]
+                            },
+                            "type": "object"
                         },
-                        "type": {
-                            "$ref": "#/definitions/ReadingType"
+                        {
+                            "properties": {
+                                "long": {
+                                    "properties": {
+                                        "ref": {
+                                            "type": "string"
+                                        },
+                                        "text": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "type": "object"
+                                },
+                                "short": {
+                                    "properties": {
+                                        "ref": {
+                                            "type": "string"
+                                        },
+                                        "text": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "type": "object"
+                                },
+                                "type": {
+                                    "$ref": "#/definitions/ReadingType"
+                                }
+                            },
+                            "type": "object"
                         }
-                    },
-                    "type": "object"
+                    ]
                 },
                 "type": "array"
             },

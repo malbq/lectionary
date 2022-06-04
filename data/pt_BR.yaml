@@ -2481,7 +2481,7 @@ easter.week7.1.c:
   color: white
   readings:
     - type: reading
-      ref: 'At 1, 1-11'
+      ref: 'At 1,1-11'
       text: |
         Leitura dos Atos dos Apóstolos
         No meu primeiro livro, ó Teófilo, já tratei de tudo o que Jesus fez e ensinou, desde o começo,
@@ -2496,7 +2496,7 @@ easter.week7.1.c:
         Os apóstolos continuavam olhando para o céu, enquanto Jesus subia. Apareceram então dois homens vestidos de branco,
         que lhes disseram: 'Homens da Galiléia, por que ficais aqui, parados, olhando para o céu? Esse Jesus que vos foi levado para o céu, virá do mesmo modo como o vistes partir para o céu.'
     - type: psalm
-      ref: 'Sl 46(47), 2-3.6-7.8-9 (R.6)'
+      ref: 'Sl 46(47),2-3.6-7.8-9 (R.6)'
       text: |
         R. Batei palmas, povos todos, o Senhor subiu ao toque da trombeta!
         Ou: R.Aleluia, Aleluia, Aleluia
@@ -2516,19 +2516,34 @@ easter.week7.1.c:
         Deus reina sobre todas as nações,
         está sentado no seu trono glorioso. R.
     - type: reading
-      ref: 'Ef 1, 17-23'
-      text: |
-        Leitura da Carta de São Paulo aos Efésios
-        Irmãos:
-        O Deus de nosso Senhor Jesus Cristo, o Pai a quem pertence a glória, vos dê um espírito de sabedoria que vo-lo revele e faça verdadeiramente conhecer.
-        Que ele abra o vosso coração à sua luz, para que saibais qual a esperança que o seu chamamento vos dá, qual a riqueza da glória que está na vossa herança com os santos,
-        e que imenso poder ele exerceu em favor de nós que cremos, de acordo com a sua ação e força onipotente.
-        Ele manifestou sua força em Cristo, quando o ressuscitou dos mortos e o fez sentar-se à sua direita nos céus,
-        bem acima de toda a autoridade, poder, potência, soberania ou qualquer título que se possa mencionar não somente neste mundo, mas ainda no mundo futuro.
-        Sim, ele pôs tudo sob os seus pés e fez dele, que está acima de tudo, a Cabeça da Igreja,
-        que é o seu corpo, a plenitude daquele que possui a plenitude universal.
+      main:
+        ref: 'Ef 1,17-23'
+        text: |
+          Leitura da Carta de São Paulo aos Efésios
+          Irmãos:
+          O Deus de nosso Senhor Jesus Cristo, o Pai a quem pertence a glória, vos dê um espírito de sabedoria que vo-lo revele e faça verdadeiramente conhecer.
+          Que ele abra o vosso coração à sua luz, para que saibais qual a esperança que o seu chamamento vos dá, qual a riqueza da glória que está na vossa herança com os santos,
+          e que imenso poder ele exerceu em favor de nós que cremos, de acordo com a sua ação e força onipotente.
+          Ele manifestou sua força em Cristo, quando o ressuscitou dos mortos e o fez sentar-se à sua direita nos céus,
+          bem acima de toda a autoridade, poder, potência, soberania ou qualquer título que se possa mencionar não somente neste mundo, mas ainda no mundo futuro.
+          Sim, ele pôs tudo sob os seus pés e fez dele, que está acima de tudo, a Cabeça da Igreja,
+          que é o seu corpo, a plenitude daquele que possui a plenitude universal.
+      optional:
+        ref: Hb 9,24-28; 10,19-23
+        text: |
+          Leitura da Carta aos Hebreus
+          De fato, Cristo não entrou num santuário feito por mão humana, imagem do verdadeiro, mas no próprio céu, a fim de comparecer, agora, na presença de Deus, em nosso favor.
+          E não foi para se oferecer a si muitas vezes, como o sumo-sacerdote que, cada ano, entra no Santuário com sangue alheio.
+          Porque, se assim fosse, deveria ter sofrido muitas vezes, desde a fundação do mundo. Mas foi agora, na plenitude dos tempos, que, uma vez por todas, ele se manifestou para destruir o pecado pelo sacrifício de si mesmo.
+          O destino de todo homem é morrer uma só vez, e depois vem o julgamento.
+          Do mesmo modo, também Cristo, oferecido uma vez por todas, para tirar os pecados da multidão, aparecerá uma segunda vez, fora do pecado, para salvar aqueles que o esperam.
+          Sendo assim, irmãos, temos plena liberdade para entrar no Santuário, pelo sangue de Jesus.
+          Ele nos abriu um caminho novo e vivo, através da cortina, quer dizer, através da sua humanidade.
+          Temos um grande sacerdote constituído sobre a casa de Deus.
+          Aproximemo-nos, portanto, de coração sincero e cheio de fé, com coração purificado de toda a má consciência e o corpo lavado com água pura.
+          Sem desânimo, continuemos a afirmar a nossa esperança, porque é fiel quem fez a promessa.
     - type: gospel
-      ref: 'Lc 24, 46-53'
+      ref: 'Lc 24,46-53'
       text: |
         Conclusão do Evangelho de Jesus Cristo segundo Lucas
         Naquele tempo, disse Jesus a seus discípulos:
