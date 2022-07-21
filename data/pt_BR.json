@@ -9430,18 +9430,18 @@
     "readings": [
       {
         "type": "reading",
-        "ref": "",
-        "text": ""
+        "ref": "Jr 2,1-3.7-8.12-13",
+        "text": "Leitura do Livro do Profeta Jeremias\n\nA palavra do Senhor foi-me dirigida, dizendo:\n\"Vai e grita aos ouvidos de Jerusalém. Isto diz o Senhor: Lembro-me de ti, da afeição da jovem, do amor da noiva, de quando me seguias no deserto, numa terra inculta.\nIsrael, consagrado ao Senhor, era como as primícias de sua colheita; todos os que dele comiam, pecavam; males caíam sobre eles\", diz o Senhor.\n\"Eu vos introduzi numa terra de pomares, para que gozásseis de seus melhores produtos, mas, apenas chegados, contaminastes o país e tornastes abominável minha herança.\nOs sacerdotes nem perguntaram onde está o Senhor. Os versados na Lei não me reconheceram, e os chefes do povo voltaram-me as costas, os profetas profetizaram em nome de Baal e correram atrás de coisas que para nada servem.\nÓ céus, espantai-vos diante disso, enchei-vos de grande horror\", diz o Senhor.\n\"Dois pecados cometeu meu povo: abandonou-me a mim, fonte de água viva, e preferiu cavar cisternas, cisternas defeituosas que não podem reter água\".\n\nPalavra do Senhor.\n"
       },
       {
         "type": "psalm",
-        "ref": "",
-        "text": ""
+        "ref": "Sl 35(36),6-7ab.8-9.10-11 (R. 10a)",
+        "text": "R. Em vós está a fonte da vida, ó Senhor!\n\nVosso amor chega aos céus, ó Senhor,\nchega às nuvens a vossa verdade.\nComo as altas montanhas eternas\né a vossa justiça, Senhor. R.\n\nQuão preciosa é, Senhor, vossa graça!\nEis que os filhos dos homens se abrigam\nsob a sombra das asas de Deus.\nNa abundância de vossa morada,\neles vêm saciar-se de bens.\nVós lhes dais de beber água viva,\nna torrente das vossas delícias. R.\n\nPois em vós está a fonte da vida,\ne em vossa luz contemplamos a luz.\nConservai aos fiéis vossa graça,\ne aos retos, a vossa justiça! R.\n"
       },
       {
         "type": "gospel",
-        "ref": "",
-        "text": ""
+        "ref": "Mt 13,10-17",
+        "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus\n\nNaquele tempo,\nos discípulos aproximaram-se e disseram a Jesus: \"Por que tu falas ao povo em parábolas?\"\nJesus respondeu: \"Porque a vós foi dado o conhecimento dos mistérios do Reino dos Céus, mas a eles não é dado.\nPois à pessoa que tem, será dado ainda mais, e terá em abundância; mas à pessoa que não tem, será tirado até o pouco que tem.\nÉ por isso que eu lhes falo em parábolas: porque olhando, eles não veem, e ouvindo, eles não escutam, nem compreendem.\nDeste modo se cumpre neles a profecia de Isaías: 'Havereis de ouvir, sem nada entender. Havereis de olhar, sem nada ver.\nPorque o coração deste povo se tornou insensível. Eles ouviram com má vontade e fecharam seus olhos, para não ver com os olhos, nem ouvir com os ouvidos, nem compreender com o coração, de modo que se convertam e eu os cure'.\nFelizes sois vós, porque vossos olhos veem e vossos ouvidos ouvem.\nEm verdade vos digo, muitos profetas e justos desejaram ver o que vedes, e não viram, desejaram ouvir o que ouvis, e não ouviram\".\n\nPalavra da Salvação.\n"
       }
     ]
   },
@@ -9474,18 +9474,24 @@
     "readings": [
       {
         "type": "reading",
-        "ref": "",
-        "text": ""
+        "main": {
+          "ref": "Ct 3,1-4a",
+          "text": "Leitura do Livro do Cântico dos Cânticos\n\nEis o que diz a noiva:\n\"Em meu leito, durante a noite, busquei o amor de minha vida: procurei-o, e não o encontrei.\nVou levantar-me e percorrer a cidade, procurando pelas ruas e praças, o amor de minha vida: procurei-o, e não o encontrei.\nEncontraram-me os guardas que faziam a ronda pela cidade. 'Vistes porventura o amor de minha vida?'\nE logo que passei por eles, encontrei o amor de minha vida\".\n\nPalavra do Senhor.\n"
+        },
+        "optional": {
+          "ref": "1Cor 5,14-17",
+          "text": "Leitura da Segunda Carta de São Paulo aos Coríntios\n\nIrmãos,\no amor de Cristo nos pressiona, pois julgamos que um só morreu por todos, e que, logo, todos morreram.\nDe fato, Cristo morreu por todos, para que os vivos não vivam mais para si mesmos, mas para aquele que por eles morreu e ressuscitou.\nAssim, doravante, não conhecemos ninguém conforme a natureza humana. E, se uma vez conhecemos Cristo segundo a carne, agora já não o conhecemos assim.\nPortanto, se alguém está em Cristo, é uma criatura nova. O mundo velho desapareceu. Tudo agora é novo.\n\nPalavra do Senhor.\n"
+        }
       },
       {
         "type": "psalm",
-        "ref": "",
-        "text": ""
+        "ref": "Sl 62(63),2.3-4.5-6.8-9 (R. 2b)",
+        "text": "R. A minh'alma tem sede de vós, Senhor!\n\nSois vós, ó Senhor, o meu Deus!\nDesde a aurora ansioso vos busco!\nA minh'alma tem sede de vós,\nminha carne também vos deseja,\ncomo terra sedenta e sem água! R.\n\nVenho, assim, contemplar-vos no templo,\npara ver vossa glória e poder.\nVosso amor vale mais do que a vida:\ne por isso meus lábios vos louvam. R.\n\nQuero, pois vos louvar pela vida,\ne elevar para vós minhas mãos!\nA minh'alma será saciada,\ncomo em grande banquete de festa;\ncantará a alegria em meus lábios,\nao cantar para vós meu louvor! R.\n\nPara mim fostes sempre um socorro;\nde vossas asas à sombra eu exulto!\nMinha alma se agarra em vós;\ncom poder vossa mão me sustenta. R.\n"
       },
       {
         "type": "gospel",
-        "ref": "",
-        "text": ""
+        "ref": "Jo 20,1-2.11-18",
+        "text": "Proclamação do Evangelho de Jesus Cristo segundo João\n\nNo primeiro dia da semana, Maria Madalena foi ao túmulo de Jesus, bem de madrugada, quando ainda estava escuro, e viu que a pedra tinha sido retirada do túmulo.\nEntão ela saiu correndo e foi encontrar Simão Pedro e o outro discípulo, aquele que Jesus amava, e lhes disse: \"Tiraram o Senhor do túmulo, e não sabemos onde o colocaram\".\nMaria estava do lado de fora do túmulo, chorando. Enquanto chorava, inclinou-se e olhou para dentro do túmulo.\nViu, então, dois anjos vestidos de branco, sentados onde tinha sido posto o corpo de Jesus, um à cabeceira e outro aos pés.\nOs anjos perguntaram: \"Mulher, por que choras?\" Ela respondeu: \"Levaram o meu Senhor e não sei onde o colocaram\".\nTendo dito isto, Maria voltou-se para trás e viu Jesus, de pé. Mas não sabia que era Jesus.\nJesus perguntou-lhe: \"Mulher, por que choras? A quem procuras?\" Pensando que era o jardineiro, Maria disse: \"Senhor, se foste tu que o levaste dize-me onde o colocaste, e eu o irei buscar\".\nEntão Jesus disse: \"Maria!\" Ela voltou-se e exclamou, em hebraico: \"Rabunni\" (que quer dizer: Mestre).\nJesus disse: \"Não me segures. Ainda não subi para junto do Pai. Mas vai dizer aos meus irmãos: subo para junto do meu Pai e vosso Pai, meu Deus e vosso Deus\".\nEntão Maria Madalena foi anunciar aos discípulos: \"Eu vi o Senhor!\", e contou o que Jesus lhe tinha dito.\n\nPalavra da Salvação.\n"
       }
     ]
   },
@@ -9518,18 +9524,18 @@
     "readings": [
       {
         "type": "reading",
-        "ref": "",
-        "text": ""
+        "ref": "Jr 7,1-11",
+        "text": "Leitura do Livro do Profeta Jeremias\n\nPalavra comunicada a Jeremias, da parte do Senhor:\n\"Põe-te à porta da casa do Senhor e lá anuncia esta palavra, dizendo: Ouvi a palavra do Senhor, todos vós de Judá, que entrais por estas portas para adorar o Senhor.\nIsto diz o Senhor dos exércitos, Deus de Israel: Melhorai vossa conduta e vossas obras, que eu vos farei habitar neste lugar.\nNão ponhais vossa confiança em palavras mentirosas, dizendo: 'É o templo do Senhor, o templo do Senhor, o templo do Senhor!'\nMas, se melhorardes vossa conduta e vossas obras, se fizerdes valer a justiça, uns com os outros,\nnão cometerdes fraudes contra o estrangeiro, o órfão e a viúva, nem derramardes sangue inocente neste lugar, e não andardes atrás de deuses estrangeiros, para vosso próprio mal,\nentão eu vos farei habitar neste lugar, na terra que dei a vossos pais, desde sempre e para sempre.\nEis que confiais em palavras mentirosas, que para nada servem.\nComo!? Roubar, matar, cometer adultério e perjúrio, queimar incenso a Baal, e andar atrás de deuses que nem sequer conheceis;\ne depois, vindes à minha presença, nesta casa em que meu nome é invocado,  e dizeis: 'Nenhum mal nos foi infligido', tendo embora cometido todas essas abominações.\nAcaso, esta casa, em que meu nome é invocado, tornou-se a vossos olhos uma caverna de ladrões? Eis que também eu vi\", diz o Senhor.\n\nPalavra do Senhor.\n"
       },
       {
         "type": "psalm",
-        "ref": "",
-        "text": ""
+        "ref": "Sl 83(84),3.4.5-6a e 8a.11 (R. 2)",
+        "text": "R. Quão amável, ó Senhor, é vossa casa!\n\nMinha alma desfalece de saudades\ne anseia pelos átrios do Senhor!\nMeu coração e minha carne rejubilam\ne exultam de alegria no Deus vivo! R.\n\nMesmo o pardal encontra abrigo em vossa casa,\ne a andorinha ali prepara o seu ninho,\npara nele seus filhotes colocar:\nvossos altares, ó Senhor Deus do universo!\nvossos altares, ó meu Rei e meu Senhor! R.\n\nFelizes os que habitam vossa casa;\npara sempre haverão de vos louvar!\nFelizes os que em vós têm sua força,\nCaminharão com um ardor sempre crescente. R.\n\nNa verdade, um só dia em vosso templo\nvale mais do que milhares fora dele!\nPrefiro estar no limiar de vossa casa,\na hospedar-me na mansão dos pecadores! R.\n"
       },
       {
         "type": "gospel",
-        "ref": "",
-        "text": ""
+        "ref": "Mt 13,24-30",
+        "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus\n\nNaquele tempo,\nJesus contou outra parábola à multidão: \"O Reino dos Céus é como um homem que semeou boa semente no seu campo.\nEnquanto todos dormiam, veio seu inimigo, semeou joio no meio do trigo, e foi embora.\nQuando o trigo cresceu e as espigas começaram a se formar, apareceu também o joio.\nOs empregados foram procurar o dono e lhe disseram: 'Senhor, não semeaste boa semente no teu campo? Donde veio então o joio?'\nO dono respondeu: 'Foi algum inimigo que fez isso'. Os empregados lhe perguntaram: 'Queres que vamos arrancar o joio?'\nO dono respondeu: 'Não! Pode acontecer que, arrancando o joio, arranqueis também o trigo.\nDeixai crescer um e outro até a colheita! E, no tempo da colheita,  direi aos que cortam o trigo: arrancai primeiro o joio e o amarrai em feixes para ser queimado! Recolhei, porém, o trigo no meu celeiro!'\".\n\nPalavra da Salvação.\n"
       }
     ]
   },
@@ -9562,23 +9568,23 @@
     "readings": [
       {
         "type": "reading",
-        "ref": "",
-        "text": ""
+        "ref": "Gn 18,20-32",
+        "text": "Leitura do Livro do Gênesis\n\nNaqueles dias,\nO Senhor disse a Abraão: \"O clamor contra Sodoma e Gomorra cresceu, e agravou-se muito o seu pecado.\nVou descer para verificar se as suas obras correspondem ou não ao clamor que chegou até mim\".\nPartindo dali, os homens dirigiram-se a Sodoma, enquanto Abraão ficou na presença do Senhor.\nEntão, aproximando-se, disse Abraão: \"Vais realmente exterminar o justo com o ímpio?\nSe houvesse cinquenta justos na cidade, acaso iríeis exterminá-los? Não pouparias o lugar por causa dos cinquenta justos que ali vivem?\nLonge de ti agir assim, fazendo morrer o justo com o ímpio, como se o justo fosse igual ao ímpio. Longe de ti! O juiz de toda a terra não faria justiça?\"\nO Senhor respondeu: \"Se eu encontrasse em Sodoma cinquenta justos, pouparia por causa deles a cidade inteira\".\nAbraão prosseguiu dizendo: \"Estou sendo atrevido em falar a meu Senhor, eu que sou pó e cinza.\nSe dos cinquenta justos faltassem cinco, destruirias por causa dos cinco a cidade inteira?\" O Senhor respondeu: \"Não destruiria, se achasse ali quarenta e cinco justos\".\nInsistiu ainda Abraão e disse: \"E se houvesse quarenta?\" Ele respondeu: \"Por causa dos quarenta, não o faria\".\nAbraão tornou a insistir: \"Não se irrite o meu Senhor, se ainda falo. E se houvesse apenas trinta justos?\". Ele respondeu: \"Também não o faria, se encontrasse trinta\".\nTornou Abraão a insistir: \"Já que me atrevi a falar a meu Senhor, e se houver vinte justos?\" Ele respondeu: \"Não a iria destruir por causa dos vinte\".\nAbraão disse: \"Que o meu Senhor não se irrite, se eu falar só mais uma vez: e se houvesse apenas dez?\" Ele respondeu: \"Por causa dos dez, não a destruiria\".\n\nPalavra do Senhor.\n"
       },
       {
         "type": "psalm",
-        "ref": "",
-        "text": ""
+        "ref": "Sl 137(138),1-2a.2bc-3.6-7ab.7c-8 (R. 3a)",
+        "text": "R. Naquele dia em que gritei, vós me escutastes, ó Senhor!\n\nÓ Senhor, de coração eu vos dou graças,\nporque ouvistes as palavras dos meus lábios!\nPerante os vossos anjos vou cantar-vos\ne ante o vosso templo vou prostrar-me. R.\n\nEu agradeço vosso amor, vossa verdade,\nporque fizestes muito mais que prometestes;\nnaquele dia em que gritei, vós me escutastes\ne aumentastes o vigor da minha alma. R.\n\nAltíssimo é o Senhor, mas olha os pobres,\ne de longe reconhece os orgulhosos.\nSe no meio da desgraça eu caminhar,\nvós me fazeis tornar à vida novamente;\nquando os meus perseguidores me atacarem\ne com ira investirem contra mim,\nestendereis o vosso braço em meu auxílio. \ne havereis de me salvar com vossa destra. R.\n\nCompletai em mim a obra começada;\nó Senhor, vossa bondade é para sempre!\nEu vos peço: não deixeis inacabada\nesta obra que fizeram vossas mãos! R.\n"
       },
       {
         "type": "reading",
-        "ref": "",
-        "text": ""
+        "ref": "Cl 2,12-14",
+        "text": "Leitura da Carta de São Paulo aos Colossenses\n\nIrmãos:\nCom Cristo fostes sepultados no batismo; com ele também fostes ressuscitados por meio da fé no poder de Deus, que ressuscitou a Cristo dentre os mortos.\nOra, vós estáveis mortos por causa dos vossos pecados, e vossos corpos não tinham recebido a circuncisão, até que Deus vos trouxe para a vida, junto com Cristo, e a todos nós perdoou os pecados.\nExistia contra nós uma conta a ser paga, mas ele a cancelou, apesar das obrigações legais, e a eliminou, pregando-a na cruz.\n\nPalavra do Senhor.\n"
       },
       {
         "type": "gospel",
-        "ref": "",
-        "text": ""
+        "ref": "Lc 11,1-13",
+        "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas\n\nJesus estava rezando num certo lugar. Quando terminou, um de seus discípulos pediu-lhe: \"Senhor, ensina-nos a rezar, como também João ensinou a seus discípulos\".\nJesus respondeu: \"Quando rezardes, dizei: 'Pai, santificado seja o teu nome. Venha o teu Reino.\nDá-nos a cada dia o pão de que precisamos,\ne perdoa-nos os nossos pecados, pois nós também perdoamos a todos os nossos devedores; e não nos deixes cair em tentação'\".\nE Jesus acrescentou: \"Se um de vós tiver um amigo e for procurá-lo à meia-noite e lhe disser: 'Amigo, empresta-me três pães,\nporque um amigo meu chegou de viagem e nada tenho para lhe oferecer',\ne se o outro responder lá de dentro: 'Não me incomoda! Já tranquei a porta, e meus filhos e eu já estamos deitados; não me posso levantar para te dar os pães';\neu vos declaro: mesmo que o outro não se levante para dá-los porque é seu amigo,  vai levantar-se ao menos por causa da impertinência dele e lhe dará quanto for necessário.\nPortanto, eu vos digo: pedi e recebereis; procurai e encontrareis; batei e vos será aberto.\nPois quem pede, recebe; quem procura, encontra; e, para quem bate, se abrirá.\nSerá que algum de vós que é pai, se o filho pedir um peixe, lhe dará uma cobra?\nOu ainda, se pedir um ovo, lhe dará um escorpião?\nOra, se vós que sois maus, sabeis dar coisas boas aos vossos filhos, quanto mais o Pai do Céu dará o Espírito Santo aos que o pedirem!\"\n\nPalavra da Salvação.\n"
       }
     ]
   },
