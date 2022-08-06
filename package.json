@@ -9,9 +9,14 @@
     "types"
   ],
   "scripts": {
-    "schema:gen": "typescript-json-schema types/Lectionary.d.ts Lectionary -o schema/Lectionary.json && ajv compile -s schema/Lectionary.json",
+    "schema:gen": "typescript-json-schema types/Lectionary.d.ts Lectionary -o schema/Lectionary.json",
+    "schema:validate": "ajv compile -s schema/Lectionary.json",
     "json:gen": "js-yaml data/pt_BR.yaml > data/pt_BR.json",
-    "schema:validate": "ajv validate -s schema/Lectionary.json -d data/pt_BR.json",
+    "json:validate": "ajv validate -s schema/Lectionary.json -d data/pt_BR.json",
+    "keys:gen": "./node_modules/node-jq/bin/jq keys data/pt_BR.json > data/baseKeys.json",
+    "prebuild": "npm run schema:gen && npm run schema:validate",
+    "build": "npm run json:gen && npm run keys:gen",
+    "postbuild": "npm run json:validate",
     "status": "npm run status:s",
     "status:s": "node --experimental-json-modules cli/index.mjs -s",
     "status:d": "node --experimental-json-modules cli/index.mjs -d",
@@ -19,13 +24,13 @@
   },
   "author": "maurodev@pm.me",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "ajv-cli": "^5.0.0",
     "chalk": "^5.0.1",
-    "commander": "^9.1.0",
+    "commander": "^9.4.0",
     "js-yaml": "^4.1.0",
-    "ts-node": "^10.7.0",
-    "typescript": "^4.6.2",
-    "typescript-json-schema": "^0.53.0"
+    "node-jq": "^2.3.3",
+    "typescript": "^4.7.4",
+    "typescript-json-schema": "^0.54.0"
   }
 }
