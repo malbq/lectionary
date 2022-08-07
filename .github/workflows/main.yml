@@ -1,4 +1,4 @@
-name: Build JSON file from YAML
+name: Build JSON files from YAML
 
 on:
   push:
@@ -27,6 +27,8 @@ jobs:
 
       - name: Persist generated files
         run: |
-          git add .
-          git commit -m "Auto-update readings and keys"
+          git config user.name 'Workflow: ${{ github.workflow }}'
+          git config user.email ''
+          git add -A
+            git commit -m "${{ github.workflow }}"
           git push
