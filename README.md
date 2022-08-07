@@ -1,32 +1,46 @@
 # Lectionary
 
-All Mass readings on JSON format
+All Mass readings on YAML and JSON format.
 
-## npm commands
+Edit text on YAML files (it's easiear because of line breaks) and then use these commands to generate JSON files.
 
-Edit the texts on YAML files (it's easiear because of line breaks) and then use this command to generate JSON files:
+## Build
+
+To do the whole process at once, just run:
 ```bash
-npm run json:gen
+npm run build
 ```
 
----
+## Or
 
 Generate JSON schema from `types/Lectionary.ts`:
 ```bash
 npm run schema:gen
 ```
 
----
-
-Validate JSON data with generated schema:
+Assert that the generated schema is valid:
 ```bash
 npm run schema:validate
 ```
+
+Convert YAML file to JSON:
+```bash
+npm run json:gen
+```
+
+Validate converted JSON file with the generated schema:  
 _**TODO** This command should validate all localized files._
+```bash
+npm run json:validate
+```
 
----
+Extract liturgy keys from converted JSON file to a new file:
+```bash
+npm run keys:gen
+```
 
-Check lectionary completeness status:
+## Check lectionary completeness status
+
 ```bash
 npm run status:s  # summarized status
 npm run status:d  # detailed - show status for incomplete liturgies
