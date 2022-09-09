@@ -8375,14 +8375,60 @@ ordinary.week23.6.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Cor 9,16-19.22b-27
+      text: |
+        Leitura da Primeira Carta de São Paulo aos Coríntios
+
+        Irmãos,
+        pregar o evangelho não é para mim motivo de glória. É antes uma necessidade para mim, uma imposição. Ai de mim se eu não pregar o evangelho!
+        Se eu exercesse minha função de pregador por iniciativa própria, eu teria direito a salário. Mas, como a iniciativa não é minha, trata-se de um encargo que me foi confiado.
+        Em que consiste então o meu salário? Em pregar o evangelho, oferecendo-o de graça, sem usar os direitos que o evangelho me dá.
+        Assim, livre em relação a todos, eu me tornei escravo de todos, a fim de ganhar o maior número possível.
+        Com todos, eu me fiz tudo, para certamente salvar alguns.
+        Por causa do evangelho eu faço tudo, para ter parte nele.
+        Acaso não sabeis que os que correm no estádio correm todos juntos, mas um só ganha o prêmio? Correi de tal maneira que conquisteis o prêmio.
+        Todo atleta se sujeita a uma disciplina rigorosa em relação a tudo, e eles procedem assim, para receberem uma coroa corruptível. Quanto a nós, a coroa que buscamos é incorruptível!
+        Por isso, eu corro, mas não à toa. Eu luto, mas não como quem dá murros no ar.
+        Trato duramente o meu corpo e o subjugo, para não acontecer que, depois de ter proclamado a boa-nova aos outros, eu mesmo seja reprovado.
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 83(84),3.4.5-6.12 (R. 2)
+      text: |
+        R. Quão amável, ó Senhor, é vossa casa!
+
+        Minha alma desfalece de saudades
+        e anseia pelos átrios do Senhor!
+        Meu coração e minha carne rejubilam
+        e exultam de alegria no Deus vivo! R.
+
+        Mesmo o pardal encontra abrigo em vossa casa,
+        e a andorinha ali prepara o seu ninho,
+        para nele seus filhotes colocar:
+        vossos altares, ó Senhor Deus do universo!
+        vossos altares, ó meu Rei e meu Senhor! R.
+
+        Felizes os que habitam vossa casa;
+        para sempre haverão de vos louvar!
+        Felizes os que em vós têm sua força,
+        e se decidem a partir quais peregrinos! R.
+
+        O Senhor Deus é como um sol, é um escudo,
+        e largamente distribui a graça e a glória
+        O Senhor nunca recusa bem algum
+        àqueles que caminham na justiça. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Lc 6,39-42
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Lucas
+
+        Naquele tempo,
+        Jesus contou uma parábola aos discípulos: "Pode um cego guiar outro cego? Não cairão os dois num buraco?
+        Um discípulo não é maior do que o mestre; todo discípulo bem formado será como o mestre.
+        Por que vês tu o cisco no olho do teu irmão, e não percebes a trave que há no teu próprio olho?
+        Como podes dizer a teu irmão: Irmão, deixa-me tirar o cisco do teu olho, quando tu não vês a trave no teu próprio olho? Hipócrita! Tira primeiro a trave do teu olho, e então poderás enxergar bem para tirar o cisco do olho do teu irmão".
+
+        Palavra da Salvação.
 ordinary.week23.6.odd:
   title: Sexta-feira da 23ª Semana
   subtitle: Tempo Comum
@@ -8403,14 +8449,50 @@ ordinary.week23.7.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Cor 10,14-22
+      text: |
+        Leitura da Primeira Carta de São Paulo aos Coríntios
+
+        Meus caríssimos, fugi da idolatria.
+        Eu vos falo como a pessoas esclarecidas. Então, ponderai bem o que eu digo:
+        O cálice da bênção, o cálice que abençoamos, não é comunhão com o sangue de Cristo? E o pão que partimos, não é comunhão com o corpo de Cristo?
+        Porque há um só pão, nós todos somos um só corpo, pois todos participamos desse único pão.
+        Considerai os filhos de Israel: Os que comem as vítimas sacrificais não estão em comunhão com o altar?
+        Então, o que dizer? Que a carne de um sacrifício idolátrico tem algum valor? Ou que o ídolo vale alguma coisa?
+        - Nada disso. O que eu digo é que os idólatras oferecem seus sacrifícios aos demônios e não a Deus. Ora, eu não quero que entreis em comunhão com os demônios.
+        Vós não podeis beber do cálice do Senhor e do cálice dos demônios; vós não podeis participar da mesa do Senhor e da mesa dos demônios.
+        Ou, quem sabe, queremos excitar o zelo santo do Senhor? Somos porventura mais fortes do que ele?
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 115(116),12-13.17-18 (R. 17a)
+      text: |
+        R. Oferto ao Senhor um sacrifício de louvor.
+
+        Que poderei retribuir ao Senhor Deus
+        por tudo aquilo que ele fez em meu favor?
+        Elevo o cálice da minha salvação,
+        invocando o nome santo do Senhor. R.
+
+        Por isso oferto um sacrifício de louvor,
+        invocando o nome santo do Senhor.
+        Vou cumprir minhas promessas ao Senhor
+        na presença de seu povo reunido. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Lc 6,43-49
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Lucas
+
+        Naquele tempo, disse Jesus aos seus discípulos:
+        "Não existe árvore boa que dê frutos ruins, nem árvore ruim que dê frutos bons.
+        Toda árvore é reconhecida pelos seus frutos. Não se colhem figos de espinheiros, nem uvas de plantas espinhosas.
+        O homem bom tira coisas boas do bom tesouro do seu coração. Mas o homem mau tira coisas más do seu mau tesouro, pois sua boca fala do que o coração está cheio.
+        Por que me chamais: 'Senhor! Senhor!', mas não fazeis o que eu digo?
+        Vou mostrar-vos com quem se parece todo aquele que vem a mim, ouve as minhas palavras e as põe em prática.
+        É semelhante a um homem que construiu uma casa: cavou fundo e colocou o alicerce sobre a rocha. Veio a enchente, a torrente deu contra a casa, mas não conseguiu derrubá-la, porque estava bem construída.
+        Aquele, porém, que ouve e não põe em prática, é semelhante a um homem que construiu uma casa no chão, sem alicerce. A torrente deu contra a casa, e ela imediatamente desabou; e foi grande a ruína dessa casa".
+
+        Palavra da Salvação.
 ordinary.week23.7.odd:
   title: Sábado da 23ª Semana
   subtitle: Tempo Comum
@@ -8465,17 +8547,112 @@ ordinary.week24.1.c:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Ex 32,7-11.13-14
+      text: |
+        Leitura do Livro do Êxodo
+
+        Naqueles dias,
+        o Senhor falou a Moisés: "Vai, desce, pois corrompeu-se o teu povo, que tiraste da terra do Egito.
+        Bem depressa desviaram-se do caminho que lhes prescrevi. Fizeram para si um bezerro de metal fundido, inclinaram-se em adoração diante dele e ofereceram-lhe sacrifícios, dizendo: 'Estes são os teus deuses, Israel, que te fizeram sair do Egito!'"
+        E o Senhor disse ainda a Moisés: "Vejo que este é um povo de cabeça dura.
+        Deixa que minha cólera se inflame contra eles e que eu os extermine. Mas de ti farei uma grande nação".
+        Moisés, porém, suplicava ao Senhor seu Deus, dizendo: "Por que, ó Senhor, se inflama a tua cólera contra o teu povo, que fizeste sair do Egito com grande poder e mão forte?
+        Lembra-te de teus servos Abraão, Isaac e Israel, com os quais te comprometeste, por juramento, dizendo: 'Tornarei os vossos descendentes tão numerosos como as estrelas do céu; e toda esta terra de que vos falei, eu a darei aos vossos descendentes como herança para sempre'".
+        E o Senhor desistiu do mal que havia ameaçado fazer ao seu povo.
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 50(51),3-4.12-13.17.19 (R. Lc 15,18)
+      text: |
+        R. Vou agora, levantar-me, volto à casa do meu pai.
+
+        Tende piedade, ó meu Deus, misericórdia!
+        Na imensidão de vosso amor, purificai-me!
+        Lavai-me todo inteiro do pecado,
+        e apagai completamente a minha culpa! R.
+
+        Criai em mim um coração que seja puro,
+        dai-me de novo um espírito decidido.
+        Ó Senhor, não me afasteis de vossa face,
+        nem retireis de mim o vosso Santo Espírito! R.
+
+        Abri meus lábios, ó Senhor, para cantar,
+        e minha boca anunciará vosso louvor!
+        Meu sacrifício é minha alma penitente,
+        não desprezeis um coração arrependido! R.
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Tm 1,12-17
+      text: |
+        Leitura da Carta de São Paulo a Timóteo
+
+        Caríssimo:
+        Agradeço àquele que me deu força, Cristo Jesus, nosso Senhor, pela confiança que teve em mim ao designar-me para o seu serviço,
+        a mim, que antes blasfemava, perseguia e insultava. Mas encontrei misericórdia, porque agia com a ignorância de quem não tem fé.
+        Transbordou a graça de nosso Senhor com a fé e o amor que há em Cristo Jesus.
+        Segura e digna de ser acolhida por todos é esta palavra: Cristo veio ao mundo para salvar os pecadores. E eu sou o primeiro deles!
+        Por isso encontrei misericórdia, para que em mim, como primeiro, Cristo Jesus demonstrasse toda a grandeza de seu coração; ele fez de mim um modelo de todos os que crerem nele para alcançar a vida eterna.
+        Ao Rei dos séculos, ao único Deus, imortal e invisível, honra e glória pelos séculos dos séculos. Amém!
+
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      long:
+        ref: Lc 15,1-32
+        text: |
+          Proclamação do Evangelho de Jesus Cristo segundo Lucas
+
+          Naquele tempo,
+          os publicanos e pecadores aproximavam-se de Jesus para o escutar.
+          Os fariseus, porém, e os mestres da Lei criticavam Jesus. "Este homem acolhe os pecadores e faz refeição com eles".
+          Então Jesus contou-lhes esta parábola:
+          "Se um de vós tem cem ovelhas e perde uma, não deixa as noventa e nove no deserto, e vai atrás daquela que se perdeu, até encontrá-la?
+          Quando a encontra, coloca-a nos ombros com alegria,
+          e, chegando a casa, reúne os amigos e vizinhos, e diz: 'Alegrai-vos comigo! Encontrei a minha ovelha que estava perdida!'
+          Eu vos digo: Assim haverá no céu mais alegria por um só pecador que se converte, do que por noventa e nove justos que não precisam de conversão.
+          E se uma mulher tem dez moedas de prata e perde uma, não acende uma lâmpada, varre a casa e a procura cuidadosamente, até encontrá-la?
+          Quando a encontra, reúne as amigas e vizinhas, e diz: 'Alegrai-vos comigo! Encontrei a moeda que tinha perdido!'
+          Por isso, eu vos digo, haverá alegria entre os anjos de Deus por um só pecador que se converte".
+          E Jesus continuou: "Um homem tinha dois filhos.
+          O filho mais novo disse ao pai: 'Pai, dá-me a parte da herança que me cabe'. E o pai dividiu os bens entre eles.
+          Poucos dias depois, o filho mais novo juntou o que era seu e partiu para um lugar distante. E ali esbanjou tudo numa vida desenfreada.
+          Quando tinha gasto tudo o que possuía, houve uma grande fome naquela região, e ele começou a passar necessidade.
+          Então foi pedir trabalho a um homem do lugar, que o mandou para seu campo cuidar dos porcos.
+          O rapaz queria matar a fome com a comida que os porcos comiam, mas nem isto lhe davam.
+          Então caiu em si e disse: Quantos empregados do meu pai têm pão com fartura, e eu aqui, morrendo de fome.
+          Vou-me embora, vou voltar para meu pai e dizer-lhe: Pai, pequei contra Deus e contra ti;
+          já não mereço ser chamado teu filho. Trata-me como a um dos teus empregados.
+          Então ele partiu e voltou para seu pai. Quando ainda estava longe, seu pai o avistou e sentiu compaixão. Correu-lhe ao encontro, abraçou-o, e cobriu-o de beijos.
+          O filho, então, lhe disse: 'Pai, pequei contra Deus e contra ti. Já não mereço ser chamado teu filho'.
+          Mas o pai disse aos empregados: 'Trazei depressa a melhor túnica para vestir meu filho. E colocai um anel no seu dedo e sandálias nos pés.
+          Trazei um novilho gordo e matai-o. Vamos fazer um banquete.
+          Porque este meu filho estava morto e tornou a viver; estava perdido e foi encontrado'. E começaram a festa.
+          O filho mais velho estava no campo. Ao voltar, já perto de casa, ouviu música e barulho de dança.
+          Então chamou um dos criados e perguntou o que estava acontecendo.
+          O criado respondeu: 'É teu irmão que voltou. Teu pai matou o novilho gordo, porque o recuperou com saúde'.
+          Mas ele ficou com raiva e não queria entrar. O pai, saindo, insistia com ele.
+          Ele, porém, respondeu ao pai: 'Eu trabalho para ti há tantos anos, jamais desobedeci a qualquer ordem tua. E tu nunca me deste um cabrito para eu festejar com meus amigos.
+          Quando chegou esse teu filho, que esbanjou teus bens com prostitutas, matas para ele o novilho cevado'.
+          Então o pai lhe disse: 'Filho, tu estás sempre comigo, e tudo o que é meu é teu.
+          Mas era preciso festejar e alegrar-nos, porque este teu irmão estava morto e tornou a viver; estava perdido, e foi encontrado'".
+          
+          Palavra da Salvação.
+      short:
+        ref: Lc 15,1-10
+        text: |
+          Proclamação do Evangelho de Jesus Cristo segundo Lucas
+
+          Naquele tempo,
+          os publicanos e pecadores aproximavam-se de Jesus para o escutar.
+          Os fariseus, porém, e os mestres da Lei criticavam Jesus. "Este homem acolhe os pecadores e faz refeição com eles".
+          Então Jesus contou-lhes esta parábola:
+          "Se um de vós tem cem ovelhas e perde uma, não deixa as noventa e nove no deserto, e vai atrás daquela que se perdeu, até encontrá-la?
+          Quando a encontra, coloca-a nos ombros com alegria,
+          e, chegando a casa, reúne os amigos e vizinhos, e diz: 'Alegrai-vos comigo! Encontrei a minha ovelha que estava perdida!'
+          Eu vos digo: Assim haverá no céu mais alegria por um só pecador que se converte, do que por noventa e nove justos que não precisam de conversão.
+          E se uma mulher tem dez moedas de prata e perde uma, não acende uma lâmpada, varre a casa e a procura cuidadosamente, até encontrá-la?
+          Quando a encontra, reúne as amigas e vizinhas, e diz: 'Alegrai-vos comigo! Encontrei a moeda que tinha perdido!'
+          Por isso, eu vos digo, haverá alegria entre os anjos de Deus por um só pecador que se converte".
+          
+          Palavra da Salvação.
 ordinary.week24.2.even:
   title: Segunda-feira da 24ª Semana
   subtitle: Tempo Comum
