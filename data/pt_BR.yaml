@@ -8633,7 +8633,7 @@ ordinary.week24.1.c:
           Quando chegou esse teu filho, que esbanjou teus bens com prostitutas, matas para ele o novilho cevado'.
           Então o pai lhe disse: 'Filho, tu estás sempre comigo, e tudo o que é meu é teu.
           Mas era preciso festejar e alegrar-nos, porque este teu irmão estava morto e tornou a viver; estava perdido, e foi encontrado'".
-          
+
           Palavra da Salvação.
       short:
         ref: Lc 15,1-10
@@ -8651,7 +8651,7 @@ ordinary.week24.1.c:
           E se uma mulher tem dez moedas de prata e perde uma, não acende uma lâmpada, varre a casa e a procura cuidadosamente, até encontrá-la?
           Quando a encontra, reúne as amigas e vizinhas, e diz: 'Alegrai-vos comigo! Encontrei a moeda que tinha perdido!'
           Por isso, eu vos digo, haverá alegria entre os anjos de Deus por um só pecador que se converte".
-          
+
           Palavra da Salvação.
 ordinary.week24.2.even:
   title: Segunda-feira da 24ª Semana
@@ -8659,14 +8659,78 @@ ordinary.week24.2.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Cor 11,17-26.33
+      text: |
+        Leitura da Primeira Carta de São Paulo aos Coríntios
+
+        Irmãos,
+        no que tenho a dizer-vos, eu não vos louvo, pois vossas reuniões não têm sido para o vosso bem, mas para o mal.
+        Com efeito, e em primeiro lugar, ouço dizer que, quando vos reunis em assembleia, têm surgido divisões entre vós.
+        E, em parte, acredito.
+        Na verdade, convém que haja até cisões entre vós, para que também se tornem bem conhecidos aqueles que dentre vós que resistem à prova.
+        De fato, não é para comer a Ceia do Senhor que vos reunis em comum.
+        Pois cada um se apressa a comer a sua própria ceia; e enquanto um passa fome o outro se embriaga.
+        Não tendes casas onde comer e beber?
+        Ou desprezais a Igreja de Deus e quereis envergonhar aqueles que nada têm?
+        Que vos direi? Hei de elogiar-vos? Neste ponto, não posso elogiar-vos.
+        O que eu recebi do Senhor foi isso que eu vos transmiti:
+        Na noite em que foi entregue, o Senhor Jesus tomou o pão e, depois de dar graças, partiu-o e disse:
+        "Isto é o meu corpo que é dado por vós. Fazei-o em memória de mim".
+        Do mesmo modo, depois da ceia, tomou também o cálice e disse:
+        "Este cálice é a nova aliança, em meu sangue.
+        Todas as vezes que dele beberdes, fazei isto em minha memória".
+        Todas as vezes, de fato, que comerdes deste pão e beberdes deste cálice, estareis proclamando a morte do Senhor, até que ele venha.
+        Portanto, meus irmãos, quando vos reunirdes para a Ceia, esperai uns pelos outros.
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 39(40),7-8a.8b-9.10.17 (R. 1Cor 11,26b)
+      text: |
+        R. Irmãos, anunciai a morte do Senhor, até que ele venha!
+
+        Sacrifício e oblação não quisestes,
+        mas abristes, Senhor, meus ouvidos;
+        não pedistes ofertas nem vítimas,
+        holocaustos por nossos pecados,
+        E então eu vos disse: "Eis que venho!" R.
+
+        Sobre mim está escrito no livro:
+        "Com prazer faço a vossa vontade,
+        guardo em meu coração vossa lei!" R.
+
+        Boas-novas de vossa justiça
+        anunciei numa grande assembleia;
+        vós sabeis: não fechei os meus lábios! R.
+
+        Mas se alegre e em vós rejubile
+        todo ser que vos busca, Senhor!
+        Digam sempre: "É grande o Senhor!"
+        os que buscam em vós seu auxílio. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Lc 7,1-10
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Lucas
+
+        Naquele tempo,
+        quando acabou de falar ao povo que o escutava, Jesus entrou em Cafarnaum.
+        Havia lá um oficial romano que tinha um empregado a quem estimava muito, e que estava doente, à beira da morte.
+        O oficial ouviu falar de Jesus e enviou alguns anciãos dos judeus, para pedirem que Jesus viesse salvar seu empregado.
+        Chegando onde Jesus estava, pediram-lhe com insistência:
+        "O oficial merece que lhe faças este favor, porque ele estima o nosso povo.
+        Ele até nos construiu uma sinagoga".
+        Então Jesus pôs-se a caminho com eles.
+        Porém, quando já estava perto da casa, o oficial mandou alguns amigos dizerem a Jesus:
+        "Senhor, não te incomodes, pois não sou digno de que entres em minha casa.
+        Nem mesmo me achei digno de ir pessoalmente ao teu encontro.
+        Mas ordena com a tua palavra, e o meu empregado ficará curado.
+        Eu também estou debaixo de autoridade, mas tenho soldados que obedecem às minhas ordens.
+        Se ordeno a um : 'Vai!', ele vai; e a outro: 'Vem!', ele vem; e ao meu empregado 'Faze isto!', e ele o faz".
+        Ouvindo isso, Jesus ficou admirado.
+        Virou-se para a multidão que o seguia, e disse:
+        "Eu vos declaro que nem mesmo em Israel encontrei tamanha fé".
+        Os mensageiros voltaram para a casa do oficial e encontraram o empregado em perfeita saúde.
+        
+        Palavra da Salvação.
 ordinary.week24.2.odd:
   title: Segunda-feira da 24ª Semana
   subtitle: Tempo Comum
