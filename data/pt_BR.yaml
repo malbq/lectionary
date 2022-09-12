@@ -8729,7 +8729,7 @@ ordinary.week24.2.even:
         Virou-se para a multidão que o seguia, e disse:
         "Eu vos declaro que nem mesmo em Israel encontrei tamanha fé".
         Os mensageiros voltaram para a casa do oficial e encontraram o empregado em perfeita saúde.
-        
+
         Palavra da Salvação.
 ordinary.week24.2.odd:
   title: Segunda-feira da 24ª Semana
@@ -8751,14 +8751,61 @@ ordinary.week24.3.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Cor 12,12-14.27-31a
+      text: |
+        Leitura da Primeira Carta de São Paulo aos Coríntios
+
+        Irmãos,
+        como o corpo é um, embora tenha muitos membros, e como todos os membros do corpo, embora sejam muitos, formam um só corpo, assim também acontece com Cristo.
+        De fato, todos nós, judeus ou gregos, escravos ou livres, fomos batizados num único Espírito, para formarmos um único corpo, e todos nós bebemos de um único Espírito.
+        Com efeito, o corpo não é feito de um membro apenas, mas de muitos membros.
+        Vós, todos juntos, sois o corpo de Cristo e, individualmente, sois membros desse corpo.
+        28
+        E, na Igreja, Deus colocou, em primeiro lugar, os apóstolos; em segundo lugar, os profetas; em terceiro lugar, os que têm o dom e a missão de ensinar; depois, outras pessoas com dons diversos, a saber: dom de milagres, dom de curas, dom para obras de misericórdia, dom de governo e direção, dom de línguas.
+        Acaso todos são apóstolos? Todos são profetas? Todos ensinam? Todos realizam milagres?
+        Todos têm o dom das curas? Todos falam em línguas? Todos as interpretam?
+        Aspirai aos dons mais elevados.
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 99(100),2.3.4.5 (R. 3c)
+      text: |
+        R. Nós somos o seu povo e seu rebanho.
+
+        Aclamai o Senhor, ó terra inteira,
+        servi ao Senhor com alegria,
+        ide a ele cantando jubilosos! R.
+
+        Sabei que o Senhor, só ele, é Deus,
+        Ele mesmo nos fez, e somos seus,
+        nós somos seu povo e seu rebanho. R.
+
+        Entrai por suas portas dando graças,
+        e em seus átrios com hinos de louvor;
+        dai-lhe graças, seu nome bendizei! R.
+
+        Sim, é bom o Senhor e nosso Deus,
+        sua bondade perdura para sempre,
+        seu amor é fiel eternamente! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Lc 7,11-17
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Lucas
+
+        Naquele tempo,
+        Jesus dirigiu-se a uma cidade chamada Naim.
+        Com ele iam seus discípulos e uma grande multidão.
+        Quando chegou à porta da cidade, eis que levavam um defunto, filho único; e sua mãe era viúva.
+        Grande multidão da cidade a acompanhava.
+        Ao vê-la, o Senhor sentiu compaixão para com ela e lhe disse: "Não chores!"
+        Aproximou-se, tocou o caixão, e os que o carregavam pararam.
+        Então, Jesus disse: "Jovem, eu te ordeno, levanta-te!"
+        O que estava morto sentou-se e começou a falar.
+        E Jesus o entregou à sua mãe.
+        Todos ficaram com muito medo e glorificavam a Deus, dizendo:
+        "Um grande profeta apareceu entre nós e Deus veio visitar o seu povo".
+        E a notícia do fato espalhou-se pela Judeia inteira, e por toda a redondeza.
+        Palavra da Salvação.
 ordinary.week24.3.odd:
   title: Terça-feira da 24ª Semana
   subtitle: Tempo Comum
@@ -11198,5 +11245,152 @@ ordinary.week34.7.even:
         Ele estava ainda falando, quando apareceu uma nuvem que os cobriu com sua sombra. Os discípulos ficaram com medo ao entrarem dentro da nuvem.
         Da nuvem, porém, saiu uma voz que dizia: "Este é o meu Filho, o Escolhido. Escutai o que ele diz!"
         Enquanto a voz ressoava, Jesus encontrou-se sozinho. Os discípulos ficaram calados e naqueles dias não contaram a ninguém nada do que tinham visto.
+
+        Palavra da Salvação.
+'0914.1':
+  title: Exaltação da Santa Cruz
+  subtitle: Festa
+  color: red
+  readings:
+    - type: reading
+      ref: Nm 21,4b-9
+      text: |
+        Leitura do Livro dos Números
+
+        Naqueles dias,
+        os filhos de Israel partiram do monte Hor, pelo caminho que leva ao mar Vermelho, para contornarem o país de Edom.
+        Durante a viagem o povo começou a impacientar-se, e se pôs a falar contra Deus e contra Moisés, dizendo:
+        "Por que nos fizestes sair do Egito para morrermos no deserto?
+        Não há pão, falta água, e já estamos com nojo desse alimento miserável".
+        Então o Senhor mandou contra o povo serpentes venenosas, que os mordiam; e morreu muita gente em Israel.
+        O povo foi ter com Moisés e disse:
+        "Pecamos, falando contra o Senhor e contra ti. Roga ao Senhor que afaste de nós as serpentes".
+        Moisés intercedeu pelo povo, e o Senhor respondeu:
+        "Faze uma serpente de bronze e coloca-a como sinal sobre uma haste; aquele que for mordido e olhar para ela, viverá".
+        Moisés fez, pois, uma serpente de bronze e colocou-a como sinal sobre uma haste.
+        Quando alguém era mordido por uma serpente, e olhava para a serpente de bronze, ficava curado.
+
+        Palavra do Senhor.
+    - type: psalm
+      ref: Sl 77(78),1-2.34-35.36-37.38 (R. cf. 7c)
+      text: |
+        R. Das obras do Senhor, ó meu povo, não te esqueças!
+
+        Escuta, ó meu povo, a minha Lei,
+        ouve atento as palavras que eu te digo;
+        abrirei a minha boca em parábolas,
+        os mistérios do passado lembrarei. R.
+
+        Quando os feria, eles então o procuravam,
+        convertiam-se correndo para ele;
+        recordavam que o Senhor é sua rocha
+        e que Deus, seu Redentor, é o Deus Altíssimo. R.
+
+        Mas apenas o honravam com seus lábios
+        e mentiam ao Senhor com suas línguas;
+        seus corações enganadores eram falsos
+        e, infiéis, eles rompiam a Aliança. R.
+
+        Mas o Senhor, sempre benigno e compassivo,
+        não os matava e perdoava seu pecado;
+        quantas vezes dominou a sua ira
+        e não deu largas à vazão de seu furor. R.
+    - type: reading
+      ref: Fl 2,6-11
+      text: |
+        Leitura da Carta de São Paulo aos Filipenses
+
+        Jesus Cristo, existindo em condição divina, não fez do ser igual a Deus uma usurpação, mas ele esvaziou-se a si mesmo, assumindo a condição de escravo e tornando-se igual aos homens.
+        Encontrado com aspecto humano, humilhou-se a si mesmo, fazendo-se obediente até a morte, e morte de cruz.
+        Por isso, Deus o exaltou acima de tudo e lhe deu o Nome que está acima de todo nome.
+        Assim, ao nome de Jesus, todo joelho se dobre no céu, na terra e abaixo da terra, e toda língua proclame:
+        "Jesus Cristo é o Senhor"
+        - para a glória de Deus Pai.
+
+        Palavra do Senhor.
+    - type: gospel
+      ref: Jo 3,13-17
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João
+
+        Naquele tempo, disse Jesus a Nicodemos:
+        "Ninguém subiu ao céu, a não ser aquele que desceu do céu, o Filho do Homem.
+        Do mesmo modo como Moisés levantou a serpente no deserto, assim é necessário que o Filho do Homem seja levantado, para que todos os que nele crerem tenham a vida eterna.
+        Pois Deus amou tanto o mundo, que deu o seu Filho unigênito, para que não morra todo o que nele crer, mas tenha a vida eterna.
+        De fato, Deus não enviou o seu Filho ao mundo para condenar o mundo, mas para que o mundo seja salvo por ele".
+        
+        Palavra da Salvação.
+'0914':
+  title: Exaltação da Santa Cruz
+  subtitle: Festa
+  color: red
+  readings:
+    - type: reading
+      main:
+        ref: Nm 21,4b-9
+        text: |
+          Leitura do Livro dos Números
+
+          Naqueles dias,
+          os filhos de Israel partiram do monte Hor, pelo caminho que leva ao mar Vermelho, para contornarem o país de Edom.
+          Durante a viagem o povo começou a impacientar-se, e se pôs a falar contra Deus e contra Moisés, dizendo:
+          "Por que nos fizestes sair do Egito para morrermos no deserto?
+          Não há pão, falta água, e já estamos com nojo desse alimento miserável".
+          Então o Senhor mandou contra o povo serpentes venenosas, que os mordiam; e morreu muita gente em Israel.
+          O povo foi ter com Moisés e disse:
+          "Pecamos, falando contra o Senhor e contra ti. Roga ao Senhor que afaste de nós as serpentes".
+          Moisés intercedeu pelo povo, e o Senhor respondeu:
+          "Faze uma serpente de bronze e coloca-a como sinal sobre uma haste; aquele que for mordido e olhar para ela, viverá".
+          Moisés fez, pois, uma serpente de bronze e colocou-a como sinal sobre uma haste.
+          Quando alguém era mordido por uma serpente, e olhava para a serpente de bronze, ficava curado.
+
+          Palavra do Senhor.
+      optional:
+        ref: Fl 2,6-11
+        text: |
+          Leitura da Carta de São Paulo aos Filipenses
+
+          Jesus Cristo, existindo em condição divina, não fez do ser igual a Deus uma usurpação, mas ele esvaziou-se a si mesmo, assumindo a condição de escravo e tornando-se igual aos homens.
+          Encontrado com aspecto humano, humilhou-se a si mesmo, fazendo-se obediente até a morte, e morte de cruz.
+          Por isso, Deus o exaltou acima de tudo e lhe deu o Nome que está acima de todo nome.
+          Assim, ao nome de Jesus, todo joelho se dobre no céu, na terra e abaixo da terra, e toda língua proclame:
+          "Jesus Cristo é o Senhor"
+          - para a glória de Deus Pai.
+
+          Palavra do Senhor.
+    - type: psalm
+      ref: Sl 77(78),1-2.34-35.36-37.38 (R. cf. 7c)
+      text: |
+        R. Das obras do Senhor, ó meu povo, não te esqueças!
+
+        Escuta, ó meu povo, a minha Lei,
+        ouve atento as palavras que eu te digo;
+        abrirei a minha boca em parábolas,
+        os mistérios do passado lembrarei. R.
+
+        Quando os feria, eles então o procuravam,
+        convertiam-se correndo para ele;
+        recordavam que o Senhor é sua rocha
+        e que Deus, seu Redentor, é o Deus Altíssimo. R.
+
+        Mas apenas o honravam com seus lábios
+        e mentiam ao Senhor com suas línguas;
+        seus corações enganadores eram falsos
+        e, infiéis, eles rompiam a Aliança. R.
+
+        Mas o Senhor, sempre benigno e compassivo,
+        não os matava e perdoava seu pecado;
+        quantas vezes dominou a sua ira
+        e não deu largas à vazão de seu furor. R.
+    - type: gospel
+      ref: Jo 3,13-17
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João
+
+        Naquele tempo, disse Jesus a Nicodemos:
+        "Ninguém subiu ao céu, a não ser aquele que desceu do céu, o Filho do Homem.
+        Do mesmo modo como Moisés levantou a serpente no deserto, assim é necessário que o Filho do Homem seja levantado, para que todos os que nele crerem tenham a vida eterna.
+        Pois Deus amou tanto o mundo, que deu o seu Filho unigênito, para que não morra todo o que nele crer, mas tenha a vida eterna.
+        De fato, Deus não enviou o seu Filho ao mundo para condenar o mundo, mas para que o mundo seja salvo por ele".
 
         Palavra da Salvação.
