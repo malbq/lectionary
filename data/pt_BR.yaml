@@ -2481,7 +2481,7 @@ easter.week7.1.c:
   color: white
   readings:
     - type: reading
-      ref: 'At 1,1-11'
+      ref: At 1,1-11
       text: |
         Leitura dos Atos dos Apóstolos
 
@@ -2499,7 +2499,7 @@ easter.week7.1.c:
 
         Palavra do Senhor.
     - type: psalm
-      ref: 'Sl 46(47),2-3.6-7.8-9 (R.6)'
+      ref: Sl 46(47),2-3.6-7.8-9 (R.6)
       text: |
         R. Batei palmas, povos todos, o Senhor subiu ao toque da trombeta!
         Ou: R.Aleluia, Aleluia, Aleluia
@@ -2520,7 +2520,7 @@ easter.week7.1.c:
         está sentado no seu trono glorioso. R.
     - type: reading
       main:
-        ref: 'Ef 1,17-23'
+        ref: Ef 1,17-23
         text: |
           Leitura da Carta de São Paulo aos Efésios
 
@@ -2552,7 +2552,7 @@ easter.week7.1.c:
 
           Palavra do Senhor.
     - type: gospel
-      ref: 'Lc 24,46-53'
+      ref: Lc 24,46-53
       text: |
         Conclusão do Evangelho de Jesus Cristo segundo Lucas
 
@@ -6010,7 +6010,7 @@ ordinary.week16.1.c:
   color: green
   readings:
     - type: reading
-      ref: 'Gn 18,1-10a'
+      ref: Gn 18,1-10a
       text: |
         Leitura do Livro do Gênesis
 
@@ -6029,7 +6029,7 @@ ordinary.week16.1.c:
 
         Palavra do Senhor.
     - type: psalm
-      ref: 'Sl 14(15),2-3ab.3cd-4ab.5 (R. 1a)'
+      ref: Sl 14(15),2-3ab.3cd-4ab.5 (R. 1a)
       text: |
         R. Senhor, quem morará em vossa casa?
 
@@ -6047,7 +6047,7 @@ ordinary.week16.1.c:
         nem se deixa subornar contra o inocente.
         Jamais vacilará quem vive assim! R.
     - type: reading
-      ref: 'Cl 1,24-28'
+      ref: Cl 1,24-28
       text: |
         Leitura da Carta de São Paulo aos Colossenses
 
@@ -6060,7 +6060,7 @@ ordinary.week16.1.c:
 
         Palavra do Senhor.
     - type: gospel
-      ref: 'Lc 10,38-42'
+      ref: Lc 10,38-42
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Lucas
 
@@ -6078,7 +6078,7 @@ ordinary.week16.2.even:
   color: green
   readings:
     - type: reading
-      ref: 'Mq 6,1-4.6-8'
+      ref: Mq 6,1-4.6-8
       text: |
         Leitura da Profecia de Miquéias
 
@@ -6092,7 +6092,7 @@ ordinary.week16.2.even:
 
         Palavra do Senhor.
     - type: psalm
-      ref: 'Sl 49(50),5-6.8-9.16bc-17.21 e 23 (R. 23b)'
+      ref: Sl 49(50),5-6.8-9.16bc-17.21 e 23 (R. 23b)
       text: |
         R. A todo homem que procede retamente, eu mostrarei a salvação que vem de Deus.
 
@@ -6121,7 +6121,7 @@ ordinary.week16.2.even:
         A todo homem que procede retamente,
         eu mostrarei a salvação que vem de Deus". R.
     - type: gospel
-      ref: 'Mt 12,38-42'
+      ref: Mt 12,38-42
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Mateus
 
@@ -6153,7 +6153,7 @@ ordinary.week16.3.even:
   color: green
   readings:
     - type: reading
-      ref: 'Mq 7,14-15.18-20'
+      ref: Mq 7,14-15.18-20
       text: |
         Leitura da Profecia de Miquéias
 
@@ -6165,7 +6165,7 @@ ordinary.week16.3.even:
 
         Palavra do Senhor.
     - type: psalm
-      ref: 'Sl 84(85),2-4.5-6.7-8 (R. 8a)'
+      ref: Sl 84(85),2-4.5-6.7-8 (R. 8a)
       text: |
         R. Mostrai-nos, ó Senhor, vossa bondade.
 
@@ -6186,7 +6186,7 @@ ordinary.week16.3.even:
         Mostrai-nos, ó Senhor, vossa bondade,
         concedei-nos também vossa salvação! R.
     - type: gospel
-      ref: 'Mt 12,46-50'
+      ref: Mt 12,46-50
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Mateus
 
@@ -6218,7 +6218,7 @@ ordinary.week16.4.even:
   color: green
   readings:
     - type: reading
-      ref: 'Jr 1,1.4-10'
+      ref: Jr 1,1.4-10
       text: |
         Início do Livro do Profeta Jeremias
 
@@ -6233,7 +6233,7 @@ ordinary.week16.4.even:
 
         Palavra do Senhor.
     - type: psalm
-      ref: 'Sl 70(71),1-2.3-4a.5-6ab.15ab (R. 15)'
+      ref: Sl 70(71),1-2.3-4a.5-6ab.15ab (R. 15)
       text: |
         R. Minha boca anunciará vossa justiça.
 
@@ -6258,7 +6258,7 @@ ordinary.week16.4.even:
         Vós me ensinastes desde a minha juventude,
         e até hoje canto as vossas maravilhas. R.
     - type: gospel
-      ref: 'Mt 13,1-9'
+      ref: Mt 13,1-9
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Mateus
 
@@ -6293,7 +6293,7 @@ ordinary.week16.5.even:
   color: green
   readings:
     - type: reading
-      ref: 'Jr 2,1-3.7-8.12-13'
+      ref: Jr 2,1-3.7-8.12-13
       text: |
         Leitura do Livro do Profeta Jeremias
 
@@ -6307,7 +6307,7 @@ ordinary.week16.5.even:
 
         Palavra do Senhor.
     - type: psalm
-      ref: 'Sl 35(36),6-7ab.8-9.10-11 (R. 10a)'
+      ref: Sl 35(36),6-7ab.8-9.10-11 (R. 10a)
       text: |
         R. Em vós está a fonte da vida, ó Senhor!
 
@@ -6329,7 +6329,7 @@ ordinary.week16.5.even:
         Conservai aos fiéis vossa graça,
         e aos retos, a vossa justiça! R.
     - type: gospel
-      ref: 'Mt 13,10-17'
+      ref: Mt 13,10-17
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Mateus
 
@@ -6365,7 +6365,7 @@ ordinary.week16.6.even:
   readings:
     - type: reading
       main:
-        ref: 'Ct 3,1-4a'
+        ref: Ct 3,1-4a
         text: |
           Leitura do Livro do Cântico dos Cânticos
 
@@ -6377,7 +6377,7 @@ ordinary.week16.6.even:
 
           Palavra do Senhor.
       optional:
-        ref: '1Cor 5,14-17'
+        ref: 1Cor 5,14-17
         text: |
           Leitura da Segunda Carta de São Paulo aos Coríntios
 
@@ -6389,7 +6389,7 @@ ordinary.week16.6.even:
 
           Palavra do Senhor.
     - type: psalm
-      ref: 'Sl 62(63),2.3-4.5-6.8-9 (R. 2b)'
+      ref: Sl 62(63),2.3-4.5-6.8-9 (R. 2b)
       text: |
         R. A minh'alma tem sede de vós, Senhor!
 
@@ -6416,7 +6416,7 @@ ordinary.week16.6.even:
         Minha alma se agarra em vós;
         com poder vossa mão me sustenta. R.
     - type: gospel
-      ref: 'Jo 20,1-2.11-18'
+      ref: Jo 20,1-2.11-18
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo João
 
@@ -6452,7 +6452,7 @@ ordinary.week16.7.even:
   color: green
   readings:
     - type: reading
-      ref: 'Jr 7,1-11'
+      ref: Jr 7,1-11
       text: |
         Leitura do Livro do Profeta Jeremias
 
@@ -6470,7 +6470,7 @@ ordinary.week16.7.even:
 
         Palavra do Senhor.
     - type: psalm
-      ref: 'Sl 83(84),3.4.5-6a e 8a.11 (R. 2)'
+      ref: Sl 83(84),3.4.5-6a e 8a.11 (R. 2)
       text: |
         R. Quão amável, ó Senhor, é vossa casa!
 
@@ -6495,7 +6495,7 @@ ordinary.week16.7.even:
         Prefiro estar no limiar de vossa casa,
         a hospedar-me na mansão dos pecadores! R.
     - type: gospel
-      ref: 'Mt 13,24-30'
+      ref: Mt 13,24-30
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Mateus
 
@@ -6563,7 +6563,7 @@ ordinary.week17.1.c:
   color: green
   readings:
     - type: reading
-      ref: 'Gn 18,20-32'
+      ref: Gn 18,20-32
       text: |
         Leitura do Livro do Gênesis
 
@@ -6584,7 +6584,7 @@ ordinary.week17.1.c:
 
         Palavra do Senhor.
     - type: psalm
-      ref: 'Sl 137(138),1-2a.2bc-3.6-7ab.7c-8 (R. 3a)'
+      ref: Sl 137(138),1-2a.2bc-3.6-7ab.7c-8 (R. 3a)
       text: |
         R. Naquele dia em que gritei, vós me escutastes, ó Senhor!
 
@@ -6612,7 +6612,7 @@ ordinary.week17.1.c:
         Eu vos peço: não deixeis inacabada
         esta obra que fizeram vossas mãos! R.
     - type: reading
-      ref: 'Cl 2,12-14'
+      ref: Cl 2,12-14
       text: |
         Leitura da Carta de São Paulo aos Colossenses
 
@@ -6623,7 +6623,7 @@ ordinary.week17.1.c:
 
         Palavra do Senhor.
     - type: gospel
-      ref: 'Lc 11,1-13'
+      ref: Lc 11,1-13
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Lucas
 
@@ -6923,7 +6923,7 @@ ordinary.week18.4.even:
   color: green
   readings:
     - type: reading
-      ref: 'Jr 31,1-7'
+      ref: Jr 31,1-7
       text: |
         Leitura do Livro do Profeta Jeremias
 
@@ -6937,7 +6937,7 @@ ordinary.week18.4.even:
 
         Palavra do Senhor.
     - type: psalm
-      ref: 'Jr 31,10.11-12ab.13 (R. cf. 10d)'
+      ref: Jr 31,10.11-12ab.13 (R. cf. 10d)
       text: |
         R. O Senhor nos guardará qual pastor a seu rebanho.
 
@@ -6957,7 +6957,7 @@ ordinary.week18.4.even:
         mudarei em alegria o seu luto,
         serei consolo e conforto após a guerra. R.
     - type: gospel
-      ref: 'Mt 15,21-28'
+      ref: Mt 15,21-28
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Mateus
 
@@ -6991,7 +6991,7 @@ ordinary.week18.5.even:
   color: green
   readings:
     - type: reading
-      ref: 'Jr 31,31-34'
+      ref: Jr 31,31-34
       text: |
         Leitura do Livro do Profeta Jeremias
 
@@ -7002,7 +7002,7 @@ ordinary.week18.5.even:
 
         Palavra do Senhor.
     - type: psalm
-      ref: 'Sl 50(51),12-13.14-15.18-19 (R. 12a)'
+      ref: Sl 50(51),12-13.14-15.18-19 (R. 12a)
       text: |
         R. Ó Senhor, criai em mim um coração que seja puro!
 
@@ -7021,7 +7021,7 @@ ordinary.week18.5.even:
         Meu sacrifício é minha alma penitente,
         não desprezeis um coração arrependido! R.
     - type: gospel
-      ref: 'Mt 16,13-23'
+      ref: Mt 16,13-23
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Mateus
 
@@ -7059,7 +7059,7 @@ ordinary.week18.6.even:
   color: green
   readings:
     - type: reading
-      ref: 'Na 2,1.3.3,1-3.6-7'
+      ref: Na 2,1.3.3,1-3.6-7
       text: |
         Leitura da Profecia de Naum
 
@@ -7073,7 +7073,7 @@ ordinary.week18.6.even:
 
         Palavra do Senhor.
     - type: psalm
-      ref: 'Dt 32,35cd-36ab.39abcd.41 (R. 39c)'
+      ref: Dt 32,35cd-36ab.39abcd.41 (R. 39c)
       text: |
         R. Sou eu que tiro a vida, sou eu quem faz viver!
 
@@ -7092,7 +7092,7 @@ ordinary.week18.6.even:
         dos adversários todos hei de me vingar
         e vou retribuir aos que odeiam. R.
     - type: gospel
-      ref: 'Mt 16,24-28'
+      ref: Mt 16,24-28
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Mateus
 
@@ -7186,7 +7186,7 @@ ordinary.week19.1.c:
   color: green
   readings:
     - type: reading
-      ref: 'Sb 18,6-9'
+      ref: Sb 18,6-9
       text: |
         Leitura do Livro da Sabedoria
 
@@ -7197,7 +7197,7 @@ ordinary.week19.1.c:
 
         Palavra do Senhor.
     - type: psalm
-      ref: 'Sl 32(33),1.12.18-19.20.22 (R. 12b)'
+      ref: Sl 32(33),1.12.18-19.20.22 (R. 12b)
       text: |
         R. Feliz o povo que o Senhor escolheu por sua herança!
 
@@ -7217,7 +7217,7 @@ ordinary.week19.1.c:
         da mesma forma que em vós nós esperamos! R.
     - type: reading
       long:
-        ref: 'Hb 11,1-2.8-19'
+        ref: Hb 11,1-2.8-19
         text: |
           Leitura da Carta aos Hebreus
 
@@ -7239,7 +7239,7 @@ ordinary.week19.1.c:
 
           Palavra do Senhor.
       short:
-        ref: 'Hb 11,1-2.8-12'
+        ref: Hb 11,1-2.8-12
         text: |
           Leitura da Carta aos Hebreus
 
@@ -7255,7 +7255,7 @@ ordinary.week19.1.c:
           Palavra do Senhor.
     - type: gospel
       long:
-        ref: 'Lc 12,32-48'
+        ref: Lc 12,32-48
         text: |
           Proclamação do Evangelho de Jesus Cristo segundo Lucas
 
@@ -7281,7 +7281,7 @@ ordinary.week19.1.c:
 
           Palavra da Salvação.
       short:
-        ref: 'Lc 12,35-40'
+        ref: Lc 12,35-40
         text: |
           Proclamação do Evangelho de Jesus Cristo segundo Lucas
 
@@ -7301,7 +7301,7 @@ ordinary.week19.2.even:
   color: green
   readings:
     - type: reading
-      ref: 'Ez 1,2-5.24-28c'
+      ref: Ez 1,2-5.24-28c
       text: |
         Leitura da Profecia de Ezequiel
 
@@ -7317,7 +7317,7 @@ ordinary.week19.2.even:
 
         Palavra do Senhor.
     - type: psalm
-      ref: 'Sl 148,1-2.11-12ab.12c-14a.14bcd'
+      ref: Sl 148,1-2.11-12ab.12c-14a.14bcd
       text: |
         R. Da vossa glória estão cheios o céu e a terra.
         Ou: Aleluia, Aleluia, Aleluia.
@@ -7342,7 +7342,7 @@ ordinary.week19.2.even:
         É um hino para os filhos de Israel,
         este povo que ele ama e lhe pertence. R.
     - type: gospel
-      ref: 'Mt 17,22-27'
+      ref: Mt 17,22-27
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Mateus
 
@@ -8279,7 +8279,7 @@ ordinary.week23.4.even:
   color: green
   readings:
     - type: reading
-      ref: '1Cor 7,25-31'
+      ref: 1Cor 7,25-31
       text: |
         Leitura da Primeira Carta de São Paulo aos Coríntios
 
@@ -8294,7 +8294,7 @@ ordinary.week23.4.even:
 
         Palavra do Senhor.
     - type: psalm
-      ref: 'Sl 44(45),11-12.14-15.16-17 (R. 11a)'
+      ref: Sl 44(45),11-12.14-15.16-17 (R. 11a)
       text: |
         R. Escutai, minha filha, olhai, ouvi isto!
 
@@ -8313,7 +8313,7 @@ ordinary.week23.4.even:
         Deixareis vossos pais, mas tereis muitos filhos;
         fareis deles os reis soberanos da terra. R.
     - type: gospel
-      ref: 'Lc 6,20-26'
+      ref: Lc 6,20-26
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Lucas
 
@@ -8997,7 +8997,6 @@ ordinary.week24.7.even:
       ref: Lc 8,4-15
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Lucas
-
 
         Naquele tempo,
         reuniu-se uma grande multidão, e de todas as cidades iam ter com Jesus.
@@ -10826,17 +10825,82 @@ ordinary.week33.1.c:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Ml 3,19-20a
+      text: |
+        Leitura da Profecia de Malaquias
+
+        Eis que virá o dia, abrasador como fornalha, em que todos os soberbos e ímpios serão como palha; e esse dia vindouro haverá de queimá-los, diz o Senhor dos exércitos, tal que não lhes deixará raiz nem ramo.
+        Para vós, que temeis o meu nome, nascerá o sol da justiça, trazendo salvação em suas asas.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 97(98),5-6.7-8.9a.9bc (R. cf. 9)
+      text: |
+        R. O Senhor virá julgar a terra inteira; com justiça julgará.
+
+        Cantai salmos ao Senhor ao som da harpa
+        e da cítara suave!
+        Aclamai, com os clarins e as trombetas,
+        ao Senhor, o nosso Rei! R.
+
+        Aplauda o mar com todo ser que nele vive,
+        o mundo inteiro e toda gente!
+        As montanhas e os rios batam palmas
+        e exultem de alegria. R.
+
+        Exultem na presença do Senhor, pois ele vem,
+        vem julgar a terra inteira.
+        Julgará o universo com justiça
+        e as nações com equidade.
     - type: reading
-      ref: ''
-      text: ''
+      ref: 2Ts 3,7-12
+      text: |
+        Leitura da Segunda Carta de São Paulo aos Tessalonicenses
+
+        Irmãos:
+        Bem sabeis como deveis seguir o nosso exemplo, pois não temos vivido entre vós na ociosidade.
+        De ninguém recebemos de graça o pão que comemos.
+        Pelo contrário, trabalhamos com esforço e cansaço, de dia e de noite, para não sermos pesados a ninguém.
+        Não que não tivéssemos o direito de fazê-lo, mas queríamos apresentar-nos como exemplo a ser imitado.
+        Com efeito, quando estávamos entre vós, demos esta regra:
+        "Quem não quer trabalhar, também não deve comer".
+        Ora, ouvimos dizer que entre vós há alguns que vivem à toa, muito ocupados em não fazer nada.
+        Em nome do Senhor Jesus Cristo, ordenamos e exortamos a estas pessoas que, trabalhando, comam na tranquilidade o seu próprio pão.
+        
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Lc 21,5-19
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Lucas
+
+        Naquele tempo,
+        algumas pessoas comentavam a respeito do Templo que era enfeitado com belas pedras e com ofertas votivas.
+        Jesus disse:
+        "Vós admirais estas coisas?
+        Dias virão em que não ficará pedra sobre pedra.
+        Tudo será destruído".
+        Mas eles perguntaram:
+        "Mestre, quando acontecerá isto? 
+        E qual vai ser o sinal de que estas coisas estão para acontecer?"
+        Jesus respondeu: 
+        "Cuidado para não serdes enganados, porque muitos virão em meu nome, dizendo:
+        'Sou eu!' e ainda: 'O tempo está próximo.'
+        Não sigais essa gente!
+        Quando ouvirdes falar de guerras e revoluções, não fiqueis apavorados.
+        É preciso que estas coisas aconteçam primeiro, mas não será logo o fim.'
+        E Jesus continuou:
+        "Um povo se levantará contra outro povo, um país atacará outro país.
+        Haverá grandes terremotos, fomes e pestes em muitos lugares; acontecerão coisas pavorosas e grandes sinais serão vistos no céu.
+        Antes, porém, que estas coisas aconteçam, sereis presos e perseguidos; sereis entregues às sinagogas e postos na prisão; sereis levados diante de reis e governadores por causa do meu nome.
+        Esta será a ocasião em que testemunhareis a vossa fé.
+        Fazei o firme propósito de não planejar com antecedência a própria defesa; porque eu vos darei palavras tão acertadas, que nenhum dos inimigos vos poderá resistir ou rebater.
+        Sereis entregues até mesmo pelos próprios pais, irmãos, parentes e amigos.
+        E eles matarão alguns de vós.
+        Todos vos odiarão por causa do meu nome.
+        Mas vós não perdereis um só fio de cabelo da vossa cabeça.
+        É permanecendo firmes que ireis ganhar a vida!"
+        
+        Palavra da Salvação.
 ordinary.week33.2.even:
   title: Segunda-feira da 33ª Semana
   subtitle: Tempo Comum
@@ -11230,7 +11294,7 @@ ordinary.week34.7.even:
   color: white
   readings:
     - type: reading
-      ref: 'Dn 7,9-10,13-14'
+      ref: Dn 7,9-10,13-14
       text: |
         Leitura da Profecia de Daniel
 
@@ -11241,7 +11305,7 @@ ordinary.week34.7.even:
 
         Palavra do Senhor.
     - type: psalm
-      ref: 'Sl 96(97),1-2.5-6.9 (R. 1a.9a)'
+      ref: Sl 96(97),1-2.5-6.9 (R. 1a.9a)
       text: |
         R. Deus é Rei, é o Altíssimo, muito acima do universo.
 
@@ -11259,7 +11323,7 @@ ordinary.week34.7.even:
         muito acima do universo que criastes,
         e de muito superais todos os deuses. R.
     - type: reading
-      ref: '2Pd 1,16-19'
+      ref: 2Pd 1,16-19
       text: |
         Leitura da Segunda Carta de São Pedro
 
@@ -11270,7 +11334,7 @@ ordinary.week34.7.even:
 
         Palavra do Senhor.
     - type: gospel
-      ref: 'Lc 9,28b-36'
+      ref: Lc 9,28b-36
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Lucas
 
@@ -11293,7 +11357,7 @@ ordinary.week34.7.even:
   readings:
     - type: reading
       main:
-        ref: 'Dn 7,9-10,13-14'
+        ref: Dn 7,9-10,13-14
         text: |
           Leitura da Profecia de Daniel
 
@@ -11304,7 +11368,7 @@ ordinary.week34.7.even:
 
           Palavra do Senhor.
       optional:
-        ref: '2Pd 1,16-19'
+        ref: 2Pd 1,16-19
         text: |
           Leitura da Segunda Carta de São Pedro
 
@@ -11315,7 +11379,7 @@ ordinary.week34.7.even:
 
           Palavra do Senhor.
     - type: psalm
-      ref: 'Sl 96(97),1-2.5-6.9 (R. 1a.9a)'
+      ref: Sl 96(97),1-2.5-6.9 (R. 1a.9a)
       text: |
         R. Deus é Rei, é o Altíssimo, muito acima do universo.
 
@@ -11333,7 +11397,7 @@ ordinary.week34.7.even:
         muito acima do universo que criastes,
         e de muito superais todos os deuses. R.
     - type: gospel
-      ref: 'Lc 9,28b-36'
+      ref: Lc 9,28b-36
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Lucas
 
