@@ -2815,14 +2815,75 @@ ordinary.week1.6.odd:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Hb 4,1-5.11
+      text: |
+        Leitura da Carta aos Hebreus
+
+        Irmãos,
+        tenhamos cuidado, enquanto nos é oferecida a oportunidade de entrar no repouso de Deus, não aconteça que alguém de vós fique para trás.
+        Também nós, como eles, recebemos uma Boa-Nova.
+        Mas a proclamação da palavra de nada lhes adiantou, por não ter sido acompanhada da fé naqueles que a tinham ouvido, enquanto nós, que acreditamos, entramos no seu repouso.
+        É assim como ele falou:
+        "Por isso jurei na minha ira: jamais entrarão no meu repouso".
+        Isso, não obstante as obras de Deus estarem terminadas desde a criação do mundo.
+        Pois, em certos lugares, assim falou do sétimo dia:
+        "E Deus repousou no sétimo dia de todas as suas obras",
+        e ainda novamente:
+        "Não entrarão no meu repouso".
+        Esforcemo-nos, portanto, por entrar neste repouso, para que ninguém repita o acima referido exemplo de desobediência.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 77(78),3 e 4bc.6c-7.8 (R. cf. 7c)
+      text: |
+        R. Não vos esqueçais das obras do Senhor!
+
+        Tudo aquilo que ouvimos e aprendemos,
+        e transmitiram para nós os nossos pais,
+        à nova geração nós contaremos:
+        As grandezas do Senhor e seu poder R.
+
+        Levantem-se e as contem a seus filhos,
+        para que ponham no Senhor sua esperança;
+        das obras do Senhor não se esqueçam,
+        e observem fielmente os seus preceitos. R.
+
+        Nem se tornem, a exemplo de seus pais,
+        rebelde e obstinada geração,
+        uma raça de inconstante coração,
+        infiel ao Senhor Deus, em seu espírito. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 2,1-12
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos
+
+        Alguns dias depois,
+        Jesus entrou de novo em Cafarnaum.
+        Logo se espalhou a notícia de que ele estava em casa.
+        E reuniram-se ali tantas pessoas, que já não havia lugar, nem mesmo diante da porta.
+        E Jesus anunciava-lhes a Palavra.
+        Trouxeram-lhe, então, um paralítico, carregado por quatro homens.
+        Mas não conseguindo chegar até Jesus, por causa da multidão, abriram então o teto, bem em cima do lugar onde ele se encontrava.
+        Por essa abertura desceram a cama em que o paralítico estava deitado.
+        Quando viu a fé daqueles homens, Jesus disse ao paralítico:
+        "Filho, os teus pecados estão perdoados".
+        Ora, alguns mestres da Lei, que estavam ali sentados, refletiam em seus corações:
+        "Como este homem pode falar assim?
+        Ele está blasfemando: ninguém pode perdoar pecados, a não ser Deus".
+        Jesus percebeu logo o que eles estavam pensando no seu íntimo, e disse: 
+        "Por que pensais assim em vossos corações?
+        O que é mais fácil:
+        dizer ao paralítico: 'Os teus pecados estão perdoados',
+        ou dizer: 'Levanta-te, pega a tua cama e anda'?
+        Pois bem, para que saibais que o Filho do Homem tem, na terra, poder de perdoar pecados,
+        - disse ele ao paralítico: -
+        eu te ordeno:
+        levanta-te, pega tua cama, e vai para tua casa!"
+        O paralítico então se levantou e, carregando a sua cama, saiu diante de todos.
+        E ficaram todos admirados e louvavam a Deus, dizendo:
+        "Nunca vimos uma coisa assim".
+        
+        Palavra da Salvação.
 ordinary.week1.7.even:
   title: Sábado da 1ª Semana
   subtitle: Tempo Comum
