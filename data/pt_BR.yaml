@@ -3090,14 +3090,67 @@ ordinary.week2.2.odd:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Hb 5,1-10
+      text: |
+        Leitura da Carta aos Hebreus
+
+        Todo sumo sacerdote é tirado do meio dos homens e instituído em favor dos homens nas coisas que se referem a Deus, para oferecer dons e sacrifícios pelos pecados.
+        Sabe ter compaixão dos que estão na ignorância e no erro, porque ele mesmo está cercado de fraqueza.
+        Por isso, deve oferecer sacrifícios tanto pelos pecados do povo, quanto pelos seus próprios.
+        Ninguém deve atribuir-se esta honra, senão o que foi chamado por Deus, como Aarão.
+        Deste modo, também Cristo não se atribuiu a si mesmo a honra de ser sumo sacerdote, mas foi aquele que lhe disse:
+        "Tu és o meu Filho, eu hoje te gerei".
+        Como diz em outra passagem:
+        "Tu és sacerdote para sempre, na ordem de Melquisedec".
+        Cristo, nos dias de sua vida terrestre, dirigiu preces e súplicas, com forte clamor e lágrimas, àquele que era capaz de salvá-lo da morte.
+        E foi atendido, por causa de sua entrega a Deus.
+        Mesmo sendo Filho, aprendeu o que significa a obediência a Deus por aquilo que ele sofreu.
+        Mas, na consumação de sua vida, tornou-se causa de salvação eterna para todos os que lhe obedecem.
+        De fato, ele foi por Deus proclamado sumo sacerdote na ordem de Melquisedec.
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 109(110),1.2.3.4 (R. 4bc)
+      text: |
+        R. Tu és sacerdote eternamente segundo a ordem do rei Melquisedec!
+
+        Palavra do Senhor ao meu Senhor:
+        "Assenta-te ao lado meu direito
+        até que eu ponha os inimigos teus
+        como escabelo por debaixo de teus pés!" R.
+
+        O Senhor estenderá desde Sião
+        vosso cetro de poder, pois Ele diz:
+        "Domina com vigor teus inimigos; R.
+
+        tu és príncipe desde o dia em que nasceste;
+        na glória e esplendor da santidade,
+        como o orvalho, antes da aurora, eu te gerei!" R.
+
+        Jurou o Senhor e manterá sua palavra:
+        "Tu és sacerdote eternamente,
+        segundo a ordem do rei Melquisedec!" R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 2,18-22
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos
+
+        Naquele tempo,
+        os discípulos de João Batista e os fariseus estavam jejuando.
+        Então, vieram dizer a Jesus:
+        "Por que os discípulos de João e os discípulos dos fariseus jejuam, e os teus discípulos não jejuam?"
+        Jesus respondeu:
+        "Os convidados de um casamento poderiam, por acaso, fazer jejum, enquanto o noivo está com eles?
+        Enquanto o noivo está com eles, os convidados não podem jejuar.
+        Mas vai chegar o tempo em que o noivo será tirado do meio deles;
+        aí, então, eles vão jejuar.
+        Ninguém põe um remendo de pano novo numa roupa velha;
+        porque o remendo novo repuxa o pano velho e o rasgão fica maior ainda.
+        Ninguém põe vinho novo em odres velhos;
+        porque o vinho novo arrebenta os odres velhos e o vinho e os odres se perdem.
+        Por isso, vinho novo em odres novos'.
+
+        Palavra da Salvação.
 ordinary.week2.3.even:
   title: Terça-feira da 2ª Semana
   subtitle: Tempo Comum
@@ -3118,14 +3171,61 @@ ordinary.week2.3.odd:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Hb 6,10-20
+      text: |
+        Leitura da Carta aos Hebreus
+
+        Irmãos,
+        Deus não é injusto, para esquecer aquilo que estais fazendo e a caridade que demostrastes em seu nome, servindo e continuando a servir os santos.
+        Mas desejamos que cada um de vós mostre até ao fim este mesmo empenho pela plena realização da esperança, para não serdes lentos à compreensão, mas imitadores daqueles que, pela fé e a perseverança, se tornam herdeiros das promessas.
+        Pois quando Deus fez a promessa a Abraão, não havendo alguém maior por quem jurar, jurou por si mesmo, dizendo:
+        "Eu te cumularei de bênçãos e te multiplicarei em grande número".
+        E assim, Abraão foi perseverante e alcançou a promessa.
+        Os homens juram, de fato, por alguém mais importante, e a garantia do juramento põe fim a qualquer contestação.
+        Por isso, querendo Deus mostrar, com mais firmeza, aos herdeiros da promessa, o caráter irrevogável da sua decisão, interveio com um juramento.
+        Assim, por meio de dois atos irrevogáveis, nos quais não pode haver mentira por parte de Deus, encontramos profunda consolação, nós que tudo deixamos para conseguir a esperança proposta.
+        A esperança, com efeito, é para nós qual âncora da vida, segura e firme, penetrando para além da cortina do santuário, aonde Jesus entrou por nós, como precursor, feito sumo sacerdote eterno na ordem de Melquisedec.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 110(111),1-2.4-5.9 e 10c (R. 5b)
+      text: |
+        R. O Senhor se lembra sempre da Aliança.
+
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Eu agradeço a Deus de todo o coração
+        junto com todos os seus justos reunidos!
+        Que grandiosas são as obras do Senhor,
+        elas merecem todo o amor e admiração! R.
+
+        O Senhor bom e clemente nos deixou
+        a lembrança de suas grandes maravilhas.
+        Ele dá o alimento aos que o temem
+        e jamais esquecerá sua Aliança. R.
+
+        Enviou libertação para o seu povo,
+        confirmou sua Aliança para sempre.
+        Seu nome é santo e é digno de respeito;
+        Permaneça eternamente o seu louvor R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 2,23-28
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos
+
+        Jesus estava passando por uns campos de trigo, em dia de sábado.
+        Seus discípulos começaram a arrancar espigas, enquanto caminhavam.
+        Então os fariseus disseram a Jesus:
+        "Olha! Por que eles fazem em dia de sábado o que não é permitido?"
+        Jesus lhes disse:
+        "Por acaso, nunca lestes o que Davi e seus companheiros fizeram quando passaram necessidade e tiveram fome?
+        Como ele entrou na casa de Deus, no tempo em que Abiatar era sumo sacerdote, comeu os pães oferecidos a Deus, e os deu também aos seus companheiros?
+        No entanto, só aos sacerdotes é permitido comer esses pães".
+        E acrescentou:
+        "O sábado foi feito para o homem, e não o homem para o sábado.
+        Portanto, o Filho do Homem é senhor também do sábado".
+
+        Palavra da Salvação.
 ordinary.week2.4.even:
   title: Quarta-feira da 2ª Semana
   subtitle: Tempo Comum
@@ -3146,14 +3246,65 @@ ordinary.week2.4.odd:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Hb 7,1-3.15-17
+      text: |
+        Leitura da Carta aos Hebreus
+
+        Irmãos,
+        Melquisedec, rei de Salém, sacerdote de Deus Altíssimo, saiu ao encontro de Abraão, quando esse regressava do combate contra os reis, e o abençoou.
+        Foi a ele que Abraão entregou o dízimo de tudo.
+        E o seu nome significa, em primeiro lugar, "Rei de Justiça";
+        e, depois: "Rei de Salém", o que quer dizer, 'Rei da Paz'.
+        Sem pai, sem mãe, sem genealogia, sem início de dias, nem fim de vida!
+        É assim que ele se assemelha ao Filho de Deus e permanece sacerdote para sempre.
+        Isto se torna ainda mais evidente, quando surge um outro sacerdote, semelhante a Melquisedec, não em virtude de uma prescrição de ordem carnal, mas segunda a força de uma vida imperecível.
+        Pois diz o testemunho:
+        "Tu és sacerdote para sempre na ordem de Melquisedec".
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 109(110),1.2.3.4 (R. 4bc)
+      text: |
+        R. Tu és eternamente sacerdote segundo a ordem do rei Melquisedec!
+
+        Palavra do Senhor ao meu Senhor:
+        "Assenta-te ao lado meu direito
+        até que eu ponha os inimigos teus
+        como escabelo por debaixo de teus pés!" R.
+
+        O Senhor estenderá desde Sião
+        vosso cetro de poder, pois Ele diz:
+        "Domina com vigor teus inimigos; R.
+
+        tu és príncipe desde o dia em que nasceste;
+        na glória e esplendor da santidade,
+        como o orvalho, antes da aurora, eu te gerei!" R.
+
+        Jurou o Senhor e manterá sua palavra:
+        "Tu és sacerdote eternamente,
+        segundo a ordem do rei Melquisedec!" R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 3,1-6
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos
+
+        Naquele tempo,
+        Jesus entrou de novo na sinagoga.
+        Havia ali um homem com a mão seca.
+        Alguns o observavam para ver se haveria de curar em dia de sábado, para poderem acusá-lo.
+        Jesus disse ao homem da mão seca:
+        "Levanta-te e fica aqui no meio!"
+        E perguntou-lhes:
+        "É permitido no sábado fazer o bem ou fazer o mal?
+        Salvar uma vida ou deixá-la morrer?"
+        Mas eles nada disseram.
+        Jesus, então, olhou ao seu redor, cheio de ira e tristeza, porque eram duros de coração;
+        e disse ao homem:
+        "Estende a mão."
+        Ele a estendeu e a mão ficou curada.
+        Ao saírem, os fariseus com os partidários de Herodes, imediatamente tramaram, contra Jesus, a maneira como haveriam de matá-lo.
+
+        Palavra da Salvação.
 ordinary.week2.5.even:
   title: Quinta-feira da 2ª Semana
   subtitle: Tempo Comum
@@ -3174,14 +3325,69 @@ ordinary.week2.5.odd:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Hb 7,25-8,6
+      text: |
+        Leitura da Carta aos Hebreus
+
+        Irmãos,
+        Jesus é capaz de salvar para sempre aqueles que, por seu intermédio, se aproximam de Deus.
+        Ele está sempre vivo para interceder por eles.
+        Tal é precisamente o sumo sacerdote que nos convinha:
+        santo, inocente, sem mancha, separado dos pecadores e elevado acima dos céus.
+        Ele não precisa, como os sumos sacerdotes oferecer sacrifícios em cada dia, primeiro por seus próprios pecados e depois pelos do povo.
+        Ele já o fez uma vez por todas, oferecendo-se a si mesmo.
+        A Lei, com efeito, constituiu sumos sacerdotes sujeitos à fraqueza, enquanto a palavra do juramento, que veio depois da Lei, constituiu alguém que é Filho, perfeito para sempre.
+        O tema mais importante da nossa exposição é este:
+        temos um sumo sacerdote tão grande, que se assentou à direita do trono da majestade, nos céus.
+        Ele é ministro do Santuário e da Tenda verdadeira, armada pelo Senhor, e não por mão humana.
+        Todo sumo sacerdote, com efeito, é constituído para oferecer dádivas e sacrifícios;
+        portanto, é necessário que tenha algo a oferecer.
+        Na verdade, se Cristo estivesse na terra, não seria nem mesmo sacerdote, pois já existem os que oferecem dádivas de acordo com a Lei.
+        Estes celebram um culto que é cópia e sombra das realidades celestes, como foi dito a Moisés, quando estava para executar a construção da Tenda:
+        "Vê, faze tudo segundo o modelo que te foi mostrado sobre a montanha".
+        Agora, porém, Cristo possui um ministério superior.
+        Pois ele é o mediador de uma aliança bem melhor, baseada em promessas melhores.
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 39(40),7-8a.8b-9.10.17 (R. cf. 8a.9a)
+      text: |
+        R. Eis que venho fazer, com prazer, a vossa vontade, Senhor!
+
+        Sacrifício e oblação não quisestes,
+        mas abristes, Senhor, meus ouvidos;
+        não pedistes ofertas nem vítimas,
+        holocaustos por nossos pecados,
+        E então eu vos disse: "Eis que venho!" R.
+
+        Sobre mim está escrito no livro:
+        "Com prazer faço a vossa vontade,
+        guardo em meu coração vossa lei!" R.
+
+        Boas-novas de vossa justiça
+        anunciei numa grande assembleia;
+        vós sabeis: não fechei os meus lábios! R.
+
+        Mas se alegre e em vós rejubile
+        todo ser que vos busca, Senhor!
+        Digam sempre: "É grande o Senhor!"
+        os que buscam em vós seu auxílio. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 3,7-12
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos
+
+        Naquele tempo,
+        Jesus se retirou para a beira do mar, junto com seus discípulos.
+        Muita gente da Galileia o seguia.
+        E também muita gente da Judeia, de Jerusalém, da Idumeia, do outro lado do Jordão, dos territórios de Tiro e Sidônia, foi até Jesus, porque tinham ouvido falar de tudo o que ele fazia.
+        Então Jesus pediu aos discípulos que lhe providenciassem uma barca, por causa da multidão, para que não o comprimisse.
+        Com efeito, Jesus tinha curado muitas pessoas, e todos os que sofriam de algum mal jogavam-se sobre ele para tocá-lo.
+        Vendo Jesus, os espíritos maus caíam a seus pés, gritando: 
+        "Tu és o Filho de Deus!"
+        Mas Jesus ordenava severamente para não dizerem quem ele era.
+
+        Palavra da Salvação.
 ordinary.week2.6.even:
   title: Sexta-feira da 2ª Semana
   subtitle: Tempo Comum
@@ -3202,14 +3408,63 @@ ordinary.week2.6.odd:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Hb 8,6-13
+      text: |
+        Leitura da Carta aos Hebreus
+
+        Irmãos,
+        agora, Cristo possui um ministério superior.
+        Pois ele é o mediador de uma aliança bem melhor, baseada em promessas melhores.
+        De fato, se a primeira aliança fosse sem defeito, não se procuraria estabelecer uma segunda.
+        Com efeito, Deus adverte:
+        "Dias virão, diz o Senhor, em que concluirei com a casa de Israel e com a casa de Judá uma nova aliança.
+        Não como a aliança que eu fiz com os seus pais, no dia em que os conduzi pela mão para fazê-los sair da terra do Egito.
+        Pois eles não permaneceram fiéis à minha aliança;
+        por isso, me desinteressei deles, diz o Senhor.
+        Eis a aliança que estabelecerei com o povo de Israel, depois daqueles dias - diz o Senhor:
+        colocarei minhas leis na sua mente e as gravarei no seu coração, e serei o seu Deus, e eles serão o meu povo.
+        Ninguém mais ensinará o seu próximo, e nem o seu irmão, dizendo:
+        'Conhece o Senhor!'.
+        Porque todos me conhecerão,  desde o menor até o maior.
+        Porque terei misericórdia das suas faltas, e não me lembrarei mais dos seus pecados".
+        Assim, ao falar de nova aliança, declarou velha a primeira.
+        Ora, o que envelhece e se torna antiquado está prestes a desaparecer.
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 84(85),8 e 10.11-12.13-14 (R. 11a)
+      text: |
+        R. A verdade e o amor se encontrarão.
+
+        Mostrai-nos, ó Senhor, vossa bondade,
+        concedei-nos também vossa salvação!
+        Está perto a salvação dos que o temem,
+        e a glória habitará em nossa terra. R.
+
+        A verdade e o amor se encontrarão,
+        a justiça e a paz se abraçarão;
+        da terra brotará a fidelidade,
+        e a justiça olhará dos altos céus. R.
+
+        O Senhor nos dará tudo o que é bom,
+        e a nossa terra nos dará suas colheitas;
+        a justiça andará na sua frente
+        e a salvação há de seguir os passos seus. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 3,13-19
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos
+
+        Naquele tempo,
+        Jesus subiu ao monte e chamou os que ele quis.
+        E foram até ele.
+        Então Jesus designou Doze, para que ficassem com ele e para enviá-los a pregar, com autoridade para expulsar os demônios.
+        Designou, pois, os Doze:
+        Simão, a quem deu o nome de Pedro;
+        Tiago e João, filhos de Zebedeu, aos quais deu o nome de Boanerges, que quer dizer "filhos do trovão";
+        André, Filipe, Bartolomeu, Mateus, Tomé, Tiago, filho de Alfeu, Tadeu, Simão, o cananeu, e Judas Iscariotes, aquele que depois o traiu.
+
+        Palavra da Salvação.
 ordinary.week2.7.even:
   title: Sábado da 2ª Semana
   subtitle: Tempo Comum
@@ -3230,31 +3485,131 @@ ordinary.week2.7.odd:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Hb 9,2-3.11-14
+      text: |
+        Leitura da Carta aos Hebreus
+
+        Irmãos,
+        foi construída uma primeira tenda, chamada o Santo, onde se encontravam o candelabro, a mesa e os pães da proposição.
+        Atrás da segunda cortina, havia outra tenda, chamada o Santo dos Santos.
+        Cristo, porém, veio como sumo sacerdote dos bens futuros.
+        Através de uma tenda maior e mais perfeita, que não é obra de mãos humanas, isto é, que não faz parte desta criação, e não com o sangue de bodes e bezerros, mas com o seu próprio sangue, ele entrou no Santuário uma vez por todas, obtendo uma redenção eterna.
+        De fato, se o sangue de bodes e touros, e a cinza de novilhas espalhada sobre os seres impuros os santifica e realiza a pureza ritual dos corpos, quanto mais o Sangue de Cristo, purificará a nossa consciência das obras mortas, para servirmos ao Deus vivo, pois, em virtude do espírito eterno, Cristo se ofereceu a si mesmo a Deus
+        como vítima sem mancha.
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 46(47),2-3.6-7.8-9 (R. 6)
+      text: |
+        R. Por entre aclamações Deus se elevou, o Senhor subiu ao toque da trombeta.
+
+        Povos todos do universo, batei palmas,
+        gritai a Deus aclamações de alegria!
+        Porque sublime é o Senhor, o Deus Altíssimo,
+        o soberano que domina toda a terra. R.
+
+        Por entre aclamações Deus se elevou,
+        o Senhor subiu ao toque da trombeta.
+        Salmodiai ao nosso Deus ao som da harpa,
+        salmodiai ao som da harpa ao nosso Rei! R.
+
+        Porque Deus é o grande Rei de toda a terra,
+        ao som da harpa acompanhai os seus louvores!
+        Deus reina sobre todas as nações,
+        está sentado no seu trono glorioso. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 3,20-21
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos
+
+        Naquele tempo,
+        Jesus voltou para casa com os discípulos.
+        E de novo se reuniu tanta gente que eles nem sequer podiam comer.
+        Quando souberam disso, os parentes de Jesus saíram para agarrá-lo, porque diziam que estava fora de si.
+
+        Palavra da Salvação.
 ordinary.week3.1.a:
   title: Domingo da 3ª Semana
   subtitle: Tempo Comum
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Is 8,23b-9,3
+      text: |
+        Leitura do Livro do Profeta Isaías
+
+        No tempo passado o Senhor humilhou a terra de Zabulon e a terra de Neftali;
+        mas recentemente cobriu de glória o caminho do mar, do além-Jordão e da Galileia das nações.
+        O povo, que andava na escuridão, viu uma grande luz;
+        para os que habitavam nas sombras da morte, uma luz resplandeceu.
+        Fizeste crescer a alegria, e aumentaste a felicidade;
+        todos se regozijam em tua presença como alegres ceifeiros na colheita, ou como exaltados guerreiros ao dividirem os despojos.
+        Pois o jugo que oprimia o povo, - a carga sobre os ombros, o orgulho dos fiscais - tu os abateste como na jornada de Madiã.
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 26(27),1.4.13-14 (R. 1a.1c)
+      text: |
+        R. O Senhor é minha luz e salvação. O Senhor é a proteção da minha vida.
+
+        O Senhor é minha luz e salvação;
+        de quem eu terei medo?
+        O Senhor é a proteção da minha vida;
+        perante quem eu tremerei? R.
+
+        Ao Senhor eu peço apenas uma coisa,
+        e é só isto que eu desejo:
+        habitar no santuário do Senhor
+        por toda a minha vida;
+        saborear a suavidade do Senhor
+        e contemplá-lo no seu templo. R.
+
+        Sei que a bondade do Senhor eu hei de ver
+        na terra dos viventes.
+        Espera no Senhor e tem coragem,
+        espera no Senhor! R.
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Cor 1,10-13.17
+      text: |
+        Leitura da Primeira Carta de São Paulo aos Coríntios
+
+        Irmãos, eu vos exorto,
+        pelo nome do Senhor nosso, Jesus Cristo, a que sejais todos concordes uns com os outros e não admitais divisões entre vós.
+        Pelo contrário, sede bem unidos e concordes no pensar e no falar.
+        Com efeito, pessoas da família de Cloé informaram-me a vosso respeito, meus irmãos, que está havendo contendas entre vós.
+        Digo isto, porque cada um de vós afirma:
+        "Eu sou de Paulo"; ou: "Eu sou de Apolo"; ou: "Eu sou de Cefas"; ou: "Eu sou de Cristo!"
+        Será que Cristo está dividido?
+        Acaso Paulo é que foi crucificado por amor de vós?
+        Ou é no nome de Paulo que fostes batizados?
+        De fato, Cristo não me enviou para batizar, mas para pregar a boa nova da salvação, sem me valer dos recursos da oratória, para não privar a cruz de Cristo da sua força própria.
+
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mt 4,12-23
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Mateus
+
+        Ao saber que João tinha sido preso,
+        Jesus voltou para a Galileia.
+        Deixou Nazaré e foi morar em Cafarnaum, que fica às margens do mar da Galileia, no território de Zabulon e Neftali, para se cumprir o que foi dito pelo profeta Isaías:
+        "Terra de Zabulon, terra de Neftali, caminho do mar, região do outro lado do rio Jordão, Galileia dos pagãos!
+        O povo que vivia nas trevas viu uma grande luz e para os que viviam na região escura da morte brilhou uma luz".
+        Daí em diante Jesus começou a pregar dizendo:
+        "Convertei-vos, porque o Reino dos Céus está próximo".
+        Quando Jesus andava à beira do mar da Galileia, viu dois irmãos:
+        Simão, chamado Pedro, e seu irmão André.
+        Estavam lançando a rede ao mar, pois eram pescadores.
+        Jesus disse a eles: "Segui-me, e eu farei de vós pescadores de homens".
+        Eles, imediatamente deixaram as redes e o seguiram.
+        Caminhando um pouco mais, Jesus viu outros dois irmãos:
+        Tiago, filho de Zebedeu, e seu irmão João.
+        Estavam na barca com seu pai Zebedeu consertando as redes.
+        Jesus os chamou.
+        Eles, imediatamente deixaram a barca e o pai, e o seguiram.
+        Jesus andava por toda a Galileia, ensinando em suas sinagogas, pregando o Evangelho do Reino e curando todo tipo de doença e enfermidade do povo.
+        
+        Palavra da Salvação.
 ordinary.week3.1.b:
   title: Domingo da 3ª Semana
   subtitle: Tempo Comum
