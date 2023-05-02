@@ -2106,7 +2106,7 @@ easter.week4.2:
         vi uma coisa parecida com uma grande toalha que, sustentada pelas quatro pontas, descia do céu e chegava até junto de mim.
         Olhei atentamente e vi dentro dela quadrúpedes da terra, animais selvagens, répteis e aves do céu.
         Depois ouvi uma voz que me dizia: 'Levanta-te, Pedro, mata e come'.
-        Eu respondi: 
+        Eu respondi:
         'De modo nenhum, Senhor! Porque jamais entrou coisa profana e impura na minha boca'.
         A voz me disse pela segunda vez:
         'Não chames impuro o que Deus purificou'.
@@ -2173,7 +2173,7 @@ easter.week4.2:
         Ninguém tira a minha vida, eu a dou por mim mesmo;
         tenho poder de entregá-la e tenho poder de recebê-la novamente;
         esta é a ordem que recebi do meu Pai".
-        
+
         Palavra da Salvação.
 easter.week4.3:
   title: Terça-feira da 4ª Semana
@@ -2181,87 +2181,451 @@ easter.week4.3:
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 11,19-26
+      text: |
+        Leitura dos Atos dos Apóstolos
+
+        Naqueles dias,
+        aqueles que se haviam espalhado por causa da perseguição que se seguiu à morte de Estêvão, chegaram à Fenícia, à ilha de Chipre e à cidade de Antioquia, embora não pregassem a Palavra a ninguém que não fosse judeu.
+        Contudo, alguns deles, habitantes de Chipre e da cidade de Cirene, chegaram a Antioquia e começaram a pregar também aos gregos, anunciando-lhes a Boa-Nova do Senhor Jesus.
+        E a mão do Senhor estava com eles.
+        Muitas pessoas acreditaram no Evangelho e se converteram ao Senhor.
+        A notícia chegou aos ouvidos da Igreja que estava em Jerusalém.
+        Então enviaram Barnabé até Antioquia.
+        Quando Barnabé chegou e viu a graça que Deus havia concedido, ficou muito alegre e exortou a todos para que permanecessem fiéis ao Senhor, com firmeza de coração.
+        É que ele era um homem bom, cheio do Espírito Santo e de fé.
+        E uma grande multidão aderiu ao Senhor.
+        Então Barnabé partiu para Tarso, à procura de Saulo.
+        Tendo encontrado Saulo, levou-o a Antioquia.
+        Passaram um ano inteiro trabalhando juntos naquela Igreja, e instruíram uma numerosa multidão.
+        Em Antioquia os discípulos foram, pela primeira vez, chamados com o nome de cristãos.
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 86(87),1-3.4-5.6-7 (R. Sl 116(117),1a)
+      text: |
+        R. Cantai louvores ao Senhor, todas as gentes.
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        O Senhor ama a cidade
+        que fundou no Monte santo;
+        ama as portas de Sião
+        mais que as casas de Jacó.
+        Dizem coisas gloriosas
+        da Cidade do Senhor. R.
+
+        "Lembro o Egito e Babilônia
+        entre os meus veneradores.
+        Na Filistéia ou em Tiro
+        ou no país da Etiópia,
+        este ou aquele ali nasceu.
+        De Sião, porém, se diz:
+        "Nasceu nela todo homem;
+        Deus é sua segurança". R.
+
+        Deus anota no seu livro,
+        onde inscreve os povos todos:
+        "Foi ali que estes nasceram".
+        E por isso todos juntos
+        a cantar se alegrarão;
+        e, dançando, exclamarão:
+        "Estão em ti as nossas fontes!" R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 10,22-30
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João
+
+        Celebrava-se, em Jerusalém, a festa da Dedicação do Templo.
+        Era inverno.
+        Jesus passeava pelo Templo, no pórtico de Salomão.
+        Os judeus rodeavam-no e disseram:
+        "Até quando nos deixarás em dúvida?
+        Se tu és o Messias, dize-nos abertamente".
+        Jesus respondeu:
+        "Já vo-lo disse, mas vós não acreditais.
+        As obras que eu faço em nome do meu Pai dão testemunho de mim;
+        vós, porém, não acreditais, porque não sois das minhas ovelhas.
+        As minhas ovelhas escutam a minha voz, eu as conheço e elas me seguem.
+        Eu dou-lhes a vida eterna e elas jamais se perderão.
+        E ninguém vai arrancá-las de minha mão.
+        Meu Pai, que me deu estas ovelhas, é maior que todos, e ninguém pode arrebatá-las da mão do Pai.
+        Eu e o Pai somos um".
+
+        Palavra da Salvação.
 easter.week4.4:
   title: Quarta-feira da 4ª Semana
   subtitle: Tempo da Páscoa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Cor 15,1-8
+      text: |
+        Leitura da Primeira Carta de São Paulo aos Coríntios
+
+        Irmãos, quero lembrar-vos o evangelho que vos preguei e que recebestes, e no qual estais firmes.
+        Por ele sois salvos, se o estais guardando tal qual ele vos foi pregado por mim.
+        De outro modo, teríeis abraçado a fé em vão.
+        Com efeito, transmiti-vos, em primeiro lugar, aquilo que eu mesmo tinha recebido, a saber:
+        que Cristo morreu por nossos pecados, segundo as Escrituras;
+        que foi sepultado;
+        que, ao terceiro dia, ressuscitou, segundo as Escrituras;
+        e que apareceu a Cefas e, depois, aos Doze.
+        Mais tarde, apareceu a mais de quinhentos irmãos, de uma vez.
+        Destes, a maioria ainda vive e alguns já morreram.
+        Depois, apareceu a Tiago e, depois, apareceu aos apóstolos todos juntos.
+        Por último, apareceu também a mim, como a um abortivo.
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 18(19A),2-3.4-5 (R. 5a)
+      text: |
+        R. Seu som ressoa e se espalha em toda terra.
+
+        Os céus proclamam a glória do Senhor,
+        e o firmamento, a obra de suas mãos;
+        o dia ao dia transmite esta mensagem,
+        a noite à noite publica esta notícia. R.
+
+        Não são discursos nem frases ou palavras,
+        nem são vozes que possam ser ouvidas;
+        seu som ressoa e se espalha em toda a terra,
+        chega aos confins do universo a sua voz. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 14,6-14
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João
+
+        Naquele tempo,
+        Jesus disse a Tomé:
+        "Eu sou o Caminho, a Verdade e a Vida.
+        Ninguém vai ao Pai senão por mim.
+        Se vós me conhecêsseis, conheceríeis também o meu Pai.
+        E desde agora o conheceis e o vistes".
+        Disse Filipe:
+        "Senhor, mostra-nos o Pai, isso nos basta!"
+        Jesus respondeu:
+        "Há tanto tempo estou convosco, e não me conheces, Filipe?
+        Quem me viu, viu o Pai.
+        Como é que tu dizes:
+        'Mostra-nos o Pai'?
+        Não acreditas que eu estou no Pai e o Pai está em mim?
+        As palavras que eu vos digo, não as digo por mim mesmo, mas é o Pai que, permanecendo em mim, realiza as suas obras.
+        Acreditai-me: eu estou no Pai e o Pai está em mim.
+        Acreditai, ao menos, por causa destas mesmas obras.
+        Em verdade, em verdade vos digo, quem acredita em mim fará as obras que eu faço, e fará ainda maiores do que estas.
+        Pois eu vou para o Pai, e o que pedirdes em meu nome, eu o realizarei, a fim de que o Pai seja glorificado no Filho.
+        Se pedirdes algo em meu nome, eu o realizarei".
+
+        Palavra da Salvação.
 easter.week4.5:
   title: Quinta-feira da 4ª Semana
   subtitle: Tempo da Páscoa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 13,13-25
+      text: |
+        Leitura dos Atos dos Apóstolos
+
+        Paulo e seus companheiros embarcaram em Pafos e chegaram a Perge da Panfília.
+        João deixou-os e voltou para Jerusalém.
+        Eles, porém, partindo de Perge, chegaram a Antioquia da Pisídia.
+        E, entrando na sinagoga em dia de sábado,  sentaram-se.
+        Depois da leitura da Lei e dos Profetas, os chefes da sinagoga mandaram dizer-lhes:
+        "Irmãos, se vós tendes alguma palavra para encorajar o povo, podeis falar".
+        Paulo levantou-se, fez um sinal com a mão e disse:
+        "Israelitas e vós que temeis a Deus, escutai!
+        O Deus deste povo de Israel escolheu os nossos antepassados e fez deles um grande povo quando moravam como estrangeiros no Egito;
+        e de lá os tirou com braço poderoso.
+        E, durante mais ou menos quarenta anos, cercou-os de cuidados no deserto.
+        Destruiu sete nações na terra de Canaã e passou para eles a posse do seu território, por quatrocentos e cinquenta anos aproximadamente.
+        Depois disso, concedeu-lhes juízes, até ao profeta Samuel.
+        Em seguida, eles pediram um rei e Deus concedeu-lhes Saul, filho de Cis, da tribo de Benjamim, que reinou durante quarenta anos.
+        Em seguida, Deus fez surgir Davi como rei e assim testemunhou a seu respeito:
+        "Encontrei Davi, filho de Jessé,
+        homem segundo o meu coração, que vai fazer em tudo a minha vontade".
+        Conforme prometera, da descendência de Davi Deus fez surgir para Israel um Salvador, que é Jesus.
+        Antes que ele chegasse, João pregou um batismo de conversão para todo o povo de Israel.
+        Estando para terminar sua missão, João declarou:
+        "Eu não sou aquele que pensais que eu seja!
+        Mas vede: depois de mim vem aquele, do qual nem mereço desamarrar as sandálias".
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 88(89),2-3.21-22.25 e 27 (R. cf. 2a)
+      text: |
+        R. Ó Senhor, eu cantarei eternamente o vosso amor.
+
+        Ou: Aleluia, Aleluia, Aleluia.
+        Ó Senhor, eu cantarei eternamente o vosso amor,
+        de geração em geração eu cantarei vossa verdade!
+        Porque dissestes: "O amor é garantido para sempre!"
+        E a vossa lealdade é tão firme como os céus. R.
+
+        Encontrei e escolhi a Davi, meu servidor,
+        e o ungi, para ser rei, com meu óleo consagrado.
+        Estará sempre com ele minha mão onipotente,
+        e meu braço poderoso há de ser a sua força. R.
+
+        Não será surpreendido pela força do inimigo,
+        nem o filho da maldade poderá prejudicá-lo.
+        Diante dele esmagarei seus inimigos e agressores,
+        ferirei e abaterei todos aqueles que o odeiam. R.
+
+        Minha verdade e meu amor estarão sempre com ele,
+        sua força e seu poder por meu nome crescerão.
+        Ele, então, me invocará: 'Ó Senhor, vós sois meu Pai,
+        sois meu Deus, sois meu Rochedo onde encontro a salvação!'" R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 13,16-20
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João
+
+        Depois de lavar os pés dos discípulos,
+        Jesus lhes disse:
+        "Em verdade, em verdade vos digo:
+        o servo não está acima do seu senhor e o mensageiro não é maior que aquele que o enviou.
+        Se sabeis isto, e o puserdes em prática, sereis felizes.
+        Eu não falo de vós todos.
+        Eu conheço aqueles que escolhi, mas é preciso que se realize o que está na Escritura:
+        'Aquele que come o meu pão levantou contra mim o calcanhar.'
+        Desde agora vos digo isto, antes de acontecer, a fim de que, quando acontecer, creiais que eu sou.
+        Em verdade, em verdade vos digo, quem recebe aquele que eu enviar, me recebe a mim;
+        e quem me recebe, recebe aquele que me enviou".
+
+        Palavra da Salvação.
 easter.week4.6:
   title: Sexta-feira da 4ª Semana
   subtitle: Tempo da Páscoa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 13,26-33
+      text: |
+        Leitura dos Atos dos Apóstolos
+
+        Naqueles dias, tendo chegado a Antioquia da Pisídia,
+        Paulo disse na sinagoga:
+        "Irmãos, descendentes de Abraão, e todos vós que temeis a Deus, a nós foi enviada esta mensagem de salvação.
+        Os habitantes de Jerusalém e seus chefes não reconheceram a Jesus e, ao condená-lo, cumpriram as profecias que se lêem todos os sábados.
+        Embora não encontrassem nenhum motivo para a sua condenação, pediram a Pilatos que fosse morto.
+        Depois de realizarem tudo o que a Escritura diz a respeito de Jesus, eles o tiraram da cruz e o colocaram num túmulo.
+        Mas Deus o ressuscitou dos mortos e, durante muitos dias, ele foi visto por aqueles que o acompanharam desde a Galileia até Jerusalém.
+        Agora eles são testemunhas de Jesus diante do povo.
+        Por isso, nós vos anunciamos este Evangelho:
+        a promessa que Deus fez aos antepassados, ele a cumpriu para nós, seus filhos, quando ressuscitou Jesus, como está escrito no salmo segundo:
+        'Tu és o meu filho, eu hoje te gerei'".
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 2,6-7.8-9.10-11 (R. 7)
+      text: |
+        R. Tu és meu Filho, e eu hoje te gerei!
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        "Fui eu mesmo que escolhi este meu Rei
+        e em Sião, meu monte santo, o consagrei!"
+        O decreto do Senhor promulgarei, †
+        foi assim que me falou o Senhor Deus:
+        "Tu és meu Filho, e eu hoje te gerei!" R.
+
+        Podes pedir-me, e em resposta eu te darei †
+        por tua herança os povos todos e as nações,
+        e há de ser a terra inteira o teu domínio.
+        Com cetro férreo haverás de dominá-los,
+        e quebrá-los como um vaso de argila! R.
+
+        E agora, poderosos, entendei;
+        soberanos, aprendei esta lição:
+        Com temor servi a Deus, rendei-lhe glória
+        e prestai-lhe homenagem com respeito! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 14,1-6
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João
+
+        Naquele tempo, disse Jesus a seus discípulos:
+        "Não se perturbe o vosso coração.
+        Tendes fé em Deus, tende fé em mim também.
+        Na casa de meu Pai há muitas moradas.
+        Se assim não fosse, eu vos teria dito.
+        Vou preparar um lugar para vós, e quando eu tiver ido preparar-vos um lugar, voltarei e vos levarei comigo, a fim de que onde eu estiver estejais também vós.
+        E para onde eu vou, vós conheceis o caminho".
+        Tomé disse a Jesus:
+        "Senhor, nós não sabemos para onde vais.
+        Como podemos conhecer o caminho?"
+        Jesus respondeu:
+        "Eu sou o Caminho, a Verdade e a Vida.
+        Ninguém vai ao Pai senão por mim".
+
+        Palavra da Salvação.
 easter.week4.7:
   title: Sábado da 4ª Semana
   subtitle: Tempo da Páscoa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 13,44-52
+      text: |
+        Leitura dos Atos dos Apóstolos
+
+        No sábado seguinte, quase toda a cidade se reuniu para ouvir a palavra de Deus.
+        Ao verem aquela multidão, os judeus ficaram cheios de inveja e, com blasfêmias, opunham-se ao que Paulo dizia.
+        Então, com muita coragem, Paulo e Barnabé declararam:
+        "Era preciso anunciar a palavra de Deus primeiro a vós.
+        Mas, como a rejeitais e vos considerais indignos da vida eterna, sabei que nos vamos dirigir aos pagãos.
+        Porque esta é a ordem que o Senhor nos deu:
+        'Eu te coloquei como luz para as nações, para que leves a salvação até os confins da terra'".
+        Os pagãos ficaram muito contentes, quando ouviram isso, e glorificavam a palavra do Senhor.
+        Todos os que eram destinados à vida eterna, abraçaram a fé.
+        Desse modo, a palavra do Senhor espalhava-se por toda a região.
+        Mas os judeus instigaram as mulheres ricas e religiosas, assim como os homens influentes da cidade, provocaram uma perseguição contra Paulo e Barnabé e expulsaram-nos do seu território.
+        Então os apóstolos sacudiram contra eles a poeira dos pés, e foram para a cidade de Icônio.
+        Os discípulos, porém ficaram cheios de alegria e do Espírito Santo.
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 97(98),1.2-3ab.3cd-4 (R. 3cd)
+      text: |
+        R. Os confins do universo contemplaram
+        a salvação do nosso Deus.
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Cantai ao Senhor Deus um canto novo,
+        porque ele fez prodígios!
+        Sua mão e o seu braço forte e santo
+        alcançaram-lhe a vitória. R.
+
+        O Senhor fez conhecer a salvação,
+        e às nações, sua justiça;
+        recordou o seu amor sempre fiel
+        pela casa de Israel R.
+
+        Os confins do universo contemplaram
+        a salvação do nosso Deus.
+        Aclamai o Senhor Deus, ó terra inteira,
+        alegrai-vos e exultai! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 14,7-14
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João
+
+        Naquele tempo, disse Jesus a seus discípulos:
+        "Se vós me conhecêsseis, conheceríeis também o meu Pai.
+        E desde agora o conheceis e o vistes".
+        Disse Filipe:
+        "Senhor, mostra-nos o Pai, isso nos basta!"
+        Jesus respondeu:
+        "Há tanto tempo estou convosco, e não me conheces, Filipe?
+        Quem me viu, viu o Pai.
+        Como é que tu dizes:
+        'Mostra-nos o Pai'?
+        Não acreditas que eu estou no Pai e o Pai está em mim?
+        As palavras que eu vos digo, não as digo por mim mesmo, mas é o Pai que, permanecendo em mim, realiza as suas obras.
+        Acreditai-me: eu estou no Pai e o Pai está em mim.
+        Acreditai, ao menos, por causa destas mesmas obras.
+        Em verdade, em verdade vos digo, quem acredita em mim fará as obras que eu faço, e fará ainda maiores do que estas.
+        Pois eu vou para o Pai, e o que pedirdes em meu nome, eu o realizarei, a fim de que o Pai seja glorificado no Filho.
+        Se pedirdes algo em meu nome, eu o realizarei".
+
+        Palavra da Salvação.
 easter.week5.1.a:
   title: Domingo da 5ª Semana
   subtitle: Tempo da Páscoa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 6,1-7
+      text: |
+        Leitura dos Atos dos Apóstolos
+
+        Naqueles dias,
+        o número dos discípulos tinha aumentado, e os fiéis de origem grega começaram a queixar-se dos fiéis de origem hebraica.
+        Os de origem grega diziam que suas viúvas eram deixadas de lado no atendimento diário.
+        Então os Doze Apóstolos reuniram a multidão dos discípulos e disseram:
+        "Não está certo que nós deixemos a pregação da Palavra de Deus para servir às mesas.
+        Irmãos, é melhor que escolhais entre vós sete homens de boa fama, repletos do Espírito e de sabedoria, e nós os encarregaremos dessa tarefa.
+        Desse modo nós poderemos dedicar-nos inteiramente à oração e ao serviço da Palavra".
+        A proposta agradou a toda a multidão.
+        Então escolheram Estêvão, homem cheio de fé e do Espírito Santo;
+        e também Felipe, Prócoro, Nicanor, Timon, Pármenas e Nicolau de Antioquia, um pagão que seguia a religião dos judeus.
+        Eles foram apresentados aos apóstolos, que oraram e impuseram as mãos sobre eles.
+        Entretanto, a Palavra do Senhor se espalhava.
+        O número dos discípulos crescia muito em Jerusalém, e grande multidão de sacerdotes judeus aceitava a fé.
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 32(33),1-2.4-5.18-19 (R. 22)
+      text: |
+        R. Sobre nós venha, Senhor, a vossa graça,
+        da mesma forma que em vós nós esperamos!
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Ó justos, alegrai-vos no Senhor!
+        aos retos fica bem glorificá-lo.
+        Dai graças ao Senhor ao som da harpa,
+        na lira de dez cordas celebrai-o! R.
+
+        Pois reta é a palavra do Senhor,
+        e tudo o que ele faz merece fé.
+        Deus ama o direito e a justiça,
+        transborda em toda a terra a sua graça. R.
+
+        O Senhor pousa o olhar sobre os que o temem,
+        e que confiam esperando em seu amor,
+        para da morte libertar as suas vidas
+        e alimentá-los quando é tempo de penúria. R.
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Pd 2,4-9
+      text: |
+        Leitura da Primeira Carta de São Pedro
+
+        Caríssimos:
+        Aproximai-vos do Senhor, pedra viva, rejeitada pelos homens, mas escolhida e honrosa aos olhos de Deus.
+        Do mesmo modo, também vós, como pedras vivas, formai um edifício espiritual, um sacerdócio santo, a fim de oferecerdes sacrifícios espirituais, agradáveis a Deus, por Jesus Cristo.
+        Com efeito, nas Escrituras se lê:
+        "Eis que ponho em Sião uma pedra angular, escolhida e magnífica;
+        quem nela confiar, não será confundido".
+        A vós, portanto, que tendes fé, cabe a honra.
+        Mas para os que não creem, "a pedra que os construtores rejeitaram tornou-se a pedra angular, pedra de tropeço e rocha que faz cair".
+        Nela tropeçam os que não acolhem a Palavra;
+        esse é o destino deles.
+        Mas vós sois a raça escolhida, o sacerdócio do Reino, a nação santa, o povo que ele conquistou para proclamar as obras admiráveis daquele que vos chamou das trevas para a sua luz maravilhosa.
+
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 14,1-12
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João
+
+        Naquele tempo, disse Jesus a seus discípulos:
+        "Não se perturbe o vosso coração.
+        Tendes fé em Deus, tende fé em mim também.
+        Na casa de meu Pai há muitas moradas.
+        Se assim não fosse, eu vos teria dito.
+        Vou preparar um lugar para vós, e quando eu tiver ido preparar-vos um lugar, voltarei e vos levarei comigo, a fim de que onde eu estiver estejais também vós.
+        E para onde eu vou, vós conheceis o caminho".
+        Tomé disse a Jesus:
+        "Senhor, nós não sabemos para onde vais.
+        Como podemos conhecer o caminho?"
+        Jesus respondeu:
+        "Eu sou o Caminho, a Verdade e a Vida.
+        Ninguém vai ao Pai senão por mim.
+        Se vós me conhecêsseis, conheceríeis também o meu Pai.
+        E desde agora o conheceis e o vistes".
+        Disse Felipe:
+        "Senhor, mostra-nos o Pai, isso nos basta!"
+        Jesus respondeu:
+        "Há tanto tempo estou convosco, e não me conheces, Felipe? Quem me viu, viu o Pai.
+        Como é que tu dizes: 'Mostra-nos o Pai'?
+        Não acreditas que eu estou no Pai e o Pai está em mim?
+        As palavras que eu vos digo, não as digo por mim mesmo, mas é o Pai, que, permanecendo em mim, realiza as suas obras.
+        Acreditai-me: eu estou no Pai e o Pai está em mim.
+        Acreditai, ao menos, por causa destas mesmas obras.
+        Em verdade, em verdade vos digo, quem acredita em mim fará as obras que eu faço, e fará ainda maiores do que estas.
+        Pois eu vou para o Pai".
+
+        Palavra da Salvação.
 easter.week5.1.b:
   title: Domingo da 5ª Semana
   subtitle: Tempo da Páscoa
@@ -2905,7 +3269,7 @@ ordinary.week1.6.odd:
         e ainda novamente:
         "Não entrarão no meu repouso".
         Esforcemo-nos, portanto, por entrar neste repouso, para que ninguém repita o acima referido exemplo de desobediência.
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Sl 77(78),3 e 4bc.6c-7.8 (R. cf. 7c)
@@ -2944,7 +3308,7 @@ ordinary.week1.6.odd:
         Ora, alguns mestres da Lei, que estavam ali sentados, refletiam em seus corações:
         "Como este homem pode falar assim?
         Ele está blasfemando: ninguém pode perdoar pecados, a não ser Deus".
-        Jesus percebeu logo o que eles estavam pensando no seu íntimo, e disse: 
+        Jesus percebeu logo o que eles estavam pensando no seu íntimo, e disse:
         "Por que pensais assim em vossos corações?
         O que é mais fácil:
         dizer ao paralítico: 'Os teus pecados estão perdoados',
@@ -2956,7 +3320,7 @@ ordinary.week1.6.odd:
         O paralítico então se levantou e, carregando a sua cama, saiu diante de todos.
         E ficaram todos admirados e louvavam a Deus, dizendo:
         "Nunca vimos uma coisa assim".
-        
+
         Palavra da Salvação.
 ordinary.week1.7.even:
   title: Sábado da 1ª Semana
@@ -2993,7 +3357,7 @@ ordinary.week1.7.odd:
         Por isso, permaneçamos firmes na fé que professamos.
         Com efeito, temos um sumo sacerdote capaz de se compadecer de nossas fraquezas, pois ele mesmo foi provado em tudo como nós, com exceção do pecado.
         Aproximemo-nos então, com toda a confiança, do trono da graça, para conseguirmos misericórdia e alcançarmos a graça de um auxílio no momento oportuno.
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Sl 18(19B),8.9.10.15 (R. cf. Jo 6,63c)
@@ -3038,7 +3402,7 @@ ordinary.week1.7.odd:
         Tendo ouvido, Jesus respondeu-lhes:
         "Não são as pessoas sadias que precisam de médico, mas as doentes.
         Eu não vim para chamar justos, mas sim pecadores".
-        
+
         Palavra da Salvação.
 ordinary.week2.1.a:
   title: Domingo da 2ª Semana
@@ -3108,7 +3472,7 @@ ordinary.week2.1.a:
         'Aquele sobre quem vires o Espírito descer e permanecer, este é quem batiza com o Espírito Santo'.
         Eu vi e dou testemunho:
         Este é o Filho de Deus!"
-        
+
         Palavra da Salvação.
 ordinary.week2.1.b:
   title: Domingo da 2ª Semana
@@ -3259,7 +3623,7 @@ ordinary.week2.3.odd:
         Por isso, querendo Deus mostrar, com mais firmeza, aos herdeiros da promessa, o caráter irrevogável da sua decisão, interveio com um juramento.
         Assim, por meio de dois atos irrevogáveis, nos quais não pode haver mentira por parte de Deus, encontramos profunda consolação, nós que tudo deixamos para conseguir a esperança proposta.
         A esperança, com efeito, é para nós qual âncora da vida, segura e firme, penetrando para além da cortina do santuário, aonde Jesus entrou por nós, como precursor, feito sumo sacerdote eterno na ordem de Melquisedec.
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Sl 110(111),1-2.4-5.9 e 10c (R. 5b)
@@ -3457,7 +3821,7 @@ ordinary.week2.5.odd:
         E também muita gente da Judeia, de Jerusalém, da Idumeia, do outro lado do Jordão, dos territórios de Tiro e Sidônia, foi até Jesus, porque tinham ouvido falar de tudo o que ele fazia.
         Então Jesus pediu aos discípulos que lhe providenciassem uma barca, por causa da multidão, para que não o comprimisse.
         Com efeito, Jesus tinha curado muitas pessoas, e todos os que sofriam de algum mal jogavam-se sobre ele para tocá-lo.
-        Vendo Jesus, os espíritos maus caíam a seus pés, gritando: 
+        Vendo Jesus, os espíritos maus caíam a seus pés, gritando:
         "Tu és o Filho de Deus!"
         Mas Jesus ordenava severamente para não dizerem quem ele era.
 
@@ -3682,7 +4046,7 @@ ordinary.week3.1.a:
         Jesus os chamou.
         Eles, imediatamente deixaram a barca e o pai, e o seguiram.
         Jesus andava por toda a Galileia, ensinando em suas sinagogas, pregando o Evangelho do Reino e curando todo tipo de doença e enfermidade do povo.
-        
+
         Palavra da Salvação.
 ordinary.week3.1.b:
   title: Domingo da 3ª Semana
@@ -9357,7 +9721,7 @@ ordinary.week24.3.even:
         De fato, todos nós, judeus ou gregos, escravos ou livres, fomos batizados num único Espírito, para formarmos um único corpo, e todos nós bebemos de um único Espírito.
         Com efeito, o corpo não é feito de um membro apenas, mas de muitos membros.
         Vós, todos juntos, sois o corpo de Cristo e, individualmente, sois membros desse corpo.
-        28
+
         E, na Igreja, Deus colocou, em primeiro lugar, os apóstolos; em segundo lugar, os profetas; em terceiro lugar, os que têm o dom e a missão de ensinar; depois, outras pessoas com dons diversos, a saber: dom de milagres, dom de curas, dom para obras de misericórdia, dom de governo e direção, dom de línguas.
         Acaso todos são apóstolos? Todos são profetas? Todos ensinam? Todos realizam milagres?
         Todos têm o dom das curas? Todos falam em línguas? Todos as interpretam?
@@ -9614,7 +9978,7 @@ ordinary.week24.7.even:
         Mas eles não têm raiz: por um momento acreditam; mas na hora da tentação voltam atrás.
         Aquilo que caiu entre os espinhos são os que ouvem, mas, com o passar do tempo, são sufocados pelas preocupações, pela riqueza e pelos prazeres da vida, e não chegam a amadurecer.
         E o que caiu em terra boa são aqueles que, ouvindo com um coração bom e generoso, conservam a Palavra, e dão fruto na perseverança".
-        
+
         Palavra da Salvação.
 ordinary.week24.7.odd:
   title: Sábado da 24ª Semana
@@ -11428,7 +11792,7 @@ ordinary.week33.1.c:
 
         Eis que virá o dia, abrasador como fornalha, em que todos os soberbos e ímpios serão como palha; e esse dia vindouro haverá de queimá-los, diz o Senhor dos exércitos, tal que não lhes deixará raiz nem ramo.
         Para vós, que temeis o meu nome, nascerá o sol da justiça, trazendo salvação em suas asas.
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Sl 97(98),5-6.7-8.9a.9bc (R. cf. 9)
@@ -11463,7 +11827,7 @@ ordinary.week33.1.c:
         "Quem não quer trabalhar, também não deve comer".
         Ora, ouvimos dizer que entre vós há alguns que vivem à toa, muito ocupados em não fazer nada.
         Em nome do Senhor Jesus Cristo, ordenamos e exortamos a estas pessoas que, trabalhando, comam na tranquilidade o seu próprio pão.
-        
+
         Palavra do Senhor.
     - type: gospel
       ref: Lc 21,5-19
@@ -11477,9 +11841,9 @@ ordinary.week33.1.c:
         Dias virão em que não ficará pedra sobre pedra.
         Tudo será destruído".
         Mas eles perguntaram:
-        "Mestre, quando acontecerá isto? 
+        "Mestre, quando acontecerá isto?
         E qual vai ser o sinal de que estas coisas estão para acontecer?"
-        Jesus respondeu: 
+        Jesus respondeu:
         "Cuidado para não serdes enganados, porque muitos virão em meu nome, dizendo:
         'Sou eu!' e ainda: 'O tempo está próximo.'
         Não sigais essa gente!
@@ -11496,7 +11860,7 @@ ordinary.week33.1.c:
         Todos vos odiarão por causa do meu nome.
         Mas vós não perdereis um só fio de cabelo da vossa cabeça.
         É permanecendo firmes que ireis ganhar a vida!"
-        
+
         Palavra da Salvação.
 ordinary.week33.2.even:
   title: Segunda-feira da 33ª Semana
