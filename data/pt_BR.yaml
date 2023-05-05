@@ -2736,14 +2736,63 @@ easter.week5.3:
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 14,19-28
+      text: |
+        Leitura dos Atos dos Apóstolos
+
+        Naqueles dias, de Antioquia e Icônio chegaram judeus que convenceram as multidões.
+        Então apedrejaram Paulo e arrastaram-no para fora da cidade, pensando que ele estivesse morto.
+        Mas, enquanto os discípulos o rodeavam, Paulo levantou-se e entrou na cidade.
+        No dia seguinte, partiu para Derbe com Barnabé.
+        Depois de terem pregado o Evangelho naquela cidade e feito muitos discípulos, voltaram para Listra, Icônio e Antioquia.
+        Encorajando os discípulos, eles os exortavam a permanecerem firmes na fé, dizendo-lhes:
+        "É preciso que passemos por muitos sofrimentos para entrar no Reino de Deus".
+        Os apóstolos designaram presbíteros para cada comunidade.
+        Com orações e jejuns, eles os confiavam ao Senhor, em quem haviam acreditado.
+        Em seguida, atravessando a Pisídia, chegaram à Panfília.
+        Anunciaram a palavra em Perge, e depois desceram para Atália.
+        Dali embarcaram para Antioquia, de onde tinham saído, entregues à graça de Deus, para o trabalho que haviam realizado.
+        Chegando ali, reuniram a comunidade.
+        Contaram-lhe tudo o que Deus fizera por meio deles e como havia aberto a porta da fé para os pagãos.
+        E passaram então algum tempo com os discípulos.
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 144(145),10-11.12-13ab.21 (R. cf. 12a)
+      text: |
+        R. Ó Senhor, vossos amigos anunciem vosso Reino glorioso.
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Que vossas obras, ó Senhor, vos glorifiquem,
+        e os vossos santos com louvores vos bendigam!
+        Narrem a glória e o esplendor do vosso reino
+        e saibam proclamar vosso poder! R.
+
+        Para espalhar vossos prodígios entre os homens
+        e o fulgor de vosso reino esplendoroso.
+        O vosso reino é um reino para sempre,
+        vosso poder, de geração em geração.
+
+        Que a minha boca cante a glória do Senhor
+        e que bendiga todo ser seu nome santo
+        desde agora, para sempre e pelos séculos. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 14,27-31a
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João
+
+        Naquele tempo, disse Jesus a seus discípulos:
+        "Deixo-vos a paz, a minha paz vos dou;
+        mas não a dou como o mundo.
+        Não se perturbe nem se intimide o vosso coração.
+        Ouvistes que eu vos disse:
+        'Vou, mas voltarei a vós'.
+        Se me amásseis, ficaríeis alegres porque vou para o Pai, pois o Pai é maior do que eu.
+        Disse-vos isto, agora, antes que aconteça, para que, quando acontecer, vós acrediteis.
+        Já não falarei muito convosco, pois o chefe deste mundo vem.
+        Ele não tem poder sobre mim, mas, para que o mundo reconheça que eu amo o Pai, eu procedo conforme o Pai me ordenou".
+
+        Palavra da Salvação.
 easter.week5.4:
   title: Quarta-feira da 5ª Semana
   subtitle: Tempo da Páscoa
