@@ -2799,14 +2799,63 @@ easter.week5.4:
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 15,1-6
+      text: |
+        Leitura dos Atos dos Apóstolos
+
+        Naqueles dias, chegaram alguns da Judeia e ensinavam aos irmãos de Antioquia, dizendo:
+        "Vós não podereis salvar-vos, se não fordes circuncidados, como ordena a Lei de Moisés".
+        Isto provocou muita confusão, e houve uma grande discussão de Paulo e Barnabé com eles.
+        Finalmente, decidiram que Paulo, Barnabé e alguns outros fossem a Jerusalém, para tratar dessa questão com os apóstolos e os anciãos.
+        Depois de terem sido acompanhados pela comunidade, Paulo e Barnabé atravessaram a Fenícia e a Samaria.
+        Contaram sobre a conversão dos pagãos, causando grande alegria entre todos os irmãos.
+        Chegando a Jerusalém, foram recebidos pelos apóstolos e os anciãos, e narraram as maravilhas que Deus tinha realizado por meio deles.
+        Alguns, dos que tinham pertencido ao partido dos fariseus e que haviam abraçado a fé, levantaram-se e disseram que era preciso circuncidar os pagãos e obrigá-los a observar a Lei de Moisés.
+        Então, os apóstolos e os anciãos reuniram-se para tratar desse assunto.
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 121(122),1-2.3-4a.4b-5 (R. cf. 1)
+      text: |
+        R. Que alegria, quando ouvi que me disseram: Vamos à casa do Senhor!
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Que alegria, quando ouvi que me disseram:
+        "Vamos à casa do Senhor!"
+        E agora nossos pés já se detêm,
+        Jerusalém, em tuas portas. R.
+
+        Jerusalém, cidade bem edificada
+        num conjunto harmonioso;
+        para lá sobem as tribos de Israel,
+        as tribos do Senhor. R.
+
+        Para louvar, segundo a lei de Israel,
+        o nome do Senhor.
+        A sede da justiça lá está
+        e o trono de Davi. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 15,1-8
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João
+
+        Naquele tempo, Jesus disse a seus discípulos:
+        "Eu sou a videira verdadeira e meu Pai é o agricultor.
+        Todo ramo que em mim não dá fruto ele o corta;
+        e todo ramo que dá fruto, ele o limpa, para que dê mais fruto ainda.
+        Vós já estais limpos por causa da palavra que eu vos falei.
+        Permanecei em mim e eu permanecerei em vós.
+        Como o ramo não pode dar fruto por si mesmo, se não permanecer na videira, assim também vós não podereis dar fruto, se não permanecerdes em mim.
+        Eu sou a videira e vós os ramos.
+        Aquele que permanece em mim, e eu nele, esse produz muito fruto;
+        porque sem mim nada podeis fazer.
+        Quem não permanecer em mim, será lançado fora como um ramo e secará.
+        Tais ramos são recolhidos, lançados no fogo e queimados.
+        Se permanecerdes em mim e minhas palavras permanecerem em vós, pedi o que quiserdes e vos será dado.
+        Nisto meu Pai é glorificado:
+        que deis muito fruto e vos torneis meus discípulos".
+
+        Palavra da Salvação.
 easter.week5.5:
   title: Quinta-feira da 5ª Semana
   subtitle: Tempo da Páscoa
