@@ -50,4 +50,4 @@ npm run status    # defaults to status:s
 
 ## TODO
 
-[] Fix Ascension Solemnity: give it an appropriate key as it can be at 6th thursday or 7th sunday, depending on the country
+- [ ] Fix Ascension Solemnity: give it an appropriate key as it can be at 6th thursday or 7th sunday, depending on the country
