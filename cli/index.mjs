@@ -16,15 +16,15 @@ const lectionary = yaml.load(lectionaryText)
 const program = new Command()
 
 program
-  .option('-s, --summary', 'Show aggregate lectionary status')
-  .option('-d, --detailed', 'Show status for incomplete liturgies')
-  .option('-a, --all', 'Show status for all lectionary')
+  .option('-s, --summary', 'Show aggregate lectionary status', true)
+  .option('-d, --detailed', 'Show status for incomplete liturgies', false)
+  .option('-a, --all', 'Show status for all lectionary', false)
 
 program.parse()
 
 const options = program.opts()
 
-if (options.summary || !options.detailed) {
+if (options.summary) {
   let emptyMeta = 0
   let someMissingMeta = 0
   let okMeta = 0
@@ -57,7 +57,7 @@ if (options.summary || !options.detailed) {
   console.log(okStyle(okText)(`${okText} have complete text`))
 }
 
-if (options.detailed) {
+if (options.detailed || options.all) {
   const liturgies = Object.entries(lectionary)
   liturgies.forEach(([key, liturgy]) => {
     const resultMeta = evaluateMeta(liturgy)

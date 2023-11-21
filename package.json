@@ -20,7 +20,7 @@
     "status": "npm run status:s",
     "status:s": "node --experimental-json-modules cli/index.mjs -s",
     "status:d": "node --experimental-json-modules cli/index.mjs -d",
-    "status:da": "node --experimental-json-modules cli/index.mjs -da"
+    "status:a": "node --experimental-json-modules cli/index.mjs -a"
   },
   "author": "maurodev@pm.me",
   "license": "ISC",
