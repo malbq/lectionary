@@ -13449,14 +13449,58 @@ ordinary.week33.6.odd:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Mc 4,36-37.52-59
+      text: |
+        Leitura do Primeiro Livro dos Macabeus 
+        
+        Naqueles dias, Judas e seus irmãos disseram:
+        "Nossos inimigos foram esmagados.
+        Vamos purificar o lugar santo e reconsagrá-lo".
+        Todo o exército então se reuniu e subiu ao monte Sião.
+        No vigésimo quinto dia do nono mês, chamado Casleu, do ano cento e quarenta e oito, levantaram-se ao romper da aurora, e ofereceram um sacrifício conforme a Lei, sobre o novo altar dos holocaustos que haviam construído.
+        O altar foi novamente consagrado ao som de cânticos, acompanhados de cítaras, harpas e címbalos, na mesma época do ano e no mesmo dia em que os pagãos o haviam profanado.
+        Todo o povo prostrou-se com o rosto em terra para adorar e louvar a Deus que lhes tinha dado um feliz triunfo.
+        Durante oito dias celebraram a dedicação do altar, oferecendo com alegria holocaustos e sacrifícios de comunhão e de louvor.
+        Ornaram com coroas de ouro e pequenos escudos a fachada do templo.
+        Reconstruíram as entradas e os alojamentos, nos quais colocaram portas.
+        Grande alegria tomou conta do povo, pois fora reparado o ultraje infligido pelos pagãos.
+        De comum acordo com os irmãos e toda a assembleia de Israel, Judas determinou que os dias da dedicação do altar fossem celebrados anualmente com alegres festejos, no tempo exato, durante oito dias, a partir do dia vinte e cinco do mês de Casleu.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: 1Cr 29,10.11abc.11d-12a.12bcd (R. 13b)
+      text: |
+        R. Queremos celebrar o vosso nome glorioso.
+        
+        Bendito sejais vós, ó Senhor Deus,
+        Senhor Deus de Israel, o nosso pai.
+        desde sempre e por toda a eternidade! R.
+        
+        A Vós pertencem a grandeza e o poder,
+        toda a glória, esplendor e majestade,
+        pois tudo é vosso: o que há no céu e sobre a terra! R.
+        
+        A vós, Senhor, também pertence a realeza,
+        pois sobre a terra, como rei, vos elevais!
+        Toda glória e riqueza vêm de vós! R.
+        
+        Sois o Senhor e dominais o universo,
+        em vossa mão se encontra a força e o poder,
+        em vossa mão tudo se afirma e tudo cresce! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Lc 19,45-48
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Lucas 
+        
+        Naquele tempo,
+        Jesus entrou no Templo e começou a expulsar os vendedores.
+        E disse: "Está escrito: 'Minha casa será casa de oração'.
+        No entanto, vós fizestes dela um antro de ladrões".
+        Jesus ensinava todos os dias no Templo.
+        Os sumos sacerdotes, os mestres da Lei e os notáveis do povo procuravam modo de matá-lo.
+        Mas não sabiam o que fazer, porque o povo todo ficava fascinado quando ouvia Jesus falar.
+
+        Palavra da Salvação.
 ordinary.week33.7.even:
   title: Sábado da 33ª Semana
   subtitle: Tempo Comum
