@@ -2,7 +2,7 @@
   "name": "@xvi/lectionary",
   "version": "0.1.4",
   "type": "module",
-  "description": "All Mass readings on JSON format",
+  "description": "All Mass readings in JSON format",
   "types": "types/Lectionary.d.ts",
   "files": [
     "data",
