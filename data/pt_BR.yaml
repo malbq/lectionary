@@ -13592,17 +13592,83 @@ ordinary.week34.1.a:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Ez 34,11-12.15-17
+      text: |
+        Leitura da Profecia de Ezequiel 
+        
+        Assim diz o Senhor Deus:
+        "Vede! Eu mesmo vou procurar minhas ovelhas e tomar conta delas.
+        Como o pastor toma conta do rebanho, de dia, quando se encontra no meio das ovelhas dispersas, assim vou cuidar de minhas ovelhas e vou resgatá-las de todos os lugares em que foram dispersadas num dia de nuvens e escuridão.
+        Eu mesmo vou apascentar as minhas ovelhas e fazê-las repousar — oráculo do Senhor Deus —.
+        Vou procurar a ovelha perdida, reconduzir a extraviada, enfaixar a da perna quebrada, fortalecer a doente, e vigiar a ovelha gorda e forte.
+        Vou apascentá-las conforme o direito.
+        Quanto a vós, minhas ovelhas, — assim diz o Senhor Deus — eu farei justiça entre uma ovelha e outra, entre carneiros e bodes".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 22(23),1-2a.2b-3.5-6 (R. 1)
+      text: |
+        R. O Senhor é o pastor que me conduz;
+        
+        não me falta coisa alguma.
+        Pelos prados e campinas verdejantes
+        ele me leva a descansar.
+        Para as águas repousantes me encaminha,
+        e restaura as minhas forças. R.
+        
+        Preparais à minha frente uma mesa,
+        bem à vista do inimigo,
+        e com óleo vós ungis minha cabeça;
+        o meu cálice transborda. R.
+        
+        Felicidade e todo bem hão de seguir-me
+        por toda a minha vida;
+        e, na casa do Senhor, habitarei
+        pelos tempos infinitos. R.
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Cor 15,20-26.28
+      text: |
+        Leitura da Primeira Carta de São Paulo aos Coríntios 
+        
+        Irmãos:
+        Na realidade, Cristo ressuscitou dos mortos como primícias dos que morreram.
+        Com efeito, por um homem veio a morte, e é também por um homem que vem a ressurreição dos mortos.
+        Como em Adão todos morrem, assim também em Cristo todos reviverão.
+        Porém, cada qual segundo uma ordem determinada: Em primeiro lugar, Cristo, como primícias;
+        depois, os que pertencem a Cristo, por ocasião da sua vinda.
+        A seguir, será o fim, quando ele entregar a realeza a Deus-Pai, depois de destruir todo principado e todo poder e força.
+        Pois é preciso que ele reine, até que todos os seus inimigos estejam debaixo de seus pés.
+        O último inimigo a ser destruído é a morte.
+        E, quando todas as coisas estiverem submetidas a ele, então o próprio Filho se submeterá àquele que lhe submeteu todas as coisas, para que Deus seja tudo em todos.
+        
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mt 25,31-46
+      text: |
+        Aclamação ao Evangelho  cf. Mc
+
+        R. Aleluia, Aleluia, Aleluia.
+        V. É bendito aquele que vem vindo, que vem vindo em nome do Senhor;
+        e o Reino que vem, seja bendito;
+        ao que vem e a seu Reino, o louvor! EVANGELHO Assentar-se-á em seu trono glorioso e separará uns dos outros.
+        Proclamação do Evangelho de Jesus Cristo segundo Mateus 25,31-46 Naquele tempo, disse Jesus a seus discípulos: "Quando o Filho do Homem vier em sua glória, acompanhado de todos os anjos, então se assentará em seu trono glorioso.
+        Todos os povos da terra serão reunidos diante dele, e ele separará uns dos outros, assim como o pastor separa as ovelhas dos cabritos.
+        E colocará as ovelhas à sua direita e os cabritos à sua esquerda.
+        Então o Rei dirá aos que estiverem à sua direita: 'Vinde, benditos de meu Pai! Recebei como herança o Reino que meu Pai vos preparou desde a criação do mundo! Pois eu estava com fome e me destes de comer;
+        eu estava com sede e me destes de beber;
+        eu era estrangeiro e me recebestes em casa;
+        eu estava nu e me vestistes;
+        eu estava doente e cuidastes de mim;
+        eu estava na prisão e fostes me visitar'.
+        Então os justos lhe perguntarão: 'Senhor, quando foi que te vimos com fome e te demos de comer? com sede e te demos de beber? Quando foi que te vimos como estrangeiro e te recebemos em casa, e sem roupa e te vestimos? Quando foi que te vimos doente ou preso, e fomos te visitar?' Então o Rei lhes responderá: 'Em verdade eu vos digo, que todas as vezes que fizestes isso a um dos menores de meus irmãos, foi a mim que o fizestes!' Depois o Rei dirá aos que estiverem à sua esquerda: 'Afastai-vos de mim, malditos! Ide para o fogo eterno, preparado para o diabo e para os seus anjos.
+        Pois eu estava com fome e não me destes de comer;
+        eu estava com sede e não me destes de beber;
+        eu era estrangeiro e não me recebestes em casa;
+        eu estava nu e não me vestistes;
+        eu estava doente e na prisão e não fostes me visitar'.
+        E responderão também eles: 'Senhor, quando foi que te vimos com fome, ou com sede, como estrangeiro, ou nu, doente ou preso, e não te servimos?' Então o Rei lhes responderá: 'Em verdade eu vos digo, todas as vezes que não fizestes isso a um desses pequeninos, foi a mim que não o fizestes!' Portanto, estes irão para o castigo eterno, enquanto os justos irão para a vida eterna".
+
+        Palavra da Salvação.
 ordinary.week34.1.b:
   title: Domingo da 34ª Semana
   subtitle: Tempo Comum
