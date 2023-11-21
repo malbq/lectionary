@@ -973,17 +973,72 @@ advent.week3.1.b:
   color: purple
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Is 61,1-2a.10-11
+      text: |
+        Leitura do Livro do Profeta Isaías 
+        
+        O espírito do Senhor Deus está sobre mim, porque o Senhor me ungiu;
+        enviou-me para dar a boa-nova aos humildes, curar as feridas da alma, pregar a redenção para os cativos e a liberdade para os que estão presos; para proclamar o tempo da graça do Senhor.
+        Exulto de alegria no Senhor e minh'alma regozija-se em meu Deus; ele me vestiu com as vestes da salvação, envolveu-me com o manto da justiça e adornou-me como um noivo com sua coroa, ou uma noiva com suas joias.
+        Assim como a terra faz brotar a planta e o jardim faz germinar a semente, assim o Senhor Deus fará germinar a justiça e a sua glória diante de todas as nações.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Lc 1,46-48.49-50.53-54 (R. Is 61,10b)
+      text: |
+        R. A minh'alma se alegra no meu Deus.
+        
+        A minha alma engrandece ao Senhor,
+        e se alegrou o meu espírito em Deus, meu Salvador,
+        pois, ele viu a pequenez de sua serva,
+        desde agora as gerações hão de chamar-me de bendita. R.
+        
+        O Poderoso fez por mim maravilhas,
+        e Santo é o seu nome!
+        Seu amor, de geração em geração,*
+        chega a todos os que o respeitam. R.
+        
+        De bens saciou os famintos,
+        e despediu, sem nada os ricos.
+        Acolheu Israel, seu servidor,
+        fiel ao seu amor. R.
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Ts 5,16-24
+      text: |
+        Leitura da Primeira Carta de São Paulo aos Tessalonicenses 
+        
+        Irmãos:
+        Estai sempre alegres!
+        Rezai sem cessar.
+        Dai graças em todas as circunstâncias, porque essa é a vosso respeito a vontade de Deus em Jesus Cristo.
+        Não apagueis o espírito!
+        Não desprezeis as profecias, mas examinai tudo e guardai o que for bom.
+        Afastai-vos de toda espécie de maldade!
+        Que o próprio Deus da paz vos santifique totalmente, e que tudo aquilo que sois — espírito, alma, corpo — seja conservado sem mancha alguma para a vinda de nosso Senhor Jesus Cristo!
+        Aquele que vos chamou é fiel;
+        ele mesmo realizará isso.
+        
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 1,6-8.19-28
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João
+
+        Surgiu um homem enviado por Deus;
+        Seu nome era João.
+        Ele veio como testemunha, para dar testemunho da luz, para que todos chegassem à fé por meio dele.
+        Ele não era a luz, mas veio para dar testemunho da luz.
+        Este foi o testemunho de João, quando os judeus enviaram de Jerusalém sacerdotes e levitas para perguntar: "Quem és tu?" João confessou e não negou.
+        Confessou: "Eu não sou o Messias".
+        Eles perguntaram: "Quem és, então? És tu Elias?" João respondeu: "Não sou".
+        Eles perguntaram: "És o Profeta?" Ele respondeu: "Não".
+        Perguntaram então: "Quem és, afinal? Temos que levar uma resposta para aqueles que nos enviaram.
+        O que dizes de ti mesmo?" João declarou: "Eu sou a voz que grita no deserto: 'Aplainai o caminho do Senhor'" — conforme disse o profeta Isaías.
+        Ora, os que tinham sido enviados pertenciam aos fariseus e perguntaram: "Por que então andas batizando, se não és o Messias, nem Elias, nem o Profeta?" João respondeu: "Eu batizo com água; mas no meio de vós está aquele que vós não conheceis, e que vem depois de mim.
+        Eu não mereço desamarrar a correia de suas sandálias".
+        Isso aconteceu em Betânia além do Jordão, onde João estava batizando.
+
+        Palavra da Salvação.
 advent.week3.1.c:
   title: Domingo da 3ª Semana
   subtitle: Tempo do Advento
