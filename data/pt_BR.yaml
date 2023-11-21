@@ -13933,7 +13933,7 @@ ordinary.week34.4.odd:
         Todos vos odiarão por causa do meu nome.
         Mas vós não perdereis um só fio de cabelo da vossa cabeça.
         É permanecendo firmes que ireis ganhar a vida!"
-        
+
         Palavra da Salvação.
 ordinary.week34.5.even:
   title: Quinta-feira da 34ª Semana
@@ -13955,14 +13955,58 @@ ordinary.week34.5.odd:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Rm 10,9-18
+      text: |
+        Leitura da Carta de São Paulo aos Romanos 
+        
+        Irmãos,
+        se, com tua boca, confessares Jesus como Senhor e, no teu coração, creres que Deus o ressuscitou dos mortos, serás salvo.
+        É crendo no coração que se alcança a justiça e é confessando a fé com a boca que se consegue a salvação.
+        Pois a Escritura diz: "Todo aquele que nele crer não ficará confundido".
+        Portanto, não importa a diferença entre judeu e grego;
+        todos têm o mesmo Senhor, que é generoso para com todos os que o invocam.
+        De fato, todo aquele que invocar o Nome do Senhor será salvo.
+        Mas, como invocá-lo, sem antes crer nele?
+        E como crer, sem antes ter ouvido falar dele?
+        E como ouvir, sem alguém que pregue?
+        E como pregar, sem ser enviado para isso?
+        Assim é que está escrito: "Quão belos são os pés dos que anunciam o bem".
+        Mas nem todos obedeceram à Boa-nova.
+        Pois Isaías diz: "Senhor, quem acreditou em nossa pregação?" Logo, a fé vem da pregação e a pregação se faz pela palavra de Cristo.
+        Então, eu pergunto: Será que eles não ouviram?
+        Certamente que ouviram, pois "a voz deles se espalhou por toda a terra, e as suas palavras chegaram aos confins do mundo".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 18(19A),2-3.4-5 (R. 5a)
+      text: |
+        R. Seu som ressoa e se espalha em toda terra.
+        
+        Os céus proclamam a glória do Senhor,
+        e o firmamento, a obra de suas mãos;
+        o dia ao dia transmite esta mensagem,
+        a noite à noite publica esta notícia. R.
+        
+        Não são discursos nem frases ou palavras,
+        nem são vozes que possam ser ouvidas;
+        seu som ressoa e se espalha em toda a terra,
+        chega aos confins do universo a sua voz. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mt 4,18-22
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Mateus 
+        
+        Naquele tempo,
+        quando Jesus andava à beira do mar da Galileia, viu dois irmãos: Simão, chamado Pedro, e seu irmão André.
+        Estavam lançando a rede ao mar, pois eram pescadores.
+        Jesus disse a eles: "Segui-me, e eu farei de vós pescadores de homens".
+        Eles, imediatamente deixaram as redes e o seguiram.
+        Caminhando um pouco mais, Jesus viu outros dois irmãos: Tiago, filho de Zebedeu, e seu irmão João.
+        Estavam na barca com seu pai Zebedeu consertando as redes.
+        Jesus os chamou.
+        Eles, imediatamente deixaram a barca e o pai, e o seguiram.
+        
+        Palavra da Salvação.
 ordinary.week34.6.even:
   title: Sexta-feira da 34ª Semana
   subtitle: Tempo Comum
