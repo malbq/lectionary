@@ -13521,14 +13521,71 @@ ordinary.week33.7.odd:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Mc 6,1-13
+      text: |
+        Leitura do Primeiro Livro dos Macabeus 
+        
+        Naqueles dias,
+        o rei Antíoco estava percorrendo as províncias mais altas do seu império, quando ouviu dizer que Elimaida, na Pérsia, era uma cidade célebre por suas riquezas, sua prata e ouro, e que seu templo era fabulosamente rico, contendo véus tecidos de ouro e couraças e armas ali deixadas por Alexandre, filho de Filipe, rei da Macedônia, que fora o primeiro a reinar entre os gregos.
+        Antíoco marchou para lá e tentou apoderar-se da cidade, para saqueá-la, mas não o conseguiu, pois seus habitantes haviam tomado conhecimento do seu plano e levantaram-se em guerra contra ele.
+        Obrigado a fugir, Antíoco afastou-se acabrunhado, e voltou para a Babilônia.
+        Estava ainda na Pérsia, quando vieram comunicar-lhe a derrota das tropas enviadas contra a Judeia.
+        O próprio Lísias, tendo sido o primeiro a partir de lá à frente de poderoso exército, tinha sido posto em fuga.
+        E os judeus tinham-se reforçado em armas e soldados, graças aos abundantes despojos que tomaram dos exércitos vencidos.
+        Além disso, tinha derrubado a Abominação, que ele havia construído sobre o altar de Jerusalém.
+        E tinham cercado o templo com altos muros, e ainda fortificado Betsur, uma das cidades do rei.
+        Ouvindo as notícias, o rei ficou espantado e muito agitado.
+        Caiu de cama e adoeceu de tristeza, pois as coisas não tinham acontecido segundo o que ele esperava.
+        Ficou assim por muitos dias, recaindo sempre de novo numa profunda melancolia, e sentiu que ia morrer.
+        Chamou então todos os amigos e disse: "O sono fugiu de meus olhos e meu coração desfalece de angústia.
+        Eu disse a mim mesmo: A que grau de aflição cheguei e em que ondas enormes me debato!
+        Eu, que era tão feliz e amado, quando era poderoso!
+        Lembro-me agora das iniquidades que pratiquei em Jerusalém.
+        Apoderei-me de todos os objetos de prata e ouro que lá se encontravam, e mandei exterminar sem motivo os habitantes de Judá.
+        Reconheço que é por causa disso que estas desgraças me atingiram, e com profunda angústia vou morrer em terra estrangeira".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 9A(9),2-3.4 e 6.16b e 19 (R. cf. 15a)
+      text: |
+        R. Cantarei de alegria, ó Senhor, pois me livrastes!
+        
+        Senhor, de coração vos darei graças,
+        as vossas maravilhas cantarei!
+        Em vós exultarei de alegria,
+        cantarei ao vosso nome, Deus Altíssimo! R.
+        
+        Voltaram para trás meus inimigos,
+        perante a vossa face pereceram.
+        Repreendestes as nações, e os maus perdestes,
+        apagastes o seu nome para sempre. R.
+        
+        Os maus caíram no buraco que cavaram,
+        nos próprios laços foram presos os seus pés.
+        Mas o pobre não será sempre esquecido,
+        nem é vã a esperança dos humildes. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Lc 20,27-40
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Lucas 
+        
+        Naquele tempo,
+        aproximaram-se de Jesus alguns saduceus, que negam a ressurreição, e lhe perguntaram: "Mestre, Moisés deixou-nos escrito:
+        'se alguém tiver um irmão casado e este morrer sem filhos, deve casar-se com a viúva a fim de garantir a descendência para o seu irmão'.
+        Ora, havia sete irmãos.
+        O primeiro casou e morreu, sem deixar filhos.
+        Também o segundo e o terceiro se casaram com a viúva.
+        E assim os sete: todos morreram sem deixar filhos.
+        Por fim, morreu também a mulher.
+        Na ressurreição, ela será esposa de quem? Todos os sete estiveram casados com ela".
+        Jesus respondeu aos saduceus: "Nesta vida, os homens e as mulheres casam-se, mas os que forem julgados dignos da ressurreição dos mortos e de participar da vida futura, nem eles se casam nem elas se dão em casamento;
+        e já não poderão morrer, pois serão iguais aos anjos, serão filhos de Deus, porque ressuscitaram.
+        Que os mortos ressuscitam, Moisés também o indicou na passagem da sarça, quando chama o Senhor o Deus de Abraão, o Deus de Isaac e o Deus de Jacó.
+        Deus não é Deus dos mortos, mas dos vivos, pois todos vivem para ele".
+        Alguns doutores da Lei disseram a Jesus: "Mestre, tu falaste muito bem".
+        E ninguém mais tinha coragem de perguntar coisa alguma a Jesus.
+
+        Palavra da Salvação.
 ordinary.week34.1.a:
   title: Domingo da 34ª Semana
   subtitle: Tempo Comum
