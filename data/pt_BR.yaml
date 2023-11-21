@@ -13875,6 +13875,10 @@ ordinary.week34.4.even:
       ref: ''
       text: ''
 ordinary.week34.4.odd:
+  title: Quarta-feira da 34ª Semana
+  subtitle: Tempo Comum
+  color: green
+  readings:
     - type: reading
       ref: Dn 5,1-6.13-14.16-17.23-28
       text: |
