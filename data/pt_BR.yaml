@@ -779,17 +779,76 @@ advent.week2.1.b:
   color: purple
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Is 40,1-5.9-11
+      text: |
+        Leitura do Livro do Profeta Isaías 
+        
+        "Consolai o meu povo, consolai-o!
+        — diz o vosso Deus —.
+        Falai ao coração de Jerusalém e dizei em alta voz que sua servidão acabou e a expiação de suas culpas foi cumprida; ela recebeu das mãos do Senhor o dobro por todos os seus pecados".
+        Grita uma voz: "Preparai no deserto o caminho do Senhor, aplainai na solidão a estrada de nosso Deus.
+        Nivelem-se todos os vales, rebaixem-se todos os montes e colinas; endireite-se o que é torto e alisem-se as asperezas: a glória do Senhor então se manifestará, e todos os homens verão juntamente o que a boca do Senhor falou.
+        Sobe a um alto monte, tu, que trazes a boa-nova a Sião; levanta com força a tua voz, tu, que trazes a boa-nova a Jerusalém, ergue a voz, não temas; dize às cidades de Judá: 'Eis o vosso Deus, eis que o Senhor Deus vem com poder, seu braço tudo domina: eis, com ele, sua conquista, eis à sua frente a vitória.
+        Como um pastor, ele apascenta o rebanho, reúne, com a força dos braços, os cordeiros e carrega-os ao colo; ele mesmo tange as ovelhas-mães'".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 84(85),9ab-10.11-12.13-14 (R. 8)
+      text: |
+        R. Mostrai-nos, ó Senhor, vossa bondade,
+        e a vossa salvação nos concedei!
+
+        Quero ouvir o que o Senhor irá falar:
+        é a paz que ele vai anunciar;
+        a paz para o seu povo e seus amigos,
+        para os que voltam ao Senhor seu coração.
+        Está perto a salvação dos que o temem,
+        e a glória habitará em nossa terra.  R.
+        
+        A verdade e o amor se encontrarão,
+        a justiça e a paz se abraçarão;
+        da terra brotará a fidelidade,
+        e a justiça olhará dos altos céus.  R.
+        
+        O Senhor nos dará tudo o que é bom,
+        e a nossa terra nos dará suas colheitas;
+        a justiça andará na sua frente
+        e a salvação há de seguir os passos seus. R.
     - type: reading
-      ref: ''
-      text: ''
+      ref: 2Pd 3,8-14
+      text: |
+        Leitura da Segunda Carta de São Pedro 
+        
+        Uma coisa vós não podeis desconhecer, caríssimos:
+        para o Senhor, um dia é como mil anos e mil anos como um dia.
+        O Senhor não tarda a cumprir sua promessa, como pensam alguns, achando que demora.
+        Ele está usando de paciência para convosco.
+        Pois não deseja que alguém se perca.
+        Ao contrário, quer que todos venham a converter-se.
+        O dia do Senhor chegará como um ladrão, e então os céus acabarão com barulho espantoso;
+        os elementos, devorados pelas chamas, se dissolverão, e a terra será consumida com tudo o que nela se fez.
+        Se desse modo tudo se vai desintegrar, qual não deve ser o vosso empenho numa vida santa e piedosa, enquanto esperais com anseio a vinda do Dia de Deus, quando os céus em chama se vão derreter, e os elementos, consumidos pelo fogo, se fundirão?      
+        O que nós esperamos, de acordo com a sua promessa, são novos céus e uma nova terra, onde habitará a justiça.
+        Caríssimos, vivendo nesta esperança, esforçai-vos para que ele vos encontre numa vida pura e sem mancha e em paz.        
+
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 1,1-8
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos
+
+        Início do Evangelho de Jesus Cristo, Filho de Deus.
+        Está escrito no livro do profeta Isaías: "Eis que envio meu mensageiro à tua frente, para preparar o teu caminho.        
+        Esta é a voz daquele que grita no deserto: 'Preparai o caminho do Senhor, endireitai suas estradas!'"
+        Foi assim que João Batista apareceu no deserto, pregando um batismo de conversão para o perdão dos pecados.
+        Toda a região da Judeia e todos os moradores de Jerusalém iam ao seu encontro.
+        Confessavam os seus pecados e João os batizava no rio Jordão.
+        João se vestia com uma pele de camelo e comia gafanhotos e mel do campo.
+        E pregava, dizendo: "Depois de mim virá alguém mais forte do que eu.
+        Eu nem sou digno de me abaixar para desamarrar suas sandálias.
+        Eu vos batizei com água, mas ele vos batizará com o Espírito Santo".
+
+        Palavra da Salvação.
 advent.week2.1.c:
   title: Domingo da 2ª Semana
   subtitle: Tempo do Advento
