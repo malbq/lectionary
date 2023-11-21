@@ -678,14 +678,63 @@ advent.week1.2:
   color: purple
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Is 2,1-5
+      text: |
+        Leitura do Livro do Profeta Isaías 
+        
+        Visão de Isaías, filho de Amós, sobre Judá e Jerusalém.
+        Acontecerá, nos últimos tempos, que o monte da casa do Senhor estará firmemente estabelecido no ponto mais alto das montanhas e dominará as colinas.
+        A ele acorrerão todas as nações, para lá irão numerosos povos e dirão: "Vamos subir ao monte do Senhor, à casa do Deus de Jacó, para que ele nos mostre seus caminhos e nos ensine a cumprir seus preceitos"; porque de Sião provém a lei e de Jerusalém, a palavra do Senhor.
+        Ele há de julgar as nações e arguir numerosos povos; estes transformarão suas espadas em arados e suas lanças em foices: não pegarão em armas uns contra os outros e não mais travarão combate.
+        Vinde, todos da casa de Jacó, e deixemo-nos guiar pela luz do Senhor.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 121(122),1-2.3-4a.4b-5.6-7.8-9 (R:.1)
+      text: |
+        R. Que alegria, quando me disseram:
+        
+        "Vamos à casa do Senhor!"
+        Que alegria, quando ouvi que me disseram:
+        "Vamos à casa do Senhor!"
+        E agora nossos pés já se detêm,
+        Jerusalém, em tuas portas. R.
+        
+        Jerusalém, cidade bem edificada
+        num conjunto harmonioso;
+        para lá sobem as tribos de Israel,
+        as tribos do Senhor. R.
+        
+        Para louvar, segundo a lei de Israel,
+        o nome do Senhor.
+        A sede da justiça lá está
+        e o trono de Davi. R.
+        
+        Rogai que viva em paz Jerusalém,
+        e em segurança os que te amam!
+        Que a paz habite dentro de teus muros,
+        tranquilidade em teus palácios! R.
+        
+        Por amor a meus irmãos e meus amigos,
+        peço: "A paz esteja em ti!"
+        Pelo amor que tenho à casa do Senhor,
+        eu te desejo todo bem! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mt 8,5-11
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Mateus 
+        
+        Naquele tempo,
+        quando Jesus entrou em Cafarnaum, um oficial romano aproximou-se dele, suplicando: "Senhor, o meu empregado está de cama, lá em casa, sofrendo terrivelmente com uma paralisia".
+        Jesus respondeu: "Vou curá-lo".
+        O oficial disse: "Senhor, eu não sou digno de que entres em minha casa.
+        Dize uma só palavra e o meu empregado ficará curado.
+        Pois eu também sou subordinado e tenho soldados debaixo de minhas ordens.
+        E digo a um : 'Vai!', e ele vai; e a outro: 'Vem!', e ele vem; e digo ao meu escravo: 'Faze isto!', e ele faz".
+        Quando ouviu isso, Jesus ficou admirado, e disse aos que o seguiam: "Em verdade, vos digo: nunca encontrei em Israel alguém que tivesse tanta fé.
+        Eu vos digo: muitos virão do Oriente e do Ocidente, e se sentarão à mesa no Reino dos Céus, junto com Abraão, Isaac e Jacó".
+
+        Palavra da Salvação
 advent.week1.3:
   title: Terça-feira da 1ª Semana
   subtitle: Tempo do Advento
