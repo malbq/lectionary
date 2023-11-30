@@ -932,14 +932,81 @@ assumption:
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Is 9,1-6
+      text: |
+        Leitura do Livro do Profeta Isaías 
+        
+        O povo, que andava na escuridão, viu uma grande luz;
+        para os que habitavam nas sombras da morte, uma luz resplandeceu.
+        Fizeste crescer a alegria, e aumentaste a felicidade;
+        todos se regozijam em tua presença como alegres ceifeiros na colheita, ou como exaltados guerreiros ao dividirem os despojos.
+        Pois o jugo que oprimia o povo, — a carga sobre os ombros, o orgulho dos fiscais — tu os abateste como na jornada de Madiã.
+        Botas de tropa de assalto, trajes manchados de sangue, tudo será queimado e devorado pelas chamas.
+        Porque nasceu para nós um menino, foi-nos dado um filho;
+        ele traz aos ombros a marca da realeza;
+        o nome que lhe foi dado é: Conselheiro admirável, Deus forte, Pai dos tempos futuros, Príncipe da Paz.
+        Grande será o seu reino e a paz não há de ter fim sobre o trono de Davi e sobre o seu reinado, que ele irá consolidar e confirmar em justiça e santidade, a partir de agora e para todo o sempre.
+        O amor zeloso do Senhor dos exércitos há de realizar estas coisas.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 95(96),1-2a.2b-3.11-12,13 (R. Lc 2,11)
+      text: |
+        R. Hoje nasceu para nós
+        o Salvador,que é Cristo o Senhor.
+
+        Cantai ao Senhor Deus um canto novo,
+        cantai ao Senhor Deus, ó terra inteira!
+        Cantai e bendizei seu santo nome! R.
+        
+        Dia após dia anunciai sua salvação,
+        manifestai a sua glória entre as nações,
+        e entre os povos do universo seus prodígios! R.
+        
+        O céu se rejubile e exulte a terra,
+        aplauda o mar com o que vive em suas águas;
+        os campos com seus frutos rejubilem
+        e exultem as florestas e as matas R.
+        
+        na presença do Senhor, pois ele vem,
+        porque vem para julgar a terra inteira.
+        Governará o mundo todo com justiça,
+        e os povos julgará com lealdade. R.
+    - type: reading
+      ref: Tt 2,11-14
+      text: |
+        Leitura da Carta de São Paulo a Tito 
+        
+        Caríssimo:
+        A graça de Deus se manifestou trazendo a salvação para todos os homens.
+        Ela nos ensina a abandonar a impiedade e as paixões mundanas e a viver neste mundo com equilíbrio, justiça e piedade, aguardando a feliz esperança e a manifestação da glória do nosso grande Deus e Salvador, Jesus Cristo.
+        Ele se entregou por nós, para nos resgatar de toda maldade e purificar para si um povo que lhe pertença e que se dedique a praticar o bem.
+
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Lc 2,1-14
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Lucas
+
+        Aconteceu que naqueles dias,
+        César Augusto publicou um decreto, ordenando o recenseamento de toda a terra.
+        Este primeiro recenseamento foi feito quando Quirino era governador da Síria.
+        Todos iam registrar-se cada um na sua cidade natal.
+        Por ser da família e descendência de Davi, José subiu da cidade de Nazaré, na Galileia, até a cidade de Davi, chamada Belém, na Judeia, para registrar-se com Maria, sua esposa, que estava grávida.
+        Enquanto estavam em Belém, completaram-se os dias para o parto, e Maria deu à luz o seu filho primogênito.
+        Ela o enfaixou e o colocou na manjedoura, pois não havia lugar para eles na hospedaria.
+        Naquela região havia pastores que passavam a noite nos campos, tomando conta do seu rebanho.
+        Um anjo do Senhor apareceu aos pastores, a glória do Senhor os envolveu em luz, e eles ficaram com muito medo.
+        O anjo, porém, disse aos pastores:
+        "Não tenhais medo!
+        Eu vos anuncio uma grande alegria, que o será para todo o povo: Hoje, na cidade de Davi, nasceu para vós um Salvador, que é o Cristo Senhor.
+        Isto vos servirá de sinal:
+        Encontrareis um recém-nascido envolvido em faixas e deitado numa manjedoura".
+        E, de repente, juntou-se ao anjo uma multidão da coorte celeste.
+        Cantavam louvores a Deus, dizendo:
+        "Glória a Deus no mais alto dos céus, e paz na terra aos homens por ele amados".      
+
+        Palavra da Salvação.
 1225.dawn:
   title: Natal do Senhor, Missa da Aurora
   subtitle: Solenidade
