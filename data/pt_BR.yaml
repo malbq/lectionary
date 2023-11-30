@@ -459,14 +459,54 @@
   color: purple
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Ml 3,1-4.23-24
+      text: |
+        Leitura da Profecia de Malaquias 
+        
+        Assim fala o Senhor Deus:
+        "Eis que envio meu anjo, e ele há de preparar o caminho para mim; logo chegará ao seu templo o Dominador, que tentais encontrar, e o anjo da aliança, que desejais.
+        Ei-lo que vem, diz o Senhor dos exércitos; e quem poderá fazer-lhe frente, no dia de sua chegada?
+        E quem poderá resistir-lhe, quando ele aparecer?
+        Ele é como o fogo da forja e como a barrela dos lavadeiros; e estará a postos, como para fazer derreter e purificar a prata: assim ele purificará os filhos de Levi e os refinará como ouro e como prata, e eles poderão assim fazer oferendas justas ao Senhor.
+        Será então aceitável ao Senhor a oblação de Judá e de Jerusalém, como nos primeiros tempos e nos anos antigos.
+        Eis que eu vos enviarei o profeta Elias, antes que venha o dia do Senhor, dia grande e terrível; o coração dos pais há de voltar-se para os filhos, e o coração dos filhos para seus pais, para que eu não intervenha, ferindo de maldição a vossa terra".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 24(25),4-5ab.8-9.10 e 14 (R. Lc 21,28)
+      text: |
+        R. Levantai vossa cabeça e olhai,
+        pois, a vossa redenção se aproxima!
+
+        Mostrai-me, ó Senhor, vossos caminhos,
+        e fazei-me conhecer a vossa estrada!
+        Vossa verdade me oriente e me conduza,
+        porque sois o Deus da minha salvação! R.
+        
+        O Senhor é piedade e retidão,
+        e reconduz ao bom caminho os pecadores.
+        Ele dirige os humildes na justiça,
+        e aos pobres ele ensina o seu caminho. R.
+        
+        Verdade e amor são os caminhos do Senhor
+        para quem guarda sua Aliança e seus preceitos.
+        O Senhor se torna íntimo aos que o temem
+        e lhes dá a conhecer sua Aliança. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Lc 1,57-66
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Lucas 
+        
+        Completou-se o tempo da gravidez de Isabel,
+        e ela deu à luz um filho.
+        Os vizinhos e parentes ouviram dizer como o Senhor tinha sido misericordioso para com Isabel, e alegraram-se com ela.
+        No oitavo dia, foram circuncidar o menino, e queriam dar-lhe o nome de seu pai, Zacarias.
+        A mãe porém disse: "Não! Ele vai chamar-se João." Os outros disseram: "Não existe nenhum parente teu com esse nome!" Então fizeram sinais ao pai, perguntando como ele queria que o menino se chamasse.
+        Zacarias pediu uma tabuinha, e escreveu: "João é o seu nome." No mesmo instante, a boca de Zacarias se abriu, sua língua se soltou, e ele começou a louvar a Deus.
+        Todos os vizinhos ficaram com medo, e a notícia espalhou-se por toda a região montanhosa da Judeia.
+        E todos os que ouviam a notícia, ficavam pensando: "O que virá a ser este menino?" De fato, a mão do Senhor estava com ele.
+
+        Palavra da Salvação.
 '1226':
   title: Santo Estêvão, Primeiro Mártir
   subtitle: Festa
@@ -672,14 +712,83 @@ assumption:
   color: purple
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 2Sm 7,1-5.8b-12.14a.16a
+      text: |
+        Leitura do Segundo Livro de Samuel 
+        
+        Tendo-se o rei Davi instalado já em sua casa
+        e tendo-lhe o Senhor dado a paz, livrando-o de todos os seus inimigos, ele disse ao profeta Natã: "Vê: eu resido num palácio de cedro, e a arca de Deus está alojada numa tenda!" Natã respondeu ao rei: "Vai e faze tudo o que diz o teu coração, pois o Senhor está contigo".
+        Mas, nessa mesma noite, a palavra do Senhor foi dirigida a Natã nestes termos: "Vai dizer ao meu servo Davi: 'Assim fala o Senhor: Porventura és tu que me construirás uma casa para eu habitar?
+        Fui eu que te tirei do pastoreio, do meio das ovelhas, para que fosses o chefe do meu povo, Israel.
+        Estive contigo em toda a parte por onde andaste, e exterminei diante de ti todos os teus inimigos, fazendo o teu nome tão célebre como o dos homens mais famosos da terra.
+        Vou preparar um lugar para o meu povo, Israel: eu o implantarei, de modo que possa morar lá sem jamais ser inquietado.
+        Os homens violentos não tornarão a oprimi-lo como outrora, no tempo em que eu estabelecia juízes sobre o meu povo, Israel.
+        Concedo-te uma vida tranquila, livrando-te de todos os teus inimigos.
+        E o Senhor te anuncia que te fará uma casa.
+        Quando chegar o fim dos teus dias e repousares com teus pais, então, suscitarei, depois de ti, um filho teu, e confirmarei a sua realeza.
+        Eu serei para ele um pai e ele será para mim um filho.
+        Tua casa e teu reino serão estáveis para sempre diante de mim, e teu trono será firme para sempre".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 88(89),2-3.4-5.27.29 (R. 2a)
+      text: |
+        R. Ó Senhor, eu cantarei eternamente o vosso amor!
+        
+        Ó Senhor, eu cantarei eternamente o vosso amor,
+        de geração em geração eu cantarei vossa verdade!
+        Porque dissestes: "O amor é garantido para sempre!"
+        E a vossa lealdade é tão firme como os céus. R.
+        
+        "Eu firmei uma Aliança com meu servo, meu eleito,
+        e eu fiz um juramento a Davi, meu servidor.
+        Para sempre, no teu trono, firmarei tua linhagem,
+        de geração em geração garantirei o teu reinado! R.
+        
+        Ele, então, me invocará:
+        'Ó Senhor, vós sois meu Pai, sois meu Deus,
+        sois meu Rochedo onde encontro a salvação!'
+        Guardarei eternamente para ele a minha graça
+        e com ele firmarei minha Aliança indissolúvel". R.
+    - type: reading
+      ref: Rm 16,25-27
+      text: |
+        Leitura da Carta de São Paulo aos Romanos 
+        
+        Irmãos:
+        Glória seja dada àquele que tem o poder de vos confirmar na fidelidade ao meu evangelho e à pregação de Jesus Cristo, de acordo com a revelação do mistério mantido em sigilo desde sempre.
+        Agora este mistério foi manifestado e, mediante as Escrituras proféticas, conforme determinação do Deus eterno, foi levado ao conhecimento de todas as nações, para trazê-las à obediência da fé.
+        A ele, o único Deus, o sábio, por meio de Jesus Cristo, a glória, pelos séculos dos séculos.
+        Amém!
+
+        Palavra do Senhor
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Lc 1,26-38
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Lucas
+
+        Naquele tempo,
+        o anjo Gabriel foi enviado por Deus a uma cidade da Galileia, chamada Nazaré, a uma virgem, prometida em casamento a um homem chamado José.
+        Ele era descendente de Davi e o nome da virgem era Maria O anjo entrou onde ela estava e disse:
+        "Alegra-te, cheia de graça, o Senhor está contigo!"
+        Maria ficou perturbada com essas palavras e começou a pensar qual seria o significado da saudação.    
+        O anjo, então, disse-lhe:
+        "Não tenhas medo, Maria, porque encontraste graça diante de Deus.
+        Eis que conceberás e darás à luz um filho, a quem porás o nome de Jesus.
+        Ele será grande, será chamado Filho do Altíssimo, e o Senhor Deus lhe dará o trono de seu pai Davi.
+        Ele reinará para sempre sobre os descendentes de Jacó, e o seu reino não terá fim".
+        Maria perguntou ao anjo:
+        "Como acontecerá isso, se eu não conheço homem algum?"
+        O anjo respondeu:
+        "O Espírito virá sobre ti, e o poder do Altíssimo te cobrirá com sua sombra.
+        Por isso, o menino que vai nascer será chamado Santo, Filho de Deus.
+        Também Isabel, tua parenta, concebeu um filho na velhice.
+        Este já é o sexto mês daquela que era considerada estéril, porque para Deus nada é impossível".
+        Maria, então, disse:
+        "Eis aqui a serva do Senhor; faça-se em mim segundo a tua palavra!"
+        E o anjo retirou-se.
+
+        Palavra da Salvação.
 1224.vigil:
   title: Natal do Senhor, Missa da Vigília
   subtitle: Solenidade
