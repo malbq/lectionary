@@ -610,18 +610,23 @@
     "readings": [
       {
         "type": "reading",
-        "ref": "",
-        "text": ""
+        "ref": "Is 9,1-6",
+        "text": "Leitura do Livro do Profeta Isaías \n\nO povo, que andava na escuridão, viu uma grande luz;\npara os que habitavam nas sombras da morte, uma luz resplandeceu.\nFizeste crescer a alegria, e aumentaste a felicidade;\ntodos se regozijam em tua presença como alegres ceifeiros na colheita, ou como exaltados guerreiros ao dividirem os despojos.\nPois o jugo que oprimia o povo, — a carga sobre os ombros, o orgulho dos fiscais — tu os abateste como na jornada de Madiã.\nBotas de tropa de assalto, trajes manchados de sangue, tudo será queimado e devorado pelas chamas.\nPorque nasceu para nós um menino, foi-nos dado um filho;\nele traz aos ombros a marca da realeza;\no nome que lhe foi dado é: Conselheiro admirável, Deus forte, Pai dos tempos futuros, Príncipe da Paz.\nGrande será o seu reino e a paz não há de ter fim sobre o trono de Davi e sobre o seu reinado, que ele irá consolidar e confirmar em justiça e santidade, a partir de agora e para todo o sempre.\nO amor zeloso do Senhor dos exércitos há de realizar estas coisas.\n\nPalavra do Senhor.\n"
       },
       {
         "type": "psalm",
-        "ref": "",
-        "text": ""
+        "ref": "Sl 95(96),1-2a.2b-3.11-12,13 (R. Lc 2,11)",
+        "text": "R. Hoje nasceu para nós\no Salvador,que é Cristo o Senhor.\n\nCantai ao Senhor Deus um canto novo,\ncantai ao Senhor Deus, ó terra inteira!\nCantai e bendizei seu santo nome! R.\n\nDia após dia anunciai sua salvação,\nmanifestai a sua glória entre as nações,\ne entre os povos do universo seus prodígios! R.\n\nO céu se rejubile e exulte a terra,\naplauda o mar com o que vive em suas águas;\nos campos com seus frutos rejubilem\ne exultem as florestas e as matas R.\n\nna presença do Senhor, pois ele vem,\nporque vem para julgar a terra inteira.\nGovernará o mundo todo com justiça,\ne os povos julgará com lealdade. R.\n"
+      },
+      {
+        "type": "reading",
+        "ref": "Tt 2,11-14",
+        "text": "Leitura da Carta de São Paulo a Tito \n\nCaríssimo:\nA graça de Deus se manifestou trazendo a salvação para todos os homens.\nEla nos ensina a abandonar a impiedade e as paixões mundanas e a viver neste mundo com equilíbrio, justiça e piedade, aguardando a feliz esperança e a manifestação da glória do nosso grande Deus e Salvador, Jesus Cristo.\nEle se entregou por nós, para nos resgatar de toda maldade e purificar para si um povo que lhe pertença e que se dedique a praticar o bem.\n\nPalavra do Senhor.\n"
       },
       {
         "type": "gospel",
-        "ref": "",
-        "text": ""
+        "ref": "Lc 2,1-14",
+        "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas\n\nAconteceu que naqueles dias,\nCésar Augusto publicou um decreto, ordenando o recenseamento de toda a terra.\nEste primeiro recenseamento foi feito quando Quirino era governador da Síria.\nTodos iam registrar-se cada um na sua cidade natal.\nPor ser da família e descendência de Davi, José subiu da cidade de Nazaré, na Galileia, até a cidade de Davi, chamada Belém, na Judeia, para registrar-se com Maria, sua esposa, que estava grávida.\nEnquanto estavam em Belém, completaram-se os dias para o parto, e Maria deu à luz o seu filho primogênito.\nEla o enfaixou e o colocou na manjedoura, pois não havia lugar para eles na hospedaria.\nNaquela região havia pastores que passavam a noite nos campos, tomando conta do seu rebanho.\nUm anjo do Senhor apareceu aos pastores, a glória do Senhor os envolveu em luz, e eles ficaram com muito medo.\nO anjo, porém, disse aos pastores:\n\"Não tenhais medo!\nEu vos anuncio uma grande alegria, que o será para todo o povo: Hoje, na cidade de Davi, nasceu para vós um Salvador, que é o Cristo Senhor.\nIsto vos servirá de sinal:\nEncontrareis um recém-nascido envolvido em faixas e deitado numa manjedoura\".\nE, de repente, juntou-se ao anjo uma multidão da coorte celeste.\nCantavam louvores a Deus, dizendo:\n\"Glória a Deus no mais alto dos céus, e paz na terra aos homens por ele amados\".      \n\nPalavra da Salvação.\n"
       }
     ]
   },
