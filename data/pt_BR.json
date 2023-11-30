@@ -99,18 +99,18 @@
     "readings": [
       {
         "type": "reading",
-        "ref": "",
-        "text": ""
+        "ref": "Jr 23,5-8",
+        "text": "Leitura do Livro do Profeta Jeremias \n\n\"Eis que virão dias, diz o Senhor,\nem que farei nascer um descendente de Davi; reinará como rei e será sábio, fará valer a justiça e a retidão na terra.\nNaqueles dias, Judá será salvo e Israel viverá tranquilo; este é o nome com que o chamarão: 'Senhor, nossa Justiça'.\nEis que virão dias, diz o Senhor, em que já não se usará jurar 'Pela vida do Senhor que tirou os filhos de Israel do Egito' — mas sim: 'Pela vida do Senhor que tirou e reconduziu os descendentes da casa de Israel desde o país do norte e todos os outros países, para onde os expulsará; eles então irão habitar em sua terra'\".\n\nPalavra do Senhor.\n"
       },
       {
         "type": "psalm",
-        "ref": "",
-        "text": ""
+        "ref": "Sl 71(72),1-2.12-13.18-19 (R. cf. 7)",
+        "text": "R. Nos seus dias a justiça florirá\ne paz em abundância, para sempre.\n\nDai ao Rei vossos poderes, Senhor Deus,\nvossa justiça ao descendente da realeza!\nCom justiça ele governe o vosso povo,\ncom equidade ele julgue os vossos pobres. R.\n\nLibertará o indigente que suplica,\ne o pobre ao qual ninguém quer ajudar.\nTerá pena do indigente e do infeliz,\ne a vida dos humildes salvará. R.\n\nBendito seja o Senhor Deus de Israel,\nporque só ele realiza maravilhas!\nBendito seja o seu nome glorioso!\nBendito seja eternamente! Amém, amém! R.\n"
       },
       {
         "type": "gospel",
-        "ref": "",
-        "text": ""
+        "ref": "Mt 1,18-24",
+        "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus \n\nA origem de Jesus Cristo foi assim:\nMaria, sua mãe, estava prometida em casamento a José, e, antes de viverem juntos, ela ficou grávida pela ação do Espírito Santo.\nJosé, seu marido, era justo e, não querendo denunciá-la, resolveu abandonar Maria, em segredo.\nEnquanto José pensava nisso, eis que o anjo do Senhor apareceu-lhe, em sonho, e lhe disse: \"José, Filho de Davi, não tenhas medo de receber Maria como tua esposa, porque ela concebeu pela ação do Espírito Santo.\nEla dará à luz um filho, e tu lhe darás o nome de Jesus, pois ele vai salvar o seu povo dos seus pecados\".\nTudo isso aconteceu para se cumprir o que o Senhor havia dito pelo profeta: \"Eis que a virgem conceberá e dará à luz um filho.\nEle será chamado pelo nome de Emanuel, que significa: Deus está conosco\".\nQuando acordou, José fez conforme o anjo do Senhor havia mandado, e aceitou sua esposa.\n\nPalavra da Salvação.\n"
       }
     ]
   },
@@ -1474,18 +1474,18 @@
     "readings": [
       {
         "type": "reading",
-        "ref": "Jr 23,5-8",
-        "text": "Leitura do Livro do Profeta Jeremias \n\n\"Eis que virão dias, diz o Senhor,\nem que farei nascer um descendente de Davi; reinará como rei e será sábio, fará valer a justiça e a retidão na terra.\nNaqueles dias, Judá será salvo e Israel viverá tranquilo; este é o nome com que o chamarão: 'Senhor, nossa Justiça'.\nEis que virão dias, diz o Senhor, em que já não se usará jurar 'Pela vida do Senhor que tirou os filhos de Israel do Egito' — mas sim: 'Pela vida do Senhor que tirou e reconduziu os descendentes da casa de Israel desde o país do norte e todos os outros países, para onde os expulsará; eles então irão habitar em sua terra'\".\n\nPalavra do Senhor.\n"
+        "ref": "",
+        "text": ""
       },
       {
         "type": "psalm",
-        "ref": "Sl 71(72),1-2.12-13.18-19 (R. cf. 7)",
-        "text": "R. Nos seus dias a justiça florirá\ne paz em abundância, para sempre.\n\nDai ao Rei vossos poderes, Senhor Deus,\nvossa justiça ao descendente da realeza!\nCom justiça ele governe o vosso povo,\ncom equidade ele julgue os vossos pobres. R.\n\nLibertará o indigente que suplica,\ne o pobre ao qual ninguém quer ajudar.\nTerá pena do indigente e do infeliz,\ne a vida dos humildes salvará. R.\n\nBendito seja o Senhor Deus de Israel,\nporque só ele realiza maravilhas!\nBendito seja o seu nome glorioso!\nBendito seja eternamente! Amém, amém! R.\n"
+        "ref": "",
+        "text": ""
       },
       {
         "type": "gospel",
-        "ref": "Mt 1,18-24",
-        "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus \n\nA origem de Jesus Cristo foi assim:\nMaria, sua mãe, estava prometida em casamento a José, e, antes de viverem juntos, ela ficou grávida pela ação do Espírito Santo.\nJosé, seu marido, era justo e, não querendo denunciá-la, resolveu abandonar Maria, em segredo.\nEnquanto José pensava nisso, eis que o anjo do Senhor apareceu-lhe, em sonho, e lhe disse: \"José, Filho de Davi, não tenhas medo de receber Maria como tua esposa, porque ela concebeu pela ação do Espírito Santo.\nEla dará à luz um filho, e tu lhe darás o nome de Jesus, pois ele vai salvar o seu povo dos seus pecados\".\nTudo isso aconteceu para se cumprir o que o Senhor havia dito pelo profeta: \"Eis que a virgem conceberá e dará à luz um filho.\nEle será chamado pelo nome de Emanuel, que significa: Deus está conosco\".\nQuando acordou, José fez conforme o anjo do Senhor havia mandado, e aceitou sua esposa.\n\nPalavra da Salvação.\n"
+        "ref": "",
+        "text": ""
       }
     ]
   },
