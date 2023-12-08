@@ -71,7 +71,7 @@
     ]
   },
   "1217": {
-    "title": "",
+    "title": "?{weekday} da {week}ª Semana",
     "subtitle": "Tempo do Advento",
     "color": "purple",
     "readings": [
@@ -93,7 +93,7 @@
     ]
   },
   "1218": {
-    "title": "",
+    "title": "?{weekday} da {week}ª Semana",
     "subtitle": "Tempo do Advento",
     "color": "purple",
     "readings": [
@@ -115,7 +115,7 @@
     ]
   },
   "1219": {
-    "title": "",
+    "title": "?{weekday} da {week}ª Semana",
     "subtitle": "Tempo do Advento",
     "color": "purple",
     "readings": [
@@ -137,7 +137,7 @@
     ]
   },
   "1220": {
-    "title": "",
+    "title": "?{weekday} da {week}ª Semana",
     "subtitle": "Tempo do Advento",
     "color": "purple",
     "readings": [
@@ -159,7 +159,7 @@
     ]
   },
   "1221": {
-    "title": "",
+    "title": "?{weekday} da {week}ª Semana",
     "subtitle": "Tempo do Advento",
     "color": "purple",
     "readings": [
@@ -187,7 +187,7 @@
     ]
   },
   "1222": {
-    "title": "",
+    "title": "?{weekday} da {week}ª Semana",
     "subtitle": "Tempo do Advento",
     "color": "purple",
     "readings": [
@@ -209,7 +209,7 @@
     ]
   },
   "1223": {
-    "title": "",
+    "title": "?{weekday} da {week}ª Semana",
     "subtitle": "Tempo do Advento",
     "color": "purple",
     "readings": [
@@ -362,8 +362,139 @@
       }
     ]
   },
+  "1224.day": {
+    "title": "?{weekday} da {week}ª Semana",
+    "subtitle": "Tempo do Advento",
+    "color": "purple",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "2Sm 7,1-5.8b-12.14a.16a",
+        "text": "Leitura do Segundo Livro de Samuel \n\nTendo-se o rei Davi instalado já em sua casa\ne tendo-lhe o Senhor dado a paz, livrando-o de todos os seus inimigos, ele disse ao profeta Natã: \"Vê: eu resido num palácio de cedro, e a arca de Deus está alojada numa tenda!\" Natã respondeu ao rei: \"Vai e faze tudo o que diz o teu coração, pois o Senhor está contigo\".\nMas, nessa mesma noite, a palavra do Senhor foi dirigida a Natã nestes termos: \"Vai dizer ao meu servo Davi: 'Assim fala o Senhor: Porventura és tu que me construirás uma casa para eu habitar?\nFui eu que te tirei do pastoreio, do meio das ovelhas, para que fosses o chefe do meu povo, Israel.\nEstive contigo em toda a parte por onde andaste, e exterminei diante de ti todos os teus inimigos, fazendo o teu nome tão célebre como o dos homens mais famosos da terra.\nVou preparar um lugar para o meu povo, Israel: eu o implantarei, de modo que possa morar lá sem jamais ser inquietado.\nOs homens violentos não tornarão a oprimi-lo como outrora, no tempo em que eu estabelecia juízes sobre o meu povo, Israel.\nConcedo-te uma vida tranquila, livrando-te de todos os teus inimigos.\nE o Senhor te anuncia que te fará uma casa.\nQuando chegar o fim dos teus dias e repousares com teus pais, então, suscitarei, depois de ti, um filho teu, e confirmarei a sua realeza.\nEu serei para ele um pai e ele será para mim um filho.\nTua casa e teu reino serão estáveis para sempre diante de mim, e teu trono será firme para sempre\".\n\nPalavra do Senhor.\n"
+      },
+      {
+        "type": "psalm",
+        "ref": "Sl 88(89),2-3.4-5.27.29 (R. 2a)",
+        "text": "R. Ó Senhor, eu cantarei eternamente o vosso amor!\n\nÓ Senhor, eu cantarei eternamente o vosso amor,\nde geração em geração eu cantarei vossa verdade!\nPorque dissestes: \"O amor é garantido para sempre!\"\nE a vossa lealdade é tão firme como os céus. R.\n\n\"Eu firmei uma Aliança com meu servo, meu eleito,\ne eu fiz um juramento a Davi, meu servidor.\nPara sempre, no teu trono, firmarei tua linhagem,\nde geração em geração garantirei o teu reinado! R.\n\nEle, então, me invocará:\n'Ó Senhor, vós sois meu Pai, sois meu Deus,\nsois meu Rochedo onde encontro a salvação!'\nGuardarei eternamente para ele a minha graça\ne com ele firmarei minha Aliança indissolúvel\". R.\n"
+      },
+      {
+        "type": "reading",
+        "ref": "Rm 16,25-27",
+        "text": "Leitura da Carta de São Paulo aos Romanos \n\nIrmãos:\nGlória seja dada àquele que tem o poder de vos confirmar na fidelidade ao meu evangelho e à pregação de Jesus Cristo, de acordo com a revelação do mistério mantido em sigilo desde sempre.\nAgora este mistério foi manifestado e, mediante as Escrituras proféticas, conforme determinação do Deus eterno, foi levado ao conhecimento de todas as nações, para trazê-las à obediência da fé.\nA ele, o único Deus, o sábio, por meio de Jesus Cristo, a glória, pelos séculos dos séculos.\nAmém!\n\nPalavra do Senhor\n"
+      },
+      {
+        "type": "gospel",
+        "ref": "Lc 1,26-38",
+        "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas\n\nNaquele tempo,\no anjo Gabriel foi enviado por Deus a uma cidade da Galileia, chamada Nazaré, a uma virgem, prometida em casamento a um homem chamado José.\nEle era descendente de Davi e o nome da virgem era Maria O anjo entrou onde ela estava e disse:\n\"Alegra-te, cheia de graça, o Senhor está contigo!\"\nMaria ficou perturbada com essas palavras e começou a pensar qual seria o significado da saudação.    \nO anjo, então, disse-lhe:\n\"Não tenhas medo, Maria, porque encontraste graça diante de Deus.\nEis que conceberás e darás à luz um filho, a quem porás o nome de Jesus.\nEle será grande, será chamado Filho do Altíssimo, e o Senhor Deus lhe dará o trono de seu pai Davi.\nEle reinará para sempre sobre os descendentes de Jacó, e o seu reino não terá fim\".\nMaria perguntou ao anjo:\n\"Como acontecerá isso, se eu não conheço homem algum?\"\nO anjo respondeu:\n\"O Espírito virá sobre ti, e o poder do Altíssimo te cobrirá com sua sombra.\nPor isso, o menino que vai nascer será chamado Santo, Filho de Deus.\nTambém Isabel, tua parenta, concebeu um filho na velhice.\nEste já é o sexto mês daquela que era considerada estéril, porque para Deus nada é impossível\".\nMaria, então, disse:\n\"Eis aqui a serva do Senhor; faça-se em mim segundo a tua palavra!\"\nE o anjo retirou-se.\n\nPalavra da Salvação.\n"
+      }
+    ]
+  },
+  "1224.vigil": {
+    "title": "Natal do Senhor, Missa da Vigília",
+    "subtitle": "Solenidade",
+    "color": "white",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "Is 62,1-5",
+        "text": "Leitura do Livro do Profeta Isaías \n\nPor amor de Sião não me calarei,\npor amor de Jerusalém não descansarei, enquanto não surgir nela, como um luzeiro, a justiça e não se acender nela, como uma tocha, a salvação.\nAs nações verão a tua justiça, todos os reis verão a tua glória;\nserás chamada com um nome novo, que a boca do Senhor há de designar.\nE serás uma coroa de glória na mão do Senhor, um diadema real nas mãos de teu Deus.\nNão mais te chamarão Abandonada, e tua terra não mais será chamada Deserta;\nteu nome será Minha Predileta e tua terra será a Bem-Casada, pois o Senhor agradou-se de ti e tua terra será desposada.\nAssim como o jovem desposa a donzela, assim teus filhos te desposam;\ne como a noiva é a alegria do noivo, assim também tu és a alegria de teu Deus.\n\nPalavra do Senhor.\n"
+      },
+      {
+        "type": "psalm",
+        "ref": "Sl 88(89),4-5.16-17.27.29 (R. 2a)",
+        "text": "R. Senhor, eu cantarei eternamente o vosso amor!\n\n\"Eu firmei uma Aliança com meu servo, meu eleito,\ne eu fiz um juramento a Davi, meu servidor:\nPara sempre, no teu trono, firmarei tua linhagem,\nde geração em geração garantirei o teu reinado!\" R.\n\nQuão feliz é aquele povo que conhece a alegria:\nseguirá pelo caminho, sempre à luz de vossa face!\nExultará de alegria em vosso nome dia a dia,\ne com grande entusiasmo exaltará vossa justiça. R.\n\nEle, então me invocará: 'Ó Senhor, vós sois meu Pai,\nsois meu Deus, sois meu Rochedo onde encontro a salvação!'\nGuardarei eternamente para ele a minha graça\ne com ele firmarei minha Aliança indissolúvel. R.\n"
+      },
+      {
+        "type": "reading",
+        "ref": "Atos 13,16-17.22-25",
+        "text": "Leitura dos Atos dos Apóstolos \n\nTendo chegado a Antioquia da Pisídia,\nPaulo levantou-se, na sinagoga, fez um sinal com a mão e disse: \"Israelitas e vós que temeis a Deus, escutai!\nO Deus deste povo de Israel escolheu os nossos antepassados e fez deles um grande povo quando moravam como estrangeiros no Egito; e de lá os tirou com braço poderoso.\nEm seguida, Deus fez surgir Davi como rei e assim testemunhou a seu respeito: 'Encontrei Davi, filho de Jessé, homem segundo o meu coração, que vai fazer em tudo a minha vontade'.\nConforme prometera, da descendência de Davi Deus fez surgir para Israel um Salvador, que é Jesus.\nAntes que ele chegasse, João pregou um batismo de conversão para todo o povo de Israel.\nEstando para terminar sua missão, João declarou: 'Eu não sou aquele que pensais que eu seja!\nMas vede: depois de mim vem aquele, do qual nem mereço desamarrar as sandálias\"'.\n\nPalavra do Senhor.\n"
+      },
+      {
+        "type": "gospel",
+        "long": {
+          "ref": "Mt 1,1-25",
+          "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus\n\nLivro da origem de Jesus Cristo,\nfilho de Davi, filho de Abraão.\nAbraão gerou Isaac;\nIsaac gerou Jacó;\nJacó gerou Judá e seus irmãos.\nJudá gerou Farés e Zara, cuja mãe era Tamar.\nFarés gerou Esrom;\nEsrom gerou Aram;\nAram gerou Aminadab;\nAminadab gerou Naasson;\nNaasson gerou Salmon;\nSalmon gerou Booz, cuja mãe era Raab.\nBooz gerou Jobed, cuja mãe era Rute.\nJobed gerou Jessé.\nJessé gerou o rei Davi.\nDavi gerou Salomão, daquela que tinha sido a mulher de Urias.\nSalomão gerou Roboão;\nRoboão gerou Abias;\nAbias gerou Asa;\nAsa gerou Josafá;\nJosafá gerou Jorão;\nJorão gerou Ozias;\nOzias gerou Jotão;\nJotão gerou Acaz;\nAcaz gerou Ezequias;\nEzequias gerou Manassés;\nManassés gerou Amon;\nAmon gerou Josias.\nJosias gerou Jeconias e seus irmãos, no tempo do exílio na Babilônia.\nDepois do exílio na Babilônia, Jeconias gerou Salatiel;\nSalatiel gerou Zorobabel;\nZorobabel gerou Abiud;\nAbiud gerou Eliaquim;\nEliaquim gerou Azor;\nAzor gerou Sadoc;\nSadoc gerou Aquim;\nAquim gerou Eliud;\nEliud gerou Eleazar;\nEleazar gerou Matã;\nMatã gerou Jacó.\nJacó gerou José, o esposo de Maria, da qual nasceu Jesus, que é chamado o Cristo.\nAssim, as gerações desde Abraão até Davi são quatorze;\nde Davi até o exílio na Babilônia, quatorze;\ne do exílio na Babilônia até Cristo, quatorze.\nA origem de Jesus Cristo foi assim:\nMaria, sua mãe, estava prometida em casamento a José, e, antes de viverem juntos, e ela ficou grávida pela ação do Espírito Santo.\nJosé, seu marido, era justo e, não querendo denunciá-la, resolveu abandonar Maria, em segredo.\nEnquanto José pensava nisso, eis que o anjo do Senhor apareceu-lhe, em sonho, e lhe disse:\n\"José, filho de Davi, não tenhas medo de receber Maria como tua esposa, porque ela concebeu pela ação do Espírito Santo.\nEla dará à luz um filho e tu lhe darás o nome de Jesus, pois ele vai salvar o seu povo dos seus pecados\".\nTudo isso aconteceu para se cumprir o que o Senhor havia dito pelo profeta:\n\"Eis que a virgem conceberá e dará à luz um filho.\nEle será chamado pelo nome de Emanuel, que significa: Deus está conosco\".\nQuando acordou, José fez conforme o anjo do Senhor havia mandado: e aceitou sua esposa.\nE sem ter relações com ela, Maria deu à luz um filho.\nE José deu ao Menino o nome de Jesus.\n\nPalavra da Salvação.\n"
+        },
+        "short": {
+          "ref": "Mt 1,18-25",
+          "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus\n\nA origem de Jesus Cristo foi assim:\nMaria, sua mãe, estava prometida em casamento a José, e, antes de viverem juntos, ela ficou grávida pela ação do Espírito Santo.\nJosé, seu marido, era justo e, não querendo denunciá-la, resolveu abandonar Maria, em segredo.\nEnquanto José pensava nisso, eis que o anjo do Senhor apareceu-lhe, em sonho, e lhe disse:\n\"José, filho de Davi, não tenhas medo de receber Maria como tua esposa, porque ela concebeu pela ação do Espírito Santo.\nEla dará à luz um filho e tu lhe darás o nome de Jesus, pois ele vai salvar o seu povo dos seus pecados\".\nTudo isso aconteceu para se cumprir o que o Senhor havia dito pelo profeta: \"Eis que a virgem conceberá e dará à luz um filho.\nEle será chamado pelo nome de Emanuel, que significa: Deus está conosco\".\nQuando acordou, José fez conforme o anjo do Senhor havia mandado: e aceitou sua esposa.\nE sem ter relações com ela, Maria deu à luz um filho.\nE José deu ao Menino o nome de Jesus.\n\nPalavra da Salvação.\n"
+        }
+      }
+    ]
+  },
+  "1224.night": {
+    "title": "Natal do Senhor, Missa da Noite",
+    "subtitle": "Solenidade",
+    "color": "white",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "Is 9,1-6",
+        "text": "Leitura do Livro do Profeta Isaías \n\nO povo, que andava na escuridão, viu uma grande luz;\npara os que habitavam nas sombras da morte, uma luz resplandeceu.\nFizeste crescer a alegria, e aumentaste a felicidade;\ntodos se regozijam em tua presença como alegres ceifeiros na colheita, ou como exaltados guerreiros ao dividirem os despojos.\nPois o jugo que oprimia o povo, — a carga sobre os ombros, o orgulho dos fiscais — tu os abateste como na jornada de Madiã.\nBotas de tropa de assalto, trajes manchados de sangue, tudo será queimado e devorado pelas chamas.\nPorque nasceu para nós um menino, foi-nos dado um filho;\nele traz aos ombros a marca da realeza;\no nome que lhe foi dado é: Conselheiro admirável, Deus forte, Pai dos tempos futuros, Príncipe da Paz.\nGrande será o seu reino e a paz não há de ter fim sobre o trono de Davi e sobre o seu reinado, que ele irá consolidar e confirmar em justiça e santidade, a partir de agora e para todo o sempre.\nO amor zeloso do Senhor dos exércitos há de realizar estas coisas.\n\nPalavra do Senhor.\n"
+      },
+      {
+        "type": "psalm",
+        "ref": "Sl 95(96),1-2a.2b-3.11-12,13 (R. Lc 2,11)",
+        "text": "R. Hoje nasceu para nós\no Salvador,que é Cristo o Senhor.\n\nCantai ao Senhor Deus um canto novo,\ncantai ao Senhor Deus, ó terra inteira!\nCantai e bendizei seu santo nome! R.\n\nDia após dia anunciai sua salvação,\nmanifestai a sua glória entre as nações,\ne entre os povos do universo seus prodígios! R.\n\nO céu se rejubile e exulte a terra,\naplauda o mar com o que vive em suas águas;\nos campos com seus frutos rejubilem\ne exultem as florestas e as matas R.\n\nna presença do Senhor, pois ele vem,\nporque vem para julgar a terra inteira.\nGovernará o mundo todo com justiça,\ne os povos julgará com lealdade. R.\n"
+      },
+      {
+        "type": "reading",
+        "ref": "Tt 2,11-14",
+        "text": "Leitura da Carta de São Paulo a Tito \n\nCaríssimo:\nA graça de Deus se manifestou trazendo a salvação para todos os homens.\nEla nos ensina a abandonar a impiedade e as paixões mundanas e a viver neste mundo com equilíbrio, justiça e piedade, aguardando a feliz esperança e a manifestação da glória do nosso grande Deus e Salvador, Jesus Cristo.\nEle se entregou por nós, para nos resgatar de toda maldade e purificar para si um povo que lhe pertença e que se dedique a praticar o bem.\n\nPalavra do Senhor.\n"
+      },
+      {
+        "type": "gospel",
+        "ref": "Lc 2,1-14",
+        "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas\n\nAconteceu que naqueles dias,\nCésar Augusto publicou um decreto, ordenando o recenseamento de toda a terra.\nEste primeiro recenseamento foi feito quando Quirino era governador da Síria.\nTodos iam registrar-se cada um na sua cidade natal.\nPor ser da família e descendência de Davi, José subiu da cidade de Nazaré, na Galileia, até a cidade de Davi, chamada Belém, na Judeia, para registrar-se com Maria, sua esposa, que estava grávida.\nEnquanto estavam em Belém, completaram-se os dias para o parto, e Maria deu à luz o seu filho primogênito.\nEla o enfaixou e o colocou na manjedoura, pois não havia lugar para eles na hospedaria.\nNaquela região havia pastores que passavam a noite nos campos, tomando conta do seu rebanho.\nUm anjo do Senhor apareceu aos pastores, a glória do Senhor os envolveu em luz, e eles ficaram com muito medo.\nO anjo, porém, disse aos pastores:\n\"Não tenhais medo!\nEu vos anuncio uma grande alegria, que o será para todo o povo: Hoje, na cidade de Davi, nasceu para vós um Salvador, que é o Cristo Senhor.\nIsto vos servirá de sinal:\nEncontrareis um recém-nascido envolvido em faixas e deitado numa manjedoura\".\nE, de repente, juntou-se ao anjo uma multidão da coorte celeste.\nCantavam louvores a Deus, dizendo:\n\"Glória a Deus no mais alto dos céus, e paz na terra aos homens por ele amados\".      \n\nPalavra da Salvação.\n"
+      }
+    ]
+  },
+  "1225.dawn": {
+    "title": "Natal do Senhor, Missa da Aurora",
+    "subtitle": "Solenidade",
+    "color": "white",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "gospel",
+        "ref": "",
+        "text": ""
+      }
+    ]
+  },
+  "1225.day": {
+    "title": "Natal do Senhor, Missa do Dia",
+    "subtitle": "Solenidade",
+    "color": "white",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "gospel",
+        "ref": "",
+        "text": ""
+      }
+    ]
+  },
   "holyFamily": {
-    "title": "Sagrada Família",
+    "title": "Sagrada Família, Jesus, Maria e José",
     "subtitle": "Festa",
     "color": "white",
     "readings": [
@@ -543,137 +674,6 @@
       }
     ]
   },
-  "1224.day": {
-    "title": "",
-    "subtitle": "Tempo do Advento",
-    "color": "purple",
-    "readings": [
-      {
-        "type": "reading",
-        "ref": "2Sm 7,1-5.8b-12.14a.16a",
-        "text": "Leitura do Segundo Livro de Samuel \n\nTendo-se o rei Davi instalado já em sua casa\ne tendo-lhe o Senhor dado a paz, livrando-o de todos os seus inimigos, ele disse ao profeta Natã: \"Vê: eu resido num palácio de cedro, e a arca de Deus está alojada numa tenda!\" Natã respondeu ao rei: \"Vai e faze tudo o que diz o teu coração, pois o Senhor está contigo\".\nMas, nessa mesma noite, a palavra do Senhor foi dirigida a Natã nestes termos: \"Vai dizer ao meu servo Davi: 'Assim fala o Senhor: Porventura és tu que me construirás uma casa para eu habitar?\nFui eu que te tirei do pastoreio, do meio das ovelhas, para que fosses o chefe do meu povo, Israel.\nEstive contigo em toda a parte por onde andaste, e exterminei diante de ti todos os teus inimigos, fazendo o teu nome tão célebre como o dos homens mais famosos da terra.\nVou preparar um lugar para o meu povo, Israel: eu o implantarei, de modo que possa morar lá sem jamais ser inquietado.\nOs homens violentos não tornarão a oprimi-lo como outrora, no tempo em que eu estabelecia juízes sobre o meu povo, Israel.\nConcedo-te uma vida tranquila, livrando-te de todos os teus inimigos.\nE o Senhor te anuncia que te fará uma casa.\nQuando chegar o fim dos teus dias e repousares com teus pais, então, suscitarei, depois de ti, um filho teu, e confirmarei a sua realeza.\nEu serei para ele um pai e ele será para mim um filho.\nTua casa e teu reino serão estáveis para sempre diante de mim, e teu trono será firme para sempre\".\n\nPalavra do Senhor.\n"
-      },
-      {
-        "type": "psalm",
-        "ref": "Sl 88(89),2-3.4-5.27.29 (R. 2a)",
-        "text": "R. Ó Senhor, eu cantarei eternamente o vosso amor!\n\nÓ Senhor, eu cantarei eternamente o vosso amor,\nde geração em geração eu cantarei vossa verdade!\nPorque dissestes: \"O amor é garantido para sempre!\"\nE a vossa lealdade é tão firme como os céus. R.\n\n\"Eu firmei uma Aliança com meu servo, meu eleito,\ne eu fiz um juramento a Davi, meu servidor.\nPara sempre, no teu trono, firmarei tua linhagem,\nde geração em geração garantirei o teu reinado! R.\n\nEle, então, me invocará:\n'Ó Senhor, vós sois meu Pai, sois meu Deus,\nsois meu Rochedo onde encontro a salvação!'\nGuardarei eternamente para ele a minha graça\ne com ele firmarei minha Aliança indissolúvel\". R.\n"
-      },
-      {
-        "type": "reading",
-        "ref": "Rm 16,25-27",
-        "text": "Leitura da Carta de São Paulo aos Romanos \n\nIrmãos:\nGlória seja dada àquele que tem o poder de vos confirmar na fidelidade ao meu evangelho e à pregação de Jesus Cristo, de acordo com a revelação do mistério mantido em sigilo desde sempre.\nAgora este mistério foi manifestado e, mediante as Escrituras proféticas, conforme determinação do Deus eterno, foi levado ao conhecimento de todas as nações, para trazê-las à obediência da fé.\nA ele, o único Deus, o sábio, por meio de Jesus Cristo, a glória, pelos séculos dos séculos.\nAmém!\n\nPalavra do Senhor\n"
-      },
-      {
-        "type": "gospel",
-        "ref": "Lc 1,26-38",
-        "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas\n\nNaquele tempo,\no anjo Gabriel foi enviado por Deus a uma cidade da Galileia, chamada Nazaré, a uma virgem, prometida em casamento a um homem chamado José.\nEle era descendente de Davi e o nome da virgem era Maria O anjo entrou onde ela estava e disse:\n\"Alegra-te, cheia de graça, o Senhor está contigo!\"\nMaria ficou perturbada com essas palavras e começou a pensar qual seria o significado da saudação.    \nO anjo, então, disse-lhe:\n\"Não tenhas medo, Maria, porque encontraste graça diante de Deus.\nEis que conceberás e darás à luz um filho, a quem porás o nome de Jesus.\nEle será grande, será chamado Filho do Altíssimo, e o Senhor Deus lhe dará o trono de seu pai Davi.\nEle reinará para sempre sobre os descendentes de Jacó, e o seu reino não terá fim\".\nMaria perguntou ao anjo:\n\"Como acontecerá isso, se eu não conheço homem algum?\"\nO anjo respondeu:\n\"O Espírito virá sobre ti, e o poder do Altíssimo te cobrirá com sua sombra.\nPor isso, o menino que vai nascer será chamado Santo, Filho de Deus.\nTambém Isabel, tua parenta, concebeu um filho na velhice.\nEste já é o sexto mês daquela que era considerada estéril, porque para Deus nada é impossível\".\nMaria, então, disse:\n\"Eis aqui a serva do Senhor; faça-se em mim segundo a tua palavra!\"\nE o anjo retirou-se.\n\nPalavra da Salvação.\n"
-      }
-    ]
-  },
-  "1224.vigil": {
-    "title": "Natal do Senhor, Missa da Vigília",
-    "subtitle": "Solenidade",
-    "color": "white",
-    "readings": [
-      {
-        "type": "reading",
-        "ref": "Is 62,1-5",
-        "text": "Leitura do Livro do Profeta Isaías \n\nPor amor de Sião não me calarei,\npor amor de Jerusalém não descansarei, enquanto não surgir nela, como um luzeiro, a justiça e não se acender nela, como uma tocha, a salvação.\nAs nações verão a tua justiça, todos os reis verão a tua glória;\nserás chamada com um nome novo, que a boca do Senhor há de designar.\nE serás uma coroa de glória na mão do Senhor, um diadema real nas mãos de teu Deus.\nNão mais te chamarão Abandonada, e tua terra não mais será chamada Deserta;\nteu nome será Minha Predileta e tua terra será a Bem-Casada, pois o Senhor agradou-se de ti e tua terra será desposada.\nAssim como o jovem desposa a donzela, assim teus filhos te desposam;\ne como a noiva é a alegria do noivo, assim também tu és a alegria de teu Deus.\n\nPalavra do Senhor.\n"
-      },
-      {
-        "type": "psalm",
-        "ref": "Sl 88(89),4-5.16-17.27.29 (R. 2a)",
-        "text": "R. Senhor, eu cantarei eternamente o vosso amor!\n\n\"Eu firmei uma Aliança com meu servo, meu eleito,\ne eu fiz um juramento a Davi, meu servidor:\nPara sempre, no teu trono, firmarei tua linhagem,\nde geração em geração garantirei o teu reinado!\" R.\n\nQuão feliz é aquele povo que conhece a alegria:\nseguirá pelo caminho, sempre à luz de vossa face!\nExultará de alegria em vosso nome dia a dia,\ne com grande entusiasmo exaltará vossa justiça. R.\n\nEle, então me invocará: 'Ó Senhor, vós sois meu Pai,\nsois meu Deus, sois meu Rochedo onde encontro a salvação!'\nGuardarei eternamente para ele a minha graça\ne com ele firmarei minha Aliança indissolúvel. R.\n"
-      },
-      {
-        "type": "reading",
-        "ref": "Atos 13,16-17.22-25",
-        "text": "Leitura dos Atos dos Apóstolos \n\nTendo chegado a Antioquia da Pisídia,\nPaulo levantou-se, na sinagoga, fez um sinal com a mão e disse: \"Israelitas e vós que temeis a Deus, escutai!\nO Deus deste povo de Israel escolheu os nossos antepassados e fez deles um grande povo quando moravam como estrangeiros no Egito; e de lá os tirou com braço poderoso.\nEm seguida, Deus fez surgir Davi como rei e assim testemunhou a seu respeito: 'Encontrei Davi, filho de Jessé, homem segundo o meu coração, que vai fazer em tudo a minha vontade'.\nConforme prometera, da descendência de Davi Deus fez surgir para Israel um Salvador, que é Jesus.\nAntes que ele chegasse, João pregou um batismo de conversão para todo o povo de Israel.\nEstando para terminar sua missão, João declarou: 'Eu não sou aquele que pensais que eu seja!\nMas vede: depois de mim vem aquele, do qual nem mereço desamarrar as sandálias\"'.\n\nPalavra do Senhor.\n"
-      },
-      {
-        "type": "gospel",
-        "long": {
-          "ref": "Mt 1,1-25",
-          "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus\n\nLivro da origem de Jesus Cristo,\nfilho de Davi, filho de Abraão.\nAbraão gerou Isaac;\nIsaac gerou Jacó;\nJacó gerou Judá e seus irmãos.\nJudá gerou Farés e Zara, cuja mãe era Tamar.\nFarés gerou Esrom;\nEsrom gerou Aram;\nAram gerou Aminadab;\nAminadab gerou Naasson;\nNaasson gerou Salmon;\nSalmon gerou Booz, cuja mãe era Raab.\nBooz gerou Jobed, cuja mãe era Rute.\nJobed gerou Jessé.\nJessé gerou o rei Davi.\nDavi gerou Salomão, daquela que tinha sido a mulher de Urias.\nSalomão gerou Roboão;\nRoboão gerou Abias;\nAbias gerou Asa;\nAsa gerou Josafá;\nJosafá gerou Jorão;\nJorão gerou Ozias;\nOzias gerou Jotão;\nJotão gerou Acaz;\nAcaz gerou Ezequias;\nEzequias gerou Manassés;\nManassés gerou Amon;\nAmon gerou Josias.\nJosias gerou Jeconias e seus irmãos, no tempo do exílio na Babilônia.\nDepois do exílio na Babilônia, Jeconias gerou Salatiel;\nSalatiel gerou Zorobabel;\nZorobabel gerou Abiud;\nAbiud gerou Eliaquim;\nEliaquim gerou Azor;\nAzor gerou Sadoc;\nSadoc gerou Aquim;\nAquim gerou Eliud;\nEliud gerou Eleazar;\nEleazar gerou Matã;\nMatã gerou Jacó.\nJacó gerou José, o esposo de Maria, da qual nasceu Jesus, que é chamado o Cristo.\nAssim, as gerações desde Abraão até Davi são quatorze;\nde Davi até o exílio na Babilônia, quatorze;\ne do exílio na Babilônia até Cristo, quatorze.\nA origem de Jesus Cristo foi assim:\nMaria, sua mãe, estava prometida em casamento a José, e, antes de viverem juntos, e ela ficou grávida pela ação do Espírito Santo.\nJosé, seu marido, era justo e, não querendo denunciá-la, resolveu abandonar Maria, em segredo.\nEnquanto José pensava nisso, eis que o anjo do Senhor apareceu-lhe, em sonho, e lhe disse:\n\"José, filho de Davi, não tenhas medo de receber Maria como tua esposa, porque ela concebeu pela ação do Espírito Santo.\nEla dará à luz um filho e tu lhe darás o nome de Jesus, pois ele vai salvar o seu povo dos seus pecados\".\nTudo isso aconteceu para se cumprir o que o Senhor havia dito pelo profeta:\n\"Eis que a virgem conceberá e dará à luz um filho.\nEle será chamado pelo nome de Emanuel, que significa: Deus está conosco\".\nQuando acordou, José fez conforme o anjo do Senhor havia mandado: e aceitou sua esposa.\nE sem ter relações com ela, Maria deu à luz um filho.\nE José deu ao Menino o nome de Jesus.\n\nPalavra da Salvação.\n"
-        },
-        "short": {
-          "ref": "Mt 1,18-25",
-          "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus\n\nA origem de Jesus Cristo foi assim:\nMaria, sua mãe, estava prometida em casamento a José, e, antes de viverem juntos, ela ficou grávida pela ação do Espírito Santo.\nJosé, seu marido, era justo e, não querendo denunciá-la, resolveu abandonar Maria, em segredo.\nEnquanto José pensava nisso, eis que o anjo do Senhor apareceu-lhe, em sonho, e lhe disse:\n\"José, filho de Davi, não tenhas medo de receber Maria como tua esposa, porque ela concebeu pela ação do Espírito Santo.\nEla dará à luz um filho e tu lhe darás o nome de Jesus, pois ele vai salvar o seu povo dos seus pecados\".\nTudo isso aconteceu para se cumprir o que o Senhor havia dito pelo profeta: \"Eis que a virgem conceberá e dará à luz um filho.\nEle será chamado pelo nome de Emanuel, que significa: Deus está conosco\".\nQuando acordou, José fez conforme o anjo do Senhor havia mandado: e aceitou sua esposa.\nE sem ter relações com ela, Maria deu à luz um filho.\nE José deu ao Menino o nome de Jesus.\n\nPalavra da Salvação.\n"
-        }
-      }
-    ]
-  },
-  "1224.night": {
-    "title": "Natal do Senhor, Missa da Noite",
-    "subtitle": "Solenidade",
-    "color": "white",
-    "readings": [
-      {
-        "type": "reading",
-        "ref": "Is 9,1-6",
-        "text": "Leitura do Livro do Profeta Isaías \n\nO povo, que andava na escuridão, viu uma grande luz;\npara os que habitavam nas sombras da morte, uma luz resplandeceu.\nFizeste crescer a alegria, e aumentaste a felicidade;\ntodos se regozijam em tua presença como alegres ceifeiros na colheita, ou como exaltados guerreiros ao dividirem os despojos.\nPois o jugo que oprimia o povo, — a carga sobre os ombros, o orgulho dos fiscais — tu os abateste como na jornada de Madiã.\nBotas de tropa de assalto, trajes manchados de sangue, tudo será queimado e devorado pelas chamas.\nPorque nasceu para nós um menino, foi-nos dado um filho;\nele traz aos ombros a marca da realeza;\no nome que lhe foi dado é: Conselheiro admirável, Deus forte, Pai dos tempos futuros, Príncipe da Paz.\nGrande será o seu reino e a paz não há de ter fim sobre o trono de Davi e sobre o seu reinado, que ele irá consolidar e confirmar em justiça e santidade, a partir de agora e para todo o sempre.\nO amor zeloso do Senhor dos exércitos há de realizar estas coisas.\n\nPalavra do Senhor.\n"
-      },
-      {
-        "type": "psalm",
-        "ref": "Sl 95(96),1-2a.2b-3.11-12,13 (R. Lc 2,11)",
-        "text": "R. Hoje nasceu para nós\no Salvador,que é Cristo o Senhor.\n\nCantai ao Senhor Deus um canto novo,\ncantai ao Senhor Deus, ó terra inteira!\nCantai e bendizei seu santo nome! R.\n\nDia após dia anunciai sua salvação,\nmanifestai a sua glória entre as nações,\ne entre os povos do universo seus prodígios! R.\n\nO céu se rejubile e exulte a terra,\naplauda o mar com o que vive em suas águas;\nos campos com seus frutos rejubilem\ne exultem as florestas e as matas R.\n\nna presença do Senhor, pois ele vem,\nporque vem para julgar a terra inteira.\nGovernará o mundo todo com justiça,\ne os povos julgará com lealdade. R.\n"
-      },
-      {
-        "type": "reading",
-        "ref": "Tt 2,11-14",
-        "text": "Leitura da Carta de São Paulo a Tito \n\nCaríssimo:\nA graça de Deus se manifestou trazendo a salvação para todos os homens.\nEla nos ensina a abandonar a impiedade e as paixões mundanas e a viver neste mundo com equilíbrio, justiça e piedade, aguardando a feliz esperança e a manifestação da glória do nosso grande Deus e Salvador, Jesus Cristo.\nEle se entregou por nós, para nos resgatar de toda maldade e purificar para si um povo que lhe pertença e que se dedique a praticar o bem.\n\nPalavra do Senhor.\n"
-      },
-      {
-        "type": "gospel",
-        "ref": "Lc 2,1-14",
-        "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas\n\nAconteceu que naqueles dias,\nCésar Augusto publicou um decreto, ordenando o recenseamento de toda a terra.\nEste primeiro recenseamento foi feito quando Quirino era governador da Síria.\nTodos iam registrar-se cada um na sua cidade natal.\nPor ser da família e descendência de Davi, José subiu da cidade de Nazaré, na Galileia, até a cidade de Davi, chamada Belém, na Judeia, para registrar-se com Maria, sua esposa, que estava grávida.\nEnquanto estavam em Belém, completaram-se os dias para o parto, e Maria deu à luz o seu filho primogênito.\nEla o enfaixou e o colocou na manjedoura, pois não havia lugar para eles na hospedaria.\nNaquela região havia pastores que passavam a noite nos campos, tomando conta do seu rebanho.\nUm anjo do Senhor apareceu aos pastores, a glória do Senhor os envolveu em luz, e eles ficaram com muito medo.\nO anjo, porém, disse aos pastores:\n\"Não tenhais medo!\nEu vos anuncio uma grande alegria, que o será para todo o povo: Hoje, na cidade de Davi, nasceu para vós um Salvador, que é o Cristo Senhor.\nIsto vos servirá de sinal:\nEncontrareis um recém-nascido envolvido em faixas e deitado numa manjedoura\".\nE, de repente, juntou-se ao anjo uma multidão da coorte celeste.\nCantavam louvores a Deus, dizendo:\n\"Glória a Deus no mais alto dos céus, e paz na terra aos homens por ele amados\".      \n\nPalavra da Salvação.\n"
-      }
-    ]
-  },
-  "1225.dawn": {
-    "title": "Natal do Senhor, Missa da Aurora",
-    "subtitle": "Solenidade",
-    "color": "white",
-    "readings": [
-      {
-        "type": "reading",
-        "ref": "",
-        "text": ""
-      },
-      {
-        "type": "psalm",
-        "ref": "",
-        "text": ""
-      },
-      {
-        "type": "gospel",
-        "ref": "",
-        "text": ""
-      }
-    ]
-  },
-  "1225.day": {
-    "title": "Natal do Senhor, Missa do Dia",
-    "subtitle": "Solenidade",
-    "color": "white",
-    "readings": [
-      {
-        "type": "reading",
-        "ref": "",
-        "text": ""
-      },
-      {
-        "type": "psalm",
-        "ref": "",
-        "text": ""
-      },
-      {
-        "type": "gospel",
-        "ref": "",
-        "text": ""
-      }
-    ]
-  },
   "0101": {
     "title": "Santa Maria, Mãe de Deus",
     "subtitle": "Solenidade",
@@ -697,8 +697,8 @@
     ]
   },
   "0102": {
-    "title": "",
-    "subtitle": "Antes da Epifania",
+    "title": "?{weekday} antes da Epifania",
+    "subtitle": "Tempo do Natal",
     "color": "white",
     "readings": [
       {
@@ -719,8 +719,8 @@
     ]
   },
   "0103": {
-    "title": "",
-    "subtitle": "Antes da Epifania",
+    "title": "?{weekday} antes da Epifania",
+    "subtitle": "Tempo do Natal",
     "color": "white",
     "readings": [
       {
@@ -741,8 +741,8 @@
     ]
   },
   "0104": {
-    "title": "",
-    "subtitle": "Antes da Epifania",
+    "title": "?{weekday} antes da Epifania",
+    "subtitle": "Tempo do Natal",
     "color": "white",
     "readings": [
       {
@@ -763,8 +763,8 @@
     ]
   },
   "0105": {
-    "title": "",
-    "subtitle": "Antes da Epifania",
+    "title": "?{weekday} antes da Epifania",
+    "subtitle": "Tempo do Natal",
     "color": "white",
     "readings": [
       {
@@ -785,8 +785,8 @@
     ]
   },
   "0106": {
-    "title": "",
-    "subtitle": "Antes da Epifania",
+    "title": "?{weekday} antes da Epifania",
+    "subtitle": "Tempo do Natal",
     "color": "white",
     "readings": [
       {
@@ -807,139 +807,7 @@
     ]
   },
   "0107": {
-    "title": "",
-    "subtitle": "Antes da Epifania",
-    "color": "white",
-    "readings": [
-      {
-        "type": "reading",
-        "ref": "",
-        "text": ""
-      },
-      {
-        "type": "psalm",
-        "ref": "",
-        "text": ""
-      },
-      {
-        "type": "gospel",
-        "ref": "",
-        "text": ""
-      }
-    ]
-  },
-  "christmas.week2.2": {
-    "title": "Segunda-feira da 2ª Semana",
-    "subtitle": "Após a Epifania",
-    "color": "white",
-    "readings": [
-      {
-        "type": "reading",
-        "ref": "",
-        "text": ""
-      },
-      {
-        "type": "psalm",
-        "ref": "",
-        "text": ""
-      },
-      {
-        "type": "gospel",
-        "ref": "",
-        "text": ""
-      }
-    ]
-  },
-  "christmas.week2.3": {
-    "title": "Terça-feira da 2ª Semana",
-    "subtitle": "Após a Epifania",
-    "color": "white",
-    "readings": [
-      {
-        "type": "reading",
-        "ref": "",
-        "text": ""
-      },
-      {
-        "type": "psalm",
-        "ref": "",
-        "text": ""
-      },
-      {
-        "type": "gospel",
-        "ref": "",
-        "text": ""
-      }
-    ]
-  },
-  "christmas.week2.4": {
-    "title": "Quarta-feira da 2ª Semana",
-    "subtitle": "Após a Epifania",
-    "color": "white",
-    "readings": [
-      {
-        "type": "reading",
-        "ref": "",
-        "text": ""
-      },
-      {
-        "type": "psalm",
-        "ref": "",
-        "text": ""
-      },
-      {
-        "type": "gospel",
-        "ref": "",
-        "text": ""
-      }
-    ]
-  },
-  "christmas.week2.5": {
-    "title": "Quinta-feira da 2ª Semana",
-    "subtitle": "Após a Epifania",
-    "color": "white",
-    "readings": [
-      {
-        "type": "reading",
-        "ref": "",
-        "text": ""
-      },
-      {
-        "type": "psalm",
-        "ref": "",
-        "text": ""
-      },
-      {
-        "type": "gospel",
-        "ref": "",
-        "text": ""
-      }
-    ]
-  },
-  "christmas.week2.6": {
-    "title": "Sexta-feira da 2ª Semana",
-    "subtitle": "Após a Epifania",
-    "color": "white",
-    "readings": [
-      {
-        "type": "reading",
-        "ref": "",
-        "text": ""
-      },
-      {
-        "type": "psalm",
-        "ref": "",
-        "text": ""
-      },
-      {
-        "type": "gospel",
-        "ref": "",
-        "text": ""
-      }
-    ]
-  },
-  "christmas.week2.7": {
-    "title": "Sábado da 2ª Semana",
+    "title": "?{weekday} antes da Epifania",
     "subtitle": "Tempo do Natal",
     "color": "white",
     "readings": [
@@ -961,8 +829,8 @@
     ]
   },
   "christmas.week2.1": {
-    "title": "Domingo da 2ª Semana",
-    "subtitle": "Após a Epifania",
+    "title": "Domingo após a Epifania",
+    "subtitle": "Tempo do Natal",
     "color": "white",
     "readings": [
       {
@@ -977,6 +845,138 @@
       },
       {
         "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "gospel",
+        "ref": "",
+        "text": ""
+      }
+    ]
+  },
+  "christmas.week2.2": {
+    "title": "Segunda-feira após a Epifania",
+    "subtitle": "Tempo do Natal",
+    "color": "white",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "gospel",
+        "ref": "",
+        "text": ""
+      }
+    ]
+  },
+  "christmas.week2.3": {
+    "title": "Terça-feira após a Epifania",
+    "subtitle": "Tempo do Natal",
+    "color": "white",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "gospel",
+        "ref": "",
+        "text": ""
+      }
+    ]
+  },
+  "christmas.week2.4": {
+    "title": "Quarta-feira após a Epifania",
+    "subtitle": "Tempo do Natal",
+    "color": "white",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "gospel",
+        "ref": "",
+        "text": ""
+      }
+    ]
+  },
+  "christmas.week2.5": {
+    "title": "Quinta-feira após a Epifania",
+    "subtitle": "Tempo do Natal",
+    "color": "white",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "gospel",
+        "ref": "",
+        "text": ""
+      }
+    ]
+  },
+  "christmas.week2.6": {
+    "title": "Sexta-feira após a Epifania",
+    "subtitle": "Tempo do Natal",
+    "color": "white",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "psalm",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "gospel",
+        "ref": "",
+        "text": ""
+      }
+    ]
+  },
+  "christmas.week2.7": {
+    "title": "Sábado após a Epifania",
+    "subtitle": "Tempo do Natal",
+    "color": "white",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "",
+        "text": ""
+      },
+      {
+        "type": "psalm",
         "ref": "",
         "text": ""
       },
