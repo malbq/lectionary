@@ -2488,9 +2488,9 @@
     ]
   },
   "lent.week6.1": {
-    "title": "Domingo",
+    "title": "Domingo de Ramos da Paixão do Senhor",
     "subtitle": "Semana Santa",
-    "color": "purple",
+    "color": "red",
     "readings": [
       {
         "type": "reading",
@@ -2559,8 +2559,8 @@
     ]
   },
   "lent.week6.4": {
-    "title": "Quarta-feira da 6ª Semana",
-    "subtitle": "Tempo da Quaresma",
+    "title": "Quarta-feira",
+    "subtitle": "Semana Santa",
     "color": "purple",
     "readings": [
       {
@@ -2581,8 +2581,8 @@
     ]
   },
   "easter.week0.5.dawn": {
-    "title": "Quinta-feira",
-    "subtitle": "Tríduo Pascal",
+    "title": "Missa do Crisma",
+    "subtitle": "Semana Santa",
     "color": "white",
     "readings": [
       {
@@ -2603,8 +2603,8 @@
     ]
   },
   "easter.week0.5.day": {
-    "title": "Quinta-feira",
-    "subtitle": "Tríduo Pascal",
+    "title": "Missa da Ceia do Senhor",
+    "subtitle": "Semana Santa",
     "color": "white",
     "readings": [
       {
@@ -2625,9 +2625,9 @@
     ]
   },
   "easter.week0.6": {
-    "title": "Solene Vigília Pascal",
-    "subtitle": "Tríduo Pascal",
-    "color": "white",
+    "title": "Paixão do Senhor",
+    "subtitle": "Semana Santa",
+    "color": "red",
     "readings": [
       {
         "type": "reading",
@@ -2647,8 +2647,8 @@
     ]
   },
   "easter.week0.7": {
-    "title": "Sábado",
-    "subtitle": "Tempo da Páscoa",
+    "title": "Vigília Pascal na Noite Santa",
+    "subtitle": "Semana Santa",
     "color": "white",
     "readings": [
       {
@@ -2669,8 +2669,8 @@
     ]
   },
   "easter.week1.1.a": {
-    "title": "Domingo da 1ª Semana",
-    "subtitle": "Oitava de Páscoa",
+    "title": "Missa da Páscoa na Ressurreição do Senhor",
+    "subtitle": "Semana Santa",
     "color": "white",
     "readings": [
       {
@@ -2696,8 +2696,8 @@
     ]
   },
   "easter.week1.1.b": {
-    "title": "Domingo da 1ª Semana",
-    "subtitle": "Oitava de Páscoa",
+    "title": "Missa da Páscoa na Ressurreição do Senhor",
+    "subtitle": "Semana Santa",
     "color": "white",
     "readings": [
       {
@@ -2723,8 +2723,8 @@
     ]
   },
   "easter.week1.1.c": {
-    "title": "Domingo da 1ª Semana",
-    "subtitle": "Oitava de Páscoa",
+    "title": "Missa da Páscoa na Ressurreição do Senhor",
+    "subtitle": "Semana Santa",
     "color": "white",
     "readings": [
       {
@@ -4166,9 +4166,9 @@
     ]
   },
   "easter.week7.7.vigil": {
-    "title": "Sábado da 7ª Semana",
-    "subtitle": "Tempo da Páscoa",
-    "color": "white",
+    "title": "Vigília de Pentecostes",
+    "subtitle": "Solenidade",
+    "color": "red",
     "readings": [
       {
         "type": "reading",
@@ -4208,8 +4208,8 @@
   },
   "easter.week8.1": {
     "title": "Domingo de Pentecostes",
-    "subtitle": "Tempo da Páscoa",
-    "color": "white",
+    "subtitle": "Solenidade",
+    "color": "red",
     "readings": [
       {
         "type": "reading",
