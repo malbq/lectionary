@@ -126,7 +126,7 @@
         
         Palavra da Salvação.
 '1217':
-  title: ''
+  title: '?{weekday} da {week}ª Semana'
   subtitle: Tempo do Advento
   color: purple
   readings:
@@ -140,7 +140,7 @@
       ref: ''
       text: ''
 '1218':
-  title: ''
+  title: '?{weekday} da {week}ª Semana'
   subtitle: Tempo do Advento
   color: purple
   readings:
@@ -191,7 +191,7 @@
         
         Palavra da Salvação.
 '1219':
-  title: ''
+  title: '?{weekday} da {week}ª Semana'
   subtitle: Tempo do Advento
   color: purple
   readings:
@@ -269,7 +269,7 @@
         
         Palavra da Salvação.
 '1220':
-  title: ''
+  title: '?{weekday} da {week}ª Semana'
   subtitle: Tempo do Advento
   color: purple
   readings:
@@ -327,7 +327,7 @@
 
         Palavra da Salvação.
 '1221':
-  title: ''
+  title: '?{weekday} da {week}ª Semana'
   subtitle: Tempo do Advento
   color: purple
   readings:
@@ -397,7 +397,7 @@
 
         Palavra da Salvação.
 '1222':
-  title: ''
+  title: '?{weekday} da {week}ª Semana'
   subtitle: Tempo do Advento
   color: purple
   readings:
@@ -459,7 +459,7 @@
 
         Palavra da Salvação.
 '1223':
-  title: ''
+  title: '?{weekday} da {week}ª Semana'
   subtitle: Tempo do Advento
   color: purple
   readings:
@@ -512,207 +512,8 @@
         E todos os que ouviam a notícia, ficavam pensando: "O que virá a ser este menino?" De fato, a mão do Senhor estava com ele.
 
         Palavra da Salvação.
-'1226':
-  title: Santo Estêvão, Primeiro Mártir
-  subtitle: Festa
-  color: red
-  readings:
-    - type: reading
-      ref: ''
-      text: ''
-    - type: psalm
-      ref: ''
-      text: ''
-    - type: gospel
-      ref: ''
-      text: ''
-'1227':
-  title: São João Evangelista
-  subtitle: Festa
-  color: white
-  readings:
-    - type: reading
-      ref: ''
-      text: ''
-    - type: psalm
-      ref: ''
-      text: ''
-    - type: gospel
-      ref: ''
-      text: ''
-'1228':
-  title: Santos Inocentes, mártires
-  subtitle: Festa
-  color: red
-  readings:
-    - type: reading
-      ref: ''
-      text: ''
-    - type: psalm
-      ref: ''
-      text: ''
-    - type: gospel
-      ref: ''
-      text: ''
-'1229':
-  title: 'Quinto dia na Oitava de Natal'
-  subtitle: Oitava de Natal
-  color: white
-  readings:
-    - type: reading
-      ref: ''
-      text: ''
-    - type: psalm
-      ref: ''
-      text: ''
-    - type: gospel
-      ref: ''
-      text: ''
-'1230':
-  title: 'Sexto dia na Oitava de Natal'
-  subtitle: Oitava de Natal
-  color: white
-  readings:
-    - type: reading
-      ref: ''
-      text: ''
-    - type: psalm
-      ref: ''
-      text: ''
-    - type: gospel
-      ref: ''
-      text: ''
-'1231':
-  title: 'Sétimo dia na Oitava de Natal'
-  subtitle: Oitava de Natal
-  color: white
-  readings:
-    - type: reading
-      ref: ''
-      text: ''
-    - type: psalm
-      ref: ''
-      text: ''
-    - type: gospel
-      ref: ''
-      text: ''
-holyFamily:
-  title: Sagrada Família
-  subtitle: Festa
-  color: white
-  readings:
-    - type: reading
-      ref: ''
-      text: ''
-    - type: psalm
-      ref: ''
-      text: ''
-    - type: gospel
-      ref: ''
-      text: ''
-epiphany:
-  title: Epifania do Senhor
-  subtitle: Solenidade
-  color: white
-  readings:
-    - type: reading
-      ref: ''
-      text: ''
-    - type: psalm
-      ref: ''
-      text: ''
-    - type: gospel
-      ref: ''
-      text: ''
-baptism:
-  title: Batismo do Senhor
-  subtitle: Festa
-  color: white
-  readings:
-    - type: reading
-      ref: ''
-      text: ''
-    - type: psalm
-      ref: ''
-      text: ''
-    - type: gospel
-      ref: ''
-      text: ''
-mostHolyTrinity:
-  title: Santíssima Trindade
-  subtitle: Solenidade
-  color: white
-  readings:
-    - type: reading
-      ref: ''
-      text: ''
-    - type: psalm
-      ref: ''
-      text: ''
-    - type: gospel
-      ref: ''
-      text: ''
-corpusChristi:
-  title: Corpus Christi
-  subtitle: Solenidade
-  color: white
-  readings:
-    - type: reading
-      ref: ''
-      text: ''
-    - type: psalm
-      ref: ''
-      text: ''
-    - type: gospel
-      ref: ''
-      text: ''
-sacredHeartOfJesus:
-  title: Sagrado Coração de Jesus
-  subtitle: Solenidade
-  color: white
-  readings:
-    - type: reading
-      ref: ''
-      text: ''
-    - type: psalm
-      ref: ''
-      text: ''
-    - type: gospel
-      ref: ''
-      text: ''
-immaculateHeartOfMary:
-  title: Imaculado Coração de Maria
-  subtitle: Memória
-  color: white
-  readings:
-    - type: reading
-      ref: ''
-      text: ''
-    - type: psalm
-      ref: ''
-      text: ''
-    - type: gospel
-      ref: ''
-      text: ''
-assumption:
-  title: Assunção de Nossa Senhora
-  subtitle: Solenidade
-  color: white
-  readings:
-    - type: reading
-      ref: ''
-      text: ''
-    - type: psalm
-      ref: ''
-      text: ''
-    - type: reading
-      ref: ''
-      text: ''
-    - type: gospel
-      ref: ''
-      text: ''
 1224.day:
-  title: ''
+  title: '?{weekday} da {week}ª Semana'
   subtitle: Tempo do Advento
   color: purple
   readings:
@@ -1040,6 +841,205 @@ assumption:
     - type: gospel
       ref: ''
       text: ''
+'1226':
+  title: Santo Estêvão, Primeiro Mártir
+  subtitle: Festa
+  color: red
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'1227':
+  title: São João Evangelista
+  subtitle: Festa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'1228':
+  title: Santos Inocentes, mártires
+  subtitle: Festa
+  color: red
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'1229':
+  title: 'Quinto dia na Oitava de Natal'
+  subtitle: Oitava de Natal
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'1230':
+  title: 'Sexto dia na Oitava de Natal'
+  subtitle: Oitava de Natal
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+'1231':
+  title: 'Sétimo dia na Oitava de Natal'
+  subtitle: Oitava de Natal
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+holyFamily:
+  title: Sagrada Família, Jesus, Maria e José
+  subtitle: Festa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+epiphany:
+  title: Epifania do Senhor
+  subtitle: Solenidade
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+baptism:
+  title: Batismo do Senhor
+  subtitle: Festa
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+mostHolyTrinity:
+  title: Santíssima Trindade
+  subtitle: Solenidade
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+corpusChristi:
+  title: Corpus Christi
+  subtitle: Solenidade
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+sacredHeartOfJesus:
+  title: Sagrado Coração de Jesus
+  subtitle: Solenidade
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+immaculateHeartOfMary:
+  title: Imaculado Coração de Maria
+  subtitle: Memória
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+assumption:
+  title: Assunção de Nossa Senhora
+  subtitle: Solenidade
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: reading
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
 '0101':
   title: Santa Maria, Mãe de Deus
   subtitle: Solenidade
@@ -1055,8 +1055,8 @@ assumption:
       ref: ''
       text: ''
 '0102':
-  title: ''
-  subtitle: Antes da Epifania
+  title: '?{weekday} antes da Epifania'
+  subtitle: Tempo do Natal
   color: white
   readings:
     - type: reading
@@ -1069,8 +1069,8 @@ assumption:
       ref: ''
       text: ''
 '0103':
-  title: ''
-  subtitle: Antes da Epifania
+  title: '?{weekday} antes da Epifania'
+  subtitle: Tempo do Natal
   color: white
   readings:
     - type: reading
@@ -1083,8 +1083,8 @@ assumption:
       ref: ''
       text: ''
 '0104':
-  title: ''
-  subtitle: Antes da Epifania
+  title: '?{weekday} antes da Epifania'
+  subtitle: Tempo do Natal
   color: white
   readings:
     - type: reading
@@ -1097,8 +1097,8 @@ assumption:
       ref: ''
       text: ''
 '0105':
-  title: ''
-  subtitle: Antes da Epifania
+  title: '?{weekday} antes da Epifania'
+  subtitle: Tempo do Natal
   color: white
   readings:
     - type: reading
@@ -1111,8 +1111,8 @@ assumption:
       ref: ''
       text: ''
 '0106':
-  title: ''
-  subtitle: Antes da Epifania
+  title: '?{weekday} antes da Epifania'
+  subtitle: Tempo do Natal
   color: white
   readings:
     - type: reading
@@ -1125,91 +1125,7 @@ assumption:
       ref: ''
       text: ''
 '0107':
-  title: ''
-  subtitle: Antes da Epifania
-  color: white
-  readings:
-    - type: reading
-      ref: ''
-      text: ''
-    - type: psalm
-      ref: ''
-      text: ''
-    - type: gospel
-      ref: ''
-      text: ''
-christmas.week2.2:
-  title: Segunda-feira da 2ª Semana
-  subtitle: Após a Epifania
-  color: white
-  readings:
-    - type: reading
-      ref: ''
-      text: ''
-    - type: psalm
-      ref: ''
-      text: ''
-    - type: gospel
-      ref: ''
-      text: ''
-christmas.week2.3:
-  title: Terça-feira da 2ª Semana
-  subtitle: Após a Epifania
-  color: white
-  readings:
-    - type: reading
-      ref: ''
-      text: ''
-    - type: psalm
-      ref: ''
-      text: ''
-    - type: gospel
-      ref: ''
-      text: ''
-christmas.week2.4:
-  title: Quarta-feira da 2ª Semana
-  subtitle: Após a Epifania
-  color: white
-  readings:
-    - type: reading
-      ref: ''
-      text: ''
-    - type: psalm
-      ref: ''
-      text: ''
-    - type: gospel
-      ref: ''
-      text: ''
-christmas.week2.5:
-  title: Quinta-feira da 2ª Semana
-  subtitle: Após a Epifania
-  color: white
-  readings:
-    - type: reading
-      ref: ''
-      text: ''
-    - type: psalm
-      ref: ''
-      text: ''
-    - type: gospel
-      ref: ''
-      text: ''
-christmas.week2.6:
-  title: Sexta-feira da 2ª Semana
-  subtitle: Após a Epifania
-  color: white
-  readings:
-    - type: reading
-      ref: ''
-      text: ''
-    - type: psalm
-      ref: ''
-      text: ''
-    - type: gospel
-      ref: ''
-      text: ''
-christmas.week2.7:
-  title: Sábado da 2ª Semana
+  title: '?{weekday} antes da Epifania'
   subtitle: Tempo do Natal
   color: white
   readings:
@@ -1223,8 +1139,8 @@ christmas.week2.7:
       ref: ''
       text: ''
 christmas.week2.1:
-  title: Domingo da 2ª Semana
-  subtitle: Após a Epifania
+  title: Domingo após a Epifania
+  subtitle: Tempo do Natal
   color: white
   readings:
     - type: reading
@@ -1234,6 +1150,90 @@ christmas.week2.1:
       ref: ''
       text: ''
     - type: reading
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+christmas.week2.2:
+  title: Segunda-feira após a Epifania
+  subtitle: Tempo do Natal
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+christmas.week2.3:
+  title: Terça-feira após a Epifania
+  subtitle: Tempo do Natal
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+christmas.week2.4:
+  title: Quarta-feira após a Epifania
+  subtitle: Tempo do Natal
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+christmas.week2.5:
+  title: Quinta-feira após a Epifania
+  subtitle: Tempo do Natal
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+christmas.week2.6:
+  title: Sexta-feira após a Epifania
+  subtitle: Tempo do Natal
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
+      ref: ''
+      text: ''
+    - type: gospel
+      ref: ''
+      text: ''
+christmas.week2.7:
+  title: Sábado após a Epifania
+  subtitle: Tempo do Natal
+  color: white
+  readings:
+    - type: reading
+      ref: ''
+      text: ''
+    - type: psalm
       ref: ''
       text: ''
     - type: gospel
