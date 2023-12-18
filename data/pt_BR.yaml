@@ -957,70 +957,278 @@
   color: red
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 6,8-10.7,54-59
+      text: |
+        Leitura dos Atos dos Apóstolos
+
+        Naqueles dias,
+        Estêvão, cheio de graça e poder, fazia prodígios e grandes sinais entre o povo.
+        Mas alguns membros da chamada Sinagoga dos Libertos, junto com cirenenses e alexandrinos, e alguns da Cilícia e da Âsia, começaram a discutir com Estêvão.
+        Porém, não conseguiam resistir à sabedoria e ao Espírito com que ele falava.
+        7,54 Ao ouvir essas palavras, eles ficaram enfurecidos e rangeram os dentes contra Estêvão.
+        Estêvão, cheio do Espírito Santo, olhou para o céu e viu a glória de Deus e Jesus, de pé, à direita de Deus. 
+        E disse: "Estou vendo o céu aberto, e o Filho do Homem, de pé, à direita de Deus".
+        Mas eles, dando grandes gritos e, tapando os ouvidos, avançaram todos juntos contra Estêvão; arrastaram-no para fora da cidade e começaram a apedrejá-lo.
+        As testemunhas deixaram suas vestes aos pés de um jovem, chamado Saulo.
+        Enquanto o apedrejavam, Estêvão clamou dizendo: "Senhor Jesus, acolhe o meu espírito".
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 30(31),3cd-4.6 e 8ab.16bc e 17 (R. 6a)
+      text: |
+        R. Em vossas mãos, Senhor, entrego o meu espírito.
+
+        Sede uma rocha protetora para mim,
+        um abrigo bem seguro que me salve!
+        Sim, sois vós a minha rocha e fortaleza;
+        por vossa honra orientai-me e conduzi-me! R.
+
+        Em vossas mãos, Senhor, entrego o meu espírito,
+        porque vós me salvareis, ó Deus fiel!
+        Vosso amor me faz saltar de alegria,
+        pois olhastes para as minhas aflições. R.
+
+        Eu entrego em vossas mãos o meu destino;
+        libertai-me do inimigo e do opressor!
+        Mostrai serena a vossa face ao vosso servo,
+        e salvai-me pela vossa compaixão! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mt 10,17-22
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Mateus
+
+        Naquele tempo,
+        disse Jesus aos seus apóstolos: "Cuidado com os homens, porque eles vos entregarão aos tribunais e vos açoitarão nas suas sinagogas.
+        Vós sereis levados diante de governadores e reis, por minha causa, para dar testemunho diante deles e das nações.
+        Quando vos entregarem, não fiqueis preocupados como falar ou o que dizer.
+        Então naquele momento vos será indicado o que deveis dizer.
+        Com efeito, não sereis vós que havereis de falar, mas sim o Espírito do vosso Pai é que falará através de vós.
+        O irmão entregará à morte o próprio irmão; o pai entregará o filho; os filhos se levantarão contra seus pais, e os matarão.
+        Vós sereis odiados por todos, por causa do meu nome.
+        Mas quem perseverar até o fim, esse será salvo".
+
+        Palavra da Salvação.
 '1227':
-  title: São João Evangelista
+  title: São João, Apóstolo e Evangelista
   subtitle: Festa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Jo 1,1-4
+      text: |
+        Início da Primeira Carta de São João 
+        
+        Caríssimos,
+        o que era desde o princípio, o que nós ouvimos, o que vimos com os nossos olhos, o que contemplamos e as nossas mãos tocaram da Palavra da Vida, - de fato, a Vida manifestou-se e nós a vimos, e somos testemunhas, e a vós anunciamos a Vida eterna, que estava junto do Pai e que se tornou visível para nós -; isso que vimos e ouvimos, nós vos anunciamos, para que estejais em comunhão conosco.
+        E a nossa comunhão é com o Pai e com seu Filho, Jesus Cristo.
+        Nós vos escrevemos estas coisas para que a nossa alegria fique completa.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 96(97),1-2.5-6.11-12 (R. 12a)
+      text: |
+        R. Ó justos, alegrai-vos no Senhor!
+        
+        Deus é Rei! Exulte a terra de alegria,
+        e as ilhas numerosas rejubilem!
+        Treva e nuvem o rodeiam no seu trono,
+        que se apoia na justiça e no direito. R.
+        
+        As montanhas se derretem como cera
+        ante a face do Senhor de toda a terra;
+        e assim proclama o céu sua justiça,
+        todos os povos podem ver a sua glória. R.
+        
+        Uma luz já se levanta para os justos,
+        e a alegria, para os retos corações.
+        Homens justos, alegrai-vos no Senhor,
+        celebrai e bendizei seu santo nome! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 20,2-8
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        No primeiro dia da semana,
+        Maria Madalena saiu correndo e foi encontrar Simão Pedro e o outro discípulo, aquele que Jesus amava, e lhes disse:
+        "Tiraram o Senhor do túmulo, e não sabemos onde o colocaram".
+        Saíram, então, Pedro e o outro discípulo e foram ao túmulo.
+        Os dois corriam juntos, mas o outro discípulo correu mais depressa que Pedro e chegou primeiro ao túmulo.
+        Olhando para dentro, viu as faixas de linho no chão, mas não entrou.
+        Chegou também Simão Pedro, que vinha correndo atrás, e entrou no túmulo.
+        Viu as faixas de linho deitadas no chão e o pano que tinha estado sobre a cabeça de Jesus, não posto com as faixas, mas enrolado num lugar à parte.
+        Então entrou também o outro discípulo, que tinha chegado primeiro ao túmulo.
+        Ele viu, e acreditou.
+
+        Palavra da Salvação.
 '1228':
-  title: Santos Inocentes, mártires
+  title: Os Santos Inocentes, mártires
   subtitle: Festa
   color: red
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Jo 1,5-2,2
+      text: |
+        Leitura da Primeira Carta de São João 
+        
+        Caríssimos,
+        a mensagem, que ouvimos de Jesus Cristo e vos anunciamos, é esta: Deus é luz e nele não há trevas.
+        Se dissermos que estamos em comunhão com ele, mas andamos nas trevas, estamos mentindo e não nos guiamos pela verdade.
+        Mas, se andamos na luz, como ele está na luz, então estamos em comunhão uns com os outros, e o sangue de seu Filho Jesus nos purifica de todo pecado.
+        Se dissermos que não temos pecado, estamo-nos enganando a nós mesmos, e a verdade não está dentro de nós.
+        Se reconhecermos nossos pecados, então Deus se mostra fiel e justo, para nos perdoar os pecados e nos purificar de toda culpa.
+        Se dissermos que nunca pecamos, fazemos dele um mentiroso e sua palavra não está dentro de nós.
+        Meus filhinhos, escrevo isto para que não pequeis.
+        No entanto, se alguém pecar, temos junto do Pai um Defensor: Jesus Cristo, o Justo.
+        Ele é a vítima de expiação pelos nossos pecados, e não só pelos nossos, mas também pelos pecados do mundo inteiro.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 123(124),2-3.4-5.7b-8 (R. 7a)
+      text: |
+        R. Nossa alma como um pássaro escapou
+        do laço que lhe armara o caçador.
+
+        Se o Senhor não estivesse ao nosso lado,
+        quando os homens investiram contra nós,
+        com certeza nos teriam devorado
+        no furor de sua ira contra nós. R.
+        
+        Então as águas nos teriam submergido,
+        a correnteza nos teria arrastado,
+        e então, por sobre nós teriam passado
+        essas águas sempre mais impetuosas. R.
+        
+        O laço arrebentou-se de repente,
+        e assim nós conseguimos libertar-nos.
+        O nosso auxílio está no nome do Senhor,
+        do Senhor que fez o céu e fez a terra! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mt 2,13-18
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Mateus 
+        
+        Depois que os magos partiram,
+        o Anjo do Senhor apareceu em sonho a José e lhe disse: "Levanta-te, pega o menino e sua mãe e foge para o Egito! Fica lá até que eu te avise! Porque Herodes vai procurar o menino para matá-lo".
+        José levantou-se de noite, pegou o menino e sua mãe, e partiu para o Egito.
+        Ali ficou até à morte de Herodes, para se cumprir o que o Senhor havia dito pelo profeta: "Do Egito chamei o meu Filho".
+        Quando Herodes percebeu que os magos o haviam enganado, ficou muito furioso.
+        Mandou matar todos os meninos de Belém e de todo o território vizinho, de dois anos para baixo, exatamente conforme o tempo indicado pelos magos.
+        Então se cumpriu o que foi dito pelo profeta Jeremias: "Ouviu-se um grito em Ramá, choro e grande lamento: é Raquel que chora seus filhos, e não quer ser consolada, porque eles não existem mais".
+
+        Palavra da Salvação.
 '1229':
   title: 'Quinto dia na Oitava de Natal'
   subtitle: Oitava de Natal
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Jo 2,3-11
+      text: |
+        Leitura da Primeira Carta de São João 
+        
+        Caríssimos,
+        para saber que conhecemos Jesus, vejamos se guardamos os seus mandamentos.
+        Quem diz: "Eu conheço a Deus", mas não guarda os seus mandamentos, é mentiroso, e a verdade não está nele.
+        Naquele, porém, que guarda a sua palavra, o amor de Deus é plenamente realizado.
+        O critério para saber se estamos com Jesus é este: quem diz que permanece nele, deve também proceder como ele procedeu.
+        Caríssimos, não vos comunico um mandamento novo, mas um mandamento antigo, que recebestes desde o início; este mandamento antigo é a palavra que ouvistes.
+        No entanto, o que vos escrevo é um mandamento novo - que é verdadeiro nele e em vós -, pois que as trevas passam e já brilha a luz verdadeira.
+        Aquele que diz estar na luz, mas odeia o seu irmão, ainda está nas trevas.
+        O que ama o seu irmão permanece na luz e não corre perigo de tropeçar.
+        Mas o que odeia o seu irmão está nas trevas, caminha nas trevas, e não sabe aonde vai, porque as trevas ofuscaram os seus olhos.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 95(96),1-2a.2b-3.5b-6 (R. 11a)
+      text: |
+        R. O céu se rejubile e exulte a terra!
+        
+        Cantai ao Senhor Deus um canto novo,
+        cantai ao Senhor Deus, ó terra inteira!
+        Cantai e bendizei seu santo nome! R.
+        
+        Dia após dia anunciai sua salvação,
+        manifestai a sua glória entre as nações,
+        e entre os povos do universo seus prodígios! R.
+        
+        Foi o Senhor e nosso Deus quem fez os céus:
+        diante dele vão a glória e a majestade,
+        e o seu templo, que beleza e esplendor! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Lc 2,22-35
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Lucas 
+        
+        Quando se completaram os dias
+        para a purificação da mãe e do filho, conforme a Lei de Moisés, Maria e José levaram Jesus a Jerusalém, a fim de apresentá-lo ao Senhor.
+        Conforme está escrito na Lei do Senhor: "Todo primogênito do sexo masculino deve ser consagrado ao Senhor".
+        Foram também oferecer o sacrifício - um par de rolas ou dois pombinhos - como está ordenado na Lei do Senhor.
+        Em Jerusalém, havia um homem chamado Simeão, o qual era justo e piedoso, e esperava a consolação do povo de Israel.
+        O Espírito Santo estava com ele e lhe havia anunciado que não morreria antes de ver o Messias que vem do Senhor.
+        Movido pelo Espírito, Simeão veio ao Templo.
+        Quando os pais trouxeram o menino Jesus para cumprir o que a Lei ordenava, Simeão tomou o menino nos braços e bendisse a Deus:
+        "Agora, Senhor, conforme a tua promessa, podes deixar teu servo partir em paz; porque meus olhos viram a tua salvação, que preparaste diante de todos os povos: luz para iluminar as nações e glória do teu povo Israel".
+        O pai e a mãe de Jesus estavam admirados com o que diziam a respeito dele.
+        Simeão os abençoou e disse a Maria, a mãe de Jesus: "Este menino vai ser causa tanto de queda como de reerguimento para muitos em Israel.
+        Ele será um sinal de contradição.
+        Assim serão revelados os pensamentos de muitos corações.
+        Quanto a ti, uma espada te traspassará a alma".
+
+        Palavra da Salvação.
 '1230':
   title: 'Sexto dia na Oitava de Natal'
   subtitle: Oitava de Natal
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Jo 2,12-17
+      text: |
+        Leitura da Primeira Carta de São João 
+        
+        Eu vos escrevo, filhinhos:
+        os vossos pecados foram perdoados por meio do seu nome.
+        Eu vos escrevo, pais: vós conheceis aquele que é desde o princípio.
+        Eu vos escrevo, jovens: vós vencestes o Maligno.
+        Já vos escrevi, filhinhos: vós conheceis o Pai.
+        Já vos escrevi, jovens: vós sois fortes, a Palavra de Deus permanece em vós, e vencestes o Maligno.
+        Não ameis o mundo, nem o que há no mundo.
+        Se alguém ama o mundo, não está nele o amor do Pai.
+        Porque tudo o que há no mundo — as paixões da natureza, a concupiscência dos olhos e a ostentação da riqueza — não vem do Pai, mas do mundo.
+        Ora, o mundo passa, e também a sua concupiscência;
+        mas aquele que faz a vontade de Deus permanece para sempre.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 95(96),7-8a.8b-9.10 (R. 11a)
+      text: |
+        R. O céu se rejubile e exulte a terra!
+        
+        Ó família das nações, dai ao Senhor,
+        ó nações, dai ao Senhor poder e glória,
+        dai-lhe a glória que é devida ao seu nome! R.
+        
+        Oferecei um sacrifício nos seus átrios,
+        adorai-o no esplendor da santidade,
+        terra inteira, estremecei diante dele! R.
+        
+        Publicai entre as nações: "Reina o Senhor!"
+        Ele firmou o universo inabalável,
+        e os povos ele julga com justiça. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Lc 2,36-40
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Lucas 
+        
+        Naquele tempo,
+        havia também uma profetisa, chamada Ana, filha de Fanuel, da tribo de Aser.
+        Era de idade muito avançada; quando jovem, tinha sido casada e vivera sete anos com o marido.
+        Depois ficara viúva, e agora já estava com oitenta e quatro anos.
+        Não saía do Templo, dia e noite servindo a Deus com jejuns e orações.
+        Ana chegou nesse momento e pôs-se a louvar a Deus e a falar do menino a todos os que esperavam a libertação de Jerusalém.
+        Depois de cumprirem tudo, conforme a Lei do Senhor, voltaram à Galileia, para Nazaré, sua cidade.
+        O menino crescia e tornava-se forte, cheio de sabedoria; e a graça de Deus estava com ele.
+
+        Palavra da Salvação.
 '1231':
   title: 'Sétimo dia na Oitava de Natal'
   subtitle: Oitava de Natal
@@ -1041,14 +1249,163 @@ holyFamily:
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      main:
+        ref: Eclo 3,3-7.14-17a
+        text: |
+          Leitura do Livro do Eclesiástico 
+          
+          Deus honra o pai nos filhos
+          e confirma, sobre eles, a autoridade da mãe.
+          Quem honra o seu pai, alcança o perdão dos pecados; evita cometê-los e será ouvido na oração cotidiana.
+          Quem respeita a sua mãe é como alguém que ajunta tesouros.
+          Quem honra o seu pai, terá alegria com seus próprios filhos; e, no dia em que orar, será atendido.
+          Quem respeita o seu pai, terá vida longa, e quem obedece ao pai é o consolo da sua mãe.
+          Meu filho, ampara o teu pai na velhice e não lhe causes desgosto enquanto ele vive.
+          Mesmo que ele esteja perdendo a lucidez, procura ser compreensivo para com ele; não o humilhes, em nenhum dos dias de sua vida: a caridade feita a teu pai não será esquecida, mas servirá para reparar os teus pecados e, na justiça, será para tua edificação.
+          
+          Palavra do Senhor
+      option:
+        ref: Gn 15,1-6;21,1-3
+        text: |
+          Leitura do Livro do Gênesis 
+          
+          Naqueles dias,
+          o Senhor falou a Abrão, dizendo: "Não temas, Abrão!
+          Eu sou o teu protetor e tua recompensa será muito grande".
+          Abrão respondeu: "Senhor Deus, que me darás?
+          Eu me vou desta vida sem filhos e o herdeiro de minha casa será Eliezer de Damasco".
+          E acrescentou: "Como não me deste descendência, um servo nascido em minha casa será meu herdeiro".
+          Então o Senhor falou-lhe nestes termos: "O teu herdeiro não será esse, mas um dos teus descendentes é que será o herdeiro".
+          E, conduzindo-o para fora, disse-lhe: "Olha para o céu e conta as estrelas, se fores capaz!" E acrescentou: "Assim será a tua descendência".
+          Abrão teve fé no Senhor, que considerou isso como justiça.
+          O Senhor visitou Sara, como tinha prometido, e cumpriu o que lhe dissera.
+          Ela concebeu e deu a Abraão um filho na velhice, no tempo que Deus lhe havia predito.
+          Abraão deu o nome de Isaac ao filho que lhe nascera de Sara.
+          
+          Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      main:
+        ref: Sl 127(128),1-2.3.4-5 (R. cf.1)
+        text: |
+          R. Felizes os que temem o Senhor e trilham seus caminhos!
+          
+          Feliz és tu se temes o Senhor
+          e trilhas seus caminhos!
+          Do trabalho de tuas mãos hás de viver,
+          serás feliz, tudo irá bem! R.
+          
+          A tua esposa é uma videira bem fecunda
+          no coração da tua casa;
+          os teus filhos são rebentos de oliveira
+          ao redor de tua mesa. R.
+          
+          Será assim abençoado todo homem
+          que teme o Senhor.
+          O Senhor te abençoe de Sião,
+          cada dia de tua vida. R.
+      option:
+        ref: SI 104(105),1b-2.3-4.5-6.8-9 (R. 7a.8a)
+        text: |
+          R. O Senhor, ele mesmo é nosso Deus,
+          
+          ele sempre se lembra da Aliança.
+          Dai graças ao Senhor, gritai seu nome,
+          anunciai entre as nações seus grandes feitos!
+          Cantai, entoai salmos para ele,
+          publicai todas as suas maravilhas! R.
+          
+          Gloriai-vos em seu nome que é santo,
+          exulte o coração que busca a Deus!
+          Procurai o Senhor Deus e seu poder,
+          buscai constantemente a sua face! R.
+          
+          Lembrai as maravilhas que ele fez,
+          seus prodígios e as palavras de seus lábios!
+          Descendentes de Abraão, seu servidor,
+          e filhos de Jacó, seu escolhido, R.
+          
+          Ele sempre se recorda da Aliança,
+          promulgada a incontáveis gerações;
+          da Aliança que ele fez com Abraão,
+          e do seu santo juramento a Isaac. R.
+    - type: reading
+      main:
+        ref: Cl 3,12-21
+        text: |
+          Leitura da Carta de São Paulo aos Colossenses 
+          
+          Irmãos:
+          Vós sois amados por Deus, sois os seus santos eleitos.
+          Por isso, revesti-vos de sincera misericórdia, bondade, humildade, mansidão e paciência, suportando-vos uns aos outros e perdoando-vos mutuamente, se um tiver queixa contra o outro.
+          Como o Senhor vos perdoou, assim perdoai vós também.
+          Mas, sobretudo, amai-vos uns aos outros, pois o amor é o vínculo da perfeição.
+          Que a paz de Cristo reine em vossos corações, à qual fostes chamados como membros de um só corpo.
+          E sede agradecidos.
+          Que a palavra de Cristo, com toda a sua riqueza, habite em vós.
+          Ensinai e admoestai-vos uns aos outros com toda a sabedoria.
+          Do fundo dos vossos corações, cantai a Deus salmos, hinos e cânticos espirituais, em ação de graças.
+          Tudo o que fizerdes, em palavras ou obras, seja feito em nome do Senhor Jesus Cristo.
+          Por meio dele dai graças a Deus, o Pai.
+          Esposas, sede solícitas para com vossos maridos, como convém, no Senhor.
+          Maridos, amai vossas esposas e não sejais grosseiros com elas.
+          Filhos, obedecei em tudo aos vossos pais, pois isso é bom e correto no Senhor.
+          Pais, não intimideis os vossos filhos, para que eles não desanimem.
+
+          Palavra do Senhor.
+      option:
+        ref: Hb 11,8.11-12.17-19
+        text: |
+          Leitura da Carta aos Hebreus 
+          
+          Irmãos:
+          Foi pela fé que Abraão obedeceu à ordem de partir para uma terra que devia receber como herança, e partiu, sem saber para onde ia.
+          Foi pela fé também que Sara, embora estéril e já de idade avançada, se tornou capaz de ter filhos, porque considerou fidedigno o autor da promessa.
+          É por isso também que de um só homem, já marcado pela morte, nasceu a multidão "comparável às estrelas do céu e inumerável como a areia das praias do mar".
+          Foi pela fé que Abraão, posto à prova, ofereceu Isaac;
+          ele, o depositário da promessa, sacrificava o seu filho único, do qual havia sido dito: "É em Isaac que uma descendência levará o teu nome".
+          Ele estava convencido de que Deus tem poder até de ressuscitar os mortos, e assim recuperou o filho — o que é também um símbolo.
+
+          Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      short:
+        ref: Lc 2,22.39-40
+        text: |
+          Proclamação do Evangelho de Jesus Cristo segundo Lucas
+
+          Quando se completaram os dias
+          para a purificação da mãe e do filho, conforme a Lei de Moisés, Maria e José levaram Jesus a Jerusalém, a fim de apresentá-lo ao Senhor.
+          Depois de cumprirem tudo, conforme a Lei do Senhor, voltaram à Galileia, para Nazaré, sua cidade.
+          O menino crescia e tornava-se forte, cheio de sabedoria;
+          e a graça de Deus estava com ele.
+
+          Palavra da Salvação.
+      long:
+        ref: Lc 2,22-40
+        text: |
+          Proclamação do Evangelho de Jesus Cristo segundo Lucas
+
+          Quando se completaram os dias
+          para a purificação da mãe e do filho, conforme a Lei de Moisés, Maria e José levaram Jesus a Jerusalém, a fim de apresentá-lo ao Senhor.
+          Conforme está escrito na Lei do Senhor: "Todo primogênito do sexo masculino deve ser consagrado ao Senhor".  
+          Foram também oferecer o sacrifício — um par de rolas ou dois pombinhos — como está ordenado na Lei do Senhor.
+          Em Jerusalém, havia um homem chamado Simeão, o qual era justo e piedoso, e esperava a consolação do povo de Israel.
+          O Espírito Santo estava com ele e lhe havia anunciado que não morreria antes de ver o Messias que vem do Senhor.
+          Movido pelo Espírito, Simeão veio ao Templo.
+          Quando os pais trouxeram o menino Jesus para cumprir o que a Lei ordenava, Simeão tomou o menino nos braços e bendisse a Deus: "Agora, Senhor, conforme a tua promessa, podes deixar teu servo partir em paz; porque meus olhos viram a tua salvação, que preparaste diante de todos os povos: luz para iluminar as nações e glória do teu povo Israel".
+          O pai e a mãe de Jesus estavam admirados com o que diziam a respeito dele.
+          Simeão os abençoou e disse a Maria, a mãe de Jesus: "Este menino vai ser causa tanto de queda como de reerguimento para muitos em Israel.
+          Ele será um sinal de contradição.
+          Assim serão revelados os pensamentos de muitos corações.
+          Quanto a ti, uma espada te traspassará a alma".
+          Havia também uma profetisa, chamada Ana, filha de Fanuel, da tribo de Aser.
+          Era de idade muito avançada; quando jovem, tinha sido casada e vivera sete anos com o marido.
+          Depois ficara viúva, e agora já estava com oitenta e quatro anos.
+          Não saía do Templo, dia e noite servindo a Deus com jejuns e orações.
+          Ana chegou nesse momento e pôs-se a louvar a Deus e a falar do menino a todos os que esperavam a libertação de Jerusalém.
+          Depois de cumprirem tudo, conforme a Lei do Senhor, voltaram à Galileia, para Nazaré, sua cidade.
+          O menino crescia e tornava-se forte, cheio de sabedoria; e a graça de Deus estava com ele.
+
+          Palavra da Salvação.
 epiphany:
   title: Epifania do Senhor
   subtitle: Solenidade
