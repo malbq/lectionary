@@ -1664,7 +1664,7 @@ assumption:
       text: |
         R. Os confins do universo contemplaram
         a salvação do nosso Deus.
-        
+
         Cantai ao Senhor Deus um canto novo,
         porque ele fez prodígios!
         Sua mão e o seu braço forte e santo
@@ -1698,14 +1698,57 @@ assumption:
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Jo 3,7-10
+      text: |
+        Leitura da Primeira Carta de São João 
+        
+        Filhinhos, que ninguém vos desencaminhe.
+        O que pratica a justiça é justo, assim como ele é justo.
+        Aquele que comete o pecado é do diabo, porque o diabo é pecador desde o princípio.
+        Para isto é que o Filho de Deus se manifestou: para destruir as obras do diabo.
+        Todo aquele que nasceu de Deus não comete pecado, porque a semente de Deus fica nele; ele não pode pecar, pois nasceu de Deus.
+        Nisto se revela quem é filho de Deus e quem é filho do diabo: todo o que não pratica a justiça não é de Deus, nem aquele que não ama o seu irmão.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 97(98),1.7-8.9 (R. 3a)
+      text: |
+        R. Os confins do universo contemplaram
+        a salvação do nosso Deus.
+
+        Cantai ao Senhor Deus um canto novo,
+        porque ele fez prodígios!
+        Sua mão e o seu braço forte e santo
+        alcançaram-lhe a vitória. R.
+        
+        Aplauda o mar com todo ser que nele vive,
+        o mundo inteiro e toda gente!
+        As montanhas e os rios batam palmas
+        e exultem de alegria, R.
+        
+        na presença do Senhor, pois ele vem,
+        vem julgar a terra inteira.
+        Julgará o universo com justiça
+        e as nações com equidade. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 1,35-42
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Naquele tempo,
+        João estava de novo com dois de seus discípulos e, vendo Jesus passar, disse: "Eis o Cordeiro de Deus!"
+        Ouvindo essas palavras, os dois discípulos seguiram Jesus.
+        Voltando-se para eles e vendo que o estavam seguindo, Jesus perguntou: "O que estais procurando?"
+        Eles disseram: "Rabi (que quer dizer: Mestre), onde moras?"
+        Jesus respondeu: "Vinde ver".
+        Foram pois ver onde ele morava e, nesse dia, permaneceram com ele.
+        Era por volta das quatro da tarde.
+        André, irmão de Simão Pedro, era um dos dois que ouviram as palavras de João e seguiram Jesus.
+        Ele foi encontrar primeiro seu irmão Simão e lhe disse: "Encontramos o Messias" (que quer dizer: Cristo).
+        Então André conduziu Simão a Jesus.
+        Jesus olhou bem para ele e disse: "Tu és Simão, filho de João; tu serás chamado Cefas" (que quer dizer: Pedra).
+
+        Palavra da Salvação.
 '0105':
   title: '?{weekday} antes da Epifania'
   subtitle: Tempo do Natal
