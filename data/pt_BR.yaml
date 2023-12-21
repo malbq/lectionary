@@ -1755,14 +1755,67 @@ assumption:
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Jo 3,11-21
+      text: |
+        Leitura da Primeira Carta de São João 
+        
+        Caríssimos,
+        esta é a mensagem que ouvistes desde o início: que nos amemos uns aos outros, não como Caim, que, sendo do Maligno, matou o seu irmão.
+        E por que o matou?
+        Porque as suas obras eram más, ao passo que as do seu irmão eram justas.
+        Não vos admireis, irmãos, se o mundo vos odeia.
+        Nós sabemos que passamos da morte para a vida, porque amamos os irmãos.
+        Quem não ama, permanece na morte.
+        Todo aquele que odeia o seu irmão é um homicida.
+        E vós sabeis que nenhum homicida conserva a vida eterna dentro de si.
+        Nisto conhecemos o amor: Jesus deu a sua vida por nós.
+        Portanto, também nós devemos dar a vida pelos irmãos.
+        Se alguém possui riquezas neste mundo e vê o seu irmão passar necessidade, mas, diante dele fecha o seu coração, como pode o amor de Deus permanecer nele?
+        Filhinhos, não amemos só com palavras e de boca, mas com ações e de verdade!
+        Aí está o critério para saber que somos da verdade e para sossegar diante dele o nosso coração, pois, se o nosso coração nos acusa, Deus é maior que o nosso coração e conhece todas as coisas.
+        Caríssimos, se o nosso coração não nos acusa, temos confiança diante de Deus.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 99(100),2.3.4.5 (R. 2a)
+      text: |
+        R. Aclamai o Senhor, ó terra inteira!
+        
+        Aclamai o Senhor, ó terra inteira,
+        servi ao Senhor com alegria,
+        ide a ele cantando jubilosos! R.
+        
+        Sabei que o Senhor, só ele, é Deus,
+        Ele mesmo nos fez, e somos seus,
+        nós somos seu povo e seu rebanho. R.
+        
+        Entrai por suas portas dando graças,
+        e em seus átrios com hinos de louvor;
+        dai-lhe graças, seu nome bendizei! R.
+        
+        Sim, é bom o Senhor e nosso Deus,
+        sua bondade perdura para sempre,
+        seu amor é fiel eternamente! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 1,43-51
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+
+        Naquele tempo,
+        Jesus decidiu partir para a Galileia.
+        Encontrou Filipe e disse: "Segue-me".
+        Filipe era de Betsaida, cidade de André e de Pedro.
+        Filipe encontrou-se com Natanael e lhe disse: "Encontramos aquele de quem Moisés escreveu na Lei, e também os profetas: Jesus de Nazaré, o filho de José".
+        Natanael disse: "De Nazaré pode sair coisa boa?"
+        Filipe respondeu: "Vem ver!"
+        Jesus viu Natanael que vinha para ele e comentou: "Aí vem um israelita de verdade, um homem sem falsidade".
+        Natanael perguntou: "De onde me conheces?"
+        Jesus respondeu: "Antes que Filipe te chamasse, enquanto estavas debaixo da figueira, eu te vi".
+        Natanael respondeu: "Rabi, tu és o Filho de Deus, tu és o Rei de Israel".
+        Jesus disse: "Tu crês porque te disse: 'Eu te vi debaixo da figueira?' Coisas maiores que esta verás!"
+        E Jesus continuou: "Em verdade, em verdade, eu vos digo: Vereis o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do Homem".        
+
+        Palavra da Salvação.
 '0106':
   title: '?{weekday} antes da Epifania'
   subtitle: Tempo do Natal
