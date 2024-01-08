@@ -7245,17 +7245,95 @@ ordinary.week2.1.b:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Sm 3,3b-10.19
+      text: |
+        Leitura do Primeiro Livro de Samuel 
+        
+        Naqueles dias,
+        Samuel estava dormindo no templo do Senhor, onde se encontrava a arca de Deus.
+        Então o Senhor chamou: "Samuel, Samuel!"
+        Ele respondeu: "Estou aqui".
+        E correu para junto de Eli e disse: "Tu me chamaste, aqui estou".
+        Eli respondeu: "Eu não te chamei. Volta a dormir!"
+        E ele foi deitar-se.
+        O Senhor chamou de novo: "Samuel, Samuel!"
+        E Samuel levantou-se, foi ter com Eli e disse: "Tu me chamaste, aqui estou".
+        Ele respondeu: "Não te chamei, meu filho. Volta a dormir!"
+        Samuel ainda não conhecia o Senhor, pois, até então, a palavra do Senhor não se lhe tinha manifestado.
+        O Senhor chamou pela terceira vez: "Samuel, Samuel!"
+        Ele levantou-se, foi para junto de Eli e disse: "Tu me chamaste, aqui estou".
+        Eli compreendeu que era o Senhor que estava chamando o menino.
+        Então disse a Samuel: "Volta a deitar-te e, se alguém te chamar, responderás: 'Senhor, fala, que teu servo escuta!'"
+        E Samuel voltou ao seu lugar para dormir.
+        O Senhor veio, pôs-se junto dele e chamou-o como das outras vezes: "Samuel! Samuel!"
+        E ele respondeu: "Fala, que teu servo escuta".
+        Samuel crescia, e o Senhor estava com ele.
+        E não deixava cair por terra nenhuma de suas palavras.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 39(40),2.4ab.7-8a.8b-9.10 (R. 8a.9a)
+      text: |
+        R. Eu disse: "Eis que venho, Senhor!"
+        Com prazer faço a vossa vontade.
+
+        Esperando, esperei no Senhor,
+        e inclinando-se, ouviu meu clamor.
+        Canto novo ele pôs em meus lábios,
+        um poema em louvor ao Senhor. R.
+        
+        Sacrifício e oblação não quisestes,
+        mas abristes, Senhor, meus ouvidos;
+        não pedistes ofertas nem vítimas,
+        holocaustos por nossos pecados. R.
+        
+        E então eu vos disse: "Eis que venho!"
+        Sobre mim está escrito no livro:
+        "Com prazer faço a vossa vontade,
+        guardo em meu coração vossa lei!" R.
+        
+        Boas-novas de vossa justiça
+        anunciei numa grande assembleia;
+        vós sabeis: não fechei os meus lábios! R.
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Cor 6,13c-15a.17-20
+      text: |
+        Leitura da Primeira Carta de São Paulo aos Coríntios
+
+        Irmãos:
+        O corpo não é para a imoralidade, mas para o Senhor, e o Senhor é para o corpo;
+        e Deus, que ressuscitou o Senhor, nos ressuscitará também a nós, pelo seu poder.
+        Porventura ignorais que vossos corpos são membros de Cristo?
+        Quem adere ao Senhor torna-se com ele um só espírito.
+        Fugi da imoralidade.
+        Em geral, qualquer pecado que uma pessoa venha a cometer fica fora do seu corpo.
+        Mas o fornicador peca contra o seu próprio corpo.
+        Ou ignorais que o vosso corpo é santuário do Espírito Santo, que mora em vós e que vos é dado por Deus?
+        E, portanto, ignorais também que vós não pertenceis a vós mesmos?
+        De fato, fostes comprados, e por preço muito alto.
+        Então, glorificai a Deus com o vosso corpo.
+
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 1,35-42
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João
+
+        Naquele tempo,
+        João estava de novo com dois de seus discípulos e, vendo Jesus passar, disse: "Eis o Cordeiro de Deus!"
+        Ouvindo essas palavras, os dois discípulos seguiram Jesus.
+        Voltando-se para eles e vendo que o estavam seguindo, Jesus perguntou: "O que estais procurando?"
+        Eles disseram: "Rabi (que quer dizer: Mestre), onde moras?"
+        Jesus respondeu: "Vinde ver".
+        Foram pois ver onde ele morava e, nesse dia, permaneceram com ele.
+        Era por volta das quatro da tarde.
+        André, irmão de Simão Pedro, era um dos dois que ouviram as palavras de João e seguiram Jesus.
+        Ele foi encontrar primeiro seu irmão Simão e lhe disse: "Encontramos o Messias" (que quer dizer: Cristo).
+        Então André conduziu Simão a Jesus.
+        Jesus olhou bem para ele e disse: "Tu és Simão, filho de João;
+        tu serás chamado Cefas" (que quer dizer: Pedra).
+
+        Palavra da Salvação.
 ordinary.week2.1.c:
   title: Domingo da 2ª Semana
   subtitle: Tempo Comum
