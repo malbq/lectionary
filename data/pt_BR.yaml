@@ -7357,71 +7357,66 @@ ordinary.week2.2.even:
   color: green
   readings:
     - type: reading
-      ref: 1Sm 8,4-7.10-22a
+      ref: 1Sm 15,16-23
       text: |
         Leitura do Primeiro Livro de Samuel 
         
         Naqueles dias,
-        todos os anciãos de Israel se reuniram, foram procurar Samuel em Ramá, e disseram-lhe:
-        "Olha, tu estás velho, e teus filhos não seguem os teus caminhos.
-        Por isso, estabelece sobre nós um rei, para que exerça a justiça entre nós, como se faz em todos os povos".
-        Samuel não gostou, quando lhe disseram: "Dá-nos um rei, para que nos julgue".
-        E invocou o Senhor.
-        O Senhor disse a Samuel: "Atende a tudo o que o povo te diz.
-        Porque não é a ti que eles rejeitam, mas a mim, para que eu não reine mais sobre eles".
-        Samuel transmitiu todas as palavras do Senhor ao povo, que lhe pedira um rei, e disse:
-        "Estes serão os direitos do rei que reinará sobre vós:
-        Tomará vossos filhos e os encarregará dos seus carros de guerra e dos seus cavalos e os fará correr à frente do seu carro.
-        Fará deles chefes de mil, e de cinquenta homens, e os empregará em suas lavouras e em suas colheitas, na fabricação de suas armas e de seus carros.
-        Fará de vossas filhas suas perfumistas, cozinheiras e padeiras.
-        Tirará os vossos melhores campos, vinhas e olivais e os dará aos seus funcionários.
-        Das vossas colheitas e das vossas vinhas ele cobrará o dízimo, e o destinará aos seus eunucos e aos seus criados.
-        Tomará também vossos servos e servas, vossos melhores bois e jumentos, e os fará trabalhar para ele.
-        Exigirá o dízimo de vossos rebanhos, e vós sereis seus escravos.
-        Naquele dia, clamareis ao Senhor por causa do rei que vós mesmos escolhestes, mas o Senhor não vos ouvirá".
-        Porém, o povo não quis dar ouvidos às razões de Samuel, e disse:
-        "Não importa! Queremos um rei, pois queremos ser como todas as outras nações.
-        O nosso rei administrará a justiça, marchará à nossa frente e combaterá por nós em todas as guerras".
-        Samuel ouviu todas as palavras do povo e repetiu-as aos ouvidos do Senhor.
-        Mas o Senhor disse-lhe: "Faze-lhes a vontade, e dá-lhes um rei".
+        Samuel disse a Saul: "Basta!
+        Deixa-me dizer-te o que o Senhor me revelou esta noite".
+        Saul disse: "Fala!"
+        Então Samuel começou: "Por menor que sejas aos teus próprios olhos, acaso não és o chefe das tribos de Israel?
+        O Senhor ungiu-te rei sobre Israel e te enviou em expedição, com a ordem de eliminar os amalecitas, esses malfeitores, combatendo-os até que fossem exterminados.
+        Por que não ouviste a voz do Senhor, e te precipitaste sobre os despojos e fizeste o que desagrada ao Senhor?"
+        Saul respondeu a Samuel: "Mas eu obedeci ao Senhor!
+        Realizei a expedição a que ele me enviou.
+        Trouxe Agag, rei de Amalec, para cá, e exterminei os amalecitas.
+        Quanto aos despojos, o povo reteve, das ovelhas e dos bois, o melhor do que devia ser eliminado, para sacrificar ao Senhor teu Deus em Guilgal".
+        Mas Samuel replicou: "O Senhor quer holocaustos e sacrifícios, ou quer a obediência à sua palavra?
+        A obediência vale mais que o sacrifício, a docilidade mais que oferecer gordura de carneiros.
+        A rebelião é um verdadeiro pecado de magia, um crime de idolatria, uma obstinação.
+        Assim, porque rejeitaste a palavra do Senhor, ele te rejeitou: tu não és mais rei".
         
         Palavra do Senhor.
     - type: psalm
-      ref: Sl 88(89),16-17.18-19 (R. cf. 2a)
+      ref: Sl 49(50),8-9.16bc-17.21.23 (R. 23b)
       text: |
-        R. Ó Senhor eu cantarei eternamente o vosso amor.
+        R. A todo homem que procede retamente,
+        eu mostrarei a salvação que vem de Deus.
+
+        Eu não venho censurar teus sacrifícios,
+        pois sempre estão perante mim teus holocaustos;
+        não preciso dos novilhos de tua casa
+        nem dos carneiros que estão nos teus rebanhos. R.
         
-        Quão feliz é aquele povo que conhece a alegria;
-        seguirá pelo caminho, sempre à luz de vossa face!
-        Exultará de alegria em vosso nome dia a dia,
-        e com grande entusiasmo exaltará vossa justiça. R.
+        Como ousas repetir os meus preceitos
+        e trazer minha Aliança em tua boca?
+        Tu que odiaste minhas leis e meus conselhos
+        e deste as costas às palavras dos meus lábios! R.
         
-        Pois sois vós, ó Senhor Deus, a sua força e sua glória,
-        é por vossa proteção que exaltais nossa cabeça.
-        Do Senhor é o nosso escudo, ele é nossa proteção,
-        ele reina sobre nós, é o Santo de Israel! R.
+        Diante disso que fizeste, eu calarei?
+        Acaso pensas que eu sou igual a ti?
+        É disso que te acuso e repreendo
+        e manifesto essas coisas aos teus olhos. R.
+        
+        Quem me oferece um sacrício de louvor,
+        este sim é que me honra de verdade.
+        A todo homem que procede retamente,
+        eu mostrarei a salvação que vem de Deus. R.
     - type: gospel
-      ref: Mc 2,1-12
+      ref: Mc 2,18-22
       text: |
-        Proclamação do Evangelho de Jesus Cristo segundo Marcos 
-        
-        Alguns dias depois,
-        Jesus entrou de novo em Cafarnaum.
-        Logo se espalhou a notícia de que ele estava em casa.
-        E reuniram-se ali tantas pessoas, que já não havia lugar, nem mesmo diante da porta.
-        E Jesus anunciava-lhes a Palavra.
-        Trouxeram-lhe, então, um paralítico, carregado por quatro homens.
-        Mas não conseguindo chegar até Jesus, por causa da multidão, abriram então o teto, bem em cima do lugar onde ele se encontrava.
-        Por essa abertura desceram a cama em que o paralítico estava deitado.
-        Quando viu a fé daqueles homens, Jesus disse ao paralítico: "Filho, os teus pecados estão perdoados".
-        Ora, alguns mestres da Lei, que estavam ali sentados, refletiam em seus corações:
-        "Como este homem pode falar assim? Ele está blasfemando: ninguém pode perdoar pecados, a não ser Deus".
-        Jesus percebeu logo o que eles estavam pensando no seu íntimo, e disse:
-        "Por que pensais assim em vossos corações?
-        O que é mais fácil: dizer ao paralítico:'Os teus pecados estão perdoados', ou dizer: 'Levanta-te, pega a tua cama e anda'?
-        Pois bem, para que saibais que o Filho do Homem tem, na terra, poder de perdoar pecados, — disse ele ao paralítico: — eu te ordeno: levanta-te, pega tua cama, e vai para tua casa!"
-        O paralítico então se levantou e, carregando a sua cama, saiu diante de todos.
-        E ficaram todos admirados e louvavam a Deus, dizendo: "Nunca vimos uma coisa assim".
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos
+
+        Naquele tempo,
+        os discípulos de João Batista e os fariseus estavam jejuando.
+        Então, vieram dizer a Jesus: "Por que os discípulos de João e os discípulos dos fariseus jejuam, e os teus discípulos não jejuam?"
+        Jesus respondeu: "Os convidados de um casamento poderiam, por acaso, fazer jejum, enquanto o noivo está com eles?
+        Enquanto o noivo está com eles, os convidados não podem jejuar.
+        Mas vai chegar o tempo em que o noivo será tirado do meio deles; aí, então, eles vão jejuar.
+        Ninguém põe um remendo de pano novo numa roupa velha; porque o remendo novo repuxa o pano velho e o rasgão fica maior ainda.
+        Ninguém põe vinho novo em odres velhos; porque o vinho novo arrebenta os odres velhos e o vinho e os odres se perdem.
+        Por isso, vinho novo em odres novos".
 
         Palavra da Salvação.
 ordinary.week2.2.odd:
