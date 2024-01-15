@@ -7762,14 +7762,67 @@ ordinary.week2.5.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Sm 18,6-9.19,1-7
+      text: |
+        Leitura do Primeiro Livro de Samuel
+
+        Naqueles dias,
+        quando Davi voltou, depois de ter matado o filisteu, as mulheres de todas as cidades de Israel saíram ao encontro do rei Saul, dançando e cantando alegremente ao som de tamborins e címbalos.
+        E, enquanto dançavam, diziam em coro: "Saul matou mil, mas Davi matou dez mil".
+        Saul ficou muito encolerizado com isto e não gostou nada da canção, dizendo: "A Davi deram dez mil, e a mim somente mil.    
+        Que lhe falta ainda, senão a realeza?"
+        E, a partir daquele dia, não olhou mais para Davi com bons olhos.
+        Saul falou a Jônatas, seu filho, e a todos os seus servos sobre sua intenção de matar Davi.
+        Mas Jônatas, filho de Saul, amava profundamente Davi, e preveniu-o a respeito disso, dizendo: "Saul, meu pai, procura matar-te; portanto, toma cuidado amanhã de manhã, e fica oculto em um esconderijo.
+        Eu mesmo sairei em companhia de meu pai, no campo, onde estiveres, e lhe falarei de ti, para ver o que ele diz, e depois te avisarei de tudo o que eu souber".
+        Então Jônatas falou bem de Davi a Saul, seu pai, e acrescentou: "Não faças mal algum ao teu servo Davi, porque ele nunca te ofendeu.
+        Ao contrário, o que ele tem feito foi muito proveitoso para ti.
+        Arriscou a sua vida, matando o filisteu, e o Senhor deu uma grande vitória a todo o Israel.
+        Tu mesmo foste testemunha e te alegraste.
+        Por que, então, pecarias, derramando sangue inocente e mandando matar Davi sem motivo?"
+        Saul, ouvindo isto, e aplacado com as razões de Jônatas, jurou: "Pela vida do Senhor, ele não será morto!"
+        Então Jônatas chamou Davi e contou-lhe tudo isto.
+        Levou-o em seguida a Saul, para que ele retomasse o seu lugar, como antes.
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 55(56),2-3.9-10.11-13 (R. 5bc)
+      text: |
+        R. É no Senhor que eu confio e nada temo.
+
+        Tende pena e compaixão de mim, ó Deus,
+        pois há tantos que me calcam sob os pés,
+        e agressores me oprimem todo dia!
+        Meus inimigos de contínuo me espezinham,
+        são numerosos os que lutam contra mim! R.
+
+        Do meu exílio registrastes cada passo,
+        em vosso odre recolhestes cada lágrima,
+        e anotastes tudo isso em vosso livro.
+        Meus inimigos haverão de recuar
+        em qualquer dia em que eu vos invocar;
+        tenho certeza: o Senhor está comigo! R.
+
+        Confio em Deus e louvarei sua promessa.
+        É no Senhor que eu confio e nada temo:
+        que poderia contra mim um ser mortal?
+        Devo cumprir, ó Deus, os votos que vos fiz,
+        e vos oferto um sacrifício de louvor, R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 3,7-12
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos
+
+        Naquele tempo,
+        Jesus se retirou para a beira do mar, junto com seus discípulos.
+        Muita gente da Galileia o seguia.
+        E também muita gente da Judeia, de Jerusalém, da Idumeia, do outro lado do Jordão, dos territórios de Tiro e Sidônia, foi até Jesus, porque tinham ouvido falar de tudo o que ele fazia.
+        Então Jesus pediu aos discípulos que lhe providenciassem uma barca, por causa da multidão, para que não o comprimisse.      
+        Com efeito, Jesus tinha curado muitas pessoas, e todos os que sofriam de algum mal jogavam-se sobre ele para tocá-lo.       
+        Vendo Jesus, os espíritos maus caíam a seus pés, gritando: "Tu és o Filho de Deus!"
+        Mas Jesus ordenava severamente para não dizerem quem ele era.
+
+        Palavra da Salvação.
 ordinary.week2.5.odd:
   title: Quinta-feira da 2ª Semana
   subtitle: Tempo Comum
