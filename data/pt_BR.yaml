@@ -8038,14 +8038,64 @@ ordinary.week2.7.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 2Sm 1,1-4.11-12.19.23-27
+      text: |
+        Início do Segundo Livro de Samuel 
+        
+        Naqueles dias,
+        Davi regressou da derrota que infligiu aos amalecitas, e esteve dois dias em Siceleg.
+        No terceiro dia, apareceu um homem, que vinha do acampamento de Saul, com as vestes rasgadas e a cabeça coberta de pó.
+        Ao chegar perto de Davi, prostrou-se por terra e fez-lhe uma profunda reverência.
+        Davi perguntou-lhe: "Donde vens?"
+        Ele respondeu: "Salvei-me do acampamento de Israel".
+        "Que aconteceu?", perguntou-lhe Davi.
+        "Conta-me tudo!"
+        Ele respondeu: "As tropas fugiram da batalha, e muitos do povo caíram mortos.
+        Até Saul e o seu filho Jônatas pereceram!"
+        Então Davi tomou suas próprias vestes e rasgou-as, e todos os que estavam com ele fizeram o mesmo.
+        Lamentaram-se, choraram e jejuaram até à tarde, por Saul e por seu filho Jônatas, e por causa do povo do Senhor e da casa de Israel, porque haviam tombado pela espada.
+        E Davi disse: "Tua glória, ó Israel, jaz ferida de morte sobre os teus montes.
+        Como tombaram os fortes!
+        Saul e Jônatas, amados e belos, nem vida nem morte os puderam separar, mais velozes que as águias, mais fortes que os leões.
+        Filhas de Israel, chorai sobre Saul.
+        Ele vos vestia de púrpura suntuosa e ornava de ouro os vossos vestidos.
+        Como tombaram os fortes em plena batalha!
+        Jônatas foi morto sobre as tuas alturas.
+        Choro por ti, meu irmão Jônatas.
+        Tu me eras tão querido; tua amizade me era mais cara que o amor das mulheres.
+        Como tombaram os fortes, como pereceram as armas de guerra!"
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 79(80),2-3.5-7 (R. 4b)
+      text: |
+        R. Resplandecei a vossa face, e nós seremos salvos!.
+        
+        Ó Pastor de Israel, prestai ouvidos.
+        Vós, que a José apascentais qual um rebanho!
+        Vós, que sobre os querubins vos assentais,
+        aparecei cheio de glória e esplendor
+        ante Efraim e Benjamim e Manassés!
+        Despertai vosso poder, ó nosso Deus,
+        e vinde logo nos trazer a salvação! R.
+        
+        Até quando, ó Senhor, vos irritais,
+        apesar da oração do vosso povo?
+        Vós nos destes a comer o pão das lágrimas,
+        e a beber destes um pranto copioso.
+        Para os vizinhos somos causa de contenda,
+        de zombaria para os nossos inimigos. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 3,20-21
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos
+
+        Naquele tempo,
+        Jesus voltou para casa com os discípulos.
+        E de novo se reuniu tanta gente que eles nem sequer podiam comer.
+        Quando souberam disso, os parentes de Jesus saíram para agarrá-lo, porque diziam que estava fora de si.
+
+        Palavra da Salvação.
 ordinary.week2.7.odd:
   title: Sábado da 2ª Semana
   subtitle: Tempo Comum
