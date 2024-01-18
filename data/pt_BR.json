@@ -15983,6 +15983,34 @@
       }
     ]
   },
+  "0125": {
+    "title": "Conversão de São Paulo, Apóstolo",
+    "subtitle": "Festa",
+    "color": "white",
+    "readings": [
+      {
+        "type": "reading",
+        "main": {
+          "ref": "At 22,3-16",
+          "text": "Leitura dos Atos dos Apóstolos \n\nNaqueles dias, Paulo disse ao povo:\n\"Eu sou judeu, nascido em Tarso da Cilícia, mas fui criado aqui nesta cidade.\nComo discípulo de Gamaliel, fui instruído em todo o rigor da Lei de nossos antepassados, tornando-me zeloso da causa de Deus, como acontece hoje convosco.\nPersegui até à morte os que seguiam este Caminho, prendendo homens e mulheres e jogando-os na prisão.\nDisso são minhas testemunhas o Sumo Sacerdote e todo o conselho dos anciãos.\nEles deram-me cartas de recomendação para os irmãos de Damasco.\nFui para lá, a fim de prender todos os que encontrasse e trazê-los para Jerusalém, a fim de serem castigados.\nOra, aconteceu que, na viagem, estando já perto de Damasco, pelo meio dia, de repente uma grande luz que vinha do céu brilhou ao redor de mim.\nCaí por terra e ouvi uma voz que me dizia: 'Saulo, Saulo, por que me persegues?'\nEu perguntei: 'Quem és tu, Senhor?'\nEle me respondeu: 'Eu sou Jesus, o Nazareno, a quem tu estás perseguindo'.\nMeus companheiros viram a luz, mas não ouviram a voz que me falava.\nEntão perguntei: 'Que devo fazer, Senhor?'\nO Senhor me respondeu: 'Levanta-te e vai para Damasco.\nAli te explicarão tudo o que deves fazer'.\nComo eu não podia enxergar, por causa do brilho daquela luz, cheguei a Damasco guiado pela mão dos meus companheiros.\nUm certo Ananias, homem piedoso e fiel à Lei, com boa reputação junto de todos os judeus que aí moravam, veio encontrar-me e disse: 'Saulo, meu irmão, recupera a vista!'\nNo mesmo instante, recuperei a vista e pude vê-lo.\nEle, então, me disse: 'O Deus de nossos antepassados escolheu-te para conheceres a sua vontade, veres o Justo e ouvires a sua própria voz.\nPorque tu serás a sua testemunha diante de todos os homens, daquilo que viste e ouviste.\nE agora, o que estás esperando?\nLevanta-te, recebe o batismo e purifica-te dos teus pecados, invocando o nome dele!' \"\n\nPalavra do Senhor.\n"
+        },
+        "optional": {
+          "ref": "At 9,1-22",
+          "text": "Leitura dos Atos dos Apóstolos \n\nNaqueles dias,\nSaulo só respirava ameaças e morte contra os discípulos do Senhor.\nEle apresentou-se ao Sumo sacerdote e pediu-lhe cartas de recomendação para as sinagogas de Damasco, a fim de levar presos para Jerusalém os homens e mulheres que encontrasse seguindo o Caminho.\nDurante a viagem, quando já estava perto de Damasco, Saulo, de repente, viu-se cercado por uma luz que vinha do céu.\nCaindo por terra, ele ouviu uma voz que lhe dizia: \"Saulo, Saulo, por que me persegues?\"\nSaulo perguntou: \"Quem és tu, Senhor?\"\nA voz respondeu: Eu sou Jesus, a quem tu estás perseguindo.\nAgora, levanta-te, entra na cidade, e ali te será dito o que deves fazer\".\nOs homens que acompanhavam Saulo ficaram mudos de espanto, porque ouviam a voz, mas não viam ninguém.\nSaulo levantou-se do chão e abriu os olhos, mas não conseguia ver nada.\nEntão pegaram nele pela mão e levaram-no para Damasco.\nSaulo ficou três dias sem poder ver.\nE não comeu nem bebeu.\nEm Damasco, havia um discípulo chamado Ananias.\nO Senhor o chamou numa visão: \"Ananias!\"\nE Ananias respondeu: \"Aqui estou, Senhor!\"\nO Senhor lhe disse: \"Levanta-te, vai à rua que se chama Direita e procura, na casa de Judas, por um homem de Tarso chamado Saulo.\nEle está rezando\".\nE, numa visão, Saulo contemplou um homem chamado Ananias, entrando e impondo-lhe as mãos para que recuperasse a vista.\nAnanias respondeu: \"Senhor, já ouvi muitos falarem desse homem e do mal que fez aos teus fiéis que estão em Jerusalém.\nE aqui em Damasco ele tem plenos poderes, recebidos dos sumos sacerdotes, para prender todos os que invocam o teu nome\".\nMas o Senhor disse a Ananias: \"Vai, porque esse homem é um instrumento que escolhi para anunciar o meu nome aos pagãos, aos reis e ao povo de Israel.\nEu vou mostrar-lhe quanto ele deve sofrer por minha causa\".\nEntão Ananias saiu, entrou na casa, e impôs as mãos sobre Saulo, dizendo: \"Saulo, meu irmão, o Senhor Jesus, que te apareceu quando vinhas no caminho, ele me mandou aqui para que tu recuperes a vista e fiques cheio do Espírito Santo\".\nImediatamente caíram dos olhos de Saulo como que escamas e ele recuperou a vista.\nEm seguida, Saulo levantou-se e foi batizado.\nTendo tomado alimento, sentiu-se reconfortado.\nSaulo passou alguns dias com os discípulos de Damasco, e logo começou a pregar nas sinagogas, afirmando que Jesus é o Filho de Deus.\nOs ouvintes ficavam perplexos e comentavam: \"Este não é o homem que, em Jerusalém, perseguia com violência os que invocavam o nome de Jesus?\nE não veio aqui, justamente, para prendê-los e levá-los aos sumos sacerdotes?\"\nMas Saulo se fortalecia cada vez mais e deixava confusos os judeus que moravam em Damasco, demonstrando que Jesus é o Messias.\n\nPalavra do Senhor.\n"
+        }
+      },
+      {
+        "type": "psalm",
+        "ref": "Sl 116(117),1-2 (R. Mc 16,15)",
+        "text": "R. Ide, por todo o mundo, a todos pregai o Evangelho.\nOu:\nR. Aleluia, aleluia, aleluia.\n\nCantai louvores ao Senhor, todas as gentes,\npovos todos, festejai-o! R.\n\nPois comprovado é seu amor para conosco,\npara sempre ele é fiel! R.\n"
+      },
+      {
+        "type": "gospel",
+        "ref": "Mc 16,15-18",
+        "text": "Proclamação do Evangelho de Jesus Cristo segundo Marcos \n\nNaquele tempo,\nJesus se manifestou aos onze discípulos, e disse-lhes: \"Ide pelo mundo inteiro e anunciai o Evangelho a toda criatura!\nQuem crer e for batizado será salvo.\nQuem não crer será condenado.\nOs sinais que acompanharão aqueles que crerem serão estes: expulsarão demônios em meu nome, falarão novas línguas; se pegarem em serpentes ou beberem algum veneno mortal não lhes fará mal algum; quando impuserem as mãos sobre os doentes, eles ficarão curados\".\n\nPalavra da Salvação.\n"
+      }
+    ]
+  },
   "0806.1": {
     "title": "Transfiguração do Senhor",
     "subtitle": "Festa",
