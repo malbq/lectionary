@@ -8392,14 +8392,58 @@ ordinary.week3.3.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 2Sm 6,12b-15.17-19
+      text: |
+        Leitura do Segundo Livro de Samuel 
+        
+        Naqueles dias,
+        Davi pôs-se a caminho e transportou festivamente a arca de Deus da casa de Obed-Edom para a cidade de Davi.
+        A cada seis passos que davam, os que transportavam a arca do Senhor, sacrificavam um boi e um carneiro.
+        Davi, cingido apenas com um efod de linho, dançava com todas as suas forças diante do Senhor.
+        Davi e toda a casa de Israel conduziram a arca do Senhor, soltando gritos de júbilo e tocando trombetas.
+        Introduziram a arca do Senhor e depuseram-na em seu lugar, no centro da tenda que Davi tinha armado para ela.
+        Em seguida, ele ofereceu holocaustos e sacrifícios pacíficos na presença do Senhor.
+        Assim que terminou de oferecer os holocaustos e os sacrifícios pacíficos, Davi abençoou o povo em nome do Senhor Todo-poderoso.
+        E distribuiu a toda a multidão de Israel, a cada um dos homens e das mulheres, um pão de forno, um bolo de tâmaras e uma torta de uvas.
+        Depois todo o povo foi para casa.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 23(24),7.8.9.10 (R. 8a)
+      text: |
+        R. Dizei-nos: "Quem é este Rei da glória?"
+        "É o Senhor, o valoroso, o grandioso!"
+
+        "Ó portas, levantai vossos frontões!
+        Elevai-vos bem mais alto, antigas portas,
+        a fim de que o Rei da glória possa entrar!" R.
+        
+        Dizei-nos: "Quem é este Rei da glória?"
+        "É o Senhor, o valoroso, o onipotente,
+        o Senhor, o poderoso nas batalhas!" R.
+        
+        "Ó portas, levantai vossos frontões!
+        Elevai-vos bem mais alto, antigas portas,
+        a fim de que o Rei da glória possa entrar!" R.
+        
+        Dizei-nos: "Quem é este Rei da glória?"
+        "O Rei da glória é o Senhor onipotente,
+        o Rei da glória é o Senhor Deus do universo!" R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 3,31-35
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos 
+        
+        Naquele tempo,
+        Chegaram a mãe de Jesus e seus irmãos.
+        Eles ficaram do lado de fora e mandaram chamá-lo.
+        Havia uma multidão sentada ao redor dele.
+        Então lhe disseram: "Tua mãe e teus irmãos estão lá fora à tua procura".
+        Ele respondeu: "Quem é minha mãe, e quem são meus irmãos?"
+        E olhando para os que estavam sentados ao seu redor, disse: "Aqui estão minha mãe e meus irmãos.
+        Quem faz a vontade de Deus, esse é meu irmão, minha irmã e minha mãe".
+
+        Palavra da Salvação.
 ordinary.week3.3.odd:
   title: Terça-feira da 3ª Semana
   subtitle: Tempo Comum
