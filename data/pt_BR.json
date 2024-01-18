@@ -16011,6 +16011,34 @@
       }
     ]
   },
+  "0126": {
+    "title": "Santos Timóteo e Tito, bispos",
+    "subtitle": "Memória",
+    "color": "white",
+    "readings": [
+      {
+        "type": "reading",
+        "main": {
+          "ref": "2Tm 1,1-8",
+          "text": "Início da Segunda Carta de São Paulo a Timóteo \n\nPaulo, Apóstolo de Jesus Cristo\npelo desígnio de Deus referente à promessa de vida que temos em Cristo Jesus, a Timóteo, meu querido filho:\nGraça, misericórdia e paz da parte de Deus Pai e de Cristo Jesus, nosso Senhor!\nDou graças a Deus, - a quem sirvo com a consciência pura, como aprendi dos meus antepassados -, quando me lembro de ti, dia e noite, nas minhas orações.\nLembrando-me das tuas lágrimas, sinto grande desejo de rever-te, e assim ficar cheio de alegria.\nRecordo-me da fé sincera que tens, aquela mesma fé que antes tiveram tua avó Loide e tua mãe Eunice.\nSem dúvida, assim é também a tua.\nPor este motivo, exorto-te a reavivar a chama do dom de Deus que recebeste pela imposição das minhas mãos.\nPois Deus não nos deu um espírito de timidez mas de fortaleza, de amor e sobriedade.\nNão te envergonhes do testemunho de Nosso Senhor nem de mim, seu prisioneiro, mas sofre comigo pelo Evangelho, fortificado pelo poder de Deus.\n\nPalavra do Senhor.\n"
+        },
+        "optional": {
+          "ref": "Tt 1,1-5",
+          "text": "Início da Carta de São Paulo a Tito \n\nPaulo, servo de Deus e apóstolo de Jesus Cristo,\npara levar os eleitos de Deus à fé e a conhecerem a verdade da piedade que se apoia na esperança da vida eterna.\nDeus, que não mente, havia prometido esta vida desde os tempos antigos, e, no tempo marcado, manifestou a sua palavra por meio do anúncio que me foi confiado por ordem de Deus nosso salvador.\nA Tito, meu legítimo filho na fé comum, graça e paz da parte de Deus Pai e de Jesus Cristo nosso Salvador.\nEu deixei-te em Creta, para organizares o que ainda falta e constituíres presbíteros em cada cidade, conforme o que te ordenei.\n\nPalavra do Senhor.\n"
+        }
+      },
+      {
+        "type": "psalm",
+        "ref": "Sl 95(96),1-2a.2b-3.7-8a.10 (R. 3)",
+        "text": "R. Anunciai entre as nações os grandes feitos do Senhor!\n\nCantai ao Senhor Deus um canto novo,\ncantai ao Senhor Deus, ó terra inteira!\nCantai e bendizei seu santo nome! R.\n\nDia após dia anunciai sua salvação,\nmanifestai a sua glória entre as nações,\ne entre os povos do universo seus prodígios! R.\n\nÓ família das nações, dai ao Senhor,\nó nações, dai ao Senhor poder e glória,\ndai-lhe a glória que é devida ao seu nome! R.\n\nPublicai entre as nações: \"Reina o Senhor!\nEle firmou o universo inabalável,\ne os povos ele julga com justiça. R.\n"
+      },
+      {
+        "type": "gospel",
+        "ref": "Lc 10,1-9",
+        "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas \n\nNaquele tempo,\no Senhor escolheu outros setenta e dois discípulos e os enviou dois a dois, na sua frente, a toda cidade e lugar aonde ele próprio devia ir.\nE dizia-lhes: \"A messe é grande, mas os trabalhadores são poucos.\nPor isso, pedi ao dono da messe que mande trabalhadores para a colheita.\nEis que vos envio como cordeiros para o meio de lobos.\nNão leveis bolsa, nem sacola, nem sandálias, e não cumprimenteis ninguém pelo caminho! Em qualquer casa em que entrardes, dizei primeiro: 'A paz esteja nesta casa!'\nSe ali morar um amigo da paz, a vossa paz repousará sobre ele; se não, ela voltará para vós.\nPermanecei naquela mesma casa, comei e bebei do que tiverem, porque o trabalhador merece o seu salário.\nNão passeis de casa em casa.\nQuando entrardes numa cidade e fordes bem recebidos, comei do que vos servirem, curai os doentes que nela houver e dizei ao povo: 'O Reino de Deus está próximo de vós'\".\n\nPalavra da Salvação.\n"
+      }
+    ]
+  },
   "0806.1": {
     "title": "Transfiguração do Senhor",
     "subtitle": "Festa",
