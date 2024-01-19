@@ -8804,14 +8804,88 @@ ordinary.week4.2.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 2Sm 15,13-14.30.16,5-13a
+      text: |
+        Leitura do Segundo Livro de Samuel 
+        
+        Naqueles dias,
+        um mensageiro veio dizer a Davi: "As simpatias de todo o Israel estão com Absalão".
+        Davi disse aos servos que estavam com ele em Jerusalém: "Depressa, fujamos, porque, de outro modo, não podemos escapar de Absalão!
+        Apressai-vos em partir, para que não aconteça que ele, chegando, nos apanhe, traga sobre nós a ruína, e passe a cidade ao fio da espada".
+        Davi caminhava chorando, enquanto subia o monte das Oliveiras, com a cabeça coberta e os pés descalços.
+        E todo o povo que o acompanhava, subia também chorando, com a cabeça coberta.
+        Quando o rei chegou a Baurim, saiu de lá um homem da parentela de Saul, chamado Semei, filho de Gera, que ia proferindo maldições enquanto andava.
+        Atirava pedras contra Davi e contra todos os servos do rei, embora toda a tropa e todos os homens de elite seguissem agrupados à direita e à esquerda do rei Davi.
+        Semei amaldiçoava-o, dizendo: "Vai-te embora! Vai-te embora, homem sanguinário e criminoso!
+        O Senhor fez cair sobre ti todo o sangue da casa de Saul, cujo trono usurpaste, e entregou o trono a teu filho Absalão.
+        Tu estás entregue à tua própria maldade, porque és um homem sanguinário".
+        Então Abisai, filho de Sárvia, disse ao rei: "Por que há de este cão morto continuar amaldiçoando o senhor, meu rei?
+        Deixa-me passar para lhe cortar a cabeça".
+        Mas o rei respondeu: "Não te intrometas, filho de Sárvia!
+        Se ele amaldiçoa e se o Senhor o mandou maldizer a Davi, quem poderia dizer-lhe: 'Por que fazes isto?'"
+        E Davi disse a Abisai e a todos os seus servos: "Vede: Se meu filho, que saiu das minhas entranhas, atenta contra a minha vida, com mais razão esse filho de Benjamim.
+        Deixai-o amaldiçoar, conforme a permissão do Senhor.
+        Talvez o Senhor leve em conta a minha miséria, restituindo-me a ventura em lugar da maldição de hoje".
+        E Davi e seus homens seguiram adiante.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 3,2-3.4-5.6-7 (R. 7b)
+      text: |
+        R. Levantai-vos, ó Senhor, vinde salvar-me!
+        
+        Quão numerosos, ó Senhor, os que me atacam;
+        quanta gente se levanta contra mim!
+        Muitos dizem, comentando a meu respeito:
+        "Ele não acha a salvação junto de Deus!" R.
+        
+        Mas sois vós o meu escudo protetor,
+        a minha glória que levanta minha cabeça!
+        Quando eu chamei em alta voz pelo Senhor,
+        do Monte santo ele me ouviu e respondeu. R.
+        
+        Eu me deito e adormeço bem tranquilo;
+        acordo em paz, pois o Senhor é meu sustento.
+        Não terei medo de milhares que me cerquem
+        e furiosos se levantem contra mim.
+        Levantai-vos, ó Senhor, vinde salvar-me! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 5,1-20
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos
+
+        Naquele tempo,
+        Jesus e seus discípulos chegaram à outra margem do mar, na região dos gerasenos.
+        Logo que saiu da barca, um homem possuído por um espírito impuro, saindo de um cemitério, foi ao seu encontro.
+        Esse homem morava no meio dos túmulos e ninguém conseguia amarrá-lo, nem mesmo com correntes.
+        Muitas vezes tinha sido amarrado com algemas e correntes, mas ele arrebentava as correntes e quebrava as algemas.
+        E ninguém era capaz de dominá-lo.
+        Dia e noite ele vagava entre os túmulos e pelos montes, gritando e ferindo-se com pedras.
+        Vendo Jesus de longe, o endemoninhado correu, caiu de joelhos diante dele e gritou bem alto:
+        "Que tens a ver comigo, Jesus, Filho do Deus altíssimo?
+        Eu te conjuro por Deus, não me atormentes!"
+        Com efeito, Jesus lhe dizia: "Espírito impuro, sai desse homem!"
+        Então Jesus perguntou: "Qual é o teu nome?"
+        O homem respondeu: "Meu nome é 'Legião', porque somos muitos".
+        E pedia com insistência para que Jesus não o expulsasse da região.
+        Havia aí perto uma grande manada de porcos, pastando na montanha.
+        O espírito impuro suplicou, então: "Manda-nos para os porcos, para que entremos neles".
+        Jesus permitiu.
+        Os espíritos impuros saíram do homem e entraram nos porcos.
+        E toda a manada — mais ou menos uns dois mil porcos — atirou-se monte abaixo para dentro do mar, onde se afogou.
+        Os homens que guardavam os porcos saíram correndo e espalharam a notícia na cidade e nos campos.
+        E as pessoas foram ver o que havia acontecido.
+        Elas foram até Jesus e viram o endemoninhado sentado, vestido e no seu perfeito juízo, aquele mesmo que antes estava possuído pela Legião.
+        E ficaram com medo.
+        Os que tinham presenciado o fato explicaram-lhes o que havia acontecido com o endemoninhado e com os porcos.
+        Então começaram a pedir que Jesus fosse embora da região deles.
+        Enquanto Jesus entrava de novo na barca, o homem que tinha sido endemoninhado pediu-lhe que o deixasse ficar com ele.       
+        Jesus, porém, não permitiu.
+        Entretanto, lhe disse: "Vai para casa, para junto dos teus e anuncia-lhes tudo o que o Senhor, em sua misericórdia, fez por ti".
+        Então o homem foi embora e começou a pregar na Decápole tudo o que Jesus tinha feito por ele.
+        E todos ficavam admirados.
+
+        Palavra da Salvação.
 ordinary.week4.2.odd:
   title: Segunda-feira da 4ª Semana
   subtitle: Tempo Comum
