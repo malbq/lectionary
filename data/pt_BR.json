@@ -16176,5 +16176,39 @@
         }
       }
     ]
+  },
+  "0202": {
+    "title": "Apresentação do Senhor",
+    "subtitle": "Festa",
+    "color": "white",
+    "readings": [
+      {
+        "type": "reading",
+        "main": {
+          "ref": "Ml 3,1-4",
+          "text": "Leitura da Profecia de Malaquias \n\nAssim diz o Senhor:\nEis que envio meu anjo, e ele há de preparar o caminho para mim; logo chegará ao seu templo o Dominador, que tentais encontrar, e o anjo da aliança, que desejais.\nEi-lo que vem, diz o Senhor dos exércitos; e quem poderá fazer-lhe frente, no dia de sua chegada?\nE quem poderá resistir-lhe, quando ele aparecer?\nEle é como o fogo da forja e como a barrela dos lavadeiros; e estará a postos, como para fazer derreter e purificar a prata: assim ele purificará os filhos de Levi e os refinará como ouro e como prata, e eles poderão assim fazer oferendas justas ao Senhor.\nSerá então aceitável ao Senhor a oblação de Judá e de Jerusalém, como nos primeiros tempos e nos anos antigos.\n\nPalavra do Senhor.\n"
+        },
+        "optional": {
+          "ref": "Hb 2,14-18",
+          "text": "Leitura da Carta aos Hebreus \n\nVisto que os filhos têm em comum a carne e o sangue,\ntambém Jesus participou da mesma condição, para assim destruir, com a sua morte, aquele que tinha o poder da morte, isto é, o diabo, e libertar os que, por medo da morte, estavam a vida toda sujeitos à escravidão.\nPois, afinal, não veio ocupar-se com os anjos, mas com a descendência de Abraão.\nPor isso devia fazer-se em tudo semelhante aos irmãos, para se tornar um sumo sacerdote misericordioso e digno de confiança nas coisas referentes a Deus, a fim de expiar os pecados do povo.\nPois, tendo ele próprio sofrido ao ser tentado, é capaz de socorrer os que agora sofrem a tentação.\n\nPalavra do Senhor.\n"
+        }
+      },
+      {
+        "type": "psalm",
+        "ref": "Sl 23(24),7.8.9.10 (R. 10b)",
+        "text": "R. O Rei da glória é o Senhor onipotente!\n\n\"Ó portas, levantai vossos frontões!\nElevai-vos bem mais alto, antigas portas,\na fim de que o Rei da glória possa entrar!\" R.\n\nDizei-nos: \"Quem é este Rei da glória?\"\n\"É o Senhor, o valoroso, o onipotente,\no Senhor, o poderoso nas batalhas!\" R.\n\n\"Ó portas, levantai vossos frontões!\nElevai-vos bem mais alto, antigas portas,\na fim de que o Rei da glória possa entrar!\" R.\n\nDizei-nos: \"Quem é este Rei da glória?\"\n\"O Rei da glória é o Senhor onipotente,\no Rei da glória é o Senhor Deus do universo\" R.\n"
+      },
+      {
+        "type": "gospel",
+        "long": {
+          "ref": "Lc 2,22-40",
+          "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas \n\nQuando se completaram os dias\npara a purificação da mãe e do filho, conforme a Lei de Moisés, Maria e José levaram Jesus a Jerusalém, a fim de apresentá-lo ao Senhor.\nConforme está escrito na Lei do Senhor: \"Todo primogênito do sexo masculino deve ser consagrado ao Senhor.\"\nForam também oferecer o sacrifício - um par de rolas ou dois pombinhos - como está ordenado na Lei do Senhor.\nEm Jerusalém, havia um homem chamado Simeão, o qual era justo e piedoso, e esperava a consolação do povo de Israel.\nO Espírito Santo estava com ele e lhe havia anunciado que não morreria antes de ver o Messias que vem do Senhor.\nMovido pelo Espírito, Simeão veio ao Templo.\nQuando os pais trouxeram o menino Jesus para cumprir o que a Lei ordenava, Simeão tomou o menino nos braços e bendisse a Deus:\n\"Agora, Senhor, conforme a tua promessa, podes deixar teu servo partir em paz; porque meus olhos viram a tua salvação, que preparaste diante de todos os povos: luz para iluminar as nações e glória do teu povo Israel\".\nO pai e a mãe de Jesus estavam admirados com o que diziam a respeito dele.\nSimeão os abençoou e disse a Maria, a mãe de Jesus:\n\"Este menino vai ser causa tanto de queda como de reerguimento para muitos em Israel.\nEle será um sinal de contradição.\nAssim serão revelados os pensamentos de muitos corações.\nQuanto a ti, uma espada te traspassará a alma\".\nHavia também uma profetisa, chamada Ana, filha de Fanuel, da tribo de Aser.\nEra de idade muito avançada; quando jovem, tinha sido casada e vivera sete anos com o marido.\nDepois ficara viúva, e agora já estava com oitenta e quatro anos.\nNão saía do Templo, dia e noite servindo a Deus com jejuns e orações.\nAna chegou nesse momento e pôs-se a louvar a Deus e a falar do menino a todos os que esperavam a libertação de Jerusalém.\nDepois de cumprirem tudo, conforme a Lei do Senhor, voltaram à Galileia, para Nazaré, sua cidade.\nO menino crescia e tornava-se forte, cheio de sabedoria; e a graça de Deus estava com ele.\n\nPalavra da Salvação.\n"
+        },
+        "short": {
+          "ref": "Lc 2,22-32",
+          "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas \n\nQuando se completaram os dias\npara a purificação da mãe e do filho, conforme a Lei de Moisés, Maria e José levaram Jesus a Jerusalém, a fim de apresentá-lo ao Senhor.\nConforme está escrito na Lei do Senhor: \"Todo primogênito do sexo masculino deve ser consagrado ao Senhor\".\nForam também oferecer o sacrifício - um par de rolas ou dois pombinhos - como está ordenado na Lei do Senhor.\nEm Jerusalém, havia um homem chamado Simeão, o qual era justo e piedoso, e esperava a consolação do povo de Israel.\nO Espírito Santo estava com ele e lhe havia anunciado que não morreria antes de ver o Messias que vem do Senhor.\nMovido pelo Espírito, Simeão veio ao Templo.\nQuando os pais trouxeram o menino Jesus para cumprir o que a Lei ordenava, Simeão tomou o menino nos braços e bendisse a Deus:\n\"Agora, Senhor, conforme a tua promessa, podes deixar teu servo partir em paz; porque meus olhos viram a tua salvação, que preparaste diante de todos os povos: luz para iluminar as nações e glória do teu povo Israel\".\n\nPalavra da Salvação.\n"
+        }
+      }
+    ]
   }
 }
