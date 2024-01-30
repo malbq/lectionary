@@ -9099,14 +9099,55 @@ ordinary.week4.5.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Rs 2,1-4.10-12
+      text: |
+        Leitura do Primeiro Livro dos Reis 
+        
+        Aproximando-se o fim da sua vida,
+        Davi deu estas instruções a seu filho Salomão: "Vou seguir o caminho de todos os mortais.
+        Sê corajoso e porta-te como um homem.
+        Observa os preceitos do Senhor, teu Deus, andando em seus caminhos, observando seus estatutos, seus mandamentos, seus preceitos e seus ensinamentos, como estão escritos na lei de Moisés.
+        E assim serás bem sucedido em tudo o que fizeres e em todos os teus projetos.
+        Então o Senhor cumprirá a promessa que me fez, dizendo: 'Se teus filhos conservarem uma boa conduta, caminhando com lealdade diante de mim, com todo o seu coração e com toda a sua alma, jamais te faltará um sucessor no trono de Israel'".
+        E Davi adormeceu com seus pais e foi sepultado na cidade de Davi.
+        O tempo que Davi reinou em Israel foi de quarenta anos: sete anos em Hebron e trinta e três em Jerusalém.
+        Salomão sucedeu no trono a seu pai Davi e seu reino ficou solidamente estabelecido.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: 1Cr 29,10.11ab.11d-12a.12bcd (R. 12b)
+      text: |
+        R. Dominais todos os povos, ó Senhor.
+        
+        Bendito sejais vós, ó Senhor Deus,
+        Senhor Deus de Israel, o nosso pai.
+        desde sempre e por toda a eternidade! R.
+        
+        A Vós pertencem a grandeza e o poder
+        toda a glória, esplendor e majestade, R.
+        
+        A vós, Senhor, também pertence a realeza,
+        pois sobre a terra, como rei, vos elevais!
+        Toda glória e riqueza vêm de vós! R.
+        
+        Sois o Senhor e dominais o universo,
+        em vossa mão se encontra a força e o poder,
+        em vossa mão tudo se afirma e tudo cresce! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 6,7-13
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos 
+        
+        Naquele tempo,
+        Jesus chamou os doze, e começou a enviá-los dois a dois, dando-lhes poder sobre os espíritos impuros.
+        Recomendou-lhes que não levassem nada para o caminho, a não ser um cajado; nem pão, nem sacola, nem dinheiro na cintura.
+        Mandou que andassem de sandálias e que não levassem duas túnicas.
+        E Jesus disse ainda: "Quando entrardes numa casa, ficai ali até vossa partida.
+        Se em algum lugar não vos receberem, nem quiserem vos escutar, quando sairdes, sacudi a poeira dos pés, como testemunho contra eles!"
+        Então os doze partiram e pregaram que todos se convertessem.
+        Expulsavam muitos demônios e curavam numerosos doentes, ungindo-os com óleo.
+
+        Palavra da Salvação.
 ordinary.week4.5.odd:
   title: Quinta-feira da 4ª Semana
   subtitle: Tempo Comum
