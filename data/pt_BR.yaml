@@ -9196,14 +9196,64 @@ ordinary.week4.7.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Rs 3,4-13
+      text: |
+        Leitura do Primeiro Livro dos Reis 
+        
+        Naqueles dias,
+        o rei Salomão foi a Gabaon para oferecer um sacrifício, porque esse era o lugar alto mais importante.
+        Salomão ofereceu mil holocaustos naquele altar.
+        Em Gabaon o Senhor apareceu a Salomão, em sonho, durante a noite, e lhe disse: "Pede o que desejas e eu to darei".
+        Salomão respondeu: "Tu mostraste grande benevolência para com teu servo Davi, meu pai, porque ele andou na tua presença com sinceridade, justiça e retidão de coração para contigo.
+        Tu lhe conservaste esta grande benevolência, e lhe deste um filho que hoje ocupa o seu trono.
+        Portanto, Senhor meu Deus, tu fizeste reinar o teu servo em lugar de Davi, meu pai.
+        Mas eu não passo de um adolescente, que não sabe ainda como governar.
+        Além disso, teu servo está no meio do teu povo eleito, povo tão numeroso que não se pode contar ou calcular.
+        Dá, pois, ao teu servo, um coração compreensivo, capaz de governar o teu povo e de discernir entre o bem e o mal.
+        Do contrário, quem poderá governar este teu povo tão numeroso?"
+        Esta oração de Salomão agradou ao Senhor.
+        E Deus disse a Salomão: "Já que pediste estes dons e não pediste para ti longos anos de vida, nem riquezas, nem a morte de teus inimigos, mas sim sabedoria para praticar a justiça, vou satisfazer o teu pedido; dou-te um coração sábio e inteligente, como nunca houve outro igual antes de ti, nem haverá depois de ti.
+        Mas dou-te também o que não pediste, tanta riqueza e tanta glória como jamais haverá entre os reis, durante toda a tua vida".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 118(119),9.10.11.12.13.14 (R. 12b)
+      text: |
+        R. Ó Senhor, ensinai-me os vossos mandamentos!
+        
+        Como um jovem poderá ter vida pura?
+        Observando, ó Senhor, vossa palavra. R.
+        
+        De todo o coração eu vos procuro,
+        não deixeis que eu abandone a vossa lei! R.
+        
+        Conservei no coração vossas palavras,
+        a fim de eu não peque contra vós. R.
+        
+        Ó Senhor, vós sois bendito para sempre;
+        os vossos mandamentos ensinai-me! R.
+        
+        Com meus lábios, ó Senhor, eu enumero
+        os decretos que ditou a vossa boca. R.
+        
+        Seguindo vossa lei me rejubilo
+        muito mais do que em todas as riquezas. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 6,30-34
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos
+
+        Naquele tempo,
+        os apóstolos reuniram-se com Jesus e contaram tudo o que haviam feito e ensinado.
+        Ele lhes disse: "Vinde sozinhos para um lugar deserto, e descansai um pouco".
+        Havia, de fato, tanta gente chegando e saindo que não tinham tempo nem para comer.
+        Então foram sozinhos, de barco, para um lugar deserto e afastado.
+        Muitos os viram partir e reconheceram que eram eles.
+        Saindo de todas as cidades, correram a pé, e chegaram lá antes deles.
+        Ao desembarcar, Jesus viu uma numerosa multidão e teve compaixão, porque eram como ovelhas sem pastor.
+        Começou, pois, a ensinar-lhes muitas coisas.
+
+        Palavra da Salvação.
 ordinary.week4.7.odd:
   title: Sábado da 4ª Semana
   subtitle: Tempo Comum
