@@ -9291,17 +9291,82 @@ ordinary.week5.1.b:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Jó 7,1-4.6-7
+      text: |
+        Leitura do Livro de Jó
+        
+        Jó disse:
+        "Não é acaso uma luta a vida do homem sobre a terra?
+        Seus dias não são como dias de um mercenário?
+        Como um escravo suspira pela sombra, como um assalariado aguarda sua paga, assim tive por ganho meses de decepção, e couberam-me noites de sofrimento.
+        Se me deito, penso: Quando poderei levantar-me?
+        E, ao amanhecer, espero novamente a tarde e me encho de sofrimentos até ao anoitecer.
+        Meus dias correm mais rápido do que a lançadeira do tear e se consomem sem esperança.
+        Lembra-te de que minha vida é apenas um sopro e meus olhos não voltarão a ver a felicidade!
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 146(147),1-2.3-4.5-6 (R. cf. 3a)
+      text: |
+        R. Louvai a Deus, porque ele é bom e conforta os corações.
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Louvai o Senhor Deus, porque ele é bom,
+        cantai ao nosso Deus, porque é suave:
+        ele é digno de louvor, ele o merece!
+        O Senhor reconstruiu Jerusalém,
+        e os dispersos de Israel juntou de novo. R.
+        
+        ele conforta os corações despedaçados,
+        ele enfaixa suas feridas e as cura;
+        fixa o número de todas as estrelas
+        e chama a cada uma por seu nome. R.
+        
+        É grande e onipotente o nosso Deus,
+        seu saber não tem medida nem limites.
+        O Senhor Deus é o amparo dos humildes,
+        mas dobra até o chão os que são ímpios. R.
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Cor 9,16-19.22-23
+      text: |
+        Leitura da Primeira Carta de São Paulo aos Coríntios 
+        
+        Irmãos:
+        Pregar o evangelho não é para mim motivo de glória.
+        É antes uma necessidade para mim, uma imposição.
+        Ai de mim se eu não pregar o evangelho!
+        Se eu exercesse minha função de pregador por iniciativa própria, eu teria direito a salário.
+        Mas, como a iniciativa não é minha, trata-se de um encargo que me foi confiado.
+        Em que consiste então o meu salário?
+        Em pregar o evangelho, oferecendo-o de graça, sem usar os direitos que o evangelho me dá.
+        Assim, livre em relação a todos, eu me tornei escravo de todos, a fim de ganhar o maior número possível.
+        Com os fracos, eu me fiz fraco, para ganhar os fracos.
+        Com todos, eu me fiz tudo, para certamente salvar alguns.
+        Por causa do evangelho eu faço tudo, para ter parte nele.
+        
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 1,29-39
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos
+
+        Naquele tempo,
+        Jesus saiu da sinagoga e foi, com Tiago e João, para a casa de Simão e André.
+        A sogra de Simão estava de cama, com febre, e eles logo contaram a Jesus.
+        E ele se aproximou, segurou sua mão e ajudou-a a levantar-se.
+        Então, a febre desapareceu; e ela começou a servi-los.
+        À tarde, depois do pôr do sol, levaram a Jesus todos os doentes e os possuídos pelo demônio.
+        A cidade inteira se reuniu em frente da casa.
+        Jesus curou muitas pessoas de diversas doenças e expulsou muitos demônios.
+        E não deixava que os demônios falassem, pois sabiam quem ele era.
+        De madrugada, quando ainda estava escuro, Jesus se levantou e foi rezar num lugar deserto.
+        Simão e seus companheiros foram à procura de Jesus.
+        Quando o encontraram, disseram: "Todos estão te procurando".
+        Jesus respondeu: "Vamos a outros lugares, às aldeias da redondeza!
+        Devo pregar também ali, pois foi para isso que eu vim".
+        E andava por toda a Galileia, pregando em suas sinagogas e expulsando os demônios.
+
+        Palavra da Salvação.
 ordinary.week5.1.c:
   title: Domingo da 5ª Semana
   subtitle: Tempo Comum
