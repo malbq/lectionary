@@ -9613,14 +9613,63 @@ ordinary.week5.5.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Rs 11,4-13
+      text: |
+        Leitura do Primeiro Livro dos Reis 
+        
+        Quando Salomão ficou velho,
+        suas mulheres desviaram o seu coração para outros deuses e seu coração já não pertencia inteiramente ao Senhor, seu Deus, como o do seu pai Davi.
+        Salomão prestou culto a Astarte, deusa dos sidônios, e a Melcom, ídolo dos amonitas.
+        Ele fez o que desagrada ao Senhor e não lhe foi inteiramente fiel, como seu pai Davi.
+        Foi então que Salomão construiu um santuário para Camos, ídolo de Moab, no monte que está defronte de Jerusalém, e para Melcom, ídolo dos amonitas.
+        Fez o mesmo para todas as suas mulheres estrangeiras, as quais queimavam incenso e ofereciam sacrifícios aos seus deuses.
+        Então o Senhor irritou-se contra Salomão, porque o seu coração tinha-se desviado do Senhor, Deus de Israel, que lhe tinha aparecido duas vezes e lhe proibira expressamente seguir a outros deuses.
+        Mas ele não obedeceu à ordem do Senhor.
+        E o Senhor disse a Salomão: "Já que procedeste assim, e não guardaste a minha aliança, nem as leis que te prescrevi, vou tirar-te o reino e dá-lo a um teu servo.
+        Mas, por amor de teu pai Davi, não o farei durante a tua vida; é da mão de teu filho que o arrebatarei.
+        Não te tirarei o reino todo, mas deixarei ao teu filho uma tribo, por consideração para com meu servo Davi e para com Jerusalém, que escolhi".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 105(106),3-4.35-36.37 e 40 (R. 4)
+      text: |
+        R. Lembrai-vos, ó Senhor, de mim lembrai-vos,
+        segundo o amor que demonstrais ao vosso povo!
+        
+        Felizes os que guardam seus preceitos
+        e praticam a justiça em todo o tempo!
+        Lembrai-vos, ó Senhor, de mim, lembrai-vos,
+        pelo amor que demonstrais ao vosso povo! R.
+        
+        Misturaram-se, então, com os pagãos,
+        e aprenderam seus costumes depravados.
+        Aos ídolos pagãos prestaram culto,
+        que se tornaram armadilha para eles. R.
+        
+        Pois imolaram até mesmo os próprios filhos,
+        sacrificaram suas filhas aos demônios.
+        Acendeu-se a ira de Deus contra o seu povo,
+        e o Senhor abominou a sua herança. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 7,24-30
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos 
+        
+        Naquele tempo,
+        Jesus saiu e foi para a região de Tiro e Sidônia.
+        Entrou numa casa e não queria que ninguém soubesse onde ele estava.
+        Mas não conseguiu ficar escondido.
+        Uma mulher, que tinha uma filha com um espírito impuro, ouviu falar de Jesus.
+        Foi até ele e caiu a seus pés.
+        A mulher era pagã, nascida na Fenícia da Síria.
+        Ela suplicou a Jesus que expulsasse de sua filha o demônio.
+        Jesus disse: "Deixa primeiro que os filhos fiquem saciados, porque não está certo tirar o pão dos filhos e jogá-lo aos cachorrinhos".
+        A mulher respondeu: "É verdade, Senhor; mas também os cachorrinhos, debaixo da mesa, comem as migalhas que as crianças deixam cair".
+        Então Jesus disse: "Por causa do que acabas de dizer, podes voltar para casa.
+        O demônio já saiu de tua filha".
+        Ela voltou para casa e encontrou sua filha deitada na cama, pois o demônio já havia saído dela.
+        
+        Palavra da Salvação.
 ordinary.week5.5.odd:
   title: Quinta-feira da 5ª Semana
   subtitle: Tempo Comum
