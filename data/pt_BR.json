@@ -5988,23 +5988,29 @@
     "readings": [
       {
         "type": "reading",
-        "ref": "",
-        "text": ""
+        "main": {
+          "ref": "Lv 13,1-2.44-46",
+          "text": "Leitura do Livro do Levítico \n\nO Senhor falou a Moisés e Aarão, dizendo:\n\"Quando alguém tiver na pele do seu corpo alguma inflamação, erupção ou mancha branca, com aparência do mal da lepra, será levado ao sacerdote Aarão, ou a um dos seus filhos sacerdotes.\nSe o homem estiver leproso é impuro, e como tal o sacerdote o deve declarar.\nO homem atingido por este mal andará com as vestes rasgadas, os cabelos em desordem e a barba coberta, gritando: 'Impuro! Impuro!'\nDurante todo o tempo em que estiver leproso será impuro; e, sendo impuro, deve ficar isolado e morar fora do acampamento\".\nPalavra do Senhor.\n"
+        },
+        "optional": {
+          "ref": "Rs 5,9-14",
+          "text": "Leitura do Segundo Livro dos Reis\n\nNaqueles dias,\nNaamã chegou com seus cavalos e carros, e parou à porta da casa de Eliseu.\nEliseu mandou um mensageiro para lhe dizer: \"Vai, lava-te sete vezes no Jordão, e tua carne será curada e ficarás limpo\".\nNaamã, irritado, foi-se embora, dizendo: \"Eu pensava que ele sairia para me receber e que, de pé, invocaria o nome do Senhor, seu Deus, e que tocaria com sua mão o lugar da lepra e me curaria.\nSerá que os rios de Damasco, o Abana e o Farfar, não são melhores do que todas as águas de Israel, para eu me banhar nelas e ficar limpo?\"\nDeu meia-volta e partiu indignado.\nMas seus servos aproximaram-se dele e disseram-lhe: \"Senhor, se o profeta te mandasse fazer uma coisa difícil, não a terias feito?\nQuanto mais agora que ele te disse: 'Lava-te e ficarás limpo'\".\nEntão ele desceu e mergulhou sete vezes no Jordão, conforme o homem de Deus tinha mandado, e sua carne tornou-se semelhante à de uma criancinha, e ele ficou purificado.\n\nPalavra do Senhor.\n"
+        }
       },
       {
         "type": "psalm",
-        "ref": "",
-        "text": ""
+        "ref": "Sl 31(32),1-2.5.11 (R. 7)",
+        "text": "R. Sois, Senhor, para mim, alegria e refúgio.\n\nFeliz o homem que foi perdoado\ne cuja falta já foi encoberta!\nFeliz o homem a quem o Senhor\nnão olha mais como sendo culpado,\ne em cuja alma não há falsidade! R.\n\nEu confessei, afinal, meu pecado,\ne minha falta vos fiz conhecer.\nDisse: \"Eu irei confessar meu pecado!\"\nE perdoastes, Senhor, minha falta. R.\n\nRegozijai-vos, ó justos, em Deus,\ne no Senhor exultai de alegria!\nCorações retos, cantai jubilosos! R.\n"
       },
       {
         "type": "reading",
-        "ref": "",
-        "text": ""
+        "ref": "1Cor 10,31-11,1",
+        "text": "Leitura da Primeira Carta de São Paulo aos Coríntios \n\nIrmãos:\nQuer comais, quer bebais, quer façais qualquer outra coisa, fazei tudo para a glória de Deus.\nNão escandalizeis ninguém, nem judeus, nem gregos, nem a igreja de Deus.\nFazei como eu, que procuro agradar a todos, em tudo, não buscando o que é vantajoso para mim mesmo, mas o que é vantajoso para todos, a fim de que sejam salvos.\nSede meus imitadores, como também eu o sou de Cristo.\n\nPalavra do Senhor.\n"
       },
       {
         "type": "gospel",
-        "ref": "",
-        "text": ""
+        "ref": "Mc 1,40-45",
+        "text": "Proclamação do Evangelho de Jesus Cristo segundo Marcos \n\nNaquele tempo,\num leproso chegou perto de Jesus, e de joelhos pediu: \"Se queres tens o poder de curar-me\".\nJesus, cheio de compaixão, estendeu a mão, tocou nele, e disse: \"Eu quero: fica curado!\"\nNo mesmo instante a lepra desapareceu e ele ficou curado.\nEntão Jesus o mandou logo embora, falando com firmeza: \"Não contes nada disso a ninguém!\nVai, mostra-te ao sacerdote e oferece, pela tua purificação, o que Moisés ordenou, como prova para eles!\"\nEle foi e começou a contar e a divulgar muito o fato.\nPor isso Jesus não podia mais entrar publicamente numa cidade: ficava fora, em lugares desertos.\nE de toda parte vinham procurá-lo.\n\nPalavra da Salvação.\n"
       }
     ]
   },
