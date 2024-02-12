@@ -10028,14 +10028,60 @@ ordinary.week6.3.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Tg 1,12-18
+      text: |
+        Leitura da Carta de São Tiago 
+        
+        Feliz o homem que suporta a provação.
+        Porque, uma vez provado, receberá a coroa da vida, que o Senhor prometeu àqueles que o amam.
+        Ninguém, ao ser tentado, deve dizer: "É Deus que me está tentando", pois Deus não pode ser tentado pelo mal e tampouco ele tenta a ninguém.
+        Antes, cada qual é tentado por sua própria concupiscência, que o arrasta e seduz.
+        Em seguida, a concupiscência concebe o pecado e o dá à luz, e o pecado, uma vez consumado, gera a morte.
+        Meus queridos irmãos, não vos enganeis.
+        Todo o dom precioso e toda a dádiva perfeita vêm do alto; descem do Pai das luzes, no qual não há mudança, nem sombra de variação.
+        De livre vontade ele nos gerou, pela Palavra da verdade, a fim de sermos como que as primícias de suas criaturas.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 93(94),12-13a.14-15.18-19 (R. 12a)
+      text: |
+        R. Bem-aventurado é aquele a quem ensinais vossa lei!
+        
+        É feliz, ó Senhor, quem formais
+        e educais nos caminhos da Lei,
+        para dar-lhe um alívio na angústia. R.
+        
+        O Senhor não rejeita o seu povo
+        e não pode esquecer sua herança:
+        voltarão a juízo as sentenças;
+        quem é reto andará na justiça. R.
+        
+        Quando eu penso: "Estou quase caindo!"
+        Vosso amor me sustenta, Senhor!
+        Quando o meu coração se angustia,
+        consolais e alegrais minha alma. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 8,14-21
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos 
+
+        Naquele tempo,
+        Os discípulos tinham se esquecido de levar pães.
+        Tinham consigo na barca apenas um pão.
+        Então Jesus os advertiu: "Prestai atenção e tomai cuidado com o fermento dos fariseus e com o fermento de Herodes".
+        Os discípulos diziam entre si: "É porque não temos pão".
+        Mas Jesus percebeu e perguntou-lhes: "Por que discutis sobre a falta de pão?
+        Ainda não entendeis e nem compreendeis?
+        Vós tendes o coração endurecido?
+        Tendo olhos, vós não vedes, e tendo ouvidos, não ouvis?
+        Não vos lembrais de quando reparti cinco pães para cinco mil pessoas?
+        Quantos cestos vós recolhestes cheios de pedaços?"
+        Eles responderam: "Doze".
+        Jesus perguntou: E quando reparti sete pães com quatro mil pessoas, quantos cestos vós recolhestes cheios de pedaços?
+        Eles responderam: "Sete".
+        Jesus disse: "E vós ainda não compreendeis?"
+        
+        Palavra da Salvação.
 ordinary.week6.3.odd:
   title: Terça-feira da 6ª Semana
   subtitle: Tempo Comum
