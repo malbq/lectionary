@@ -1704,24 +1704,24 @@
     ]
   },
   "lent.week0.5": {
-    "title": "Quinta-feira",
-    "subtitle": "Após as Cinzas",
+    "title": "Quinta-feira após as Cinzas",
+    "subtitle": "Quaresma",
     "color": "purple",
     "readings": [
       {
         "type": "reading",
-        "ref": "",
-        "text": ""
+        "ref": "Dt 30,15-20",
+        "text": "Leitura do Livro do Deuteronômio \n\nMoisés falou ao povo dizendo:\n\"Vê que eu hoje te proponho a vida e a felicidade, a morte e a desgraça.\nSe obedeceres aos preceitos do Senhor teu Deus, que eu hoje te ordeno, amando ao Senhor teu Deus, seguindo seus caminhos e guardando seus mandamentos, suas leis e seus decretos, viverás e te multiplicarás, e o Senhor teu Deus te abençoará na terra em que vais entrar para possuí-la.\nSe, porém, o teu coração se desviar e não quiseres escutar, e se, deixando-te levar pelo erro, adorares deuses estranhos e os servires, eu vos anuncio hoje que certamente perecereis.\nNão vivereis muito tempo na terra onde ides entrar, depois de atravessar o Jordão, para ocupá-la.\nTomo hoje o céu e a terra como testemunhas contra vós de que vos propus a vida e a morte, a bênção e a maldição.\nEscolhe, pois, a vida, para que vivas, tu e teus descendentes, amando ao Senhor teu Deus, obedecendo à sua voz e apegando-te a ele a fim de que habites na terra que o Senhor jurou dar a teus pais, Abraão, Isaac e Jacó\".\n\nPalavra do Senhor.\n"
       },
       {
         "type": "psalm",
-        "ref": "",
-        "text": ""
+        "ref": "Sl 1,1-2.3.4 e 6 (R. Sl 39,5a)",
+        "text": "R. É feliz quem a Deus se confia!\n\nFeliz é todo aquele que não anda\nconforme os conselhos dos perversos;\nque não entra no caminho dos malvados\nnem junto aos zombadores vai sentar-se,\nmas encontra seu prazer na lei de Deus\ne a medita, dia e noite, sem cessar. R.\n\nEis que ele é semelhante a uma árvore\nque à beira da torrente está plantada;\nela sempre dá seus frutos a seu tempo,\ne jamais as suas folhas vão murchar.\nEis que tudo o que ele faz vai prosperar. R.\n\nMas bem outra é a sorte dos perversos.\nAo contrário, são iguais à palha seca\nespalhada e dispersada pelo vento.\nPois Deus vigia o caminho dos eleitos,\nmas a estrada dos malvados leva à morte. R.\n"
       },
       {
         "type": "gospel",
-        "ref": "",
-        "text": ""
+        "ref": "Lc 9,22-25",
+        "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas\n\nNaquele tempo disse Jesus aos seus discípulos:\n\"O Filho do Homem deve sofrer muito, ser rejeitado pelos anciãos, pelos sumos sacerdotes e doutores da Lei, deve ser morto e ressuscitar no terceiro dia\".\nDepois Jesus disse a todos: \"Se alguém me quer seguir, renuncie a si mesmo, tome sua cruz cada dia, e siga-me.\nPois quem quiser salvar a sua vida, vai perdê-la; e quem perder a sua vida por causa de mim, esse a salvará.\nCom efeito, de que adianta a um homem ganhar o mundo inteiro se se perde e se destrói a si mesmo?\"\n\nPalavra da Salvação.\n"
       }
     ]
   },
