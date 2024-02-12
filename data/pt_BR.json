@@ -1677,24 +1677,29 @@
     ]
   },
   "lent.week0.4": {
-    "title": "Quarta-feira",
-    "subtitle": "Após as Cinzas",
+    "title": "Quarta-feira de Cinzas",
+    "subtitle": "Início da Quaresma",
     "color": "purple",
     "readings": [
       {
         "type": "reading",
-        "ref": "",
-        "text": ""
+        "ref": "Jl 2,12-18",
+        "text": "Leitura da Profecia de Joel \n\n\"Agora, diz o Senhor,\nvoltai para mim com todo o vosso coração, com jejuns, lágrimas e gemidos; rasgai o coração, e não as vestes; e voltai para o Senhor, vosso Deus; ele é benigno e compassivo, paciente e cheio de misericórdia, inclinado a perdoar o castigo\".\nQuem sabe, se ele se volta para vós e vos perdoa, e deixa atrás de si a bênção, oblação e libação para o Senhor, vosso Deus?\nTocai trombeta em Sião, prescrevei o jejum sagrado, convocai a assembleia; congregai o povo, realizai cerimônias de culto, reuni anciãos, ajuntai crianças e lactentes; deixe o esposo seu aposento, e a esposa, seu leito.\nChorem, postos entre o vestíbulo e o altar, os ministros sagrados do Senhor, e digam: \"Perdoa, Senhor, a teu povo, e não deixes que esta tua herança sofra infâmia e que as nações a dominem\".\nPor que se haveria de dizer entre os povos: \"Onde está o Deus deles?\"\nEntão o Senhor encheu-se de zelo por sua terra e perdoou ao seu povo.\n\nPalavra do Senhor.\n"
       },
       {
         "type": "psalm",
-        "ref": "",
-        "text": ""
+        "ref": "Sl 50(51),3-4.5-6a.12-13.14 e 17 (R. cf. 3a)",
+        "text": "R. Misericórdia, ó Senhor, pois pecamos.\n\nTende piedade, ó meu Deus, misericórdia!\nNa imensidão de vosso amor, purificai-me!\nLavai-me todo inteiro do pecado,\ne apagai completamente a minha culpa! R.\n\nEu reconheço toda a minha iniquidade,\no meu pecado está sempre à minha frente.\nFoi contra vós, só contra vós, que eu pequei,\npratiquei o que é mau aos vossos olhos! R.\n\nCriai em mim um coração que seja puro,\ndai-me de novo um espírito decidido.\nÓ Senhor, não me afasteis de vossa face,\nnem retireis de mim o vosso Santo Espírito! R.\n\nDai-me de novo a alegria de ser salvo\ne confirmai-me com espírito generoso!\nAbri meus lábios, ó Senhor, para cantar,\ne minha boca anunciará vosso louvor! R.\n"
+      },
+      {
+        "type": "reading",
+        "ref": "2Cor 5,20-6,2",
+        "text": "Leitura da Segunda Carta de São Paulo aos Coríntios\n\nIrmãos,\nsomos embaixadores de Cristo, e é Deus mesmo que exorta através de nós.\nEm nome de Cristo, nós vos suplicamos: deixai-vos reconciliar com Deus.\nAquele que não cometeu nenhum pecado, Deus o fez pecado por nós, para que nele nós nos tornemos justiça de Deus.\nComo colaboradores de Cristo, nós vos exortamos a não receberdes em vão a graça de Deus, pois ele diz: \"No momento favorável, eu te ouvi e no dia da salvação, eu te socorri\".\nÉ agora o momento favorável, é agora o dia da salvação.\n\nPalavra do Senhor.\n"
       },
       {
         "type": "gospel",
-        "ref": "",
-        "text": ""
+        "ref": "Mt 6,1-6.16-18",
+        "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus\n\nNaquele tempo, disse Jesus aos seus discípulos:\n\"Ficai atentos para não praticar a vossa justiça na frente dos homens, só para serdes vistos por eles.\nCaso contrário, não recebereis a recompensa do vosso Pai que está nos céus.\nPor isso, quando deres esmola, não toques a trombeta diante de ti, como fazem os hipócritas nas sinagogas e nas ruas, para serem elogiados pelos homens.\nEm verdade vos digo: eles já receberam a sua recompensa.\nAo contrário, quando deres esmola, que a tua mão esquerda não saiba o que faz a tua mão direita, de modo que, a tua esmola fique oculta.\nE o teu Pai, que vê o que está oculto, te dará a recompensa.\nQuando orardes, não sejais como os hipócritas, que gostam de rezar em pé, nas sinagogas e nas esquinas das praças, para serem vistos pelos homens.\nEm verdade vos digo: eles já receberam a sua recompensa.\nAo contrário, quando tu orares, entra no teu quarto, fecha a porta, e reza ao teu Pai que está oculto.\nE o teu Pai, que vê o que está escondido, te dará a recompensa.\nQuando jejuardes, não fiqueis com o rosto triste como os hipócritas.\nEles desfiguram o rosto, para que os homens vejam que estão jejuando.\nEm verdade vos digo: Eles já receberam a sua recompensa.\nTu, porém, quando jejuares, perfuma a cabeça e lava o rosto, para que os homens não vejam que tu estás jejuando, mas somente teu Pai, que está oculto.\nE o teu Pai, que vê o que está escondido, te dará a recompensa\".\n\nPalavra da Salvação.\n"
       }
     ]
   },
