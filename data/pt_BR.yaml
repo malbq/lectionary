@@ -3407,17 +3407,66 @@ lent.week1.1:
   color: purple
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Gn 9,8-15
+      text: |
+        Leitura do Livro do Gênesis 
+        
+        Disse Deus a Noé e a seus filhos:
+        "Eis que vou estabelecer minha aliança convosco e com vossa descendência, com todos os seres vivos que estão convosco: aves, animais domésticos e selvagens, enfim, com todos os animais da terra, que saíram convosco da arca.
+        Estabeleço convosco a minha aliança: nunca mais nenhuma criatura será mais exterminada pelas águas do dilúvio, e não haverá mais dilúvio para devastar a terra".
+        E Deus disse: "Este é o sinal da aliança que coloco entre mim e vós, e todos os seres vivos que estão convosco, por todas as gerações futuras: ponho meu arco nas nuvens como sinal de aliança entre mim e a terra.
+        Quando eu reunir as nuvens sobre a terra, aparecerá meu arco nas nuvens.
+        Então eu me lembrarei de minha aliança convosco e com todas as espécies de seres vivos.
+        E não tornará mais a haver dilúvio que faça perecer nas suas águas toda criatura".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 24(25),4bc-5ab.6-7bc.8-9 (R. cf. 10)
+      text: |
+        R. Verdade e amor, são os caminhos do Senhor.
+        
+        Mostrai-me, ó Senhor, vossos caminhos,
+        e fazei-me conhecer a vossa estrada!
+        Vossa verdade me oriente e me conduza,
+        porque sois o Deus da minha salvação. R.
+        
+        Recordai, Senhor meu Deus, vossa ternura
+        e a vossa compaixão que são eternas!
+        De mim lembrai-vos, porque sois misericórdia
+        e sois bondade sem limites, ó Senhor! R.
+        
+        O Senhor é piedade e retidão,
+        e reconduz ao bom caminho os pecadores.
+        Ele dirige os humildes na justiça,
+        e aos pobres ele ensina o seu caminho. R.
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Pd 3,18-22
+      text: |
+        Leitura da Primeira Carta de São Pedro
+
+        Caríssimos:
+        Cristo morreu, uma vez por todas, por causa dos pecados, o justo, pelos injustos, a fim de nos conduzir a Deus.
+        Sofreu a morte, na sua existência humana, mas recebeu nova vida pelo Espírito.
+        No Espírito, ele foi também pregar aos espíritos na prisão, a saber, aos que foram desobedientes antigamente, quando Deus usava de longanimidade, nos dias em que Noé construía a arca.
+        Nesta arca, umas poucas pessoas — oito — foram salvas por meio da água.
+        À arca corresponde o batismo, que hoje é a vossa salvação.
+        Pois o batismo não serve para limpar o corpo da imundície, mas é um pedido a Deus para obter uma boa consciência, em virtude da ressurreição de Jesus Cristo.
+        Ele subiu ao céu e está à direita de Deus, submetendo-se a ele anjos, dominações e potestades.       
+
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 1,12-15
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos
+
+        Naquele tempo,
+        o Espírito levou Jesus para o deserto.
+        E ele ficou no deserto durante quarenta dias, e aí foi tentado por Satanás.
+        Vivia entre os animais selvagens, e os anjos o serviam.
+        Depois que João Batista foi preso, Jesus foi para a Galileia, pregando o Evangelho de Deus e dizendo:
+        "O tempo já se completou e o Reino de Deus está próximo.
+        Convertei-vos e crede no Evangelho!"
+        Palavra da Salvação.
 lent.week1.2:
   title: Segunda-feira da 1ª Semana
   subtitle: Tempo da Quaresma
