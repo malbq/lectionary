@@ -1678,7 +1678,7 @@
   },
   "lent.week0.4": {
     "title": "Quarta-feira de Cinzas",
-    "subtitle": "Início da Quaresma",
+    "subtitle": "Início do Tempo da Quaresma",
     "color": "purple",
     "readings": [
       {
@@ -1705,7 +1705,7 @@
   },
   "lent.week0.5": {
     "title": "Quinta-feira após as Cinzas",
-    "subtitle": "Quaresma",
+    "subtitle": "Tempo da Quaresma",
     "color": "purple",
     "readings": [
       {
@@ -1726,8 +1726,8 @@
     ]
   },
   "lent.week0.6": {
-    "title": "Sexta-feira",
-    "subtitle": "Após as Cinzas",
+    "title": "Sexta-feira após as Cinzas",
+    "subtitle": "Tempo da Quaresma",
     "color": "purple",
     "readings": [
       {
@@ -1748,24 +1748,24 @@
     ]
   },
   "lent.week0.7": {
-    "title": "Sábado",
+    "title": "Sábado após as Cinzas",
     "subtitle": "Tempo da Quaresma",
     "color": "purple",
     "readings": [
       {
         "type": "reading",
-        "ref": "",
-        "text": ""
+        "ref": "Is 58,9b-14",
+        "text": "Leitura do Livro do Profeta Isaías \n\nAssim fala o Senhor:\n\"Se destruíres teus instrumentos de opressão, e deixares os hábitos autoritários e a linguagem maldosa; se acolheres de coração aberto o indigente e prestares todo socorro ao necessitado, nascerá nas trevas a tua luz e tua vida obscura será como o meio-dia.\nO Senhor te conduzirá sempre e saciará tua sede na aridez da vida, e renovará o vigor do teu corpo; serás como um jardim bem regado, como uma fonte de águas que jamais secarão.\nTeu povo reconstruirá as ruínas antigas; tu levantarás os fundamentos das gerações passadas: serás chamado reconstrutor de ruínas, restaurador de caminhos, nas terras a povoar.\nSe não puseres o pé fora de casa no sábado, nem tratares de negócios em meu dia santo, se considerares o sábado teu dia favorito, o dia glorioso, consagrado ao Senhor, se o honrares, pondo de lado atividades, negócios e conversações, então te deleitarás no Senhor; eu te farei transportar sobre as alturas da terra e desfrutar a herança de Jacó, teu pai\".\nFalou a boca do Senhor.\n\nPalavra do Senhor.\n"
       },
       {
         "type": "psalm",
-        "ref": "",
-        "text": ""
+        "ref": "Sl 85(86),1-2.3-4.5-6 (R. 11a)",
+        "text": "R. Ensinai-me os vossos caminhos\ne na vossa verdade andarei.\n\nInclinai, ó Senhor, vosso ouvido,\nescutai, pois sou pobre e infeliz!\nProtegei-me, que sou vosso amigo,\ne salvai vosso servo, meu Deus,\nque espera e confia em vós! R.\n\nPiedade de mim, ó Senhor,\nporque clamo por vós todo o dia!\nAnimai e alegrai vosso servo,\npois a vós eu elevo a minh'alma. R.\n\nÓ Senhor, vós sois bom e clemente,\nsois perdão para quem vos invoca.\nEscutai, ó Senhor, minha prece,\no lamento da minha oração! R.\n"
       },
       {
         "type": "gospel",
-        "ref": "",
-        "text": ""
+        "ref": "Lc 5,27-32",
+        "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas\n\nNaquele tempo,\nJesus viu um cobrador de impostos, chamado Levi, sentado na coletoria.\nJesus lhe disse: \"Segue-me.\"\nLevi deixou tudo, levantou-se e o seguiu.\nDepois, Levi preparou em casa um grande banquete para Jesus.\nEstava aí grande número de cobradores de impostos e outras pessoas sentadas à mesa com eles.\nOs fariseus e seus mestres da Lei murmuravam e diziam aos discípulos de Jesus: \"Por que vós comeis e bebeis com os cobradores de impostos e com os pecadores?\"\nJesus respondeu: \"Os que são sadios não precisam de médico, mas sim os que estão doentes.\nEu não vim chamar os justos, mas sim os pecadores para a conversão\".\n\nPalavra da Salvação.\n"
       }
     ]
   },
