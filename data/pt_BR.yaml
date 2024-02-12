@@ -3154,19 +3154,84 @@ advent.week3.6:
       ref: ''
       text: ''
 lent.week0.4:
-  title: Quarta-feira
-  subtitle: Após as Cinzas
+  title: Quarta-feira de Cinzas
+  subtitle: Início da Quaresma
   color: purple
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Jl 2,12-18
+      text: |
+        Leitura da Profecia de Joel 
+        
+        "Agora, diz o Senhor,
+        voltai para mim com todo o vosso coração, com jejuns, lágrimas e gemidos; rasgai o coração, e não as vestes; e voltai para o Senhor, vosso Deus; ele é benigno e compassivo, paciente e cheio de misericórdia, inclinado a perdoar o castigo".
+        Quem sabe, se ele se volta para vós e vos perdoa, e deixa atrás de si a bênção, oblação e libação para o Senhor, vosso Deus?
+        Tocai trombeta em Sião, prescrevei o jejum sagrado, convocai a assembleia; congregai o povo, realizai cerimônias de culto, reuni anciãos, ajuntai crianças e lactentes; deixe o esposo seu aposento, e a esposa, seu leito.
+        Chorem, postos entre o vestíbulo e o altar, os ministros sagrados do Senhor, e digam: "Perdoa, Senhor, a teu povo, e não deixes que esta tua herança sofra infâmia e que as nações a dominem".
+        Por que se haveria de dizer entre os povos: "Onde está o Deus deles?"
+        Então o Senhor encheu-se de zelo por sua terra e perdoou ao seu povo.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 50(51),3-4.5-6a.12-13.14 e 17 (R. cf. 3a)
+      text: |
+        R. Misericórdia, ó Senhor, pois pecamos.
+        
+        Tende piedade, ó meu Deus, misericórdia!
+        Na imensidão de vosso amor, purificai-me!
+        Lavai-me todo inteiro do pecado,
+        e apagai completamente a minha culpa! R.
+        
+        Eu reconheço toda a minha iniquidade,
+        o meu pecado está sempre à minha frente.
+        Foi contra vós, só contra vós, que eu pequei,
+        pratiquei o que é mau aos vossos olhos! R.
+        
+        Criai em mim um coração que seja puro,
+        dai-me de novo um espírito decidido.
+        Ó Senhor, não me afasteis de vossa face,
+        nem retireis de mim o vosso Santo Espírito! R.
+        
+        Dai-me de novo a alegria de ser salvo
+        e confirmai-me com espírito generoso!
+        Abri meus lábios, ó Senhor, para cantar,
+        e minha boca anunciará vosso louvor! R.
+    - type: reading
+      ref: 2Cor 5,20-6,2
+      text: |
+        Leitura da Segunda Carta de São Paulo aos Coríntios
+
+        Irmãos,
+        somos embaixadores de Cristo, e é Deus mesmo que exorta através de nós.
+        Em nome de Cristo, nós vos suplicamos: deixai-vos reconciliar com Deus.
+        Aquele que não cometeu nenhum pecado, Deus o fez pecado por nós, para que nele nós nos tornemos justiça de Deus.
+        Como colaboradores de Cristo, nós vos exortamos a não receberdes em vão a graça de Deus, pois ele diz: "No momento favorável, eu te ouvi e no dia da salvação, eu te socorri".
+        É agora o momento favorável, é agora o dia da salvação.
+
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mt 6,1-6.16-18
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Mateus
+
+        Naquele tempo, disse Jesus aos seus discípulos:
+        "Ficai atentos para não praticar a vossa justiça na frente dos homens, só para serdes vistos por eles.
+        Caso contrário, não recebereis a recompensa do vosso Pai que está nos céus.
+        Por isso, quando deres esmola, não toques a trombeta diante de ti, como fazem os hipócritas nas sinagogas e nas ruas, para serem elogiados pelos homens.
+        Em verdade vos digo: eles já receberam a sua recompensa.
+        Ao contrário, quando deres esmola, que a tua mão esquerda não saiba o que faz a tua mão direita, de modo que, a tua esmola fique oculta.
+        E o teu Pai, que vê o que está oculto, te dará a recompensa.
+        Quando orardes, não sejais como os hipócritas, que gostam de rezar em pé, nas sinagogas e nas esquinas das praças, para serem vistos pelos homens.
+        Em verdade vos digo: eles já receberam a sua recompensa.
+        Ao contrário, quando tu orares, entra no teu quarto, fecha a porta, e reza ao teu Pai que está oculto.
+        E o teu Pai, que vê o que está escondido, te dará a recompensa.
+        Quando jejuardes, não fiqueis com o rosto triste como os hipócritas.
+        Eles desfiguram o rosto, para que os homens vejam que estão jejuando.
+        Em verdade vos digo: Eles já receberam a sua recompensa.
+        Tu, porém, quando jejuares, perfuma a cabeça e lava o rosto, para que os homens não vejam que tu estás jejuando, mas somente teu Pai, que está oculto.
+        E o teu Pai, que vê o que está escondido, te dará a recompensa".
+
+        Palavra da Salvação.
 lent.week0.5:
   title: Quinta-feira
   subtitle: Após as Cinzas
@@ -10080,7 +10145,7 @@ ordinary.week6.3.even:
         Jesus perguntou: E quando reparti sete pães com quatro mil pessoas, quantos cestos vós recolhestes cheios de pedaços?
         Eles responderam: "Sete".
         Jesus disse: "E vós ainda não compreendeis?"
-        
+
         Palavra da Salvação.
 ordinary.week6.3.odd:
   title: Terça-feira da 6ª Semana
