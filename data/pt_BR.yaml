@@ -3473,14 +3473,85 @@ lent.week1.2:
   color: purple
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Lv 19,1-2.11-18
+      text: |
+        Leitura do Livro do Levítico 
+        
+        O Senhor falou a Moisés, dizendo:
+        "Fala a toda a comunidade dos filhos de Israel, e dize-lhes: Sede santos, porque eu, o Senhor vosso Deus, sou santo.
+        Não furteis, não digais mentiras, nem vos enganeis uns aos outros.
+        Não jureis falso por meu nome, profanando o nome do Senhor teu Deus.
+        Eu sou o Senhor.
+        Não explores o teu próximo nem pratiques extorsão contra ele.
+        Não retenhas contigo a diária do assalariado até o dia seguinte.
+        Não amaldiçoes o surdo, nem ponhas tropeço diante do cego, mas temerás o teu Deus.
+        Eu sou o Senhor.
+        Não cometas injustiças no exercício da justiça; não favoreças o pobre nem prestigieis o poderoso.
+        Julga teu próximo conforme a justiça.
+        Não sejas um maldizente entre o teu povo.
+        Não conspires, caluniando-o, contra a vida do teu próximo.
+        Eu sou o Senhor.
+        Não tenhas no coração ódio contra teu irmão.
+        Repreende o teu próximo, para não te tornares culpado de pecado por causa dele.
+        Não procures vingança, nem guardes rancor aos teus compatriotas.
+        Amarás o teu próximo como a ti mesmo.
+        Eu sou o Senhor".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 18(19),8.9.10.15 (R. Jo 6,63c)
+      text: |
+        R. Ó Senhor, vossas palavras são espírito e vida!
+        
+        A lei do Senhor Deus é perfeita,
+        conforto para a alma!
+        O testemunho do Senhor é fiel,
+        sabedoria dos humildes. R.
+        
+        Os preceitos do Senhor são precisos,
+        alegria ao coração.
+        O mandamento do Senhor é brilhante,
+        para os olhos é uma luz. R.
+        
+        É puro o temor do Senhor,
+        imutável para sempre.
+        Os julgamentos do Senhor são corretos
+        e justos igualmente. R.
+        
+        Que vos agrade o cantar dos meus lábios
+        e a voz da minha alma;
+        que ela chegue até vós, ó Senhor,
+        meu Rochedo e Redentor! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mt 25,31-46
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Mateus 
+        
+        Naquele tempo, disse Jesus a seus discípulos:
+        "Quando o Filho do Homem vier em sua glória, acompanhado de todos os anjos, então se assentará em seu trono glorioso.       
+        Todos os povos da terra serão reunidos diante dele, e ele separará uns dos outros, assim como o pastor separa as ovelhas dos cabritos.
+        E colocará as ovelhas à sua direita e os cabritos à sua esquerda.
+        Então o Rei dirá aos que estiverem à sua direita:
+        'Vinde benditos de meu Pai!
+        Recebei como herança o Reino que meu Pai vos preparou desde a criação do mundo!
+        Pois eu estava com fome e me destes de comer; eu estava com sede e me destes de beber; eu era estrangeiro e me recebestes em casa; eu estava nu e me vestistes; eu estava doente e cuidastes de mim; eu estava na prisão e fostes me visitar'.
+        Então os justos lhe perguntarão:
+        'Senhor, quando foi que te vimos com fome e te demos de comer? com sede e te demos de beber?
+        Quando foi que te vimos como estrangeiro e te recebemos em casa, e sem roupa e te vestimos?
+        Quando foi que te vimos doente ou preso, e fomos te visitar?'
+        Então o Rei lhes responderá:
+        'Em verdade eu vos digo, que todas as vezes que fizestes isso a um dos menores de meus irmãos, foi a mim que o fizestes!'
+        Depois o Rei dirá aos que estiverem à sua esquerda:
+        'Afastai-vos de mim, malditos!
+        Ide para o fogo eterno, preparado para o diabo e para os seus anjos.
+        Pois eu estava com fome e não me destes de comer; eu estava com sede e não me destes de beber; eu era estrangeiro e não me recebestes em casa; eu estava nu e não me vestistes; eu estava doente e na prisão e não fostes me visitar'.
+        E responderão também eles:
+        'Senhor, quando foi que te vimos com fome, ou com sede, como estrangeiro, ou nu, doente ou preso, e não te servimos?'
+        Então o Rei lhes responderá:
+        'Em verdade eu vos digo, todas as vezes que não fizestes isso a um desses pequeninos, foi a mim que não o fizestes!'
+        Portanto, estes irão para o castigo eterno, enquanto os justos irão para a vida eterna".
+
+        Palavra da Salvação.
 lent.week1.3:
   title: Terça-feira da 1ª Semana
   subtitle: Tempo da Quaresma
