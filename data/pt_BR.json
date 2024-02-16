@@ -16221,5 +16221,27 @@
         }
       }
     ]
+  },
+  "0222": {
+    "title": "Cátedra de São Pedro, Apóstolo",
+    "subtitle": "Festa",
+    "color": "white",
+    "readings": [
+      {
+        "type": "reading",
+        "ref": "1Pd 5,1-4",
+        "text": "Leitura da Primeira Carta de São Pedro \n\nCaríssimos,\nexorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que será revelada: Sede pastores do rebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso; não por torpe ganância, mas livremente; não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho.\nAssim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória.\n\nPalavra do Senhor.\n"
+      },
+      {
+        "type": "psalm",
+        "ref": "Sl 22(23),1-3a.3b-4.5.6 (R. 1)",
+        "text": "R. O Senhor é o pastor que me conduz,\nnão me falta coisa alguma.\n\nO Senhor é o pastor que me conduz;\nnão me falta coisa alguma.\nPelos prados e campinas verdejantes\nele me leva a descansar.\nPara as águas repousantes me encaminha,\ne restaura as minhas forças. R.\n\nEle me guia no caminho mais seguro,\npela honra do seu nome.\nMesmo que eu passe pelo vale tenebroso,\nnenhum mal eu temerei.\nEstais comigo com bastão e com cajado,\neles me dão a segurança! R.\n\nPreparais à minha frente uma mesa,\nbem à vista do inimigo;\ncom óleo vós ungis minha cabeça,\ne o meu cálice transborda. R.\n\nFelicidade e todo bem hão de seguir-me,\npor toda a minha vida;\ne, na casa do Senhor, habitarei\npelos tempos infinitos. R.\n"
+      },
+      {
+        "type": "gospel",
+        "ref": "Mt 16,13-19",
+        "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus \n\nNaquele tempo,\nJesus foi à região de Cesareia de Filipe e ali perguntou aos seus discípulos:\n\"Quem dizem os homens ser o Filho do Homem?\"\nEles responderam:\n\"Alguns dizem que é João Batista; outros que é Elias; Outros ainda, que é Jeremias ou algum dos profetas\".\nEntão Jesus lhes perguntou:\n\"E vós, quem dizeis que eu sou?\"\nSimão Pedro respondeu:\n\"Tu és o Messias, o Filho do Deus vivo\".\nRespondendo, Jesus lhe disse:\n\"Feliz és tu, Simão, filho de Jonas, porque não foi um ser humano que te revelou isso, mas o meu Pai que está no céu.\nPor isso eu te digo que tu és Pedro, e sobre esta pedra construirei a minha Igreja, e o poder do inferno nunca poderá vencê-la.\nEu te darei as chaves do Reino dos Céus: tudo o que tu ligares na terra será ligado nos céus; tudo o que tu desligares na terra será desligado nos céus\".\n\nPalavra da Salvação.\n"
+      }
+    ]
   }
 }
