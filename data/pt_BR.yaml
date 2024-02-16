@@ -3811,17 +3811,82 @@ lent.week2.1:
   color: purple
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Gn 22,1-2.9a.10-13.15-18
+      text: |
+        Leitura do Livro do Gênesis 
+        
+        Naqueles dias,
+        Deus pôs Abraão à prova.
+        Chamando-o, disse: "Abraão!"
+        E ele respondeu: "Aqui estou".
+        E Deus disse: "Toma teu filho único, Isaac, a quem tanto amas, dirige-te à terra de Moriá, e oferece-o aí em holocausto sobre um monte que eu te indicar".
+        Chegados ao lugar indicado por Deus, Abraão ergueu um altar, colocou a lenha em cima, amarrou o filho e o pôs sobre a lenha em cima do altar.
+        Depois, estendeu a mão, empunhando a faca para sacrificar o filho.
+        E eis que o anjo do Senhor gritou do céu, dizendo: "Abraão! Abraão!"
+        Ele respondeu: "Aqui estou!"
+        E o anjo lhe disse: "Não estendas a mão contra teu filho e não lhe faças nenhum mal!
+        Agora sei que temes a Deus, pois não me recusaste teu filho único".
+        Abraão, erguendo os olhos, viu um carneiro preso num espinheiro pelos chifres; foi buscá-lo e ofereceu-o em holocausto no lugar do seu filho.
+        O anjo do Senhor chamou Abraão, pela segunda vez, do céu, e lhe disse: "Juro por mim mesmo — oráculo do Senhor —, uma vez que agiste deste modo e não me recusaste teu filho único, eu te abençoarei e tornarei tão numerosa tua descendência como as estrelas do céu e como as areias da praia do mar.
+        Teus descendentes conquistarão as cidades dos inimigos.
+        Por tua descendência serão abençoadas todas as nações da terra, porque me obedeceste".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 115(116B),10.15.16-17.18-19 (R. Sl 114,9)
+      text: |
+        R. Andarei na presença de Deus,
+        junto a ele na terra dos vivos.
+
+        Guardei a minha fé, mesmo dizendo:
+        "É demais o sofrimento em minha vida!"
+        É sentida por demais pelo Senhor
+        a morte de seus santos, seus amigos. R.
+        
+        Eis que sou o vosso servo, ó Senhor,
+        vosso servo que nasceu de vossa serva;
+        mas me quebrastes os grilhões da escravidão!
+        Por isso oferto um sacrifício de louvor,
+        invocando o nome santo do Senhor. R.
+        
+        Vou cumprir minhas promessas ao Senhor
+        na presença de seu povo reunido;
+        nos átrios da casa do Senhor,
+        em teu meio, ó cidade de Sião! R.
     - type: reading
-      ref: ''
-      text: ''
+      ref: Rm 8,31b-34
+      text: |
+        Leitura da Carta de São Paulo aos Romanos 
+        
+        Irmãos:
+        Se Deus é por nós, quem será contra nós?
+        Deus que não poupou seu próprio filho, mas o entregou por todos nós, como não nos daria tudo junto com ele?
+        Quem acusará os escolhidos de Deus?
+        Deus, que os declara justos?
+        Quem condenará?
+        Jesus Cristo, que morreu, mais ainda, que ressuscitou, e está, à direita de Deus, intercedendo por nós?
+
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 9,2-10
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos
+
+        Naquele tempo,
+        Jesus tomou consigo Pedro, Tiago e João, e os levou sozinhos a um lugar à parte sobre uma alta montanha.
+        E transfigurou-se diante deles.
+        Suas roupas ficaram brilhantes e tão brancas como nenhuma lavadeira sobre a terra poderia alvejar.   
+        Apareceram-lhe Elias e Moisés, e estavam conversando com Jesus.
+        Então Pedro tomou a palavra e disse a Jesus: "Mestre, é bom ficarmos aqui.
+        Vamos fazer três tendas: uma para ti, outra para Moisés e outra para Elias".
+        Pedro não sabia o que dizer, pois estavam todos com muito medo.
+        Então desceu uma nuvem e os encobriu com sua sombra.
+        E da nuvem saiu uma voz: "Este é o meu Filho amado. Escutai o que ele diz!"
+        E, de repente, olhando em volta, não viram mais ninguém, a não ser somente Jesus com eles.
+        Ao descerem da montanha, Jesus ordenou que não contassem a ninguém o que tinham visto, até que o Filho do Homem tivesse ressuscitado dos mortos.
+        Eles observaram esta ordem, mas comentavam entre si o que queria dizer "ressuscitar dos mortos".     
+
+        Palavra da Salvação.
 lent.week2.2:
   title: Segunda-feira da 2ª Semana
   subtitle: Tempo da Quaresma
