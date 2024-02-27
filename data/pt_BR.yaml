@@ -4075,14 +4075,65 @@ lent.week2.5:
   color: purple
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Jr 17,5-10
+      text: |
+        Leitura do Livro do Profeta Jeremias 
+        
+        Isto diz o Senhor:
+        "Maldito o homem que confia no homem e faz consistir sua força na carne humana, enquanto o seu coração se afasta do Senhor; como os cardos no deserto, ele não vê chegar a floração, prefere vegetar na secura do ermo, em região salobra e desabitada.
+        Bendito o homem que confia no Senhor, cuja esperança é o Senhor; é como a árvore plantada junto às águas, que estende as raízes em busca de umidade, por isso não teme a chegada do calor: sua folhagem mantém-se verde, não sofre míngua em tempo de seca e nunca deixa de dar frutos.
+        Em tudo é enganador o coração, e isto é incurável; quem poderá conhecê-lo?
+        Eu sou o Senhor, que perscruto o coração e provo os sentimentos, que dou a cada qual conforme o seu proceder e conforme o fruto de suas obras".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 1,1-2.3.4 e 6 (R. Sl 39(40),5a)
+      text: |
+        R. É feliz quem a Deus se confia!
+        
+        Feliz é todo aquele que não anda
+        conforme os conselhos dos perversos;
+        que não entra no caminho dos malvados,
+        nem junto aos zombadores vai sentar-se;
+        mas encontra seu prazer na lei de Deus
+        e a medita, dia e noite, sem cessar. R.
+        
+        Eis que ele é semelhante a uma árvore,
+        que à beira da torrente está plantada;
+        ela sempre dá seus frutos a seu tempo,
+        e jamais as suas folhas vão murchar.
+        Eis que tudo o que ele faz vai prosperar. R.
+        
+        Mas bem outra é a sorte dos perversos.
+        Ao contrário, são iguais à palha seca
+        espalhada e dispersada pelo vento.
+        Pois Deus vigia o caminho dos eleitos,
+        mas a estrada dos malvados leva à morte. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Lc 16,19-31
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Lucas 
+        
+        Naquele tempo, Jesus disse aos fariseus:
+        "Havia um homem rico, que se vestia com roupas finas e elegantes e fazia festas esplêndidas todos os dias.
+        Um pobre, chamado Lázaro, cheio de feridas, estava no chão à porta do rico.
+        Ele queria matar a fome com as sobras que caíam da mesa do rico.
+        E, além disso, vinham os cachorros lamber suas feridas.
+        Quando o pobre morreu, os anjos levaram-no para junto de Abraão.
+        Morreu também o rico e foi enterrado.
+        Na região dos mortos, no meio dos tormentos, o rico levantou os olhos e viu de longe a Abraão, com Lázaro ao seu lado.
+        Então gritou: 'Pai Abraão, tem piedade de mim!
+        Manda Lázaro molhar a ponta do dedo para me refrescar a língua, porque sofro muito nestas chamas'.
+        Mas Abraão respondeu: 'Filho, lembra-te que tu recebeste teus bens durante a vida e Lázaro, por sua vez, os males.
+        Agora, porém, ele encontra aqui consolo e tu és atormentado.
+        E, além disso, há um grande abismo entre nós: por mais que alguém desejasse, não poderia passar daqui para junto de vós, e nem os daí poderiam atravessar até nós'.
+        O rico insistiu: 'Pai, eu te suplico, manda Lázaro à casa do meu pai, porque eu tenho cinco irmãos.  
+        Manda preveni-los, para que não venham também eles para este lugar de tormento'.
+        Mas Abraão respondeu: 'Eles têm Moisés e os Profetas, que os escutem!'
+        O rico insistiu: 'Não, Pai Abraão, mas se um dos mortos for até eles, certamente vão se converter'.
+        Mas Abraão lhe disse: 'Se não escutam a Moisés, nem aos Profetas, eles não acreditarão, mesmo que alguém ressuscite dos mortos' ".
+
+        Palavra da Salvação.
 lent.week2.6:
   title: Sexta-feira da 2ª Semana
   subtitle: Tempo da Quaresma
