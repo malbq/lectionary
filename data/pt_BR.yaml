@@ -3401,7 +3401,7 @@ lent.week0.7:
         Eu não vim chamar os justos, mas sim os pecadores para a conversão".
 
         Palavra da Salvação.
-lent.week1.1:
+lent.week1.1.b:
   title: Domingo da 1ª Semana
   subtitle: Tempo da Quaresma
   color: purple
@@ -3805,7 +3805,7 @@ lent.week1.7:
         Portanto, sede perfeitos como o vosso Pai celeste é perfeito".
 
         Palavra da Salvação.
-lent.week2.1:
+lent.week2.1.b:
   title: Domingo da 2ª Semana
   subtitle: Tempo da Quaresma
   color: purple
@@ -4299,7 +4299,7 @@ lent.week2.7:
         Mas era preciso festejar e alegrar-nos, porque este teu irmão estava morto e tornou a viver; estava perdido, e foi encontrado'".
 
         Palavra da Salvação.
-lent.week3.1:
+lent.week3.1.b:
   title: Domingo da 3ª Semana
   subtitle: Tempo da Quaresma
   color: purple
@@ -4788,7 +4788,7 @@ lent.week4.1.b:
       text: |
         R. Que se prenda a minha língua ao céu da boca,
         se de ti Jerusalém, eu me esquecer!
-        
+
         Junto aos rios da Babilônia
         nos sentávamos chorando,
         com saudades de Sião.
@@ -4930,7 +4930,7 @@ lent.week4.7:
     - type: gospel
       ref: ''
       text: ''
-lent.week5.1:
+lent.week5.1.b:
   title: Domingo da 5ª Semana
   subtitle: Tempo da Quaresma
   color: purple
@@ -5031,7 +5031,7 @@ lent.week5.7:
     - type: gospel
       ref: ''
       text: ''
-lent.week6.1:
+lent.week6.1.b:
   title: Domingo de Ramos da Paixão do Senhor
   subtitle: Semana Santa
   color: red
