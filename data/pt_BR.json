@@ -1769,7 +1769,7 @@
       }
     ]
   },
-  "lent.week1.1": {
+  "lent.week1.1.b": {
     "title": "Domingo da 1ª Semana",
     "subtitle": "Tempo da Quaresma",
     "color": "purple",
@@ -1928,7 +1928,7 @@
       }
     ]
   },
-  "lent.week2.1": {
+  "lent.week2.1.b": {
     "title": "Domingo da 2ª Semana",
     "subtitle": "Tempo da Quaresma",
     "color": "purple",
@@ -2087,7 +2087,7 @@
       }
     ]
   },
-  "lent.week3.1": {
+  "lent.week3.1.b": {
     "title": "Domingo da 3ª Semana",
     "subtitle": "Tempo da Quaresma",
     "color": "purple",
@@ -2405,7 +2405,7 @@
       }
     ]
   },
-  "lent.week5.1": {
+  "lent.week5.1.b": {
     "title": "Domingo da 5ª Semana",
     "subtitle": "Tempo da Quaresma",
     "color": "purple",
@@ -2564,7 +2564,7 @@
       }
     ]
   },
-  "lent.week6.1": {
+  "lent.week6.1.b": {
     "title": "Domingo de Ramos da Paixão do Senhor",
     "subtitle": "Semana Santa",
     "color": "red",
