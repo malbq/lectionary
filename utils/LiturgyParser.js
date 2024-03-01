@@ -69,7 +69,7 @@ function parseLiturgy(input) {
     reading2.splice(reading2.length - 1, 0, '')
     {let i = 3
       while (i < reading2.length - 2) {
-        if (!/(\.|\;|\!|\?)$/.test(reading2[i])) {
+        if (!/(\.|\"|\!|\?)$/.test(reading2[i])) {
           reading2[i] += ' ' + reading2[i+1]
           reading2.splice(i+1, 1)
         } else {
@@ -82,7 +82,7 @@ function parseLiturgy(input) {
   gospel.splice(gospel.length - 1, 0, '')
   {let i = 3
     while (i < gospel.length - 2) {
-      if (!/(\.|\;)$/.test(gospel[i])) {
+      if (!/(\.|\"|\!|\?)$/.test(gospel[i])) {
         gospel[i] += ' ' + gospel[i+1]
         gospel.splice(i+1, 1)
       } else {

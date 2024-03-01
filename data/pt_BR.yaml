@@ -4713,14 +4713,54 @@ lent.week3.7:
   color: purple
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Os 6,1-6
+      text: |
+        Leitura da Profecia de Oséias 
+        
+        "Vinde, voltemos para o Senhor,
+        ele nos feriu e há de tratar-nos, ele nos machucou e há de curar-nos.
+        Em dois dias, nos dará vida, e, ao terceiro dia, há de restaurar-nos, e viveremos em sua presença.
+        É preciso saber segui-lo para reconhecer o Senhor.
+        Certa como a aurora é a sua vinda, ele virá até nós como as primeiras chuvas, como as chuvas tardias que regam o solo".
+        Como vou tratar-te, Efraim?
+        Como vou tratar-te, Judá?
+        O vosso amor é como nuvem pela manhã, como orvalho que cedo se desfaz.
+        Eu os desbastei por meio dos profetas, arrasei-os com as palavras de minha boca, mas, como luz, expandem-se meus juízos; quero amor, e não sacrifícios, conhecimento de Deus, mais do que holocaustos.
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 50(51),3-4.18-19.20-21ab (R. cf. Os 6,6)
+      text: |
+        R. Eu quis misericórdia e não o sacrifício!
+
+        Tende piedade, ó meu Deus, misericórdia!
+        Na imensidão de vosso amor, purificai-me!
+        Lavai-me todo inteiro do pecado,
+        e apagai completamente a minha culpa! R.
+
+        Pois não são de vosso agrado os sacrifícios,
+        e, se oferto um holocausto, o rejeitais.
+        Meu sacrifício é minha alma penitente,
+        não desprezeis um coração arrependido! R.
+
+        Sede benigno com Sião, por vossa graça,
+        reconstruí Jerusalém e os seus muros!
+        E aceitareis o verdadeiro sacrifício,
+        os holocaustos e oblações em vosso altar! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Lc 18,9-14
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Lucas
+
+        Naquele tempo,
+        Jesus contou esta parábola para alguns que confiavam na sua própria justiça e desprezavam os outros: "Dois homens subiram ao Templo para rezar: um era fariseu, o outro cobrador de impostos.
+        O fariseu, de pé, rezava assim em seu íntimo: 'Ó Deus, eu te agradeço porque não sou como os outros homens, ladrões, desonestos, adúlteros, nem como este cobrador de impostos.
+        Eu jejuo duas vezes por semana, e dou o dízimo de toda a minha renda'.
+        O cobrador de impostos, porém, ficou à distância, e nem se atrevia a levantar os olhos para o céu; mas batia no peito, dizendo: 'Meu Deus, tem piedade de mim que sou pecador!'
+        Eu vos digo: este último voltou para casa justificado, o outro não.
+        Pois quem se eleva será humilhado, e quem se humilha será elevado".
+
+        Palavra da Salvação.
 lent.week4.1:
   title: Domingo da 4ª Semana
   subtitle: Tempo da Quaresma
