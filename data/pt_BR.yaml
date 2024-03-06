@@ -4852,101 +4852,475 @@ lent.week4.2:
   color: purple
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Is 65,17-21
+      text: |
+        Leitura do Livro do Profeta Isaías 
+        
+        Assim fala o Senhor:
+        "Eis que eu criarei novos céus e nova terra, coisas passadas serão esquecidas, não voltarão mais à memória.
+        Ao contrário, haverá alegria e exultação sem fim em razão das coisas que eu vou criar; farei de Jerusalém a cidade da exultação e um povo cheio de alegria.
+        Eu também exulto com Jerusalém e alegro-me com o meu povo; ali nunca mais se ouvirá a voz do pranto e o grito de dor.
+        Ali não haverá crianças condenadas a poucos dias de vida nem anciãos que não completem seus dias.
+        Será considerado jovem quem morrer aos cem anos; e quem não alcançar cem anos, passará por maldito.
+        Construirão casas para nelas morar, plantarão vinhas para comer seus frutos".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 29(30),2 e 4.5-6.11-12a e 13b (R. 2a)
+      text: |
+        R. Eu vos exalto, ó Senhor, pois me livrastes!
+        
+        Eu vos exalto, ó Senhor, pois me livrastes,
+        e não deixastes rir de mim meus inimigos!
+        Vós tirastes minha alma dos abismos
+        e me salvastes, quando estava já morrendo! R.
+        
+        Cantai salmos ao Senhor, povo fiel,
+        dai-lhe graças e invocai seu santo nome!
+        Pois sua ira dura apenas um momento,
+        mas sua bondade permanece a vida inteira;
+        se à tarde vem o pranto visitar-nos,
+        de manhã vem saudar-nos a alegria. R.
+
+        Escutai-me, Senhor Deus, tende piedade!
+        Sede, Senhor, o meu abrigo protetor!
+        Transformastes o meu pranto em uma festa,
+        Senhor meu Deus, eternamente hei de louvar-vos! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 4,43-54
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João
+
+        Naquele tempo,
+        Jesus partiu da Samaria para a Galileia.
+        O próprio Jesus tinha declarado, que um profeta não é honrado na sua própria terra.
+        Quando então chegou à Galileia, os galileus receberam-no bem, porque tinham visto tudo o que Jesus havia feito em Jerusalém, durante a festa.
+        Pois também eles tinham ido à festa.
+        Assim, Jesus voltou para Caná da Galileia, onde havia transformado a água em vinho.
+        Havia em Cafarnaum um funcionário do rei que tinha um filho doente.
+        Ouviu dizer que Jesus tinha vindo da Judeia para a Galileia.
+        Ele saiu ao seu encontro e pediu-lhe que fosse a Cafarnaum curar seu filho, que estava morrendo.
+        Jesus disse-lhe: "Se não virdes sinais e prodígios, não acreditais".
+        O funcionário do rei disse: "Senhor, desce, antes que meu filho morra!"
+        Jesus lhe disse: "Podes ir, teu filho está vivo".
+        O homem acreditou na palavra de Jesus e foi embora.
+        Enquanto descia para Cafarnaum, seus empregados foram ao seu encontro, dizendo que o seu filho estava vivo.
+        O funcionário perguntou a que horas o menino tinha melhorado.
+        Eles responderam: "A febre desapareceu, ontem, pela uma da tarde".
+        O pai verificou que tinha sido exatamente na mesma hora em que Jesus lhe havia dito: "Teu filho está vivo".
+        Então, ele abraçou a fé, juntamente com toda a sua família.
+        Esse foi o segundo sinal de Jesus.
+        Realizou-o quando voltou da Judeia para a Galileia.
+
+        Palavra da Salvação.
 lent.week4.3:
   title: Terça-feira da 4ª Semana
   subtitle: Tempo da Quaresma
   color: purple
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Ez 47,1-9.12
+      text: |
+        Leitura da Profecia de Ezequiel 
+        
+        Naqueles dias,
+        o anjo fez-me voltar até a entrada do Templo e eis que saia água da sua parte subterrânea na direção leste, porque o Templo estava voltado para o oriente; a água corria do lado direito do Templo, a sul do altar.
+        Ele fez-me sair pela porta que dá para o norte, e fez-me dar uma volta por fora, até à porta que dá para o leste, onde eu vi a água jorrando do lado direito.
+        Quando o homem saiu na direção leste, tendo uma corda de medir na mão, mediu quinhentos metros e fez-me atravessar a água: ela chegava-me aos tornozelos.
+        Mediu outros quinhentos metros e fez-me atravessar a água: ela chegava-me aos joelhos.
+        Mediu mais quinhentos metros e me fez-me atravessar a água: ela chegava-me à cintura.
+        Mediu mais quinhentos metros, e era um rio que eu não podia atravessar.
+        Porque as águas haviam crescido tanto, que se tornaram um rio impossível de atravessar, a não ser a nado.
+        Ele me disse: "Viste, filho do homem?"
+        Depois fez-me caminhar de volta pela margem do rio.
+        Voltando, eu vi junto à margem muitas árvores, de um e de outro lado do rio.
+        Então ele me disse: "Estas águas correm para a região oriental, descem para o vale do Jordão, desembocam nas águas salgadas do mar, e elas se tornarão saudáveis.
+        Onde o rio chegar, todos os animais que ali se movem poderão viver.
+        Haverá peixes em quantidade, pois ali desembocam as águas que trazem saúde; e haverá vida onde chegar o rio.
+        Nas margens junto ao rio, de ambos os lados, crescerá toda espécie de árvores frutíferas; suas folhas não murcharão e seus frutos jamais se acabarão: cada mês darão novos frutos, pois as águas que banham as árvores saem do santuário.
+        Seus frutos servirão de alimento e suas folhas serão remédio".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 45(46),2-3.5-6.8-9 (R. 8)
+      text: |
+        R. Conosco está o Senhor do Universo!
+        O nosso refúgio é o Deus de Jacó.
+        
+        O Senhor para nós é refúgio e vigor,
+        sempre pronto, mostrou-se um socorro na angústia;
+        assim não tememos, se a terra estremece,
+        se os montes desabam, caindo nos mares. R.
+        
+        Os braços de um rio vêm trazer alegria
+        à Cidade de Deus, à morada do Altíssimo.
+        Quem a pode abalar? Deus está no seu meio!
+        Já bem antes da aurora, ele vem ajudá-la. R.
+        
+        Conosco está o Senhor do universo!
+        O nosso refúgio é o Deus de Jacó!
+        Vinde ver, contemplai os prodígios de Deus
+        e a obra estupenda que fez no universo. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 5,1-16
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Houve uma festa dos judeus,
+        e Jesus foi a Jerusalém.
+        Existe em Jerusalém, perto da porta das Ovelhas, uma piscina com cinco pórticos, chamada Betesda em hebraico.
+        Muitos doentes ficavam ali deitados - cegos, coxos e paralíticos -.
+        De fato, um anjo descia, de vez em quando, e movimentava a água da piscina, e o primeiro doente que aí entrasse, depois do borbulhar da água, ficava curado de qualquer doença que tivesse.
+        Aí se encontrava um homem, que estava doente havia trinta e oito anos.
+        Jesus viu o homem deitado e sabendo que estava doente há tanto tempo, disse-lhe: "Queres ficar curado?"
+        O doente respondeu: "Senhor, não tenho ninguém que me leve à piscina, quando a água é agitada.
+        Quando estou chegando, outro entra na minha frente".
+        Jesus disse: "Levanta-te, pega na tua cama e anda".
+        No mesmo instante, o homem ficou curado, pegou na sua cama e começou a andar.
+        Ora, esse dia era um sábado.
+        Por isso, os judeus disseram ao homem que tinha sido curado: "É sábado!
+        Não te é permitido carregar tua cama".
+        Ele respondeu-lhes: "Aquele que me curou disse: 'Pega tua cama e anda'".
+        Então lhe perguntaram: "Quem é que te disse: 'Pega tua cama e anda?'"
+        O homem que tinha sido curado não sabia quem fora, pois Jesus se tinha afastado da multidão que se encontrava naquele lugar.
+        Mais tarde, Jesus encontrou o homem no Templo e lhe disse: "Eis que estás curado.
+        Não voltes a pecar, para que não te aconteça coisa pior".
+        Então o homem saiu e contou aos judeus que tinha sido Jesus quem o havia curado.
+        Por isso, os judeus começaram a perseguir Jesus, porque fazia tais coisas em dia de sábado.
+
+        Palavra da Salvação.
 lent.week4.4:
   title: Quarta-feira da 4ª Semana
   subtitle: Tempo da Quaresma
   color: purple
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Is 49,8-15
+      text: |
+        Leitura do Livro do Profeta Isaías 
+        
+        Isto diz o Senhor:
+        "Eu atendo teus pedidos com favores e te ajudo na obra de salvação; preservei-te para seres elo de aliança entre os povos, para restaurar a terra, para distribuir a herança dispersa; para dizer aos que estão presos: 'Saí!' e aos que estão nas trevas: 'Mostrai-vos'.
+        E todos se alimentam pelas estradas e até nas colinas estéreis se abastecem; não sentem fome nem sede, não os castiga nem o calor nem o sol, porque o seu protetor toma conta deles e os conduz às fontes d'água.
+        Farei de todos os montes uma estrada e os meus caminhos serão nivelados.
+        Eis que estão vindo de longe, uns chegam do Norte e do lado do mar, e outros, da terra de Sinim.
+        Louvai, ó céus, alegra-te, terra; montanhas, fazei ressoar o louvor, porque o Senhor consola o seu povo e se compadece dos pobres.
+        Disse Sião: 'O Senhor abandonou-me, o Senhor esqueceu-se de mim!'
+        Acaso pode a mulher esquecer-se do filho pequeno, a ponto de não ter pena do fruto de seu ventre?
+        Se ela se esquecer, eu, porém, não me esquecerei de ti".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 144(145),8-9.13cd-14.17-18 (R. 8a)
+      text: |
+        R. Misericórdia e piedade é o Senhor.
+        
+        Misericórdia e piedade é o Senhor,
+        ele é amor, é paciência, é compaixão.
+        O Senhor é muito bom para com todos,
+        sua ternura abraça toda criatura. R.
+        
+        O Senhor é amor fiel em sua palavra,
+        é santidade em toda obra que ele faz.
+        Ele sustenta todo aquele que vacila
+        e levanta todo aquele que tombou. R.
+        
+        É justo o Senhor em seus caminhos,
+        é santo em toda obra que ele faz.
+        Ele está perto da pessoa que o invoca,
+        de todo aquele que o invoca lealmente. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 5,17-30
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Naquele tempo,
+        Jesus respondeu aos judeus: "Meu Pai trabalha sempre, portanto também eu trabalho".
+        Então, os judeus ainda mais procuravam matá-lo, porque, além de violar o sábado, chamava Deus o seu Pai, fazendo-se, assim, igual a Deus.
+        Tomando a palavra, Jesus disse aos judeus: "Em verdade, em verdade vos digo, o Filho não pode fazer nada por si mesmo; ele faz apenas o que vê o Pai fazer.
+        O que o Pai faz, o Filho o faz também.
+        O Pai ama o Filho e lhe mostra tudo o que ele mesmo faz.
+        E lhe mostrará obras maiores ainda, de modo que ficareis admirados.
+        Assim como o Pai ressuscita os mortos e lhes dá a vida, o Filho também dá a vida a quem ele quer.
+        De fato, o Pai não julga ninguém, mas ele deu ao Filho o poder de julgar, para que todos honrem o Filho, assim como honram o Pai.
+        Quem não honra o Filho, também não honra o Pai que o enviou.
+        Em verdade, em verdade vos digo, quem ouve a minha palavra e crê naquele que me enviou, possui a vida eterna.
+        Não será condenado, pois já passou da morte para a vida.
+        Em verdade, em verdade, eu vos digo: está chegando a hora, e já chegou, em que os mortos ouvirão a voz do Filho de Deus e os que a ouvirem, viverão.
+        Porque, assim como o Pai possui a vida em si mesmo, do mesmo modo concedeu ao Filho possuir a vida em si mesmo.
+        Além disso, deu-lhe o poder de julgar, pois ele é o Filho do Homem.
+        Não fiqueis admirados com isso, porque vai chegar a hora, em que todos os que estão nos túmulos ouvirão a voz do Filho e sairão: aqueles que fizeram o bem, ressuscitarão para a vida; e aqueles que praticaram o mal, para a condenação.
+        Eu não posso fazer nada por mim mesmo.
+        Eu julgo conforme o que escuto, e meu julgamento é justo, porque não procuro fazer a minha vontade, mas a vontade daquele que me enviou".
+
+        Palavra da Salvação.
 lent.week4.5:
   title: Quinta-feira da 4ª Semana
   subtitle: Tempo da Quaresma
   color: purple
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Ex 32,7-14
+      text: |
+        Leitura do Livro do Êxodo 
+        
+        Naqueles dias,
+        o Senhor falou a Moisés: "Vai, desce, pois corrompeu-se o teu povo, que tiraste da terra do Egito.
+        Bem depressa desviaram-se do caminho que lhes prescrevi.
+        Fizeram para si um bezerro de metal fundido, inclinaram-se em adoração diante dele e ofereceram-lhe sacrifícios, dizendo: 'Estes são os teus deuses, Israel, que te fizeram sair do Egito!'"
+        E o Senhor disse ainda a Moisés: "Vejo que este é um povo de cabeça dura.
+        Deixa que minha cólera se inflame contra eles e que eu os extermine.
+        Mas de ti farei uma grande nação".
+        Moisés, porém, suplicava ao Senhor seu Deus, dizendo: "Por que, ó Senhor, se inflama a tua cólera contra o teu povo, que fizeste sair do Egito com grande poder e mão forte?
+        Não permitas, te peço, que os egípcios digam: 'Foi com má intenção que ele os tirou, para fazê-los perecer nas montanhas e exterminá-los da face da terra'.
+        Aplaque-se a tua ira e perdoa a iniquidade do teu povo.
+        Lembra-te de teus servos Abraão, Isaac e Israel, com os quais te comprometeste por juramento, dizendo: 'Tornarei os vossos descendentes tão numerosos como as estrelas do céu; e toda esta terra de que vos falei, eu a darei aos vossos descendentes como herança para sempre'".
+        E o Senhor desistiu do mal que havia ameaçado fazer ao seu povo.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 105(106),19-20.21-22.23 (R. 4a)
+      text: |
+        R. Lembrai-vos de nós, ó Senhor,
+        segundo o amor para com vosso povo!
+
+        Construíram um bezerro no Horeb
+        e adoraram uma estátua de metal;
+        eles trocaram o seu Deus, que é sua glória,
+        pela imagem de um boi que come feno. R.
+        
+        Esqueceram-se do Deus que os salvara,
+        que fizera maravilhas no Egito;
+        no país de Cam fez tantas obras admiráveis,
+        no Mar Vermelho, tantas coisas assombrosas. R.
+        
+        Até pensava em acabar com sua raça,
+        não se tivesse Moisés, o seu eleito,
+        interposto, intercedendo junto a ele,
+        para impedir que sua ira os destruísse. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 5,31-47
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Naquele tempo, disse Jesus aos judeus:
+        "Se eu der testemunho de mim mesmo, meu testemunho não vale.
+        Mas há um outro que dá testemunho de mim, e eu sei que o testemunho que ele dá de mim é verdadeiro.
+        Vós mandastes mensageiros a João, e ele deu testemunho da verdade.
+        Eu, porém, não dependo do testemunho de um ser humano.
+        Mas falo assim para a vossa salvação.
+        João era uma lâmpada que estava acesa e a brilhar, e vós com prazer vos alegrastes por um tempo com a sua luz.
+        Mas eu tenho um testemunho maior que o de João; as obras que o Pai me concedeu realizar.
+        As obras que eu faço dão testemunho de mim, mostrando que o Pai me enviou.
+        E também o Pai que me enviou dá testemunho a meu favor.
+        Vós nunca ouvistes sua voz, nem vistes sua face, e sua palavra não encontrou morada em vós, pois não acreditais naquele que ele enviou.
+        Vós examineis as Escrituras, pensando que nelas possuís a vida eterna.
+        No entanto, as Escrituras dão testemunho de mim, mas não quereis vir a mim para ter a vida eterna!
+        Eu não recebo a glória que vem dos homens.
+        Mas eu sei que não tendes em vós o amor de Deus.
+        Eu vim em nome do meu Pai, e vós não me recebeis.
+        Mas, se um outro viesse em seu próprio nome, a este vós o receberíeis.
+        Como podereis acreditar, vós que recebeis glória uns dos outros e não buscais a glória que vem do único Deus?
+        Não penseis que eu vos acusarei diante do Pai.
+        Há alguém que vos acusa: Moisés, no qual colocais a vossa esperança.
+        Se acreditásseis em Moisés, também acreditaríeis em mim, pois foi a respeito de mim que ele escreveu.
+        Mas se não acreditais nos seus escritos, como acreditareis então nas minhas palavras?"
+
+        Palavra da Salvação.
 lent.week4.6:
   title: Sexta-feira da 4ª Semana
   subtitle: Tempo da Quaresma
   color: purple
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Sb 2,1a.12-22
+      text: |
+        Leitura do Livro da Sabedoria 
+        
+        Dizem entre si, os ímpios,
+        em seus falsos raciocínios: "Armemos ciladas ao justo, porque sua presença nos incomoda: ele se opõe ao nosso modo de agir, repreende em nós as transgressões da lei e nos reprova as faltas contra a nossa disciplina.
+        Ele declara possuir o conhecimento de Deus e chama-se 'filho de Deus'.
+        Tornou-se uma censura aos nossos pensamentos e só o vê-lo nos é insuportável; sua vida é muito diferente da dos outros, e seus caminhos são imutáveis.
+        Somos comparados por ele à moeda falsa e foge de nossos caminhos como de impurezas; proclama feliz a sorte final dos justos e gloria-se de ter a Deus por pai.
+        Vejamos, pois, se é verdade o que ele diz, e comprovemos o que vai acontecer com ele.
+        Se, de fato, o justo é 'filho de Deus', Deus o defenderá e o livrará das mãos dos seus inimigos.
+        Vamos pô-lo à prova com ofensas e torturas, para ver a sua serenidade e provar a sua paciência; vamos condená-lo à morte vergonhosa, porque, de acordo com suas palavras, virá alguém em seu socorro".
+        Tais são os pensamentos dos ímpios, mas enganam-se; pois a malícia os torna cegos, não conhecem os segredos de Deus, não esperam recompensa para a santidade e não dão valor ao prêmio reservado às vidas puras.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 33(34),17-18.19-20.21 e 23 (R. 19a)
+      text: |
+        R. Do coração atribulado está perto o Senhor.
+        
+        O Senhor volta a sua face contra os maus,
+        para da terra apagar sua lembrança.
+        Clamam os justos, e o Senhor bondoso escuta
+        e de todas as angústias os liberta. R.
+        
+        Do coração atribulado ele está perto
+        e conforta os de espírito abatido.
+        Muitos males se abatem sobre os justos,
+        mas o Senhor de todos eles os liberta. R.
+        
+        Mesmo os seus ossos ele os guarda e os protege,
+        e nenhum deles haverá de se quebrar.
+        Mas o Senhor liberta a vida dos seus servos,
+        e castigado não será quem nele espera. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 7,1-2.10.25-30
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Naquele tempo,
+        Jesus andava percorrendo a Galileia.
+        Evitava andar pela Judeia, porque os judeus procuravam matá-lo.
+        Entretanto, aproximava-se a festa judaica das Tendas.
+        Quando seus irmãos já tinham subido, então também ele subiu para a festa, não publicamente mas sim, como que às escondidas.
+        Alguns habitantes de Jerusalém disseram então: "Não é este a quem procuram matar?
+        Eis que fala em público e nada lhe dizem.
+        Será que, na verdade, as autoridades reconheceram que ele é o Messias?
+        Mas este, nós sabemos donde é.
+        O Cristo, quando vier, ninguém saberá donde ele é".
+        Em alta voz, Jesus ensinava no Templo, dizendo: "Vós me conheceis e sabeis de onde sou; eu não vim por mim mesmo, mas o que me enviou é fidedigno.
+        A esse, não o conheceis, mas eu o conheço, porque venho da parte dele, e ele foi quem me enviou".
+        Então, queriam prendê-lo, mas ninguém pôs a mão nele, porque ainda não tinha chegado a sua hora.
+        
+        Palavra da Salvação.
 lent.week4.7:
   title: Sábado da 4ª Semana
   subtitle: Tempo da Quaresma
   color: purple
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Jr 11,18-20
+      text: |
+        Leitura do Livro do Profeta Jeremias 
+        
+        Senhor, avisaste-me e eu entendi;
+        fizeste-me saber as intrigas deles.
+        Eu era como manso cordeiro levado ao sacrifício, e não sabia que tramavam contra mim: "Vamos cortar a árvore em toda sua força, eliminá-lo do mundo dos vivos, para seu nome não ser mais lembrado".
+        E tu, Senhor dos exércitos, que julgas com justiça e perscrutas os afetos do coração, concede que eu veja a vingança que tomarás contra eles, pois eu te confiei a minha causa.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 7,2-3.9bc-10.11-12 (R. 2a)
+      text: |
+        R. Senhor meu Deus, em vós procuro o meu refúgio.
+        
+        Senhor meu Deus, em vós procuro o meu refúgio:
+        vinde salvar-me do inimigo, libertai-me!
+        Não aconteça que agarrem minha vida
+        como um leão que despedaça a sua presa,
+        sem que ninguém venha salvar-me e libertar-me! R.
+        
+        Julgai-me, Senhor Deus, como eu mereço
+        e segundo a inocência que há em mim!
+        Ponde um fim à iniquidade dos perversos,
+        e confirmai o vosso justo, ó Deus-justiça,
+        vós que sondais os nossos rins e corações. R.
+        
+        O Deus vivo é um escudo protetor,
+        e salva aqueles que têm reto coração.
+        Deus é juiz, e ele julga com justiça,
+        mas é um Deus que ameaça cada dia. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 7,40-53
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Naquele tempo,
+        ao ouvirem as palavras de Jesus, algumas pessoas da multidão diziam: "Este é, verdadeiramente, o Profeta".
+        Outros diziam: "Ele é o Messias".
+        Mas alguns objetavam: "Porventura o Messias virá da Galileia?
+        Não diz a Escritura que o Messias será da descendência de Davi e virá de Belém, povoado de onde era Davi?"
+        Assim, houve divisão no meio do povo por causa de Jesus.
+        Alguns queriam prendê-lo, mas ninguém pôs as mãos nele.
+        Então, os guardas do Templo voltaram para os sumos sacerdotes e os fariseus, e estes lhes perguntaram: "Por que não o trouxestes?"
+        Os guardas responderam: "Ninguém jamais falou como este homem".
+        Então os fariseus disseram-lhes: "Também vós vos deixastes enganar?
+        Por acaso algum dos chefes ou dos fariseus acreditou nele?
+        Mas esta gente que não conhece a Lei, é maldita!"
+        Nicodemos, porém, um dos fariseus, aquele que se tinha encontrado com Jesus anteriormente, disse: "Será que a nossa Lei julga alguém, antes de o ouvir e saber o que ele fez?"
+        Eles responderam: "Também tu és galileu, porventura?
+        Vai estudar e verás que da Galileia não surge profeta".
+        E cada um voltou para sua casa.
+
+        Palavra da Salvação.
 lent.week5.1.b:
   title: Domingo da 5ª Semana
   subtitle: Tempo da Quaresma
   color: purple
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Jr 31,31-34
+      text: |
+        Leitura do Livro do Profeta Jeremias 
+        
+        Eis que virão dias, diz o Senhor,
+        em que concluirei com a casa de Israel e a casa de Judá uma nova aliança; não como a aliança que fiz com seus pais, quando os tomei pela mão para retirá-los da terra do Egito, e que eles violaram, mas eu fiz valer a força sobre eles, diz o Senhor.
+        "Esta será a aliança que concluirei com a casa de Israel, depois desses dias, — diz o Senhor: — imprimirei minha lei em suas entranhas, e hei de inscrevê-la em seu coração; serei seu Deus e eles serão meu povo.
+        Não será mais necessário ensinar seu próximo ou seu irmão, dizendo: 'Conhece o Senhor!' todos me reconhecerão, do menor ao maior deles, diz o Senhor, pois perdoarei sua maldade, e não mais lembrarei o seu pecado".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 50(51),3-4.12-13.14-15 (R. 12a)
+      text: |
+        R. Criai em mim um coração que seja puro.
+        
+        Tende piedade, ó meu Deus, misericórdia!
+        Na imensidão de vosso amor, purificai-me!
+        Lavai-me todo inteiro do pecado,
+        e apagai completamente a minha culpa! R.
+        
+        Criai em mim um coração que seja puro,
+        dai-me de novo um espírito decidido.
+        Ó Senhor, não me afasteis de vossa face,
+        nem retireis de mim o vosso Santo Espírito! R.
+        
+        Dai-me de novo a alegria de ser salvo
+        e confirmai-me com espírito generoso!
+        Ensinarei vosso caminho aos pecadores,
+        e para vós se voltarão os transviados. R.
     - type: reading
-      ref: ''
-      text: ''
+      ref: Hb 5,7-9
+      text: |
+        Leitura da Carta aos Hebreus 
+        
+        Cristo, nos dias de sua vida terrestre,
+        dirigiu preces e súplicas, com forte clamor e lágrimas, àquele que era capaz de salvá-lo da morte.
+        E foi atendido, por causa de sua entrega a Deus.
+        Mesmo sendo Filho, aprendeu o que significa a obediência a Deus por aquilo que ele sofreu.
+        Mas, na consumação de sua vida, tornou-se causa de salvação eterna para todos os que lhe obedecem.
+        
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 12,20-33
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Naquele tempo,
+        havia alguns gregos entre os que tinham subido a Jerusalém, para adorar durante a festa.
+        Aproximaram-se de Filipe, que era de Betsaida da Galileia, e disseram: "Senhor, gostaríamos de ver Jesus".
+        Filipe combinou com André, e os dois foram falar com Jesus.
+        Jesus respondeu-lhes: "Chegou a hora em que o Filho do Homem vai ser glorificado.
+        Em verdade, em verdade vos digo: Se o grão de trigo que cai na terra não morre, ele continua só um grão de trigo; mas se morre, então produz muito fruto.
+        Quem se apega à sua vida, perde-a; mas quem faz pouca conta de sua vida neste mundo conservá-la-á para a vida eterna.
+        Se alguém me quer servir, siga-me, e onde eu estou estará também o meu servo.
+        Se alguém me serve, meu Pai o honrará.
+        Agora sinto-me angustiado. E que direi?
+        'Pai, livra-me desta hora!'?
+        Mas foi precisamente para esta hora que eu vim.
+        Pai, glorifica o teu nome!"
+        Então, veio uma voz do céu: "Eu o glorifiquei e o glorificarei de novo!"
+        A multidão que aí estava e ouviu, dizia que tinha sido um trovão.
+        Outros afirmavam: "Foi um anjo que falou com ele".
+        Jesus respondeu e disse: "Essa voz que ouvistes não foi por causa de mim, mas por causa de vós.
+        É agora o julgamento deste mundo.
+        Agora o chefe deste mundo vai ser expulso, e eu, quando for elevado da terra, atrairei todos a mim".
+        Jesus falava assim para indicar de que morte iria morrer.
+
+        Palavra da Salvação.
 lent.week5.2:
   title: Segunda-feira da 5ª Semana
   subtitle: Tempo da Quaresma
