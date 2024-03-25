@@ -6311,14 +6311,71 @@ lent.week6.4:
   color: purple
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Is 50,4-9a
+      text: |
+        Leitura do Livro do Profeta Isaías 
+        
+        O Senhor Deus deu-me língua adestrada,
+        para que eu saiba dizer palavras de conforto à pessoa abatida; ele me desperta cada manhã e me excita o ouvido, para prestar atenção como um discípulo.
+        O Senhor abriu-me os ouvidos; não lhe resisti nem voltei atrás.
+        Ofereci as costas para me baterem e as faces para me arrancarem a barba: não desviei o rosto de bofetões e cusparadas.
+        Mas o Senhor Deus é meu Auxiliador, por isso não me deixei abater o ânimo, conservei o rosto impassível como pedra, porque sei que não sairei humilhado.
+        A meu lado está quem me justifica; alguém me fará objeções? Vejamos.
+        Quem é meu adversário? Aproxime-se.
+        Sim, o Senhor Deus é meu Auxiliador; quem é que me vai condenar?
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 68(69),8-10.21bcd-22.31 e 33-34 (R. 14cb)
+      text: |
+        R. Respondei-me pelo vosso imenso amor,
+        neste tempo favorável, Senhor Deus.
+        
+        Por vossa causa é que sofri tantos insultos,
+        e o meu rosto se cobriu de confusão;
+        eu me tornei como um estranho a meus irmãos,
+        como estrangeiro para os filhos de minha mãe.
+        Pois meu zelo e meu amor por vossa casa
+        me devoram como fogo abrasador;
+        e os insultos de infiéis que vos ultrajam
+        recaíram todos eles sobre mim! R.
+        
+        O insulto me partiu o coração;
+        Eu esperei que alguém de mim tivesse pena;
+        procurei quem me aliviasse e não achei!
+        Deram-me fel como se fosse um alimento,
+        em minha sede ofereceram-me vinagre! R.
+        
+        Cantando eu louvarei o vosso nome
+        e agradecido exultarei de alegria!
+        Humildes, vede isto e alegrai-vos:
+        o vosso coração reviverá,
+        se procurardes o Senhor continuamente!
+        Pois nosso Deus atende à prece dos seus pobres,
+        e não despreza o clamor de seus cativos. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mt 26,14-25
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Mateus 
+        
+        Naquele tempo,
+        um dos doze discípulos, chamado Judas Iscariotes, foi ter com os sumos sacerdotes e disse: "O que me dareis se vos entregar Jesus?"
+        Combinaram, então, trinta moedas de prata.
+        E daí em diante, Judas procurava uma oportunidade para entregar Jesus.
+        No primeiro dia da festa dos Ázimos, os discípulos aproximaram-se de Jesus e perguntaram: "Onde queres que façamos os preparativos para comer a Páscoa?"
+        Jesus respondeu: "Ide à cidade, procurai certo homem e dizei-lhe: 'O Mestre manda dizer: o meu tempo está próximo, vou celebrar a Páscoa em tua casa, junto com meus discípulos'".
+        Os discípulos fizeram como Jesus mandou e prepararam a Páscoa.
+        Ao cair da tarde, Jesus pôs-se à mesa com os doze discípulos.
+        Enquanto comiam, Jesus disse: "Em verdade eu vos digo, um de vós vai me trair".
+        Eles ficaram muito tristes e, um por um, começaram a lhe perguntar: "Senhor, será que sou eu?"
+        Jesus respondeu: "Quem vai me trair é aquele que comigo põe a mão no prato.
+        O Filho do Homem vai morrer, conforme diz a Escritura a respeito dele.
+        Contudo, ai daquele que trair o Filho do Homem!
+        Seria melhor que nunca tivesse nascido!"
+        Então Judas, o traidor, perguntou: "Mestre, serei eu?"
+        Jesus lhe respondeu: "Tu o dizes".
+        
+        Palavra da Salvação.
 easter.week0.5.dawn:
   title: Missa do Crisma
   subtitle: Semana Santa
