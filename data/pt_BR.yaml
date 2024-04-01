@@ -7285,84 +7285,459 @@ easter.week1.2:
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 2,14.22-32
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        No dia de Pentecostes,
+        Pedro de pé, junto com os onze apóstolos, levantou a voz e falou à multidão: "Homens de Israel, escutai estas palavras: Jesus de Nazaré foi um homem aprovado por Deus, junto de vós, pelos milagres, prodígios e sinais que Deus realizou, por meio dele, entre vós.
+        Tudo isto vós bem o sabeis.
+        Deus, em seu desígnio e previsão, determinou que Jesus fosse entregue pelas mãos dos ímpios, e vós o matastes, pregando-o numa cruz.
+        Mas Deus ressuscitou a Jesus, libertando-o das angústias da morte, porque não era possível que ela o dominasse.
+        Pois Davi dele diz: 'Eu via sempre o Senhor diante de mim, pois está à minha direita para eu não vacilar.
+        Alegrou-se por isso meu coração e exultou minha língua e até minha carne repousará na esperança.
+        Porque não deixarás minha alma na região dos mortos nem permitirás que teu Santo experimente corrupção.
+        Deste-me a conhecer os caminhos da vida e a tua presença me encherá de alegria'.
+        Irmãos, seja-me permitido dizer com franqueza que o patriarca Davi morreu e foi sepultado e seu sepulcro está entre nós até hoje.
+        Mas, sendo profeta, sabia que Deus lhe jurara solenemente que um de seus descendentes ocuparia o trono.
+        É, portanto, a ressurreição de Cristo que previu e anunciou com as palavras: 'Ele não foi abandonado na região dos mortos e sua carne não conheceu a corrupção'.
+        Com efeito, Deus ressuscitou este mesmo Jesus e disto todos nós somos testemunhas".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 15(16),1-2a e 5.7-8.9-10.11 (R. 1)
+      text: |
+        R. Guardai-me, ó Deus, porque em vós me refugio!
+        
+        Ou: Aleluia, Aleluia, Aleluia.
+        
+        Guardai-me, ó Deus, porque em vós me refugio!
+        Digo ao Senhor: "Somente vós sois meu Senhor;
+        Ó Senhor, sois minha herança e minha taça,
+        meu destino está seguro em vossas mãos! R.
+        
+        Eu bendigo o Senhor, que me aconselha,
+        e até de noite me adverte o coração.
+        Tenho sempre o Senhor ante meus olhos,
+        pois se o tenho a meu lado não vacilo. R.
+        
+        Eis por que meu coração está em festa,
+        minha alma rejubila de alegria,
+        e até meu corpo no repouso está tranquilo;
+        pois não haveis de me deixar entregue à morte,
+        nem vosso amigo conhecer a corrupção. R.
+        
+        Vós me ensinais vosso caminho para a vida;
+        junto a vós, felicidade sem limites,
+        delícia eterna e alegria ao vosso lado! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mt 28,8-15
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Mateus 
+        
+        Naquele tempo,
+        as mulheres partiram depressa do sepulcro.
+        Estavam com medo, mas correram com grande alegria, para dar a notícia aos discípulos.
+        De repente, Jesus foi ao encontro delas, e disse: "Alegrai-vos!"
+        As mulheres aproximaram-se, e prostraram-se diante de Jesus, abraçando seus pés.
+        Então Jesus disse a elas: "Não tenhais medo.
+        Ide anunciar aos meus irmãos que se dirijam para a Galileia.
+        Lá eles me verão".
+        Quando as mulheres partiram, alguns guardas do túmulo foram à cidade, e comunicaram aos sumos sacerdotes tudo o que havia acontecido.
+        Os sumos sacerdotes reuniram-se com os anciãos, e deram uma grande soma de dinheiro aos soldados, dizendo-lhes: "Dizei que os discípulos dele foram durante a noite e roubaram o corpo, enquanto vós dormíeis.
+        Se o governador ficar sabendo disso, nós o convenceremos.
+        Não vos preocupeis".
+        Os soldados pegaram o dinheiro, e agiram de acordo com as instruções recebidas.
+        E assim, o boato espalhou-se entre os judeus, até ao dia de hoje.
+        
+        Palavra da Salvação.
 easter.week1.3:
   title: Terça-feira da 1ª Semana
   subtitle: Oitava de Páscoa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 2,36-41
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        No dia de Pentecostes, Pedro disse aos judeus:
+        "Que todo o povo de Israel reconheça com plena certeza: Deus constituiu Senhor e Cristo a este Jesus que vós crucificastes".
+        Quando ouviram isso, eles ficaram com o coração aflito, e perguntaram a Pedro e aos outros apóstolos: "Irmãos, o que devemos fazer?"
+        Pedro respondeu: "Convertei-vos e cada um de vós seja batizado em nome de Jesus Cristo, para o perdão dos vossos pecados.
+        E vós recebereis o dom do Espírito Santo.
+        Pois a promessa é para vós e vossos filhos, e para todos aqueles que estão longe, todos aqueles que o Senhor nosso Deus chamar para si".
+        Com muitas outras palavras, Pedro lhes dava testemunho, e os exortava, dizendo: "Salvai-vos dessa gente corrompida!"
+        Os que aceitaram as palavras de Pedro receberam o batismo.
+        Naquele dia, mais ou menos três mil pessoas se uniram a eles.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 32(33),4-5.18-19.20 e 22 (R. 5b)
+      text: |
+        R. Transborda em toda a terra a bondade do Senhor.
+
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Reta é a palavra do Senhor,
+        e tudo o que ele faz merece fé.
+        Deus ama o direito e a justiça,
+        transborda em toda a terra a sua graça. R.
+        
+        Mas o Senhor pousa o olhar sobre os que o temem,
+        e que confiam esperando em seu amor,
+        para da morte libertar as suas vidas
+        e alimentá-los quando é tempo de penúria. R.
+        
+        No Senhor nós esperamos confiantes,
+        porque ele é nosso auxílio e proteção!
+        Sobre nós venha, Senhor, a vossa graça,
+        da mesma forma que em vós nós esperamos! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 20,11-18
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Naquele tempo,
+        Maria estava do lado de fora do túmulo, chorando.
+        Enquanto chorava, inclinou-se e olhou para dentro do túmulo.
+        Viu, então, dois anjos vestidos de branco, sentados onde tinha sido posto o corpo de Jesus, um à cabeceira e outro aos pés.
+        Os anjos perguntaram: "Mulher, por que choras?"
+        Ela respondeu: "Levaram o meu Senhor e não sei onde o colocaram".
+        Tendo dito isto, Maria voltou-se para trás e viu Jesus, de pé.
+        Mas não sabia que era Jesus.
+        Jesus perguntou-lhe: "Mulher, por que choras?
+        A quem procuras?"
+        Pensando que era o jardineiro, Maria disse: "Senhor, se foste tu que o levaste dize-me onde o colocaste, e eu o irei buscar".
+        Então Jesus disse: "Maria!"
+        Ela voltou-se e exclamou, em hebraico: "Rabuni" (que quer dizer: Mestre).
+        Jesus disse: "Não me segures.
+        Ainda não subi para junto do Pai.
+        Mas vai dizer aos meus irmãos: subo para junto do meu Pai e vosso Pai, meu Deus e vosso Deus".
+        Então Maria Madalena foi anunciar aos discípulos: "Eu vi o Senhor!", e contou o que Jesus lhe tinha dito.
+        
+        Palavra da Salvação.
 easter.week1.4:
   title: Quarta-feira da 1ª Semana
   subtitle: Oitava de Páscoa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 3,1-10
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        Naqueles dias,
+        Pedro e João subiram ao Templo para a oração das três horas da tarde.
+        Então trouxeram um homem, coxo de nascença, que costumavam colocar todos os dias na porta do Templo, chamada Formosa, a fim de que pedisse esmolas aos que entravam.
+        Quando viu Pedro e João entrando no Templo, o homem pediu uma esmola.
+        Os dois olharam bem para ele e Pedro disse: "Olha para nós!"
+        O homem fitou neles o olhar, esperando receber alguma coisa.
+        Pedro então lhe disse: "Não tenho ouro nem prata, mas o que tenho eu te dou: em nome de Jesus Cristo, o Nazareno, levanta-te e anda!"
+        E pegando-lhe a mão direita, Pedro o levantou.
+        Na mesma hora, os pés e os tornozelos do homem ficaram firmes.
+        Então ele deu um pulo, ficou de pé e começou a andar.
+        E entrou no Templo junto com Pedro e João, andando, pulando e louvando a Deus.
+        O povo todo viu o homem andando e louvando a Deus.
+        E reconheceram que era ele que pedia esmolas, sentado na porta Formosa do Templo.
+        E ficaram admirados e espantados com o que havia acontecido com ele.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 104(105),1-2.3-4.6-7.8-9 (R. 3b)
+      text: |
+        R. Exulte o coração dos que buscam o Senhor.
+        
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Dai graças ao Senhor, gritai seu nome,
+        anunciai entre as nações seus grandes feitos!
+        Cantai, entoai salmos para ele,
+        publicai todas as suas maravilhas! R.
+        
+        Gloriai-vos em seu nome que é santo,
+        exulte o coração que busca a Deus!
+        Procurai o Senhor Deus e seu poder,
+        buscai constantemente a sua face! R.
+        
+        Descendentes de Abraão, seu servidor,
+        e filhos de Jacó, seu escolhido,
+        ele mesmo, o Senhor, é nosso Deus,
+        vigoram suas leis em toda a terra. R.
+        
+        Ele sempre se recorda da Aliança,
+        promulgada a incontáveis gerações;
+        da Aliança que ele fez com Abraão,
+        e do seu santo juramento a Isaac. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Lc 24,13-35
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Lucas 
+        
+        Naquele mesmo dia, o primeiro da semana,
+        dois dos discípulos de Jesus iam para um povoado, chamado Emaús, distante onze quilômetros de Jerusalém.
+        Conversavam sobre todas as coisas que tinham acontecido.
+        Enquanto conversavam e discutiam, o próprio Jesus se aproximou e começou a caminhar com eles.
+        Os discípulos, porém, estavam como que cegos, e não o reconheceram.
+        Então Jesus perguntou: "O que ides conversando pelo caminho?"
+        Eles pararam, com o rosto triste, e um deles, chamado Cléofas, lhe disse: "Tu és o único peregrino em Jerusalém que não sabe o que lá aconteceu nestes últimos dias?"
+        Ele perguntou: "O que foi?"
+        Os discípulos responderam: "O que aconteceu com Jesus, o Nazareno, que foi um profeta poderoso em obras e palavras, diante de Deus e diante de todo o povo.
+        Nossos sumos sacerdotes e nossos chefes o entregaram para ser condenado à morte e o crucificaram.
+        Nós esperávamos que ele fosse libertar Israel, mas, apesar de tudo isso, já faz três dias que todas essas coisas aconteceram!
+        É verdade que algumas mulheres do nosso grupo nos deram um susto.
+        Elas foram de madrugada ao túmulo e não encontraram o corpo dele.
+        Então voltaram, dizendo que tinham visto anjos e que estes afirmaram que Jesus está vivo.
+        Alguns dos nossos foram ao túmulo e encontraram as coisas como as mulheres tinham dito.
+        A ele, porém, ninguém o viu".
+        Então Jesus lhes disse: "Como sois sem inteligência e lentos para crer em tudo o que os profetas falaram!
+        Será que o Cristo não devia sofrer tudo isso para entrar na sua glória?"
+        E, começando por Moisés e passando pelos Profetas, explicava aos discípulos todas as passagens da Escritura que falavam a respeito dele.
+        Quando chegaram perto do povoado para onde iam, Jesus fez de conta que ia mais adiante.
+        Eles, porém, insistiram com Jesus, dizendo: "Fica conosco, pois já é tarde e a noite vem chegando!"
+        Jesus entrou para ficar com eles.
+        Quando se sentou à mesa com eles, tomou o pão, abençoou-o, partiu-o e lhes distribuía.
+        Nisso os olhos dos discípulos se abriram e eles reconheceram Jesus.
+        Jesus, porém, desapareceu da frente deles.
+        Então um disse ao outro: "Não estava ardendo o nosso coração quando ele nos falava pelo caminho, e nos explicava as Escrituras?"
+        Naquela mesma hora, eles se levantaram e voltaram para Jerusalém, onde encontraram os Onze reunidos com os outros.
+        E estes confirmaram: "Realmente, o Senhor ressuscitou e apareceu a Simão!"
+        Então os dois contaram o que tinha acontecido no caminho, e como tinham reconhecido Jesus ao partir o pão.
+        
+        Palavra da Salvação.
 easter.week1.5:
   title: Quinta-feira da 1ª Semana
   subtitle: Oitava de Páscoa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 3,11-26
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        Naqueles dias,
+        como o paralítico não deixava mais Pedro e João, todo o povo, assombrado, foi correndo para junto deles, no chamado "Pórtico de Salomão".
+        Ao ver isso, Pedro dirigiu-se ao povo: "Israelitas, por que vos espantais com o que aconteceu?
+        Por que ficais olhando para nós, como se tivéssemos feito este homem andar com nosso próprio poder ou piedade?
+        O Deus de Abraão, de Isaac, de Jacó, o Deus de nossos antepassados glorificou o seu servo Jesus.
+        Vós o entregastes e o rejeitastes diante de Pilatos, que estava decidido a soltá-lo.
+        Vós rejeitastes o Santo e o Justo, e pedistes a libertação para um assassino.
+        Vós matastes o autor da vida, mas Deus o ressuscitou dos mortos, e disso nós somos testemunhas.
+        Graças à fé no nome de Jesus, este Nome acaba de fortalecer este homem que vedes e reconheceis.
+        A fé que vem por meio de Jesus lhe deu perfeita saúde na presença de todos vós.
+        E agora, meus irmãos, eu sei que vós agistes por ignorância, assim como vossos chefes.
+        Deus, porém, cumpriu desse modo o que havia anunciado pela boca de todos os profetas: que o seu Cristo haveria de sofrer.
+        Arrependei-vos, portanto, e convertei-vos, para que vossos pecados sejam perdoados.
+        Assim podereis alcançar o tempo do repouso que vem do Senhor.
+        E ele enviará Jesus, o Cristo, que vos foi destinado.
+        No entanto, é necessário que o céu o receba, até que se cumpra o tempo da restauração de todas as coisas, conforme disse Deus, nos tempos passados, pela boca de seus santos profetas.
+        Com efeito, Moisés afirmou: 'O Senhor Deus fará surgir, entre vossos irmãos, um profeta como eu.
+        Escutai tudo o que ele vos disser.
+        Quem não der ouvidos a esse profeta, será eliminado do meio do povo'.
+        E todos os profetas que falaram, desde Samuel e seus sucessores, também eles anunciaram estes dias.
+        Vós sois filhos dos profetas e da aliança, que Deus fez com vossos pais, quando disse a Abraão: 'Através da tua descendência serão abençoadas todas as famílias da terra'.
+        Após ter ressuscitado o seu servo, Deus o enviou em primeiro lugar a vós, para vos abençoar, na medida em que cada um se converta de suas maldades".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 8,2a e 5.6-7.8-9 (R. 2ab)
+      text: |
+        R. Ó Senhor, nosso Deus, como é grande
+        vosso nome por todo o universo!
+
+        Ou: Aleluia, Aleluia, Aleluia.
+        
+        Ó Senhor nosso Deus, como é grande
+        vosso nome por todo o universo!
+        Perguntamos: "Senhor que é o homem,
+        para dele assim vos lembrardes
+        e o tratardes com tanto carinho?" R.
+        
+        Pouco abaixo de Deus o fizestes,
+        coroando-o de glória e esplendor;
+        vós lhe destes poder sobre tudo,
+        vossas obras aos pés lhe pusestes: R.
+        
+        as ovelhas, os bois, os rebanhos,
+        todo o gado e as feras da mata;
+        passarinhos e peixes dos mares,
+        todo ser que se move nas águas. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Lc 24,35-48
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Lucas 
+        
+        Naquele tempo,
+        os dois discípulos contaram o que tinha acontecido no caminho, e como tinham reconhecido Jesus ao partir o pão.
+        Ainda estavam falando, quando o próprio Jesus apareceu no meio deles e lhes disse: "A paz esteja convosco!"
+        Eles ficaram assustados e cheios de medo, pensando que estavam vendo um fantasma.
+        Mas Jesus disse: "Por que estais preocupados, e porque tendes dúvidas no coração?
+        Vede minhas mãos e meus pés: sou eu mesmo!
+        Tocai em mim e vede!
+        Um fantasma não tem carne, nem ossos, como estais vendo que eu tenho".
+        E dizendo isso, Jesus mostrou-lhes as mãos e os pés.
+        Mas eles ainda não podiam acreditar, porque estavam muito alegres e surpresos.
+        Então Jesus disse: "Tendes aqui alguma coisa para comer?"
+        Deram-lhe um pedaço de peixe assado.
+        Ele o tomou e comeu diante deles.
+        Depois disse-lhes: "São estas as coisas que vos falei quando ainda estava convosco: era preciso que se cumprisse tudo o que está escrito sobre mim na Lei de Moisés, nos Profetas e nos Salmos".
+        Então Jesus abriu a inteligência dos discípulos para entenderem as Escrituras, e lhes disse: "Assim está escrito:
+        O Cristo sofrerá e ressuscitará dos mortos ao terceiro dia e no seu nome, serão anunciados a conversão e o perdão dos pecados a todas as nações, começando por Jerusalém.
+        Vós sereis testemunhas de tudo isso".
+        
+        Palavra da Salvação.
 easter.week1.6:
   title: Sexta-feira da 1ª Semana
   subtitle: Oitava de Páscoa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 4,1-12
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        Naqueles dias,
+        depois que o paralítico fora curado, Pedro e João ainda estavam falando ao povo, quando chegaram os sacerdotes, o chefe da guarda do Templo e os saduceus.
+        Estavam irritados porque os apóstolos ensinavam o povo e anunciavam a ressurreição dos mortos na pessoa de Jesus.
+        Eles prenderam Pedro e João e os colocaram na prisão até ao dia seguinte, porque já estava anoitecendo.
+        Todavia, muitos daqueles que tinham ouvido a pregação acreditaram.
+        E o número dos homens chegou a uns cinco mil.
+        No dia seguinte, reuniram-se em Jerusalém os chefes, os anciãos e os mestres da Lei.
+        Estavam presentes o Sumo Sacerdote Anás, e também Caifás, João, Alexandre, e todos os que pertenciam às famílias dos sumos sacerdotes.
+        Fizeram Pedro e João comparecer diante deles e os interrogavam: "Com que poder ou em nome de quem vós fizestes isso?"
+        Então, Pedro, cheio do Espírito Santo, disse-lhes: "Chefes do povo e anciãos: hoje estamos sendo interrogados por termos feito o bem a um enfermo e pelo modo como foi curado.
+        Ficai, pois, sabendo todos vós e todo o povo de Israel: é pelo nome de Jesus Cristo, de Nazaré, - aquele que vós crucificastes e que Deus ressuscitou dos mortos - que este homem está curado, diante de vós.
+        Jesus é a pedra, que vós, os construtores, desprezastes, e que se tornou a pedra angular.
+        Em nenhum outro há salvação, pois não existe debaixo do céu outro nome dado aos homens pelo qual possamos ser salvos".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 117(118),1-2 e 4.22-24.25-27a (R. 22)
+      text: |
+        R. A pedra que os pedreiros rejeitaram,
+        tornou-se agora a pedra angular.
+
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Dai graças ao Senhor, porque ele é bom!
+        "Eterna é a sua misericórdia!"
+        A casa de Israel agora o diga:
+        "Eterna é a sua misericórdia!"
+        Os que temem o Senhor agora o digam:
+        "Eterna é a sua misericórdia!" R.
+        
+        "A pedra que os pedreiros rejeitaram,
+        tornou-se agora a pedra angular.
+        Pelo Senhor é que foi feito tudo isso:
+        Que maravilhas ele fez a nossos olhos!
+        Este é o dia que o Senhor fez para nós,
+        alegremo-nos e nele exultemos! R.
+        
+        Ó Senhor, dai-nos a vossa salvação,
+        ó Senhor, dai-nos também prosperidade!"
+        Bendito seja, em nome do Senhor,
+        aquele que em seus átrios vai entrando!
+        Desta casa do Senhor vos bendizemos.
+        Que o Senhor e nosso Deus nos ilumine! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 21,1-14
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Naquele tempo,
+        Jesus apareceu de novo aos discípulos, à beira do mar de Tiberíades.
+        A aparição foi assim: Estavam juntos Simão Pedro, Tomé, chamado Dídimo, Natanael de Caná da Galileia, os filhos de Zebedeu e outros dois discípulos de Jesus.
+        Simão Pedro disse a eles: "Eu vou pescar".
+        Eles disseram: "Também vamos contigo".
+        Saíram e entraram na barca, mas não pescaram nada naquela noite.
+        Já tinha amanhecido, e Jesus estava de pé na margem.
+        Mas os discípulos não sabiam que era Jesus.
+        Então Jesus disse: "Moços, tendes alguma coisa para comer?"
+        Responderam: "Não".
+        Jesus disse-lhes: "Lançai a rede à direita da barca, e achareis".
+        Lançaram pois a rede e não conseguiam puxá-la para fora, por causa da quantidade de peixes.
+        Então, o discípulo a quem Jesus amava disse a Pedro: "É o Senhor!"
+        Simão Pedro, ouvindo dizer que era o Senhor, vestiu sua roupa, pois estava nu, e atirou-se ao mar.
+        Os outros discípulos vieram com a barca, arrastando a rede com os peixes.
+        Na verdade, não estavam longe da terra, mas somente a cerca de cem metros.
+        Logo que pisaram a terra, viram brasas acesas, com peixe em cima, e pão.
+        Jesus disse-lhes: "Trazei alguns dos peixes que apanhastes".
+        Então Simão Pedro subiu ao barco e arrastou a rede para a terra.
+        Estava cheia de cento e cinquenta e três grandes peixes; e apesar de tantos peixes, a rede não se rompeu.
+        Jesus disse-lhes: "Vinde comer".
+        Nenhum dos discípulos se atrevia a perguntar quem era ele, pois sabiam que era o Senhor.
+        Jesus aproximou-se, tomou o pão e distribuiu-o por eles.
+        E fez a mesma coisa com o peixe.
+        Esta foi a terceira vez que Jesus, ressuscitado dos mortos, apareceu aos discípulos.
+        
+        Palavra da Salvação.
 easter.week1.7:
   title: Sábado da 1ª Semana
   subtitle: Tempo da Páscoa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 4,13-21
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        Naqueles dias,
+        Os chefes dos sacerdotes, os anciãos e os escribas, ficaram admirados ao ver a segurança com que Pedro e João falavam, pois eram pessoas simples e sem instrução.
+        Reconheciam que eles tinham estado com Jesus.
+        No entanto viam, de pé, junto a eles, o homem que tinha sido curado.
+        E não podiam dizer nada em contrário.
+        Mandaram que saíssem para fora do Sinédrio, e começaram a discutir entre si: "O que vamos fazer com esses homens?
+        Eles realizaram um milagre claríssimo, e o fato tornou-se de tal modo conhecido por todos os habitantes de Jerusalém, que não podemos negá-lo.
+        Contudo, a fim de que a coisa não se espalhe ainda mais entre o povo, vamos ameaçá-los, para que não falem mais a ninguém a respeito do nome de Jesus".
+        Chamaram de novo Pedro e João e ordenaram-lhes que, de modo algum, falassem ou ensinassem em nome de Jesus.
+        Pedro e João responderam: "Julgai vós mesmos, se é justo diante de Deus que obedeçamos a vós e não a Deus!
+        Quanto a nós, não nos podemos calar sobre o que vimos e ouvimos".
+        Então, insistindo em suas ameaças, deixaram Pedro e João em liberdade, já que não tinham meio de castigá-los, por causa do povo.
+        Pois todos glorificavam a Deus pelo que havia acontecido.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 117(118),1 e 14-15.16ab-18.19-21 (R. 21a)
+      text: |
+        R. Dou-vos graças, ó Senhor, porque me ouvistes.
+        
+        Ou: Aleluia, Aleluia, Aleluia.
+        
+        Dai graças ao Senhor, porque ele é bom!
+        "Eterna é a sua misericórdia!"
+        O Senhor é minha força e o meu canto,
+        e tornou-se para mim o Salvador.
+        "Clamores de alegria e de vitória
+        ressoem pelas tendas dos fiéis. R.
+        
+        A mão direita do Senhor fez maravilhas,
+        a mão direita do Senhor me levantou,
+        a mão direita do Senhor fez maravilhas!"
+        O Senhor severamente me provou,
+        mas não me abandonou às mãos da morte. R.
+        
+        Abri-me vós, abri-me as portas da justiça;
+        quero entrar para dar graças ao Senhor!
+        "Sim, esta é a porta do Senhor,
+        por ela só os justos entrarão!"
+        Dou-vos graças, ó Senhor, porque me ouvistes
+        e vos tornastes para mim o Salvador! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 16,9-15
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos 
+        
+        Depois de ressuscitar,
+        na madrugada do primeiro dia após o sábado, Jesus apareceu primeiro a Maria Madalena, da qual havia expulsado sete demônios.
+        Ela foi anunciar isso aos seguidores de Jesus, que estavam de luto e chorando.
+        Quando ouviram que ele estava vivo e fora visto por ela, não quiseram acreditar.
+        Em seguida, Jesus apareceu a dois deles, com outra aparência, enquanto estavam indo para o campo.
+        Eles também voltaram e anunciaram isso aos outros.
+        Também a estes não deram crédito.
+        Por fim, Jesus apareceu aos onze discípulos enquanto estavam comendo, repreendeu-os por causa da falta de fé e pela dureza de coração, porque não tinham acreditado naqueles que o tinham visto ressuscitado.
+        E disse-lhes: "Ide pelo mundo inteiro e anunciai o Evangelho a toda criatura!"
+        
+        Palavra da Salvação.
 easter.week2.1.a:
   title: Domingo da 2ª Semana
   subtitle: Tempo da Páscoa
