@@ -2947,8 +2947,8 @@
     ]
   },
   "easter.week1.2": {
-    "title": "Segunda-feira da 1ª Semana",
-    "subtitle": "Oitava de Páscoa",
+    "title": "Segunda-feira",
+    "subtitle": "Oitava da Páscoa",
     "color": "white",
     "readings": [
       {
@@ -2969,8 +2969,8 @@
     ]
   },
   "easter.week1.3": {
-    "title": "Terça-feira da 1ª Semana",
-    "subtitle": "Oitava de Páscoa",
+    "title": "Terça-feira",
+    "subtitle": "Oitava da Páscoa",
     "color": "white",
     "readings": [
       {
@@ -2991,8 +2991,8 @@
     ]
   },
   "easter.week1.4": {
-    "title": "Quarta-feira da 1ª Semana",
-    "subtitle": "Oitava de Páscoa",
+    "title": "Quarta-feira",
+    "subtitle": "Oitava da Páscoa",
     "color": "white",
     "readings": [
       {
@@ -3013,8 +3013,8 @@
     ]
   },
   "easter.week1.5": {
-    "title": "Quinta-feira da 1ª Semana",
-    "subtitle": "Oitava de Páscoa",
+    "title": "Quinta-feira",
+    "subtitle": "Oitava da Páscoa",
     "color": "white",
     "readings": [
       {
@@ -3035,8 +3035,8 @@
     ]
   },
   "easter.week1.6": {
-    "title": "Sexta-feira da 1ª Semana",
-    "subtitle": "Oitava de Páscoa",
+    "title": "Sexta-feira",
+    "subtitle": "Oitava da Páscoa",
     "color": "white",
     "readings": [
       {
@@ -3057,8 +3057,8 @@
     ]
   },
   "easter.week1.7": {
-    "title": "Sábado da 1ª Semana",
-    "subtitle": "Tempo da Páscoa",
+    "title": "Sábado",
+    "subtitle": "Oitava da Páscoa",
     "color": "white",
     "readings": [
       {
@@ -3106,29 +3106,29 @@
     ]
   },
   "easter.week2.1.b": {
-    "title": "Domingo da 2ª Semana",
-    "subtitle": "Tempo da Páscoa",
+    "title": "Domingo da Divina Misericórdia",
+    "subtitle": "Oitava da Páscoa",
     "color": "white",
     "readings": [
       {
         "type": "reading",
-        "ref": "",
-        "text": ""
+        "ref": "At 4,32-35",
+        "text": "Leitura dos Atos dos Apóstolos \n\nA multidão dos fiéis era um só coração e uma só alma.\nNinguém considerava como próprias as coisas que possuía, mas tudo entre eles era posto em comum.\nCom grandes sinais de poder, os apóstolos davam testemunho da ressurreição do Senhor Jesus.\nE os fiéis eram estimados por todos.\nEntre eles ninguém passava necessidade, pois aqueles que possuíam terras ou casas, vendiam-nas, levavam o dinheiro, e o colocavam aos pés dos apóstolos.\nDepois, era distribuído conforme a necessidade de cada um.\n\nPalavra do Senhor.\n"
       },
       {
         "type": "psalm",
-        "ref": "",
-        "text": ""
+        "ref": "Sl 117(118),2-4.16ab-18.22-24 (R. 1)",
+        "text": "R. Dai graças ao Senhor, porque ele é bom;\n\"eterna é a sua misericórdia!\"\n\nOu: Aleluia, Aleluia, Aleluia.\n\nA casa de Israel agora o diga:\n\"Eterna é a sua misericórdia!\"\nA casa de Aarão agora o diga:\n\"Eterna é a sua misericórdia!\"\nOs que temem o Senhor agora o digam:\n\"Eterna é a sua misericórdia!\" R.\n\nA mão direita do Senhor fez maravilhas,\na mão direita do Senhor me levantou,\na mão direita do Senhor fez maravilhas!\nNão morrerei, mas ao contrário, viverei\npara cantar as grandes obras do Senhor!\nO Senhor severamente me provou,\nmas não me abandonou às mãos da morte. R.\n\nA pedra que os pedreiros rejeitaram,\ntornou-se agora a pedra angular.\nPelo Senhor é que foi feito tudo isso:\nQue maravilhas ele fez a nossos olhos!\nEste é o dia que o Senhor fez para nós,\nalegremo-nos e nele exultemos! R.\n"
       },
       {
         "type": "reading",
-        "ref": "",
-        "text": ""
+        "ref": "1Jo 5,1-6",
+        "text": "Leitura da Primeira Carta de São João \n\nCaríssimos:\nTodo o que crê que Jesus é o Cristo, nasceu de Deus, e quem ama aquele que gerou alguém, amará também aquele que dele nasceu.\nPodemos saber que amamos os filhos de Deus, quando amamos a Deus e guardamos os seus mandamentos.\nPois isto é amar a Deus: observar os seus mandamentos.\nE os seus mandamentos não são pesados, pois todo o que nasceu de Deus vence o mundo.\nE esta é a vitória que venceu o mundo: a nossa fé.\nQuem é o vencedor do mundo, senão aquele que crê que Jesus é o Filho de Deus?\nEste é o que veio pela água e pelo sangue: Jesus Cristo.\n(Não veio somente com a água, mas com a água e o sangue).\nE o Espírito é que dá testemunho, porque o Espírito é a Verdade.\n\nPalavra do Senhor.\n"
       },
       {
         "type": "gospel",
-        "ref": "",
-        "text": ""
+        "ref": "Jo 20,19-31",
+        "text": "Proclamação do Evangelho de Jesus Cristo segundo João \n\nAo anoitecer daquele dia, o primeiro da semana,\nestando fechadas, por medo dos judeus, as portas do lugar onde os discípulos se encontravam, Jesus entrou e pondo-se no meio deles, disse: \"A paz esteja convosco\".\nDepois destas palavras, mostrou-lhes as mãos e o lado.\nEntão os discípulos se alegraram por verem o Senhor.\nNovamente, Jesus disse: \"A paz esteja convosco.\nComo o Pai me enviou, também eu vos envio\".\nE depois de ter dito isso, soprou sobre eles e disse: \"Recebei o Espírito Santo.\nA quem perdoardes os pecados, eles lhes serão perdoados; a quem os não perdoardes, eles lhes serão retidos\".\nTomé, chamado Dídimo, que era um dos doze, não estava com eles quando Jesus veio.\nOs outros discípulos contaram-lhe depois: \"Vimos o Senhor!\".\nMas Tomé disse-lhes: \"Se eu não vir a marca dos pregos em suas mãos, se eu não puser o dedo nas marcas dos pregos e não puser a mão no seu lado, não acreditarei\".\nOito dias depois, encontravam-se os discípulos novamente reunidos em casa, e Tomé estava com eles.\nEstando fechadas as portas, Jesus entrou, pôs-se no meio deles e disse: \"A paz esteja convosco\".\nDepois disse a Tomé: \"Põe o teu dedo aqui e olha as minhas mãos.\nEstende a tua mão e coloca-a no meu lado.\nE não sejas incrédulo, mas fiel\".\nTomé respondeu: \"Meu Senhor e meu Deus!\"\nJesus lhe disse: \"Acreditaste, porque me viste?\nBem-aventurados os que creram sem terem visto!\"\nJesus realizou muitos outros sinais diante dos discípulos, que não estão escritos neste livro.\nMas estes foram escritos para que acrediteis que Jesus é o Cristo, o Filho de Deus, e para que, crendo, tenhais a vida em seu nome.\n\nPalavra da Salvação.\n"
       }
     ]
   },
