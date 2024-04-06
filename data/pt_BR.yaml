@@ -7280,8 +7280,8 @@ easter.week1.1.c:
       ref: ''
       text: ''
 easter.week1.2:
-  title: Segunda-feira da 1ª Semana
-  subtitle: Oitava de Páscoa
+  title: Segunda-feira
+  subtitle: Oitava da Páscoa
   color: white
   readings:
     - type: reading
@@ -7352,8 +7352,8 @@ easter.week1.2:
         
         Palavra da Salvação.
 easter.week1.3:
-  title: Terça-feira da 1ª Semana
-  subtitle: Oitava de Páscoa
+  title: Terça-feira
+  subtitle: Oitava da Páscoa
   color: white
   readings:
     - type: reading
@@ -7418,8 +7418,8 @@ easter.week1.3:
         
         Palavra da Salvação.
 easter.week1.4:
-  title: Quarta-feira da 1ª Semana
-  subtitle: Oitava de Páscoa
+  title: Quarta-feira
+  subtitle: Oitava da Páscoa
   color: white
   readings:
     - type: reading
@@ -7506,8 +7506,8 @@ easter.week1.4:
         
         Palavra da Salvação.
 easter.week1.5:
-  title: Quinta-feira da 1ª Semana
-  subtitle: Oitava de Páscoa
+  title: Quinta-feira
+  subtitle: Oitava da Páscoa
   color: white
   readings:
     - type: reading
@@ -7587,8 +7587,8 @@ easter.week1.5:
         
         Palavra da Salvação.
 easter.week1.6:
-  title: Sexta-feira da 1ª Semana
-  subtitle: Oitava de Páscoa
+  title: Sexta-feira
+  subtitle: Oitava da Páscoa
   color: white
   readings:
     - type: reading
@@ -7672,8 +7672,8 @@ easter.week1.6:
         
         Palavra da Salvação.
 easter.week1.7:
-  title: Sábado da 1ª Semana
-  subtitle: Tempo da Páscoa
+  title: Sábado
+  subtitle: Oitava da Páscoa
   color: white
   readings:
     - type: reading
@@ -7756,22 +7756,97 @@ easter.week2.1.a:
       ref: ''
       text: ''
 easter.week2.1.b:
-  title: Domingo da 2ª Semana
-  subtitle: Tempo da Páscoa
+  title: Domingo da Divina Misericórdia
+  subtitle: Oitava da Páscoa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 4,32-35
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        A multidão dos fiéis era um só coração e uma só alma.
+        Ninguém considerava como próprias as coisas que possuía, mas tudo entre eles era posto em comum.
+        Com grandes sinais de poder, os apóstolos davam testemunho da ressurreição do Senhor Jesus.
+        E os fiéis eram estimados por todos.
+        Entre eles ninguém passava necessidade, pois aqueles que possuíam terras ou casas, vendiam-nas, levavam o dinheiro, e o colocavam aos pés dos apóstolos.
+        Depois, era distribuído conforme a necessidade de cada um.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 117(118),2-4.16ab-18.22-24 (R. 1)
+      text: |
+        R. Dai graças ao Senhor, porque ele é bom;
+        "eterna é a sua misericórdia!"
+        
+        Ou: Aleluia, Aleluia, Aleluia.
+        
+        A casa de Israel agora o diga:
+        "Eterna é a sua misericórdia!"
+        A casa de Aarão agora o diga:
+        "Eterna é a sua misericórdia!"
+        Os que temem o Senhor agora o digam:
+        "Eterna é a sua misericórdia!" R.
+        
+        A mão direita do Senhor fez maravilhas,
+        a mão direita do Senhor me levantou,
+        a mão direita do Senhor fez maravilhas!
+        Não morrerei, mas ao contrário, viverei
+        para cantar as grandes obras do Senhor!
+        O Senhor severamente me provou,
+        mas não me abandonou às mãos da morte. R.
+        
+        A pedra que os pedreiros rejeitaram,
+        tornou-se agora a pedra angular.
+        Pelo Senhor é que foi feito tudo isso:
+        Que maravilhas ele fez a nossos olhos!
+        Este é o dia que o Senhor fez para nós,
+        alegremo-nos e nele exultemos! R.
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Jo 5,1-6
+      text: |
+        Leitura da Primeira Carta de São João 
+        
+        Caríssimos:
+        Todo o que crê que Jesus é o Cristo, nasceu de Deus, e quem ama aquele que gerou alguém, amará também aquele que dele nasceu.
+        Podemos saber que amamos os filhos de Deus, quando amamos a Deus e guardamos os seus mandamentos.
+        Pois isto é amar a Deus: observar os seus mandamentos.
+        E os seus mandamentos não são pesados, pois todo o que nasceu de Deus vence o mundo.
+        E esta é a vitória que venceu o mundo: a nossa fé.
+        Quem é o vencedor do mundo, senão aquele que crê que Jesus é o Filho de Deus?
+        Este é o que veio pela água e pelo sangue: Jesus Cristo.
+        (Não veio somente com a água, mas com a água e o sangue).
+        E o Espírito é que dá testemunho, porque o Espírito é a Verdade.
+        
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 20,19-31
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Ao anoitecer daquele dia, o primeiro da semana,
+        estando fechadas, por medo dos judeus, as portas do lugar onde os discípulos se encontravam, Jesus entrou e pondo-se no meio deles, disse: "A paz esteja convosco".
+        Depois destas palavras, mostrou-lhes as mãos e o lado.
+        Então os discípulos se alegraram por verem o Senhor.
+        Novamente, Jesus disse: "A paz esteja convosco.
+        Como o Pai me enviou, também eu vos envio".
+        E depois de ter dito isso, soprou sobre eles e disse: "Recebei o Espírito Santo.
+        A quem perdoardes os pecados, eles lhes serão perdoados; a quem os não perdoardes, eles lhes serão retidos".
+        Tomé, chamado Dídimo, que era um dos doze, não estava com eles quando Jesus veio.
+        Os outros discípulos contaram-lhe depois: "Vimos o Senhor!".
+        Mas Tomé disse-lhes: "Se eu não vir a marca dos pregos em suas mãos, se eu não puser o dedo nas marcas dos pregos e não puser a mão no seu lado, não acreditarei".
+        Oito dias depois, encontravam-se os discípulos novamente reunidos em casa, e Tomé estava com eles.
+        Estando fechadas as portas, Jesus entrou, pôs-se no meio deles e disse: "A paz esteja convosco".
+        Depois disse a Tomé: "Põe o teu dedo aqui e olha as minhas mãos.
+        Estende a tua mão e coloca-a no meu lado.
+        E não sejas incrédulo, mas fiel".
+        Tomé respondeu: "Meu Senhor e meu Deus!"
+        Jesus lhe disse: "Acreditaste, porque me viste?
+        Bem-aventurados os que creram sem terem visto!"
+        Jesus realizou muitos outros sinais diante dos discípulos, que não estão escritos neste livro.
+        Mas estes foram escritos para que acrediteis que Jesus é o Cristo, o Filho de Deus, e para que, crendo, tenhais a vida em seu nome.
+        
+        Palavra da Salvação.
 easter.week2.1.c:
   title: Domingo da 2ª Semana
   subtitle: Tempo da Páscoa
