@@ -7884,70 +7884,317 @@ easter.week2.3:
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 4,32-37
+      text: |
+        Leitura dos Atos dos Atos dos Apóstolos 
+        
+        A multidão dos fiéis
+        era um só coração e uma só alma.
+        Ninguém considerava como próprias as coisas que possuía, mas tudo entre eles era posto em comum.
+        Com grandes sinais de poder, os apóstolos davam testemunho da ressurreição do Senhor Jesus.
+        E os fiéis eram estimados por todos.
+        Entre eles ninguém passava necessidade, pois aqueles que possuíam terras ou casas, vendiam-nas, levavam o dinheiro, e o colocavam aos pés dos apóstolos.
+        Depois, era distribuído conforme a necessidade de cada um.
+        José, chamado pelos apóstolos de Barnabé, que significa filho da consolação, levita e natural de Chipre, possuía um campo.
+        Vendeu e foi depositar o dinheiro aos pés dos apóstolos.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 92(93),1ab.1c-2.5 (R. 1a)
+      text: |
+        R. Reina o Senhor, revestiu-se de esplendor.
+        
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Deus é Rei e se vestiu de majestade,
+        revestiu-se de poder e de esplendor! R.
+        
+        Vós firmastes o universo inabalável,
+        vós firmastes vosso trono desde a origem,
+        desde sempre, ó Senhor, vós existis! R.
+        
+        Verdadeiros são os vossos testemunhos,
+        refulge a santidade em vossa casa,
+        pelos séculos dos séculos, Senhor! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 3,7b-15
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Naquele tempo, disse Jesus a Nicodemos:
+        "Vós deveis nascer do alto.
+        O vento sopra onde quer e tu podes ouvir o seu ruído, mas não sabes de onde vem, nem para onde vai.
+        Assim acontece a todo aquele que nasceu do Espírito".
+        Nicodemos perguntou: "Como é que isso pode acontecer?"
+        Respondeu-lhe Jesus: "Tu és mestre em Israel, mas não sabes estas coisas?
+        Em verdade, em verdade te digo, nós falamos daquilo que sabemos e damos testemunho daquilo que temos visto, mas vós não aceitais o nosso testemunho.
+        Se não acreditais, quando vos falo das coisas da terra, como acreditareis se vos falar das coisas do céu?
+        E ninguém subiu ao céu, a não ser aquele que desceu do céu, o Filho do Homem.
+        Do mesmo modo como Moisés levantou a serpente no deserto, assim é necessário que o Filho do Homem seja levantado, para que todos os que nele crerem tenham a vida eterna".
+        
+        Palavra da Salvação.
 easter.week2.4:
   title: Quarta-feira da 2ª Semana
   subtitle: Tempo da Páscoa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 5,17-26
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        Naqueles dias,
+        levantaram-se o sumo sacerdote e todos os do seu partido - isto é, o partido dos saduceus - cheios de raiva e mandaram prender os apóstolos e lançá-los na cadeia pública.
+        Porém, durante a noite, o anjo do Senhor abriu as portas da prisão e os fez sair, dizendo: "Ide falar ao povo, no Templo, sobre tudo o que se refere a este modo de viver".
+        Eles obedeceram e, ao amanhecer, entraram no Templo e começaram a ensinar.
+        O Sumo Sacerdote chegou com os seus partidários e convocou o Sinédrio e o Conselho formado pelas pessoas importantes do povo de Israel.
+        Então mandaram buscar os apóstolos à prisão.
+        Mas, ao chegarem à prisão, os servos não os encontraram e voltaram dizendo: "Encontramos a prisão fechada, com toda segurança, e os guardas estavam a postos na frente da porta.
+        Mas, quando abrimos a porta, não encontramos ninguém lá dentro".
+        Ao ouvirem essa notícia, o chefe da guarda do Templo e os sumos sacerdotes não sabiam o que pensar e perguntavam-se o que poderia ter acontecido.
+        Chegou alguém que lhes disse: "Os homens que vós colocastes na prisão estão no Templo ensinando o povo!"
+        Então o chefe da guarda do Templo saiu com os guardas e trouxe os apóstolos, mas sem violência, porque eles tinham medo que o povo os atacasse com pedras.
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 33(34),2-3.4-5.6-7.8-9 (R. 7a)
+      text: |
+        R. Este infeliz gritou a Deus, e foi ouvido.
+
+        Ou: Aleluia, Aleluia, Aleluia.
+        
+        Bendirei o Senhor Deus em todo o tempo,
+        seu louvor estará sempre em minha boca.
+        Minha alma se gloria no Senhor;
+        que ouçam os humildes e se alegrem! R.
+
+        Comigo engrandecei ao Senhor Deus,
+        exaltemos todos juntos o seu nome!
+        Todas as vezes que o busquei, ele me ouviu,
+        e de todos os temores me livrou. R.
+
+        Contemplai a sua face e alegrai-vos,
+        e vosso rosto não se cubra de vergonha!
+        Este infeliz gritou a Deus, e foi ouvido,
+        e o Senhor o libertou de toda angústia. R.
+
+        O anjo do Senhor vem acampar
+        ao redor dos que o temem, e os salva.
+        Provai e vede quão suave é o Senhor!
+        Feliz o homem que tem nele o seu refúgio! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 3,16-21
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo segundo São João
+
+        Deus amou tanto o mundo,
+        que deu o seu Filho unigênito, para que não morra todo o que nele crer, mas tenha a vida eterna.
+        De fato, Deus não enviou o seu Filho ao mundo para condenar o mundo, mas para que o mundo seja salvo por ele.
+        Quem nele crê, não é condenado, mas quem não crê, já está condenado, porque não acreditou no nome do Filho unigênito.
+        Ora, o julgamento é este: a luz veio ao mundo, mas os homens preferiram as trevas à luz, porque suas ações eram más.
+        Quem pratica o mal odeia a luz e não se aproxima da luz, para que suas ações não sejam denunciadas.
+        Mas quem age conforme a verdade aproxima-se da luz, para que se manifeste que suas ações são realizadas em Deus.
+
+        Palavra da Salvação.
 easter.week2.5:
   title: Quinta-feira da 2ª Semana
   subtitle: Tempo da Páscoa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 5,27-33
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        Naqueles dias, os guardas
+        levaram os apóstolos e os apresentaram ao Sinédrio.
+        O sumo sacerdote começou a interrogá-los, dizendo: "Nós tínhamos proibido expressamente que vós ensinásseis em nome de Jesus.
+        Apesar disso, enchestes a cidade de Jerusalém com a vossa doutrina.
+        E ainda nos quereis tornar responsáveis pela morte desse homem!"
+        Então Pedro e os outros apóstolos responderam: "É preciso obedecer a Deus, antes que aos homens.
+        O Deus de nossos pais ressuscitou Jesus, a quem vós matastes, pregando-o numa cruz.
+        Deus, por seu poder, o exaltou, tornando-o Guia Supremo e Salvador, para dar ao povo de Israel a conversão e o perdão dos seus pecados.
+        E disso somos testemunhas, nós e o Espírito Santo, que Deus concedeu àqueles que lhe obedecem".
+        Quando ouviram isto, ficaram furiosos e queriam matá-los.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 33(34),2 e 9.17-18.19-20 (R. 7a)
+      text: |
+        R. Este infeliz gritou a Deus e foi ouvido.
+        
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Bendirei o Senhor Deus em todo o tempo,
+        seu louvor estará sempre em minha boca.
+        Provai e vede quão suave é o Senhor!
+        Feliz o homem que tem nele o seu refúgio! R.
+        
+        mas ele volta a sua face contra os maus,
+        para da terra apagar sua lembrança.
+        Clamam os justos, e o Senhor bondoso escuta
+        e de todas as angústias os liberta. R.
+        
+        Do coração atribulado ele está perto
+        e conforta os de espírito abatido.
+        Muitos males se abatem sobre os justos,
+        mas o Senhor de todos eles os liberta. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 3,31-36
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        "Aquele que vem do alto
+        está acima de todos.
+        O que é da terra, pertence à terra e fala das coisas da terra.
+        Aquele que vem do céu está acima de todos.
+        Dá testemunho daquilo que viu e ouviu, mas ninguém aceita o seu testemunho.
+        Quem aceita o seu testemunho atesta que Deus é verdadeiro.
+        De fato, aquele que Deus enviou fala as palavras de Deus, porque Deus lhe dá o espírito sem medida.
+        O Pai ama o Filho e entregou tudo em sua mão.
+        Aquele que acredita no Filho possui a vida eterna.
+        Aquele, porém, que rejeita o Filho não verá a vida, pois a ira de Deus permanece sobre ele".
+        
+        Palavra da Salvação.
 easter.week2.6:
   title: Sexta-feira da 2ª Semana
   subtitle: Tempo da Páscoa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 5,34-42
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        Naqueles dias,
+        Um fariseu, chamado Gamaliel, levantou-se no Sinédrio.
+        Era mestre da Lei e todo o povo o estimava.
+        Gamaliel mandou que os acusados saíssem por um instante.
+        Depois disse: "Homens de Israel, vede bem o que estais para fazer contra esses homens.
+        Algum tempo atrás apareceu Teudas, que se fazia passar por uma pessoa importante, e a ele se juntaram cerca de quatrocentos homens.
+        Depois ele foi morto e todos os que o seguiam debandaram, e nada restou.
+        Depois dele, no tempo do recenseamento, apareceu Judas, o galileu, que arrastou o povo atrás de si.
+        Contudo, também ele morreu e todos os seus seguidores se dispersaram.
+        Quanto ao que está acontecendo agora, dou-vos um conselho: não vos preocupeis com esses homens e deixai-os ir embora.
+        Porque, se este projeto ou esta atividade é de origem humana será destruído.
+        Mas, se vem de Deus, vós não conseguireis eliminá-los.
+        Cuidado para não vos pordes em luta contra Deus!"
+        E os membros do Sinédrio aceitaram o parecer de Gamaliel.
+        Chamaram então os apóstolos, mandaram açoitá-los, proibiram que eles falassem em nome de Jesus, e depois os soltaram.
+        Os apóstolos saíram do Conselho, muito contentes, por terem sido considerados dignos de injúrias, por causa do nome de Jesus.
+        E cada dia, no Templo e pelas casas, não cessavam de ensinar e anunciar o evangelho de Jesus Cristo.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 26(27),1.4.13-14 (R. cf. 4ab)
+      text: |
+        R. Ao Senhor eu peço apenas uma coisa:
+        habitar no santuário do Senhor.
+
+        Ou: Aleluia, Aleluia, Aleluia.
+        
+        O Senhor é minha luz e salvação;
+        de quem eu terei medo?
+        O Senhor é a proteção da minha vida;
+        perante quem eu tremerei? R.
+        
+        Ao Senhor eu peço apenas uma coisa,
+        e é só isto que eu desejo:
+        habitar no santuário do Senhor
+        por toda a minha vida;
+        saborear a suavidade do Senhor
+        e contemplá-lo no seu templo. R.
+        
+        Sei que a bondade do Senhor eu hei de ver
+        na terra dos viventes.
+        Espera no Senhor e tem coragem,
+        espera no Senhor! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 6,1-15
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Naquele tempo,
+        Jesus foi para o outro lado do mar da Galileia, também chamado de Tiberíades.
+        Uma grande multidão o seguia, porque via os sinais que ele operava a favor dos doentes.
+        Jesus subiu ao monte e sentou-se aí, com os seus discípulos.
+        Estava próxima a Páscoa, a festa dos judeus.
+        Levantando os olhos, e vendo que uma grande multidão estava vindo ao seu encontro, Jesus disse a Filipe: "Onde vamos comprar pão para que eles possam comer?"
+        Disse isso para pô-lo à prova, pois ele mesmo sabia muito bem o que ia fazer.
+        Filipe respondeu: "Nem duzentas moedas de prata bastariam para dar um pedaço de pão a cada um".
+        Um dos discípulos, André, o irmão de Simão Pedro, disse: "Está aqui um menino com cinco pães de cevada e dois peixes.
+        Mas o que é isso para tanta gente?"
+        Jesus disse: "Fazei sentar as pessoas".
+        Havia muita relva naquele lugar, e lá se sentaram, aproximadamente, cinco mil homens.
+        Jesus tomou os pães, deu graças e distribuiu-os aos que estavam sentados, tanto quanto queriam.
+        E fez o mesmo com os peixes.
+        Quando todos ficaram satisfeitos, Jesus disse aos discípulos: "Recolhei os pedaços que sobraram, para que nada se perca!"
+        Recolheram os pedaços e encheram doze cestos com as sobras dos cinco pães, deixadas pelos que haviam comido.
+        Vendo o sinal que Jesus tinha realizado, aqueles homens exclamavam: "Este é verdadeiramente o Profeta, aquele que deve vir ao mundo".
+        Mas, quando notou que estavam querendo levá-lo para proclamá-lo rei, Jesus retirou-se de novo, sozinho, para o monte.
+
+        Palavra da Salvação.
 easter.week2.7:
   title: Sábado da 2ª Semana
   subtitle: Tempo da Páscoa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 6,1-7
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        Naqueles dias,
+        o número dos discípulos tinha aumentado, e os fiéis de origem grega começaram a queixar-se dos fiéis de origem hebraica.
+        Os de origem grega diziam que suas viúvas eram deixadas de lado no atendimento diário.
+        Então os Doze Apóstolos reuniram a multidão dos discípulos e disseram: "Não está certo que nós deixemos a pregação da Palavra de Deus para servir às mesas.
+        Irmãos, é melhor que escolhais entre vós sete homens de boa fama, repletos do Espírito e de sabedoria, e nós os encarregaremos dessa tarefa.
+        Desse modo nós poderemos dedicar-nos inteiramente à oração e ao serviço da Palavra".
+        A proposta agradou a toda a multidão.
+        Então escolheram Estêvão, homem cheio de fé e do Espírito Santo; e também Felipe, Prócoro, Nicanor, Timon, Pármenas e Nicolau de Antioquia, um pagão que seguia a religião dos judeus.
+        Eles foram apresentados aos apóstolos, que oraram e impuseram as mãos sobre eles.
+        Entretanto, a Palavra do Senhor se espalhava.
+        O número dos discípulos crescia muito em Jerusalém, e grande multidão de sacerdotes judeus aceitava a fé.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 32(33),1-2.4-5.18-19 (R. 22)
+      text: |
+        R. Sobre nós venha, Senhor, a vossa graça,
+        da mesma forma que em vós nós esperamos!
+
+        Ou: Aleluia, Aleluia, Aleluia.
+        
+        Ó justos, alegrai-vos no Senhor!
+        aos retos fica bem glorificá-lo.
+        Dai graças ao Senhor ao som da harpa,
+        na lira de dez cordas celebrai-o! R.
+        
+        Pois reta é a palavra do Senhor,
+        e tudo o que ele faz merece fé.
+        Deus ama o direito e a justiça,
+        transborda em toda a terra a sua graça. R.
+        
+        O Senhor pousa o olhar sobre os que o temem,
+        e que confiam esperando em seu amor,
+        para da morte libertar as suas vidas
+        e alimentá-los quando é tempo de penúria. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 6,16-21
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Ao cair da tarde,
+        os discípulos desceram ao mar.
+        Entraram na barca e foram em direção a Cafarnaum, do outro lado do mar.
+        Já estava escuro, e Jesus ainda não tinha vindo ao encontro deles.
+        Soprava um vento forte e o mar estava agitado.
+        Os discípulos tinham remado mais ou menos cinco quilômetros, quando enxergaram Jesus, andando sobre as águas e aproximando-se da barca.
+        E ficaram com medo.
+        Mas Jesus disse: "Sou eu. Não tenhais medo".
+        Quiseram, então, recolher Jesus na barca, mas imediatamente a barca chegou à margem para onde estavam indo.
+        
+        Palavra da Salvação.
 easter.week3.1.a:
   title: Domingo da 3ª Semana
   subtitle: Tempo da Páscoa
@@ -7971,17 +8218,76 @@ easter.week3.1.b:
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 3,13-15.17-19
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        Naqueles dias,
+        Pedro se dirigiu ao povo, dizendo: "O Deus de Abraão, de Isaac, de Jacó, o Deus de nossos antepassados glorificou o seu servo Jesus.
+        Vós o entregastes e o rejeitastes diante de Pilatos, que estava decidido a soltá-lo.
+        Vós rejeitastes o Santo e o Justo, e pedistes a libertação para um assassino.
+        Vós matastes o autor da vida, mas Deus o ressuscitou dos mortos, e disso nós somos testemunhas.
+        E agora, meus irmãos, eu sei que vós agistes por ignorância, assim como vossos chefes.
+        Deus, porém, cumpriu desse modo o que havia anunciado pela boca de todos os profetas: que o seu Cristo haveria de sofrer.
+        Arrependei-vos, portanto, e convertei-vos, para que vossos pecados sejam perdoados".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 4,2.4.7.9 (R. 7a)
+      text: |
+        R. Sobre nós fazei brilhar o esplendor de vossa face!
+        
+        Ou: Aleluia, Aleluia, Aleluia.
+        
+        Quando eu chamo, respondei-me ó meu Deus, minha justiça!
+        Vós que soubestes aliviar-me nos momentos de aflição,
+        atendei-me por piedade e escutai minha oração! R.
+        
+        Compreendei que nosso Deus faz maravilhas por seu servo,
+        e que o Senhor me ouvirá quando lhe faço a minha prece! R.
+        
+        Muitos há que se perguntam: "Quem nos dá felicidade?"
+        Sobre nós fazei brilhar o esplendor de vossa face! R.
+        
+        Eu tranquilo vou deitar-me e na paz logo adormeço,
+        pois só vós, ó Senhor Deus, dais segurança à minha vida! R.
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Jo 2,1-5a
+      text: |
+        Leitura da Primeira Carta de São João 
+        
+        Meus filhinhos,
+        escrevo isto para que não pequeis.
+        No entanto, se alguém pecar, temos junto do Pai um Defensor: Jesus Cristo, o Justo.
+        Ele é a vítima de expiação pelos nossos pecados, e não só pelos nossos, mas também pelos pecados do mundo inteiro.
+        Para saber que o conhecemos, vejamos se guardamos os seus mandamentos.
+        Quem diz: "Eu conheço a Deus", mas não guarda os seus mandamentos, é mentiroso, e a verdade não está nele.
+        Naquele, porém, que guarda a sua palavra, o amor de Deus é plenamente realizado.
+        
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Lc 24,35-48
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Lucas 
+        
+        Naquele tempo,
+        Os dois discípulos contaram o que tinha acontecido no caminho, e como tinham reconhecido Jesus ao partir o pão.
+        Ainda estavam falando, quando o próprio Jesus apareceu no meio deles e lhes disse: "A paz esteja convosco!"
+        Eles ficaram assustados e cheios de medo, pensando que estavam vendo um fantasma.
+        Mas Jesus disse: "Por que estais preocupados, e porque tendes dúvidas no coração?
+        Vede minhas mãos e meus pés: sou eu mesmo!
+        Tocai em mim e vede!
+        Um fantasma não tem carne, nem ossos, como estais vendo que eu tenho".
+        E dizendo isso, Jesus mostrou-lhes as mãos e os pés.
+        Mas eles ainda não podiam acreditar, porque estavam muito alegres e surpresos.
+        Então Jesus disse: "Tendes aqui alguma coisa para comer?"
+        Deram-lhe um pedaço de peixe assado.
+        Ele o tomou e comeu diante deles.
+        Depois disse-lhes: "São estas as coisas que vos falei quando ainda estava convosco: era preciso que se cumprisse tudo o que está escrito sobre mim na Lei de Moisés, nos Profetas e nos Salmos".
+        Então Jesus abriu a inteligência dos discípulos para entenderem as Escrituras, e lhes disse: "Assim está escrito: 'O Cristo sofrerá e ressuscitará dos mortos ao terceiro dia, e no seu nome, serão anunciados a conversão e o perdão dos pecados a todas as nações, começando por Jerusalém'.
+        Vós sereis testemunhas de tudo isso".
+
+        Palavra da Salvação.
 easter.week3.1.c:
   title: Domingo da 3ª Semana
   subtitle: Tempo da Páscoa
