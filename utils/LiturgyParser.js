@@ -1,11 +1,21 @@
-const input = `
-`;
+import { convert } from "html-to-text"
+
+const html = await fetch('https://api-liturgia.edicoescnbb.com.br/contents/in/date/2024-04-10')
+  .then(response => response.json())
+  .then(data => {
+    return data.content.leituras + data.content.body
+  });
+const input = convert(html, { wordwrap: false })
+console.log(parseLiturgy(input));
+
 
 function parseLiturgy(input) {
   const lines = input
     .split("\n")
     .filter((line) => line.trim().length > 0 && !/(^\d+\w?$|^\w$)/.test(line))
-    .map((line) => line.trim().replace(/ ?(\*|\†)$/, ""));
+    .map((line) => line.replace(/(\*|\†|\[pics\/cruzevangelho\.png\])/, "").trim());
+  
+  lines.shift();
   var readingRef1 = lines.shift();
   var psalmRef = lines.shift();
   var readingRef2 = lines.shift();
@@ -18,6 +28,7 @@ function parseLiturgy(input) {
     gospelRef = readingRef2;
     readingRef2 = "";
   }
+
   
   const reading1 = [];
   const psalm = [];
@@ -31,7 +42,7 @@ function parseLiturgy(input) {
   reading1.push(line.slice(0, line.search(/\d/)));
   reading1.push(...readUntil(lines, /^salmo responsorial/i));
   skipUntil(lines, /^R\./i);
-  psalm.push(...readUntil(lines, /^(segunda leitura|aclamação ao evangelho)/i));
+  psalm.push(...readUntil(lines, /^(segunda leitura|evangelho|aclamação ao evangelho)/i));
   if (/^segunda leitura/i.test(lines[0])) {
     skipUntil(lines, /^leitura d/i);
     line = lines.shift();
@@ -130,6 +141,7 @@ function skipUntil(lines, regex) {
     lines.shift();
   }
 }
+
 function readUntil(lines, regex) {
   const result = [];
   while (lines.length > 0 && !regex.test(lines[0])) {
@@ -137,5 +149,3 @@ function readUntil(lines, regex) {
   }
   return result;
 }
-
-console.log(parseLiturgy(input));
