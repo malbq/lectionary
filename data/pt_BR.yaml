@@ -8311,84 +8311,414 @@ easter.week3.2:
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 6,8-15
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        Naqueles dias,
+        Estêvão, cheio de graça e poder, fazia prodígios e grandes sinais entre o povo.
+        Mas alguns membros da chamada Sinagoga dos Libertos, junto com cirenenses e alexandrinos, e alguns da Cilícia e da Ásia, começaram a discutir com Estêvão.
+        Porém, não conseguiam resistir à sabedoria e ao Espírito com que ele falava.
+        Então subornaram alguns indivíduos, que disseram: "Ouvimos este homem dizendo blasfêmias contra Moisés e contra Deus".
+        Desse modo, incitaram o povo, os anciãos e os doutores da Lei, que prenderam Estêvão e o conduziram ao Sinédrio.
+        Aí apresentaram falsas testemunhas, que diziam: "Este homem não cessa de falar contra este lugar santo e contra a Lei.
+        E nós o ouvimos afirmar que Jesus Nazareno ia destruir este lugar e ia mudar os costumes que Moisés nos transmitiu".
+        Todos os que estavam sentados no Sinédrio tinham os olhos fixos sobre Estêvão, e viram seu rosto como o rosto de um anjo.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 118(119),23-24.26-27.29-30 (R. 1b)
+      text: |
+        R. Feliz é quem na lei do Senhor Deus vai progredindo.
+        
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Que os poderosos reunidos me condenem;
+        o que me importa é o vosso julgamento!
+        Minha alegria é a vossa Aliança,
+        meus conselheiros são os vossos mandamentos. R.
+        
+        Eu vos narrei a minha sorte e me atendestes,
+        ensinai-me, ó Senhor, vossa vontade!
+        Fazei-me conhecer vossos caminhos,
+        e então meditarei vossos prodígios! R.
+        
+        Afastai-me do caminho da mentira
+        e dai-me a vossa lei como um presente!
+        Escolhi seguir a trilha da verdade,
+        diante de mim eu coloquei vossos preceitos. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 6,22-29
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Depois que Jesus saciara os cinco mil homens,
+        seus discípulos o viram andando sobre o mar.
+        No dia seguinte, a multidão que tinha ficado do outro lado do mar constatou que havia só uma barca e que Jesus não tinha subido para ela com os discípulos, mas que eles tinham partido sozinhos.
+        Entretanto, tinham chegado outras barcas de Tiberíades, perto do lugar onde tinham comido o pão depois de o Senhor ter dado graças.
+        Quando a multidão viu que Jesus não estava ali, nem os seus discípulos, subiram às barcas e foram à procura de Jesus, em Cafarnaum.
+        Quando o encontraram no outro lado do mar, perguntaram-lhe: "Rabi, quando chegaste aqui?"
+        Jesus respondeu: "Em verdade, em verdade, eu vos digo: estais me procurando não porque vistes sinais, mas porque comestes pão e ficastes satisfeitos.
+        Esforçai-vos não pelo alimento que se perde, mas pelo alimento que permanece até a vida eterna, e que o Filho do homem vos dará.
+        Pois este é quem o Pai marcou com seu selo".
+        Então perguntaram: "Que devemos fazer para realizar as obras de Deus?"
+        Jesus respondeu: "A obra de Deus é que acrediteis naquele que ele enviou".
+        
+        Palavra da Salvação.
 easter.week3.3:
   title: Terça-feira da 3ª Semana
   subtitle: Tempo da Páscoa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 7,51-8,1a
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        Naqueles dias, Estêvão disse ao povo, aos anciãos
+        e aos doutores da lei: "Homens de cabeça dura, insensíveis e incircuncisos de coração e ouvido!
+        Vós sempre resististes ao Espírito Santo e como vossos pais agiram, assim fazeis vós!
+        A qual dos profetas vossos pais não perseguiram?
+        Eles mataram aqueles que anunciavam a vinda do Justo, do qual, agora, vós vos tornastes traidores e assassinos.
+        Vós recebestes a Lei, por meio de anjos, e não a observastes!"
+        Ao ouvir essas palavras, eles ficaram enfurecidos e rangeram os dentes contra Estêvão.
+        Estêvão, cheio do Espírito Santo, olhou para o céu e viu a glória de Deus e Jesus, de pé, à direita de Deus.
+        E disse: "Estou vendo o céu aberto, e o Filho do Homem, de pé, à direita de Deus".
+        Mas eles, dando grandes gritos e, tapando os ouvidos, avançaram todos juntos contra Estêvão; arrastaram-no para fora da cidade e começaram a apedrejá-lo.
+        As testemunhas deixaram suas vestes aos pés de um jovem, chamado Saulo.
+        Enquanto o apedrejavam, Estêvão clamou dizendo: "Senhor Jesus, acolhe o meu espírito".
+        Dobrando os joelhos, gritou com voz forte: "Senhor, não os condenes por este pecado".
+        E, ao dizer isto, morreu.
+        Saulo era um dos que aprovavam a execução de Estêvão.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 30(31),3cd-4.6ab e 7b e 8a. 17 e 21ab (R. 6a)
+      text: |
+        R. Em vossas mãos, Senhor, entrego o meu espírito.
+        
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Sede uma rocha protetora para mim,
+        um abrigo bem seguro que me salve!
+        Sim, sois vós a minha rocha e fortaleza;
+        por vossa honra orientai-me e conduzi-me! R.
+        
+        Em vossas mãos, Senhor, entrego o meu espírito,
+        porque vós me salvareis, ó Deus fiel!
+        Quanto a mim, é ao Senhor que me confio.
+        Vosso amor me faz saltar de alegria R.
+        
+        Mostrai serena a vossa face ao vosso servo,
+        e salvai-me pela vossa compaixão!
+        Na proteção de vossa face os defendeis
+        bem longe das intrigas dos mortais R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 6,30-35
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Naquele tempo, a multidão perguntou a Jesus:
+        "Que sinal realizas, para que possamos ver e crer em ti?
+        Que obra fazes?
+        Nossos pais comeram o maná no deserto, como está na Escritura: 'Pão do céu deu-lhes a comer'".
+        Jesus respondeu: "Em verdade, em verdade vos digo, não foi Moisés quem vos deu o pão que veio do céu.
+        É meu Pai que vos dá o verdadeiro pão do céu.
+        Pois o pão de Deus é aquele que desce do céu e dá vida ao mundo".
+        Então pediram: "Senhor, dá-nos sempre desse pão".
+        Jesus lhes disse: "Eu sou o pão da vida.
+        Quem vem a mim não terá mais fome e quem crê em mim nunca mais terá sede".
+        
+        Palavra da Salvação.
 easter.week3.4:
   title: Quarta-feira da 3ª Semana
   subtitle: Tempo da Páscoa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 8,1b-8
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        Naquele dia começou uma grande perseguição
+        contra a Igreja de Jerusalém.
+        E todos, com exceção dos apóstolos, se dispersaram pelas regiões da Judeia e da Samaria.
+        Algumas pessoas piedosas sepultaram Estêvão e observaram grande luto por causa dele.
+        Saulo, porém, devastava a Igreja: entrava nas casas e arrastava para fora homens e mulheres, para atirá-los na prisão.
+        Entretanto, aqueles que se tinham dispersado iam por toda a parte, pregando a Palavra.
+        Filipe desceu a uma cidade da Samaria e anunciou-lhes o Cristo.
+        As multidões seguiam com atenção as coisas que Filipe dizia.
+        E todos unânimes o escutavam, pois viam os milagres que ele fazia.
+        De muitos possessos saíam os espíritos maus, dando grandes gritos.
+        Numerosos paralíticos e aleijados também foram curados.
+        Era grande a alegria naquela cidade.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 65(66),1-3a.4-5.6-7a (R. 1)
+      text: |
+        R. Aclamai o Senhor Deus, ó terra inteira.
+        
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Aclamai o Senhor Deus, ó terra inteira,
+        cantai salmos a seu nome glorioso,
+        dai a Deus a mais sublime louvação!
+        Dizei a Deus: "Como são grandes vossas obras! R.
+        
+        Toda a terra vos adore com respeito
+        e proclame o louvor de vosso nome!"
+        Vinde ver todas as obras do Senhor:
+        seus prodígios estupendos entre os homens! R.
+        
+        O mar ele mudou em terra firme,
+        e passaram pelo rio a pé enxuto.
+        Exultemos de alegria no Senhor!
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 6,35-40
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Naquele tempo, disse Jesus à multidão:
+        "Eu sou o pão da vida.
+        Quem vem a mim não terá mais fome e quem crê em mim nunca mais terá sede.
+        Eu, porém, vos disse que vós me vistes, mas não acreditais.
+        Todos os que o Pai me confia virão a mim, e quando vierem, não os afastarei.
+        Pois eu desci do céu não para fazer a minha vontade, mas a vontade daquele que me enviou.
+        E esta é a vontade daquele que me enviou: que eu não perca nenhum daqueles que ele me deu, mas os ressuscite no último dia.
+        Pois esta é a vontade do meu Pai: que toda pessoa que vê o Filho e nele crê tenha a vida eterna.
+        E eu o ressuscitarei no último dia".
+        
+        Palavra da Salvação.
 easter.week3.5:
   title: Quinta-feira da 3ª Semana
   subtitle: Tempo da Páscoa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 8,26-40
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        Naqueles dias:
+        Um anjo do Senhor falou a Filipe, dizendo: "Prepara-te e vai para o sul, no caminho que desce de Jerusalém a Gaza.
+        O caminho é deserto".
+        Filipe levantou-se e foi.
+        Nisso apareceu um eunuco etíope, ministro de Candace, rainha da Etiópia e administrador geral do seu tesouro, que tinha ido em peregrinação a Jerusalém.
+        Ele estava voltando para casa e vinha sentado no seu carro, lendo o profeta Isaías.
+        Então o Espírito disse a Filipe: "Aproxima-te desse carro e acompanha-o".
+        Filipe correu, ouviu o eunuco ler o profeta Isaías e perguntou: "Tu compreendes o que estás lendo?"
+        O eunuco respondeu: "Como posso, se ninguém mo explica?"
+        Então convidou Filipe a subir e a sentar-se junto a ele.
+        A passagem da Escritura que o eunuco estava lendo era esta: "Ele foi levado como ovelha ao matadouro; e qual um cordeiro diante do seu tosquiador, ele emudeceu e não abriu a boca.
+        Eles o humilharam e lhe negaram justiça; e seus descendentes, quem os poderá enumerar?
+        Pois sua vida foi arrancada da terra".
+        E o eunuco disse a Filipe: "Peço que me expliques de quem o profeta está dizendo isso.
+        Ele fala de si mesmo ou se refere a algum outro?"
+        Então Filipe começou a falar e, partindo dessa passagem da Escritura, anunciou Jesus ao eunuco.
+        Eles prosseguiram o caminho e chegaram a um lugar onde havia água.
+        Então o eunuco disse a Filipe: "Aqui temos água.
+        O que impede que eu seja batizado?"[37] O eunuco mandou parar o carro.
+        Os dois desceram para a água e Filipe batizou o eunuco.
+        Quando saíram da água, o Espírito do Senhor arrebatou a Filipe.
+        O eunuco não o viu mais e prosseguiu sua viagem, cheio de alegria.
+        Filipe foi parar em Azoto.
+        E, passando adiante, evangelizava todas as cidades até chegar a Cesareia.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 65(66),8-9.16-17.20 (R. 1)
+      text: |
+        R. Aclamai o Senhor Deus, ó terra inteira.
+        
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Nações, glorificai ao nosso Deus,
+        anunciai em alta voz o seu louvor!
+        É ele quem dá vida à nossa vida,
+        e não permite que vacilem nossos pés. R.
+        
+        Todos vós que a Deus temeis, vinde escutar:
+        vou contar-vos todo bem que ele me fez!
+        Quando a ele o meu grito se elevou,
+        já havia gratidão em minha boca! R.
+        
+        Bendito seja o Senhor Deus que me escutou,
+        não rejeitou minha oração e meu clamor,
+        nem afastou longe de mim o seu amor! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 6,44-51
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Naquele tempo, disse Jesus à multidão:
+        "Ninguém pode vir a mim, se o Pai que me enviou não o atrai.
+        E eu o ressuscitarei no último dia.
+        Está escrito nos Profetas: 'Todos serão discípulos de Deus'.
+        Ora, todo aquele que escutou o Pai e por ele foi instruído, vem a mim.
+        Não que alguém já tenha visto o Pai.
+        Só aquele que vem de junto de Deus viu o Pai.
+        Em verdade, em verdade vos digo, quem crê, possui a vida eterna.
+        Eu sou o pão da vida.
+        Os vossos pais comeram o maná no deserto e, no entanto, morreram.
+        Eis aqui o pão que desce do céu: quem dele comer, nunca morrerá.
+        Eu sou o pão vivo descido do céu.
+        Quem comer deste pão viverá eternamente.
+        E o pão que eu darei é a minha carne dada para a vida do mundo".
+        
+        Palavra da Salvação.
 easter.week3.6:
   title: Sexta-feira da 3ª Semana
   subtitle: Tempo da Páscoa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 9,1-20
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        Naqueles dias,
+        Saulo só respirava ameaças e morte contra os discípulos do Senhor.
+        Ele apresentou-se ao Sumo sacerdote e pediu-lhe cartas de recomendação para as sinagogas de Damasco, a fim de levar presos para Jerusalém os homens e mulheres que encontrasse seguindo o Caminho.
+        Durante a viagem, quando já estava perto de Damasco, Saulo, de repente, viu-se cercado por uma luz que vinha do céu.
+        Caindo por terra, ele ouviu uma voz que lhe dizia: "Saulo, Saulo, por que me persegues?"
+        Saulo perguntou: "Quem és tu, Senhor?"
+        A voz respondeu: "Eu sou Jesus, a quem tu estás perseguindo.
+        Agora, levanta-te, entra na cidade, e ali te será dito o que deves fazer".
+        Os homens que acompanhavam Saulo ficaram mudos de espanto, porque ouviam a voz, mas não viam ninguém.
+        Saulo levantou-se do chão e abriu os olhos, mas não conseguia ver nada.
+        Então pegaram nele pela mão e levaram-no para Damasco.
+        Saulo ficou três dias sem poder ver.
+        E não comeu nem bebeu.
+        Em Damasco, havia um discípulo chamado Ananias.
+        O Senhor o chamou numa visão: "Ananias!"
+        E Ananias respondeu: "Aqui estou, Senhor!"
+        O Senhor lhe disse: "Levanta-te, vai à rua que se chama Direita e procura, na casa de Judas, por um homem de Tarso chamado Saulo.
+        Ele está rezando".
+        E, numa visão, Saulo contemplou um homem chamado Ananias, entrando e impondo-lhe as mãos para que recuperasse a vista.
+        Ananias respondeu: "Senhor, já ouvi muitos falarem desse homem e do mal que fez aos teus fiéis que estão em Jerusalém.
+        E aqui em Damasco ele tem plenos poderes, recebidos dos sumos sacerdotes, para prender todos os que invocam o teu nome".
+        Mas o Senhor disse a Ananias: "Vai, porque esse homem é um instrumento que escolhi para anunciar o meu nome aos pagãos, aos reis e ao povo de Israel.
+        Eu vou mostrar-lhe quanto ele deve sofrer por minha causa".
+        Então Ananias saiu, entrou na casa, e impôs as mãos sobre Saulo, dizendo: "Saulo, meu irmão, o Senhor Jesus, que te apareceu quando vinhas no caminho, ele me mandou aqui para que tu recuperes a vista e fiques cheio do Espírito Santo".
+        Imediatamente caíram dos olhos de Saulo como que escamas e ele recuperou a vista.
+        Em seguida, Saulo levantou-se e foi batizado.
+        Tendo tomado alimento, sentiu-se reconfortado.
+        Saulo passou alguns dias com os discípulos de Damasco, e logo começou a pregar nas sinagogas, afirmando que Jesus é o Filho de Deus.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 116(117),1.2 (R. Mc 16,15)
+      text: |
+        R. Ide, por todo o mundo, a todos pregai o Evangelho.
+        
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Cantai louvores ao Senhor, todas as gentes,
+        povos todos, festejai-o! R.
+        
+        Pois comprovado é seu amor para conosco,
+        para sempre ele é fiel! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 6,52-59
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Naquele tempo,
+        os judeus discutiam entre si, dizendo: "Como é que ele pode dar a sua carne a comer?"
+        Então Jesus disse: "Em verdade, em verdade vos digo, se não comerdes a carne do Filho do Homem e não beberdes o seu sangue, não tereis a vida em vós.
+        Quem come a minha carne e bebe o meu sangue tem a vida eterna, e eu o ressuscitarei no último dia.
+        Porque a minha carne é verdadeira comida e o meu sangue, verdadeira bebida.
+        Quem come a minha carne e bebe o meu sangue permanece em mim e eu nele.
+        Como o Pai, que vive, me enviou, e eu vivo por causa do Pai, assim o que me come viverá por causa de mim.
+        Este é o pão que desceu do céu.
+        Não é como aquele que os vossos pais comeram.
+        Eles morreram.
+        Aquele que come este pão viverá para sempre".
+        Assim falou Jesus, ensinando na sinagoga em Cafarnaum.
+        
+        Palavra da Salvação.
 easter.week3.7:
   title: Sábado da 3ª Semana
   subtitle: Tempo da Páscoa
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 9,31-42
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        Naqueles dias:
+        A Igreja, vivia em paz em toda a Judeia, Galileia e Samaria.
+        Ela consolidava-se e progredia no temor do Senhor e crescia em número com a ajuda do Espírito Santo.
+        Pedro percorria todos os lugares; e visitou também os fiéis que moravam em Lida.
+        Encontrou aí um homem chamado Eneias, que estava paralítico e, há oito anos, jazia numa cama.
+        Pedro disse-lhe: "Eneias, Jesus Cristo te cura!
+        Levanta-te e arruma a tua cama!"
+        Imediatamente Eneias se levantou.
+        Todos os habitantes de Lida e da região do Saron viram isso e se converteram ao Senhor.
+        Em Jope, havia uma discípula chamada Tabita, nome que quer dizer Gazela.
+        Eram muitas as boas obras que fazia e as esmolas que dava.
+        Naqueles dias ela ficou doente e morreu.
+        Então lavaram seu corpo e o colocaram no andar superior da casa.
+        Como Lida ficava perto de Jope, e ouvindo dizer que Pedro estava lá, os discípulos mandaram dois homens com um recado: "Vem depressa até nós!"
+        Pedro partiu imediatamente com eles.
+        Assim que chegou, levaram-no ao andar superior, onde todas as viúvas foram ao seu encontro.
+        Chorando, elas mostravam a Pedro as túnicas e mantos que Tabita havia feito, quando vivia com elas.
+        Pedro mandou que todos saíssem.
+        Em seguida, pôs-se de joelhos e rezou.
+        Depois, voltou-se para o corpo e disse: "Tabita, levanta-te!"
+        ela então abriu os olhos, viu Pedro e sentou-se.
+        Pedro deu-lhe a mão e ajudou-a a levantar-se.
+        Depois chamou os fiéis e as viúvas e apresentou-lhes Tabita viva.
+        O fato ficou conhecido em toda a cidade de Jope e muitos acreditaram no Senhor.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 115(116B),12-13.14-15.16-17 (R. 12)
+      text: |
+        R. Que poderei retribuir ao Senhor Deus,
+        por tudo aquilo que ele fez em meu favor?
+        
+        Ou: Aleluia, Aleluia, Aleluia.
+        
+        Que poderei retribuir ao Senhor Deus
+        por tudo aquilo que ele fez em meu favor?
+        Elevo o cálice da minha salvação,
+        invocando o nome santo do Senhor. R.
+        
+        Vou cumprir minhas promessas ao Senhor
+        na presença de seu povo reunido.
+        É sentida por demais pelo Senhor
+        a morte de seus santos, seus amigos. R.
+        
+        Eis que sou o vosso servo, ó Senhor,
+        que nasceu de vossa serva;
+        mas me quebrastes os grilhões da escravidão!
+        Por isso oferto um sacrifício de louvor,
+        invocando o nome santo do Senhor. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 6,60-69
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Naquele tempo:
+        muitos dos discípulos de Jesus que o escutaram, disseram: "Esta palavra é dura.
+        Quem consegue escutá-la?"
+        Sabendo que seus discípulos estavam murmurando por causa disso mesmo, Jesus perguntou: "Isto vos escandaliza?
+        E quando virdes o Filho do Homem subindo para onde estava antes?
+        O Espírito é que dá vida, a carne não adianta nada.
+        As palavras que vos falei são espírito e vida.
+        Mas entre vós há alguns que não creem".
+        Jesus sabia, desde o início, quem eram os que não tinham fé e quem havia de entregá-lo.
+        E acrescentou: "É por isso que vos disse: ninguém pode vir a mim a não ser que lhe seja concedido pelo Pai".
+        A partir daquele momento, muitos discípulos voltaram atrás e não andavam mais com ele.
+        Então, Jesus disse aos doze: "Vós também quereis ir embora?"
+        Simão Pedro respondeu: "A quem iremos, Senhor?
+        Tu tens palavras de vida eterna.
+        Nós cremos firmemente e reconhecemos que tu és o Santo de Deus".
+        
+        Palavra da Salvação.
 easter.week4.1.a:
   title: Domingo da 4ª Semana
   subtitle: Tempo da Páscoa
@@ -8412,17 +8742,78 @@ easter.week4.1.b:
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 4,8-12
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        Naqueles dias,
+        Pedro, cheio do Espírito Santo, disse: "Chefes do povo e anciãos: hoje estamos sendo interrogados por termos feito o bem a um enfermo e pelo modo como foi curado.
+        Ficai, pois, sabendo todos vós e todo o povo de Israel: é pelo nome de Jesus Cristo, de Nazaré, — aquele que vós crucificastes e que Deus ressuscitou dos mortos — que este homem está curado, diante de vós.
+        Jesus é a pedra, que vós, os construtores, desprezastes, e que se tornou a pedra angular.
+        Em nenhum outro há salvação, pois não existe debaixo do céu outro nome dado aos homens, pelo qual possamos ser salvos".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 117(118),1.8-9.21-23.26.28cd.29 (R. 22)
+      text: |
+        R. A pedra que os pedreiros rejeitaram,
+        tornou-se agora a pedra angular.
+        
+        Ou: Aleluia, Aleluia, Aleluia.
+        
+        Dai graças ao Senhor, porque ele é bom!
+        "Eterna é a sua misericórdia!"
+        É melhor buscar refúgio no Senhor,
+        do que pôr no ser humano a esperança;
+        é melhor buscar refúgio no Senhor,
+        do que contar com os poderosos deste mundo! R.
+        
+        Dou-vos graças, ó Senhor, porque me ouvistes
+        e vos tornastes para mim o Salvador!
+        A pedra que os pedreiros rejeitaram,
+        tornou-se agora a pedra angular.
+        Pelo Senhor é que foi feito tudo isso:
+        Que maravilhas ele fez a nossos olhos! R.
+        
+        Bendito seja, em nome do Senhor,
+        aquele que em seus átrios vai entrando!
+        Vós sois meu Deus, eu vos bendigo e agradeço!
+        Vós sois meu Deus, eu vos exalto com louvores!
+        Dai graças ao Senhor, porque ele é bom!
+        "Eterna é a sua misericórdia!" R.
+        
+        2ª LEITURA - 1JO 3,1-
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Jo 3,1-2
+      text: |
+        Leitura da Primeira Carta de São João 
+        
+        Caríssimos:
+        Vede que grande presente de amor o Pai nos deu: de sermos chamados filhos de Deus!
+        E nós o somos!
+        Se o mundo não nos conhece, é porque não conheceu o Pai.
+        Caríssimos, desde já somos filhos de Deus, mas nem sequer se manifestou o que seremos!
+        Sabemos que, quando Jesus se manifestar, seremos semelhantes a ele, porque o veremos tal como ele é.
+        
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 10,11-18
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Naquele tempo, disse Jesus:
+        "Eu sou o bom pastor.
+        O bom pastor dá a vida por suas ovelhas.
+        O mercenário, que não é pastor e não é dono das ovelhas, vê o lobo chegar, abandona as ovelhas e foge, e o lobo as ataca e dispersa.
+        Pois ele é apenas um mercenário e não se importa com as ovelhas.
+        Eu sou o bom pastor.
+        Conheço as minhas ovelhas, e elas me conhecem, assim como o Pai me conhece e eu conheço o Pai.
+        Eu dou minha vida pelas ovelhas.
+        Tenho ainda outras ovelhas que não são deste redil: também a elas devo conduzir; escutarão a minha voz, e haverá um só rebanho e um só pastor.
+        É por isso que o Pai me ama, porque dou a minha vida, para depois recebê-la novamente.
+        Ninguém tira a minha vida, eu a dou por mim mesmo; tenho poder de entregá-la e tenho poder de recebê-la novamente; esta é a ordem que recebi do meu Pai".
+        
+        Palavra da Salvação.
 easter.week4.1.c:
   title: Domingo da 4ª Semana
   subtitle: Tempo da Páscoa
@@ -8485,6 +8876,7 @@ easter.week4.2:
       ref: Sl 41(42),2.3 e 42(43),3.4 (R. cf. Sl 41(42), 3a)
       text: |
         R. Minha alma suspira por vós, ó meu Deus.
+        
         Ou: Aleluia, Aleluia, Aleluia.
 
         Assim como a corça suspira
@@ -8507,26 +8899,23 @@ easter.week4.2:
         Vosso louvor cantarei, ao som da harpa,
         meu Senhor e meu Deus! R.
     - type: gospel
-      ref: Jo 10,11-18
+      ref: Jo 10,1-10
       text: |
-        Proclamação do Evangelho de Jesus Cristo segundo João
-
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
         Naquele tempo, disse Jesus:
-        "Eu sou o bom pastor.
-        O bom pastor dá a vida por suas ovelhas.
-        O mercenário, que não é pastor e não é dono das ovelhas, vê o lobo chegar, abandona as ovelhas e foge, e o lobo as ataca e dispersa.
-        Pois ele é apenas um mercenário e não se importa com as ovelhas.
-        Eu sou o bom pastor.
-        Conheço as minhas ovelhas, e elas me conhecem,
-        assim como o Pai me conhece e eu conheço o Pai.
-        Eu dou minha vida pelas ovelhas.
-        Tenho ainda outras ovelhas que não são deste redil:
-        também a elas devo conduzir, escutarão a minha voz, e haverá um só rebanho e um só pastor.
-        É por isso que o Pai me ama, porque dou a minha vida, para depois recebê-la novamente.
-        Ninguém tira a minha vida, eu a dou por mim mesmo;
-        tenho poder de entregá-la e tenho poder de recebê-la novamente;
-        esta é a ordem que recebi do meu Pai".
-
+        "Em verdade, em verdade vos digo, quem não entra no redil das ovelhas pela porta, mas sobe por outro lugar, é ladrão e assaltante.
+        Quem entra pela porta é o pastor das ovelhas.
+        A esse o porteiro abre, e as ovelhas escutam a sua voz; ele chama as ovelhas pelo nome e as conduz para fora.
+        E, depois de fazer sair todas as que são suas, caminha à sua frente, e as ovelhas o seguem, porque conhecem a sua voz.
+        Mas não seguem um estranho, antes fogem dele, porque não conhecem a voz dos estranhos".
+        Jesus contou-lhes esta parábola, mas eles não entenderam o que ele queria dizer.
+        Então Jesus continuou: "Em verdade, em verdade vos digo, eu sou a porta das ovelhas.
+        Todos aqueles que vieram antes de mim são ladrões e assaltantes, mas as ovelhas não os escutaram.
+        Eu sou a porta. Quem entrar por mim, será salvo; entrará e sairá e encontrará pastagem.
+        O ladrão só vem para roubar, matar e destruir.
+        Eu vim para que tenham vida e a tenham em abundância".
+        
         Palavra da Salvação.
 easter.week4.3:
   title: Terça-feira da 4ª Semana
@@ -8558,6 +8947,7 @@ easter.week4.3:
       ref: Sl 86(87),1-3.4-5.6-7 (R. Sl 116(117),1a)
       text: |
         R. Cantai louvores ao Senhor, todas as gentes.
+        
         Ou: Aleluia, Aleluia, Aleluia.
 
         O Senhor ama a cidade
