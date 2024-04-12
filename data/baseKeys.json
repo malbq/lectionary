@@ -179,9 +179,10 @@
   "easter.week7.6",
   "easter.week7.7",
   "easter.week7.7.vigil",
-  "easter.week8.1",
-  "ordinary.week1.2.even",
-  "ordinary.week1.2.odd",
+  "easter.week8.1.a",
+  "easter.week8.1.b",
+  "easter.week8.1.c",
+  "ordinary.week1.2",
   "ordinary.week1.3.even",
   "ordinary.week1.3.odd",
   "ordinary.week1.4.even",
@@ -697,5 +698,8 @@
   "0202",
   "0222",
   "0319",
+  "0503",
+  "0425",
+  "0512",
   "annunciation"
 ]
