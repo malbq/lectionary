@@ -9001,64 +9001,59 @@ easter.week4.4:
   color: white
   readings:
     - type: reading
-      ref: 1Cor 15,1-8
+      ref: At 12,24-13,5a
       text: |
-        Leitura da Primeira Carta de São Paulo aos Coríntios
-
-        Irmãos, quero lembrar-vos o evangelho que vos preguei e que recebestes, e no qual estais firmes.
-        Por ele sois salvos, se o estais guardando tal qual ele vos foi pregado por mim.
-        De outro modo, teríeis abraçado a fé em vão.
-        Com efeito, transmiti-vos, em primeiro lugar, aquilo que eu mesmo tinha recebido, a saber:
-        que Cristo morreu por nossos pecados, segundo as Escrituras;
-        que foi sepultado;
-        que, ao terceiro dia, ressuscitou, segundo as Escrituras;
-        e que apareceu a Cefas e, depois, aos Doze.
-        Mais tarde, apareceu a mais de quinhentos irmãos, de uma vez.
-        Destes, a maioria ainda vive e alguns já morreram.
-        Depois, apareceu a Tiago e, depois, apareceu aos apóstolos todos juntos.
-        Por último, apareceu também a mim, como a um abortivo.
-
+        Leitura dos Atos dos Apóstolos 
+        
+        Naqueles dias,
+        a palavra do Senhor crescia e se espalhava cada vez mais.
+        Barnabé e Saulo, tendo concluído seu ministério, voltaram de Jerusalém, trazendo consigo João, chamado Marcos.
+        Na Igreja de Antioquia, havia profetas e doutores.
+        Eram eles: Barnabé, Simeão, chamado o Negro, Lúcio de Cirene, Manaém, que fora criado junto com Herodes, e Saulo.
+        Um dia, enquanto celebravam a liturgia, em honra do Senhor, e jejuavam, o Espírito Santo disse: "Separai para mim Barnabé e Saulo, a fim de fazerem o trabalho para o qual eu os chamei".
+        Então eles jejuaram e rezaram, impuseram as mãos sobre Barnabé e Saulo, e deixaram-nos partir.
+        Enviados pelo Espírito Santo, Barnabé e Saulo desceram a Selêucia e daí navegaram para Chipre.
+        Quando chegaram a Salamina, começaram a anunciar a Palavra de Deus nas sinagogas dos judeus.
+        Eles tinham João como ajudante.
+        
         Palavra do Senhor.
     - type: psalm
-      ref: Sl 18(19A),2-3.4-5 (R. 5a)
+      ref: Sl 66(67),2-3.5.6 e 8 (R. 4)
       text: |
-        R. Seu som ressoa e se espalha em toda terra.
+        R. Que as nações vos glorifiquem ó Senhor,
+        que todas as nações vos glorifiquem.
 
-        Os céus proclamam a glória do Senhor,
-        e o firmamento, a obra de suas mãos;
-        o dia ao dia transmite esta mensagem,
-        a noite à noite publica esta notícia. R.
-
-        Não são discursos nem frases ou palavras,
-        nem são vozes que possam ser ouvidas;
-        seu som ressoa e se espalha em toda a terra,
-        chega aos confins do universo a sua voz. R.
+        Ou: Aleluia, Aleluia, Aleluia.
+        
+        Que Deus nos dê a sua graça e sua bênção,
+        e sua face resplandeça sobre nós!
+        Que na terra se conheça o seu caminho
+        e a sua salvação por entre os povos. R.
+        
+        Exulte de alegria a terra inteira,
+        pois julgais o universo com justiça;
+        os povos governais com retidão,
+        e guiais, em toda a terra, as nações. R.
+        
+        Que as nações vos glorifiquem, ó Senhor,
+        que todas as nações vos glorifiquem!
+        Que o Senhor e nosso Deus nos abençoe,
+        e o respeitem os confins de toda a terra! R.
     - type: gospel
-      ref: Jo 14,6-14
+      ref: Jo 12,44-50
       text: |
-        Proclamação do Evangelho de Jesus Cristo segundo João
-
-        Naquele tempo,
-        Jesus disse a Tomé:
-        "Eu sou o Caminho, a Verdade e a Vida.
-        Ninguém vai ao Pai senão por mim.
-        Se vós me conhecêsseis, conheceríeis também o meu Pai.
-        E desde agora o conheceis e o vistes".
-        Disse Filipe:
-        "Senhor, mostra-nos o Pai, isso nos basta!"
-        Jesus respondeu:
-        "Há tanto tempo estou convosco, e não me conheces, Filipe?
-        Quem me viu, viu o Pai.
-        Como é que tu dizes:
-        'Mostra-nos o Pai'?
-        Não acreditas que eu estou no Pai e o Pai está em mim?
-        As palavras que eu vos digo, não as digo por mim mesmo, mas é o Pai que, permanecendo em mim, realiza as suas obras.
-        Acreditai-me: eu estou no Pai e o Pai está em mim.
-        Acreditai, ao menos, por causa destas mesmas obras.
-        Em verdade, em verdade vos digo, quem acredita em mim fará as obras que eu faço, e fará ainda maiores do que estas.
-        Pois eu vou para o Pai, e o que pedirdes em meu nome, eu o realizarei, a fim de que o Pai seja glorificado no Filho.
-        Se pedirdes algo em meu nome, eu o realizarei".
-
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Naquele tempo:
+        Jesus exclamou em alta voz: "Quem crê em mim, não é em mim que crê, mas naquele que me enviou.
+        Quem me vê, vê aquele que me enviou.
+        Eu vim ao mundo como luz, para que todo aquele que crê em mim não permaneça nas trevas.
+        Se alguém ouvir as minhas palavras e não as observar, eu não o julgo, porque eu não vim para julgar o mundo, mas para salvá-lo.
+        Quem me rejeita e não aceita as minhas palavras já tem o seu juiz: a palavra que eu falei o julgará no último dia.
+        Porque eu não falei por mim mesmo, mas o Pai, que me enviou, ele é quem me ordenou o que eu devia dizer e falar.
+        E eu sei que o seu mandamento é vida eterna.
+        Portanto, o que eu digo, eu o digo conforme o Pai me falou".
+        
         Palavra da Salvação.
 easter.week4.5:
   title: Quinta-feira da 4ª Semana
@@ -9164,6 +9159,7 @@ easter.week4.6:
       ref: Sl 2,6-7.8-9.10-11 (R. 7)
       text: |
         R. Tu és meu Filho, e eu hoje te gerei!
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         "Fui eu mesmo que escolhi este meu Rei
@@ -9232,6 +9228,7 @@ easter.week4.7:
       text: |
         R. Os confins do universo contemplaram
         a salvação do nosso Deus.
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Cantai ao Senhor Deus um canto novo,
@@ -9302,6 +9299,7 @@ easter.week5.1.a:
       text: |
         R. Sobre nós venha, Senhor, a vossa graça,
         da mesma forma que em vós nós esperamos!
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Ó justos, alegrai-vos no Senhor!
@@ -9375,17 +9373,81 @@ easter.week5.1.b:
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 9,26-31
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        Naqueles dias,
+        Saulo chegou a Jerusalém e procurava juntar-se aos discípulos.
+        Mas todos tinham medo dele, pois não acreditavam que ele fosse discípulo.
+        Então Barnabé tomou Saulo consigo, levou-o aos apóstolos e contou-lhes como Saulo tinha visto o Senhor no caminho, como o Senhor lhe havia falado e como Saulo havia pregado, em nome de Jesus, publicamente, na cidade de Damasco.
+        Daí em diante, Saulo permaneceu com eles em Jerusalém e pregava com firmeza em nome do Senhor.
+        Falava também e discutia com os judeus de língua grega, mas eles procuravam matá-lo.
+        Quando ficaram sabendo disso, os irmãos levaram Saulo para Cesareia, e daí o mandaram para Tarso.
+        A Igreja, porém, vivia em paz em toda a Judeia, Galileia e Samaria.
+        Ela consolidava-se e progredia no temor do Senhor e crescia em número com a ajuda do Espírito Santo.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 21(22),26b-27.28.30.31-32 (R. 26a)
+      text: |
+        R. Senhor, sois meu louvor em meio à grande assembleia!
+        
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Sois meu louvor em meio à grande assembleia;
+        cumpro meus votos ante aqueles que vos temem!
+        Vossos pobres vão comer e saciar-se,
+        e os que procuram o Senhor o louvarão;
+        "Seus corações tenham a vida para sempre!" R.
+        
+        Lembrem-se disso os confins de toda a terra,
+        para que voltem ao Senhor e se convertam,
+        e se prostrem, adorando, diante dele
+        todos os povos e as famílias das nações.
+        Somente a ele adorarão os poderosos,
+        e os que voltam para o pó o louvarão. R.
+        
+        Para ele há de viver a minha alma,
+        toda a minha descendência há de servi-lo;
+        às futuras gerações anunciará
+        o poder e a justiça do Senhor;
+        ao povo novo que há de vir, ela dirá:
+        "Eis a obra que o Senhor realizou!" R.
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Jo 3,18-24
+      text: |
+        Leitura da Primeira Carta de São João 
+        
+        Filhinhos, não amemos só com palavras e de boca,
+        mas com ações e de verdade!
+        Aí está o critério para saber que somos da verdade e para sossegar diante dele o nosso coração, pois, se o nosso coração nos acusa, Deus é maior que o nosso coração e conhece todas as coisas.
+        Caríssimos, se o nosso coração não nos acusa, temos confiança diante de Deus.
+        E qualquer coisa que pedimos recebemos dele, porque guardamos os seus mandamentos e fazemos o que é do seu agrado.
+        Este é o seu mandamento: que creiamos no nome do seu Filho, Jesus Cristo, e nos amemos uns aos outros, de acordo com o mandamento que ele nos deu.
+        Quem guarda os seus mandamentos permanece com Deus e Deus permanece com ele.
+        Que ele permanece conosco, sabemo-lo pelo Espírito que ele nos deu.
+        
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 15,1-8
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Naquele tempo, Jesus disse a seus discípulos:
+        "Eu sou a videira verdadeira e meu Pai é o agricultor.
+        Todo ramo que em mim não dá fruto ele o corta; e todo ramo que dá fruto, ele o limpa, para que dê mais fruto ainda.
+        Vós já estais limpos por causa da palavra que eu vos falei.
+        Permanecei em mim e eu permanecerei em vós.
+        Como o ramo não pode dar fruto por si mesmo, se não permanecer na videira, assim também vós não podereis dar fruto, se não permanecerdes em mim.
+        Eu sou a videira e vós os ramos.
+        Aquele que permaneceu em mim, e eu nele, esse produz muito fruto; porque sem mim nada podeis fazer.
+        Quem não permanecer em mim, será lançado fora como um ramo e secará.
+        Tais ramos são recolhidos, lançados no fogo e queimados.
+        Se permanecerdes em mim e minhas palavras permanecerem em vós, pedi o que quiserdes e vos será dado.
+        Nisto meu Pai é glorificado: que deis muito fruto e vos torneis meus discípulos.
+        
+        Palavra da Salvação.
 easter.week5.1.c:
   title: Domingo da 5ª Semana
   subtitle: Tempo da Páscoa
@@ -9440,6 +9502,7 @@ easter.week5.2:
         ao vosso nome, porém, seja a glória.
 
         Ou: Aleluia, Aleluia, Aleluia.
+
         Não a nós, ó Senhor, não a nós,
         ao vosso nome, porém, seja a glória,
         porque sois todo amor e verdade!
@@ -9504,6 +9567,7 @@ easter.week5.3:
       ref: Sl 144(145),10-11.12-13ab.21 (R. cf. 12a)
       text: |
         R. Ó Senhor, vossos amigos anunciem vosso Reino glorioso.
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Que vossas obras, ó Senhor, vos glorifiquem,
@@ -9561,6 +9625,7 @@ easter.week5.4:
       ref: Sl 121(122),1-2.3-4a.4b-5 (R. cf. 1)
       text: |
         R. Que alegria, quando ouvi que me disseram: Vamos à casa do Senhor!
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Que alegria, quando ouvi que me disseram:
@@ -9634,6 +9699,7 @@ easter.week5.5:
       ref: Sl 95(96),1-2a.2b-3.10 (R. cf. 3)
       text: |
         R. Anunciai as maravilhas do Senhor entre todas as nações.
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Cantai ao Senhor Deus um canto novo,
@@ -9691,6 +9757,7 @@ easter.week5.6:
       ref: Sl 56(57),8-9.10-12 (R. 10a)
       text: |
         R. Vou louvar-vos, Senhor, entre os povos.
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Meu coração está pronto, meu Deus,
@@ -9756,6 +9823,7 @@ easter.week5.7:
       ref: Sl 99(100),2.3.5 (R. 2a)
       text: |
         R. Aclamai o Senhor, ó terra inteira.
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Aclamai o Senhor, ó terra inteira,
@@ -9814,6 +9882,7 @@ easter.week6.1.a:
       text: |
         R. Aclamai o Senhor Deus, ó terra inteira,
         cantai salmos a seu nome glorioso!
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Aclamai o Senhor Deus, ó terra inteira,
@@ -9873,17 +9942,77 @@ easter.week6.1.b:
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 10,25-26.34-35.44-48
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        Quando Pedro estava para entrar em casa,
+        Cornélio saiu-lhe ao encontro, caiu a seus pés e se prostrou.
+        Mas Pedro levantou-o, dizendo: "Levanta-te. Eu, também, sou apenas um homem".
+        Então, Pedro tomou a palavra e disse: "De fato, estou compreendendo que Deus não faz distinção entre as pessoas.
+        Pelo contrário, ele aceita quem o teme e pratica a justiça, qualquer que seja a nação a que pertença".
+        Pedro estava ainda falando, quando o Espírito Santo desceu sobre todos os que ouviam a palavra.
+        Os fiéis de origem judaica, que tinham vindo com Pedro, ficaram admirados de que o dom do Espírito Santo fosse derramado também sobre os pagãos.
+        Pois eles os ouviam falar e louvar a grandeza de Deus em línguas estranhas.
+        Então Pedro falou: "Podemos, por acaso, negar a água do batismo a estas pessoas que receberam, como nós, o Espírito Santo?"
+        E mandou que fossem batizados em nome de Jesus Cristo.
+        Eles pediram, então, que Pedro ficasse alguns dias com eles.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 97(98),1.2-3ab.3cd-4 (R. cf. 2b)
+      text: |
+        R. O Senhor fez conhecer a salvação e
+        revelou sua justiça às naçðes.
+
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Cantai ao Senhor Deus um canto novo,
+        porque ele fez prodígios!
+        Sua mão e o seu braço forte e santo
+        alcançaram-lhe a vitória. R.
+        
+        O Senhor fez conhecer a salvação,
+        e às nações, sua justiça;
+        recordou o seu amor sempre fiel
+        pela casa de Israel. R.
+        
+        Os confins do universo contemplaram
+        a salvação do nosso Deus.
+        Aclamai o Senhor Deus, ó terra inteira,
+        alegrai-vos e exultai! R.
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Jo 4,7-10
+      text: |
+        Leitura da Primeira Carta de São João 
+        
+        Caríssimos:
+        Amemo-nos uns aos outros, porque o amor vem de Deus e todo aquele que ama nasceu de Deus e conhece Deus.
+        Quem não ama, não chegou a conhecer a Deus, pois Deus é amor.
+        Foi assim que o amor de Deus se manifestou entre nós: Deus enviou o seu Filho único ao mundo, para que tenhamos vida por meio dele.
+        Nisto consiste o amor: não fomos nós que amamos a Deus, mas foi ele que nos amou e enviou o seu Filho como vítima de reparação pelos nossos pecados.
+        
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 15,9-17
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Naquele tempo, disse Jesus a seus discípulos:
+        "Como meu Pai me amou, assim também eu vos amei.
+        Permanecei no meu amor.
+        Se guardardes os meus mandamentos, permanecereis no meu amor, assim como eu guardei os mandamentos do meu Pai e permaneço no seu amor.
+        Eu eu vos disse isso, para que a minha alegria esteja em vós e a vossa alegria seja plena.
+        Este é o meu mandamento: amai-vos uns aos outros, assim como eu vos amei.
+        Ninguém tem amor maior do que aquele que dá sua vida pelos amigos.
+        Vós sois meus amigos, se fizerdes o que eu vos mando.
+        Já não vos chamo servos, pois o servo não sabe o que faz o seu senhor.
+        Eu vos chamo amigos, porque vos dei a conhecer tudo o que ouvi de meu Pai.
+        Não fostes vós que me escolhestes, mas fui eu que vos escolhi e vos designei para irdes e para que produzais fruto e o vosso fruto permaneça.
+        O que então pedirdes ao Pai em meu nome, ele vo-lo concederá.
+        Isto é o que vos ordeno: amai-vos uns aos outros".
+        
+        Palavra da Salvação.
 easter.week6.1.c:
   title: Domingo da 6ª Semana
   subtitle: Tempo da Páscoa
@@ -9929,6 +10058,7 @@ easter.week6.2:
       ref: Sl 149,1-2.3-4.5-6a e 9b (R. 4a)
       text: |
         R. O Senhor ama seu povo de verdade.
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Cantai ao Senhor Deus um canto novo,
@@ -9970,8 +10100,7 @@ easter.week6.3:
         Leitura dos Atos dos Apóstolos
 
         Naqueles dias,
-        a multidão dos filipenses levantou-se contra Paulo e Silas;
-        e os magistrados, depois de lhes rasgarem as vestes, mandaram açoitar os dois com varas.
+        a multidão dos filipenses levantou-se contra Paulo e Silas; e os magistrados, depois de lhes rasgarem as vestes, mandaram açoitar os dois com varas.
         Depois de açoitá-los bastante, lançaram-nos na prisão, ordenando ao carcereiro que os guardasse com toda a segurança.
         Ao receber essa ordem, o carcereiro levou-os para o fundo da prisão e prendeu os pés deles no tronco.
         À meia noite, Paulo e Silas estavam rezando e cantando hinos a Deus.
@@ -9980,14 +10109,11 @@ easter.week6.3:
         Todas as portas se abriram e as correntes de todos se soltaram.
         O carcereiro acordou e viu as portas da prisão abertas.
         Pensando que os prisioneiros tivessem fugido, puxou da espada e estava para suicidar-se.
-        Mas Paulo gritou com voz forte:
-        "Não te faças mal algum!
+        Mas Paulo gritou com voz forte: "Não te faças mal algum!
         Nós estamos todos aqui".
         Então o carcereiro pediu tochas, correu para dentro e, tremendo, caiu aos pés de Paulo e Silas.
-        Conduzindo-os para fora, perguntou:
-        "Senhores, que devo fazer para ser salvo?"
-        Paulo e Silas responderam:
-        "Crê no Senhor Jesus, e sereis salvos tu e todos os de tua família".
+        Conduzindo-os para fora, perguntou: "Senhores, que devo fazer para ser salvo?"
+        Paulo e Silas responderam: "Crê no Senhor Jesus, e sereis salvos tu e todos os de tua família".
         Então Paulo e Silas anunciaram a Palavra do Senhor ao carcereiro e a todos os da sua família.
         Na mesma hora da noite, o carcereiro levou-os consigo para lavar as feridas causadas pelos açoites.
         E, imediatamente, foi batizado junto com todos os seus familiares.
@@ -9998,6 +10124,7 @@ easter.week6.3:
       ref: At 16,22-34
       text: |
         R. Ó Senhor, me estendeis o vosso braço e me ajudais.
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Ó Senhor, de coração eu vos dou graças,
@@ -10074,6 +10201,7 @@ easter.week6.4:
       ref: Sl 148,1-2.11-12ab.12c-14a.14bcd
       text: |
         R. Da vossa glória estão cheios o céu e a terra.
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Louvai o Senhor Deus nos altos céus,
@@ -10140,6 +10268,7 @@ easter.week6.5:
       ref: Sl 97(98),1.2-3ab.3cd-4 (R. cf. 2b)
       text: |
         R. O Senhor fez conhecer seu poder salvador perante as nações.
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Cantai ao Senhor Deus um canto novo,
@@ -10213,6 +10342,7 @@ easter.week6.6:
       ref: Sl 46(47),2-3.4-5.6-7 (R. 8a)
       text: |
         R. O Senhor é o grande Rei de toda a terra.
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Povos todos do universo, batei palmas,
@@ -10270,6 +10400,7 @@ easter.week6.7:
       ref: Sl 46(47),2-3.8-9.10 (R. 8a)
       text: |
         R. O Senhor é o grande Rei de toda a terra.
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Povos todos do universo, batei palmas,
@@ -10340,6 +10471,7 @@ easter.week7.1.a:
       ref: Sl 46(47),2-3.6-7.8-9 (R. 6)
       text: |
         R. Por entre aclamações Deus se elevou, o Senhor subiu ao toque da trombeta.
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Povos todos do universo, batei palmas,
@@ -10389,17 +10521,99 @@ easter.week7.1.b:
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 1,1-11
+      text: |
+        Leitura dos Atos dos Apóstolos
+
+        No meu primeiro livro, ó Teófilo,
+        já tratei de tudo o que Jesus fez e ensinou, desde o começo, até ao dia em que foi levado para o céu, depois de ter dado instruções pelo Espírito Santo, aos apóstolos que tinha escolhido.
+        Foi a eles que Jesus se mostrou vivo depois da sua paixão, com numerosas provas.
+        Durante quarenta dias, apareceu-lhes falando do Reino de Deus.
+        Durante uma refeição, deu-lhes esta ordem:
+        "Não vos afasteis de Jerusalém, mas esperai a realização da promessa do Pai, da qual vós me ouvistes falar:
+        'João batizou com água;
+        vós, porém, sereis batizados com o Espírito Santo, dentro de poucos dias'".
+        Então os que estavam reunidos perguntaram a Jesus:
+        "Senhor, é agora que vais restaurar o Reino em Israel?"
+        Jesus respondeu:
+        "Não vos cabe saber os tempos e os momentos que o Pai determinou com a sua própria autoridade.
+        Mas recebereis o poder do Espírito Santo que descerá sobre vós, para serdes minhas testemunhas
+        em Jerusalém, em toda a Judeia e na Samaria, e até os confins da terra".
+        Depois de dizer isso, Jesus foi levado ao céu, à vista deles.
+        Uma nuvem o encobriu, de forma que seus olhos não mais podiam vê-lo.
+        Os apóstolos continuavam olhando para o céu, enquanto Jesus subia.
+        Apareceram então dois homens vestidos de branco, que lhes disseram:
+        "Homens da Galileia, por que ficais aqui, parados, olhando para o céu?
+        Esse Jesus que vos foi levado para o céu, virá do mesmo modo como o vistes partir para o céu".
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 46(47),2-3.6-7.8-9 (R. 6)
+      text: |
+        R. Por entre aclamações Deus se elevou, o Senhor subiu ao toque da trombeta.
+        
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Povos todos do universo, batei palmas,
+        gritai a Deus aclamações de alegria!
+        Porque sublime é o Senhor, o Deus Altíssimo,
+        o soberano que domina toda a terra. R.
+
+        Por entre aclamações Deus se elevou,
+        o Senhor subiu ao toque da trombeta.
+        Salmodiai ao nosso Deus ao som da harpa,
+        salmodiai ao som da harpa ao nosso Rei! R.
+
+        Porque Deus é o grande Rei de toda a terra,
+        ao som da harpa acompanhai os seus louvores!
+        Deus reina sobre todas as nações,
+        está sentado no seu trono glorioso. R.
     - type: reading
-      ref: ''
-      text: ''
+      main:
+        ref: Ef 1,17-23
+        text: |
+          Leitura da Carta de São Paulo aos Efésios
+
+          Irmãos:
+          O Deus de nosso Senhor Jesus Cristo, o Pai a quem pertence a glória, vos dê um espírito de sabedoria que vo-lo revele e faça verdadeiramente conhecer.
+          Que ele abra o vosso coração à sua luz, para que saibais qual a esperança que o seu chamamento vos dá, qual a riqueza da glória que está na vossa herança com os santos, e que imenso poder ele exerceu em favor de nós que cremos, de acordo com a sua ação e força onipotente.
+          Ele manifestou sua força em Cristo, quando o ressuscitou dos mortos e o fez sentar-se à sua direita nos céus, bem acima de toda a autoridade, poder, potência, soberania ou qualquer título que se possa mencionar não somente neste mundo, mas ainda no mundo futuro.
+          Sim, ele pôs tudo sob os seus pés e fez dele, que está acima de tudo, a Cabeça da Igreja, que é o seu corpo, a plenitude daquele que possui a plenitude universal.
+
+          Palavra do Senhor.
+      optional:
+        ref: Ef 4,1-13
+        text: |
+          Leitura da Carta de São Paulo aos Efésios
+          
+          Irmãos:
+          Eu, prisioneiro no Senhor, vos exorto a caminhardes de acordo com a vocação que recebestes: Com toda a humildade e mansidão, suportai-vos uns aos outros com paciência, no amor.
+          Aplicai-vos a guardar a unidade do espírito pelo vínculo da paz.
+          Há um só Corpo e um só Espírito, como também é uma só a esperança à qual fostes chamados.
+          Há um só Senhor, uma só fé, um só batismo, um só Deus e Pai de todos, que reina sobre todos, age por meio de todos e permanece em todos.
+          Cada um de nós recebeu a graça na medida em que Cristo lha deu.
+          Daí esta palavra: "Tendo subido às alturas, ele capturou prisioneiros, e distribuiu dons aos homens".
+          Ele subiu! Que significa isso, senão que ele desceu também às profundezas da terra?
+          Aquele que desceu é o mesmo que subiu mais alto do que todos os céus, a fim de encher o universo.
+          E foi ele quem instituiu alguns como apóstolos, outros como profetas, outros ainda como evangelistas, outros, enfim, como pastores e mestres.
+          Assim, ele capacitou os santos para o ministério, para edificar o corpo de Cristo, até que cheguemos todos juntos à unidade da fé e do conhecimento do Filho de Deus, ao estado do homem perfeito e à estatura de Cristo em sua plenitude.
+
+          Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mt 28,16-20
+      text: |
+        Conclusão do Evangelho de Jesus Cristo segundo Mateus
+
+        Naquele tempo,
+        Os onze discípulos foram para a Galileia, ao monte que Jesus lhes tinha indicado.
+        Quando viram Jesus, prostraram-se diante dele.
+        Ainda assim alguns duvidaram.
+        Então Jesus aproximou-se e falou:
+        "Toda a autoridade me foi dada no céu e sobre a terra.
+        Portanto, ide e fazei discípulos meus todos os povos, batizando-os em nome do Pai e do Filho e do Espírito Santo, e ensinando-os a observar tudo o que vos ordenei!
+        Eis que eu estarei convosco todos os dias, até ao fim do mundo".
+
+        Palavra da Salvação.
 easter.week7.1.c:
   title: Ascensão do Senhor
   subtitle: Tempo da Páscoa
@@ -10427,6 +10641,7 @@ easter.week7.1.c:
       ref: Sl 46(47),2-3.6-7.8-9 (R.6)
       text: |
         R. Batei palmas, povos todos, o Senhor subiu ao toque da trombeta!
+
         Ou: R.Aleluia, Aleluia, Aleluia
 
         Povos todos do universo, batei palmas,
@@ -10525,6 +10740,7 @@ easter.week7.2:
       ref: Sl 67(68),2-3.4-5ac.6-7ab (R. 33a)
       text: |
         R. Reinos da terra, cantai ao Senhor.
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Eis que Deus se põe de pé, e os inimigos se dispersam!
@@ -10590,6 +10806,7 @@ easter.week7.3:
       ref: Sl 67(68),10-11.20-21 (R 33a)
       text: |
         R. Reinos da terra, cantai ao Senhor.
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Derramastes lá do alto uma chuva generosa,
@@ -10655,6 +10872,7 @@ easter.week7.4:
       ref: Sl 67(68),29-30.33-34.35-36 (R. 33a)
       text: |
         R. Reinos da terra cantai ao Senhor.
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Suscitai, ó Senhor Deus, suscitai vosso poder,
@@ -10723,6 +10941,7 @@ easter.week7.5:
       ref: Sl 15(16),1-2a e 5.7-8.9-10.11 (R. 1)
       text: |
         R. Guardai-me, ó Deus, porque em vós me refugio!
+        
         Ou: Aleluia, Aleluia, Aleluia.
 
         Guardai-me, ó Deus, porque em vós me refugio!
@@ -10789,6 +11008,7 @@ easter.week7.6:
       ref: Sl 102(103),1-2.11-12.19-20ab (R. 19a)
       text: |
         R. O Senhor pôs o seu trono lá nos céus.
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Bendize, ó minha alma, ao Senhor,
@@ -10867,6 +11087,7 @@ easter.week7.7:
       ref: Sl 10(11),4.5 e 7 (R. cf. 7b)
       text: |
         R. Ó Senhor, quem tem reto coração há de ver a vossa face.
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Deus está no templo santo,
@@ -11014,6 +11235,7 @@ easter.week7.7.vigil:
       ref: Sl 103(104),1-2a.24.35c.27-28.29bc-30 (R. cf. 30)
       text: |
         R. Enviai o vosso Espírito, Senhor, e da terra toda a face renovai.
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Bendize, ó minha alma, ao Senhor!
@@ -11067,7 +11289,7 @@ easter.week7.7.vigil:
         pois ainda não tinha sido dado o Espírito, porque Jesus ainda não tinha sido glorificado.
 
         Palavra da Salvação.
-easter.week8.1:
+easter.week8.1.a:
   title: Domingo de Pentecostes
   subtitle: Solenidade
   color: red
@@ -11094,7 +11316,9 @@ easter.week8.1:
     - type: psalm
       ref: Sl 103(104),1ab.24ac.29bc-30.31.34 (R. cf. 30)
       text: |
-        R. Enviai o vosso Espírito, Senhor, e da terra toda a face renovai.
+        R. Enviai o vosso Espírito, Senhor,
+        e da terra toda a face renovai.
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Bendize, ó minha alma, ao Senhor!
@@ -11145,34 +11369,216 @@ easter.week8.1:
         a quem os não perdoardes, eles lhes serão retidos".
 
         Palavra da Salvação.
-ordinary.week1.2.even:
-  title: Segunda-feira da 1ª Semana
-  subtitle: Tempo Comum
-  color: green
+easter.week8.1.b:
+  title: Domingo de Pentecostes
+  subtitle: Solenidade
+  color: red
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 2,1-11
+      text: |
+        Leitura dos Atos dos Apóstolos
+
+        Quando chegou o dia de Pentecostes,
+        os discípulos estavam todos reunidos no mesmo lugar.
+        De repente, veio do céu um barulho como se fosse uma forte ventania, que encheu a casa onde eles se encontravam.
+        Então apareceram línguas como de fogo que se repartiram e pousaram sobre cada um deles.
+        Todos ficaram cheios do Espírito Santo e começaram a falar em outras línguas, conforme o Espírito os inspirava.
+        Moravam em Jerusalém judeus devotos, de todas as nações do mundo.
+        Quando ouviram o barulho, juntou-se a multidão, e todos ficaram confusos, pois cada um ouvia os discípulos falar em sua própria língua.
+        Cheios de espanto e de admiração, diziam: "Esses homens que estão falando não são todos galileus?
+        Como é que nós os escutamos na nossa própria língua?
+        Nós que somos partos, medos e elamitas, habitantes da Mesopotâmia, da Judeia e da Capadócia, do Ponto e da Ásia, da Frígia e da Panfília, do Egito e da parte da Líbia, próxima de Cirene, também romanos que aqui residem; judeus e prosélitos, cretenses e árabes, todos nós os escutamos anunciarem as maravilhas de Deus na nossa própria língua!"
+
+        Palavra do Senhor
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 103(104),1ab.24ac.29bc-30.31.34 (R. cf. 30)
+      text: |
+        R. Enviai o vosso Espírito, Senhor,
+        e da terra toda a face renovai.
+
+        Ou: Aleluia, Aleluia, Aleluia.
+        
+        Bendize, ó minha alma, ao Senhor!
+        Ó meu Deus e meu Senhor, como sois grande!
+        Quão numerosas, ó Senhor, são vossas obras!
+        Encheu-se a terra com as vossas criaturas! R.
+
+        Se tirais o seu respiro, elas perecem
+        e voltam para o pó de onde vieram.
+        Enviais o vosso espírito e renascem
+        e da terra toda a face renovais. R.
+
+        Que a glória do Senhor perdure sempre,
+        e alegre-se o Senhor em suas obras!
+        Hoje seja-lhe agradável o meu canto,
+        pois o Senhor é a minha grande alegria! R.
+    - type: reading
+      main:
+        ref: Cor 12,3b-7.12-13
+        text: |
+          Leitura da Primeira Carta de São Paulo aos Coríntios
+
+          Irmãos:
+          Ninguém pode dizer: Jesus é o Senhor a não ser no Espírito Santo.
+          Há diversidade de dons, mas um mesmo é o Espírito.
+          Há diversidade de ministérios, mas um mesmo é o Senhor.
+          Há diferentes atividades, mas um mesmo Deus que realiza todas as coisas em todos.
+          A cada um é dada a manifestação do Espírito em vista do bem comum.
+          Como o corpo é um, embora tenha muitos membros, e como todos os membros do corpo, embora sejam muitos, formam um só corpo, assim também acontece com Cristo.
+          De fato, todos nós, judeus ou gregos, escravos ou livres, fomos batizados num único Espírito, para formarmos um único corpo, e todos nós bebemos de um único Espírito.
+
+          Palavra do Senhor.
+      optional:
+        ref: Gal 5,16-25
+        text: |
+          Leitura da Carta de São Paulo aos Gálatas
+
+          Irmãos:
+          Procedei segundo o Espírito.
+          Assim, não satisfareis aos desejos da carne.
+          Pois a carne tem desejos contra o espírito, e o espírito tem desejos contra a carne.
+          Há uma oposição entre carne e espírito, de modo que nem sempre fazeis o que gostaríeis de fazer.
+          Se, porém, sois conduzidos pelo Espírito, então não estais sob o jugo da Lei.
+          São bem conhecidas as obras da carne: fornicação, libertinagem, devassidão, idolatria, feitiçaria, inimizades, contendas, ciúmes, iras, intrigas, discórdias, facções, invejas, bebedeiras, orgias, e coisas s        semelhantes a essas.
+          Eu vos previno, como aliás já o fiz: os que praticam essas coisas não herdarão o reino de Deus.
+          Porém, o fruto do Espírito é: caridade, alegria, paz, longanimidade, benignidade, bondade, lealdade, mansidão, continência.
+          Contra essas coisas não existe lei.
+          Os que pertencem a Jesus Cristo crucificaram a carne com suas paixões e seus maus desejos.
+          Se vivemos pelo Espírito, procedamos também segundo o Espírito, corretamente.
+
+          Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
-ordinary.week1.2.odd:
-  title: Segunda-feira da 1ª Semana
-  subtitle: Tempo Comum
-  color: green
+      main:
+        ref: Jo 20,19-23
+        text: |
+          Proclamação do Evangelho de Jesus Cristo segundo João
+
+          Ao anoitecer daquele dia, o primeiro da semana,
+          estando fechadas, por medo dos judeus, as portas do lugar onde os discípulos se encontravam, Jesus entrou e, pondo-se no meio deles, disse: "A paz esteja convosco".
+          Depois destas palavras, mostrou-lhes as mãos e o lado.
+          Então os discípulos se alegraram por verem o Senhor.
+          Novamente, Jesus disse: "A paz esteja convosco.
+          Como o Pai me enviou, também eu vos envio".
+          E depois de ter dito isso, soprou sobre eles e disse: "Recebei o Espírito Santo.
+          A quem perdoardes os pecados, eles lhes serão perdoados; a quem não os perdoardes, eles lhes serão retidos".
+
+          Palavra da Salvação.
+      optional:
+        ref: Jo 15,26-27;16,12-1
+        text: |
+          Proclamação do Evangelho de Jesus Cristo segundo João
+
+          Naquele tempo, disse Jesus a seus discípulos:
+          26 "Quando vier o Defensor que eu vos mandarei da parte do Pai, o Espírito da Verdade, que procede do Pai, ele dará testemunho de mim.
+          27 E vós também dareis testemunho, porque estais comigo desde o começo.
+          16,12 Tenho ainda muitas coisas a dizer-vos, mas não sois capazes de as compreender agora.
+          13 Quando, porém, vier o Espírito da Verdade, ele vos conduzirá à plena verdade.
+          Pois ele não falará por si mesmo, mas dirá tudo o que tiver ouvido; e até as coisas futuras vos anunciará.
+          14 Ele me glorificará, porque receberá do que é meu e vo-lo anunciará.
+          15 Tudo o que o Pai possui é meu.
+          Por isso, eu disse: o que ele receberá e vos anunciará, é meu".
+
+          Palavra da Salvação.
+easter.week8.1.c:
+  title: Domingo de Pentecostes
+  subtitle: Solenidade
+  color: red
   readings:
     - type: reading
-      ref: ''
+      ref: At 2,1-11
       text: ''
     - type: psalm
-      ref: ''
+      ref: Sl 103(104),1ab.24ac.29bc-30.31.34 (R. cf. 30)
+      text: ''
+    - type: reading
+      ref: 1Cor 12,3b-7.12-13
       text: ''
     - type: gospel
-      ref: ''
+      ref: Jo 20,19-23
       text: ''
+ordinary.week1.2:
+  title: Bem-aventurada Virgem Maria, Mãe da Igreja
+  subtitle: Memória
+  color: white
+  readings:
+    - type: reading
+      main:
+        ref: Gn 3,9-15.20
+        text: |
+          Leitura do Livro do Gênesis 
+          
+          Depois que Adão comeu do fruto da árvore,
+          o Senhor Deus o chamou, dizendo: "Onde estás?"
+          E ele respondeu: "Ouvi tua voz no jardim, e fiquei com medo porque estava nu; e me escondi".
+          Disse-lhe o Senhor Deus: "E quem te disse que estavas nu?
+          Então comeste da árvore, de cujo fruto te proibi comer?"
+          Adão disse: "A mulher que tu me deste por companheira, foi ela que me deu do fruto da árvore, e eu comi".
+          Disse o Senhor Deus à mulher: "Por que fizeste isso?"
+          E a mulher respondeu: "A serpente enganou-me e eu comi".
+          Então o Senhor Deus disse à serpente: "Porque fizeste isso, serás maldita entre todos os animais domésticos e todos os animais selvagens!
+          Rastejarás sobre o ventre e comerás pó todos os dias da tua vida!
+          Porei inimizade entre ti e a mulher, entre a tua descendência e a dela.
+          Esta te ferirá a cabeça e tu lhe ferirás o calcanhar".
+          E Adão chamou à sua mulher "Eva", porque ela é a mãe de todos os viventes.
+
+          Palavra do Senhor.
+      optional:
+        ref: At 1,12-14
+        text: |
+          Leitura dos Atos dos Apóstolos
+          
+          Depois que Jesus subiu ao céu, os apóstolos voltaram para Jerusalém, vindo do monte das Oliveiras, que fica perto de Jerusalém, a mais ou menos um quilômetro.
+          Entraram na cidade e subiram para a sala de cima, onde costumam ficar.
+          Eram Pedro e João, Tiago e André, Filipe e Tomé, Bartolomeu e Mateus, Tiago, filho de Alfeu, Simão Zelota e Judas, filho de Tiago.
+          Todos eles perseveravam na oração em comum, junto com algumas mulheres, entre as quais Maria, mãe de Jesus, e com os irmãos de Jesus.
+          
+          Palavra do Senhor.
+    - type: psalm
+      ref: Sl 86(87),1-2.3 e 5.6-7 (R. 3)
+      text: |
+        R. Dizem coisas gloriosas da Cidade do Senhor.
+        
+        O Senhor ama a cidade
+        que fundou no Monte santo;
+        ama as portas de Sião
+        mais que as casas de Jacó. R.
+        
+        Dizem coisas gloriosas
+        da Cidade do Senhor.
+        De Sião, porém, se diz:
+        “Nasceu nela todo homem;
+        Deus é sua segurança”. R.
+        
+        Deus anota no seu livro,
+        onde inscreve os povos todos:
+        “Foi ali que estes nasceram".
+        Por isso todos juntos
+        a cantar se alegrarão;
+        e, dançando, exclamarão:
+        “Estão em ti as nossas fontes!". R.
+    - type: gospel
+      ref: Jo 19,25-34
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João
+
+        Naquele tempo,
+        perto da cruz de Jesus, estavam de pé a sua mãe, a irmã da sua mãe, Maria de Cléofas, e Maria Madalena.
+        Jesus, ao ver sua mãe e, ao lado dela, o discípulo que ele amava, disse à mãe: “Mulher, este é o teu filho”.
+        Depois disse ao discípulo: “Esta é a tua mãe”.
+        Daquela hora em diante, o discípulo a acolheu consigo.
+        Depois disso, Jesus, sabendo que tudo estava consumado, e para que a Escritura se cumprisse até o fim, disse: “Tenho sede”.
+        Havia ali uma jarra cheia de vinagre.
+        Amarraram numa vara uma esponja embebida de vinagre e levaram-na à boca de Jesus.
+        Ele tomou o vinagre e disse: “Tudo está consumado”.
+        E, inclinando a cabeça, entregou o espírito.
+        Era o dia da preparação para a Páscoa.
+        Os judeus queriam evitar que os corpos ficassem na cruz durante o sábado, porque aquele sábado era dia de festa solene.
+        Então pediram a Pilatos que mandasse quebrar as pernas aos crucificados e os tirasse da cruz.
+        Os soldados foram e quebraram as pernas de um e depois do outro que foram crucificados com Jesus.
+        Ao se aproximarem de Jesus, e vendo que já estava morto, não lhe quebraram as pernas; mas um soldado abriu-lhe o lado com uma lança, e logo saiu sangue e água.
+
+        Palavra da Salvação.
 ordinary.week1.3.even:
   title: Terça-feira da 1ª Semana
   subtitle: Tempo Comum
@@ -23547,6 +23953,199 @@ ordinary.week34.7.odd:
           Jesus desceu então com seus pais para Nazaré, e era-lhes obediente.
 
           Palavra da Salvação.
+'0503':
+  title: Santos Filipe e Tiago, Apóstolos
+  subtitle: Festa
+  color: red
+  readings:
+    - type: reading
+      ref: 1Cor 15,1-8
+      text: |
+        Leitura da Primeira Carta de São Paulo aos Coríntios
+
+        Irmãos, quero lembrar-vos o evangelho que vos preguei e que recebestes, e no qual estais firmes.
+        Por ele sois salvos, se o estais guardando tal qual ele vos foi pregado por mim.
+        De outro modo, teríeis abraçado a fé em vão.
+        Com efeito, transmiti-vos, em primeiro lugar, aquilo que eu mesmo tinha recebido, a saber:
+        que Cristo morreu por nossos pecados, segundo as Escrituras;
+        que foi sepultado;
+        que, ao terceiro dia, ressuscitou, segundo as Escrituras;
+        e que apareceu a Cefas e, depois, aos Doze.
+        Mais tarde, apareceu a mais de quinhentos irmãos, de uma vez.
+        Destes, a maioria ainda vive e alguns já morreram.
+        Depois, apareceu a Tiago e, depois, apareceu aos apóstolos todos juntos.
+        Por último, apareceu também a mim, como a um abortivo.
+
+        Palavra do Senhor.
+    - type: psalm
+      ref: Sl 18(19A),2-3.4-5 (R. 5a)
+      text: |
+        R. Seu som ressoa e se espalha em toda terra.
+
+        Os céus proclamam a glória do Senhor,
+        e o firmamento, a obra de suas mãos;
+        o dia ao dia transmite esta mensagem,
+        a noite à noite publica esta notícia. R.
+
+        Não são discursos nem frases ou palavras,
+        nem são vozes que possam ser ouvidas;
+        seu som ressoa e se espalha em toda a terra,
+        chega aos confins do universo a sua voz. R.
+    - type: gospel
+      ref: Jo 14,6-14
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João
+
+        Naquele tempo,
+        Jesus disse a Tomé:
+        "Eu sou o Caminho, a Verdade e a Vida.
+        Ninguém vai ao Pai senão por mim.
+        Se vós me conhecêsseis, conheceríeis também o meu Pai.
+        E desde agora o conheceis e o vistes".
+        Disse Filipe:
+        "Senhor, mostra-nos o Pai, isso nos basta!"
+        Jesus respondeu:
+        "Há tanto tempo estou convosco, e não me conheces, Filipe?
+        Quem me viu, viu o Pai.
+        Como é que tu dizes:
+        'Mostra-nos o Pai'?
+        Não acreditas que eu estou no Pai e o Pai está em mim?
+        As palavras que eu vos digo, não as digo por mim mesmo, mas é o Pai que, permanecendo em mim, realiza as suas obras.
+        Acreditai-me: eu estou no Pai e o Pai está em mim.
+        Acreditai, ao menos, por causa destas mesmas obras.
+        Em verdade, em verdade vos digo, quem acredita em mim fará as obras que eu faço, e fará ainda maiores do que estas.
+        Pois eu vou para o Pai, e o que pedirdes em meu nome, eu o realizarei, a fim de que o Pai seja glorificado no Filho.
+        Se pedirdes algo em meu nome, eu o realizarei".
+
+        Palavra da Salvação.
+'0425':
+  title: São Marcos, Evangelista
+  subtitle: Festa
+  color: red
+  readings:
+    - type: reading
+      ref: 1Pd 5,5b-14
+      text: |
+        Leitura da Primeira Carta de São Pedro 
+        
+        Caríssimos,
+        Revesti-vos todos de humildade no relacionamento mútuo, porque Deus resiste aos soberbos, mas dá a sua graça aos humildes.
+        Rebaixai-vos, pois, humildemente, sob a poderosa mão de Deus, para que, na hora oportuna, ele vos exalte.
+        Lançai sobre ele toda a vossa preocupação, pois é ele quem cuida de vós.
+        Sede sóbrios e vigilantes.
+        O vosso adversário, o diabo, rodeia como um leão a rugir, procurando a quem devorar.
+        Resisti-lhe, firmes na fé, certos de que iguais sofrimentos atingem também os vossos irmãos pelo mundo afora.
+        Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para a sua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros.
+        A ele pertence o poder, pelos séculos dos séculos. Amém.
+        Por meio de Silvano, que considero um irmão fiel junto de vós, envio-vos esta breve carta, para vos exortar e para atestar que esta é a verdadeira graça de Deus, na qual estais firmes.
+        A Igreja que está em Babilônia, eleita como vós, vos saúda, como também, Marcos, o meu filho.
+        Saudai-vos uns aos outros com o abraço do amor fraterno.
+        A paz esteja com todos vós que estais em Cristo.
+        
+        Palavra do Senhor.
+    - type: psalm
+      ref: Sl 88(89),2-3,6-7,16-17 (R. cf. 2a)
+      text: |
+        R. Ó Senhor, eu cantarei, eternamente, o vosso amor.
+        
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Ó Senhor, eu cantarei eternamente o vosso amor,
+        de geração em geração eu cantarei vossa verdade!
+        Porque dissestes: "O amor é garantido para sempre!"
+        E a vossa lealdade é tão firme como os céus. R.
+        
+        Anuncia o firmamento vossas grandes maravilhas,
+        e o vosso amor fiel, a assembleia dos eleitos,
+        pois, quem pode, lá nas nuvens ao Senhor se comparar
+        e quem pode, entre seus anjos, ser a ele semelhante? R.
+        
+        Quão feliz é aquele povo que conhece a alegria;
+        seguirá pelo caminho, sempre à luz de vossa face!
+        Exultará de alegria em vosso nome dia a dia,
+        e com grande entusiasmo exaltará vossa justiça. R.
+    - type: gospel
+      ref: Mc 16,15-20
+      text: |
+        Conclusão do Evangelho de Jesus Cristo segundo Marcos 
+        
+        Naquele tempo,
+        Jesus se manifestou aos onze discípulos, e disse-lhes: "Ide pelo mundo inteiro e anunciai o Evangelho a toda criatura!
+        Quem crer e for batizado será salvo.
+        Quem não crer será condenado.
+        Os sinais que acompanharão aqueles que crerem serão estes: expulsarão demônios em meu nome, falarão novas línguas; se pegarem em serpentes ou beberem algum veneno mortal não lhes fará mal algum; quando impuserem as mãos sobre os doentes, eles ficarão curados".
+        Depois de falar com os discípulos, o Senhor Jesus foi levado ao céu, e sentou-se à direita de Deus.
+        Os discípulos então saíram e pregaram por toda parte.
+        O Senhor os ajudava e confirmava sua palavra por meio dos sinais que a acompanhavam.
+        
+        Palavra da Salvação.
+'0512':
+  title: São Matias, Apóstolo
+  subtitle: Festa
+  color: red
+  readings:
+    - type: reading
+      ref: At 1,15-17.20-26
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        Naqueles dias,
+        Pedro levantou-se no meio dos irmãos e disse: "Irmãos, era preciso que se cumprisse o que o Espírito Santo, por meio de Davi, anunciou na Escritura sobre Judas, que se tornou o guia daqueles que prenderam Jesus.
+        Judas era um dos nossos e participava do mesmo ministério.
+        De fato, no livro dos Salmos está escrito: 'fique deserta a sua morada, nem haja quem nela habite!' E ainda: 'Que outro ocupe o seu lugar!' Há homens que nos acompanharam durante todo o tempo em que o Senhor Jesus vivia no meio de nós, a começar pelo batismo de João até ao dia em que foi elevado ao céu.
+        Agora, é preciso que um deles se junte a nós para ser testemunha da sua ressurreição".
+        Então eles apresentaram dois homens: José, chamado Barsabás, que tinha o apelido de Justo, e Matias.
+        Em seguida, fizeram esta oração: "Senhor, tu conheces os corações de todos.
+        Mostra-nos qual destes dois escolhestes para ocupar, neste ministério e apostolado, o lugar que Judas abandonou para seguir o seu destino!"
+        Então tiraram a sorte entre os dois.
+        A sorte caiu em Matias, o qual foi juntado ao número dos onze apóstolos.
+        
+        Palavra do Senhor.
+    - type: psalm
+      ref: Sl 112(113),1-2.3-4.5-6.7-8 (R. cf. 8)
+      text: |
+        R. O Senhor fez o indigente assentar-se com os nobres.
+        
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Louvai, louvai, ó servos do Senhor,
+        louvai, louvai o nome do Senhor!
+        Bendito seja o nome do Senhor,
+        agora e por toda a eternidade! R.
+        
+        Do nascer do sol até o seu ocaso,
+        louvado seja o nome do Senhor!
+        O Senhor está acima das nações,
+        sua glória vai além dos altos céus. R.
+        
+        Quem pode comparar-se ao nosso Deus,
+        ao Senhor, que no alto céu tem o seu trono
+        e se inclina para olhar o céu e a terra? R.
+        
+        Levanta da poeira o indigente
+        e do lixo ele retira o pobrezinho,
+        para fazê-lo assentar-se com os nobres,
+        assentar-se com nobres do seu povo. R.
+    - type: gospel
+      ref: Jo 15,9-17
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Naquele tempo, disse Jesus a seus discípulos:
+        Como meu Pai me amou, assim também eu vos amei.
+        Permanecei no meu amor.
+        Se guardardes os meus mandamentos, permanecereis no meu amor, assim como eu guardei os mandamentos do meu Pai e permaneço no seu amor.
+        Eu vos disse isto, para que a minha alegria esteja em vós e a vossa alegria seja plena.
+        Este é o meu mandamento: amai-vos uns aos outros, assim como eu vos amei.
+        Ninguém tem amor maior do que aquele que dá sua vida pelos amigos.
+        Vós sois meus amigos, se fizerdes o que eu vos mando.
+        Já não vos chamo servos, pois o servo não sabe o que faz o seu senhor.
+        Eu vos chamo amigos, porque vos dei a conhecer tudo o que ouvi de meu Pai.
+        Não fostes vós que me escolhestes, mas fui eu que vos escolhi e vos designei para irdes e para que produzais fruto e o vosso fruto permaneça.
+        O que então pedirdes ao Pai em meu nome, ele vo-lo concederá.
+        Isto é o que vos ordeno: amai-vos uns aos outros.
+        
+        Palavra da Salvação.
 annunciation: 
   title: Anunciação do Senhor
   subtitle: Solenidade
