@@ -10437,7 +10437,7 @@ easter.week6.7:
         Palavra da Salvação.
 easter.week7.1.a:
   title: Ascensão do Senhor
-  subtitle: Tempo da Páscoa
+  subtitle: Solenidade
   color: white
   readings:
     - type: reading
@@ -10517,7 +10517,7 @@ easter.week7.1.a:
         Palavra da Salvação.
 easter.week7.1.b:
   title: Ascensão do Senhor
-  subtitle: Tempo da Páscoa
+  subtitle: Solenidade
   color: white
   readings:
     - type: reading
@@ -10616,7 +10616,7 @@ easter.week7.1.b:
         Palavra da Salvação.
 easter.week7.1.c:
   title: Ascensão do Senhor
-  subtitle: Tempo da Páscoa
+  subtitle: Solenidade
   color: white
   readings:
     - type: reading
