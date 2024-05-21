@@ -11503,80 +11503,16 @@ ordinary.week1.2:
     - type: reading
       main:
         ref: Gn 3,9-15.20
-        text: |
-          Leitura do Livro do Gênesis 
-          
-          Depois que Adão comeu do fruto da árvore,
-          o Senhor Deus o chamou, dizendo: "Onde estás?"
-          E ele respondeu: "Ouvi tua voz no jardim, e fiquei com medo porque estava nu; e me escondi".
-          Disse-lhe o Senhor Deus: "E quem te disse que estavas nu?
-          Então comeste da árvore, de cujo fruto te proibi comer?"
-          Adão disse: "A mulher que tu me deste por companheira, foi ela que me deu do fruto da árvore, e eu comi".
-          Disse o Senhor Deus à mulher: "Por que fizeste isso?"
-          E a mulher respondeu: "A serpente enganou-me e eu comi".
-          Então o Senhor Deus disse à serpente: "Porque fizeste isso, serás maldita entre todos os animais domésticos e todos os animais selvagens!
-          Rastejarás sobre o ventre e comerás pó todos os dias da tua vida!
-          Porei inimizade entre ti e a mulher, entre a tua descendência e a dela.
-          Esta te ferirá a cabeça e tu lhe ferirás o calcanhar".
-          E Adão chamou à sua mulher "Eva", porque ela é a mãe de todos os viventes.
-
-          Palavra do Senhor.
+        text: ''
       optional:
         ref: At 1,12-14
-        text: |
-          Leitura dos Atos dos Apóstolos
-          
-          Depois que Jesus subiu ao céu, os apóstolos voltaram para Jerusalém, vindo do monte das Oliveiras, que fica perto de Jerusalém, a mais ou menos um quilômetro.
-          Entraram na cidade e subiram para a sala de cima, onde costumam ficar.
-          Eram Pedro e João, Tiago e André, Filipe e Tomé, Bartolomeu e Mateus, Tiago, filho de Alfeu, Simão Zelota e Judas, filho de Tiago.
-          Todos eles perseveravam na oração em comum, junto com algumas mulheres, entre as quais Maria, mãe de Jesus, e com os irmãos de Jesus.
-          
-          Palavra do Senhor.
+        text: ''
     - type: psalm
       ref: Sl 86(87),1-2.3 e 5.6-7 (R. 3)
-      text: |
-        R. Dizem coisas gloriosas da Cidade do Senhor.
-        
-        O Senhor ama a cidade
-        que fundou no Monte santo;
-        ama as portas de Sião
-        mais que as casas de Jacó. R.
-        
-        Dizem coisas gloriosas
-        da Cidade do Senhor.
-        De Sião, porém, se diz:
-        “Nasceu nela todo homem;
-        Deus é sua segurança”. R.
-        
-        Deus anota no seu livro,
-        onde inscreve os povos todos:
-        “Foi ali que estes nasceram".
-        Por isso todos juntos
-        a cantar se alegrarão;
-        e, dançando, exclamarão:
-        “Estão em ti as nossas fontes!". R.
+      text: ''
     - type: gospel
       ref: Jo 19,25-34
-      text: |
-        Proclamação do Evangelho de Jesus Cristo segundo João
-
-        Naquele tempo,
-        perto da cruz de Jesus, estavam de pé a sua mãe, a irmã da sua mãe, Maria de Cléofas, e Maria Madalena.
-        Jesus, ao ver sua mãe e, ao lado dela, o discípulo que ele amava, disse à mãe: “Mulher, este é o teu filho”.
-        Depois disse ao discípulo: “Esta é a tua mãe”.
-        Daquela hora em diante, o discípulo a acolheu consigo.
-        Depois disso, Jesus, sabendo que tudo estava consumado, e para que a Escritura se cumprisse até o fim, disse: “Tenho sede”.
-        Havia ali uma jarra cheia de vinagre.
-        Amarraram numa vara uma esponja embebida de vinagre e levaram-na à boca de Jesus.
-        Ele tomou o vinagre e disse: “Tudo está consumado”.
-        E, inclinando a cabeça, entregou o espírito.
-        Era o dia da preparação para a Páscoa.
-        Os judeus queriam evitar que os corpos ficassem na cruz durante o sábado, porque aquele sábado era dia de festa solene.
-        Então pediram a Pilatos que mandasse quebrar as pernas aos crucificados e os tirasse da cruz.
-        Os soldados foram e quebraram as pernas de um e depois do outro que foram crucificados com Jesus.
-        Ao se aproximarem de Jesus, e vendo que já estava morto, não lhe quebraram as pernas; mas um soldado abriu-lhe o lado com uma lança, e logo saiu sangue e água.
-
-        Palavra da Salvação.
+      text: ''
 ordinary.week1.3.even:
   title: Terça-feira da 1ª Semana
   subtitle: Tempo Comum
@@ -15242,14 +15178,76 @@ ordinary.week7.3.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Tg 4,1-10
+      text: |
+        Leitura da Carta de São Tiago 
+        
+        Caríssimos,
+        de onde vêm as guerras?
+        De onde vêm as brigas entre vós?
+        Não vêm, justamente, das paixões que estão em conflito dentro de vós?
+        Cobiçais, mas não conseguis ter.
+        Matais e cultivais inveja, mas não conseguis êxito.
+        Brigais e fazeis guerra, mas não conseguis possuir.
+        E a razão está em que não pedis.
+        Pedis, sim, mas não recebeis, porque pedis mal.
+        Pois só quereis esbanjar o pedido nos vossos prazeres.
+        Adúlteros, não sabeis que a amizade com o mundo é inimizade com Deus?
+        Assim, todo aquele que pretende ser amigo do mundo torna-se inimigo de Deus.
+        Ou julgais ser em vão que a Escritura diz: "Com ciúme anela o espírito que nos habita"?
+        Mas ele nos dá uma graça maior.
+        Por isso, a Escritura diz: "Deus resiste aos soberbos, mas concede a graça aos humildes".
+        Obedecei pois a Deus, mas resisti ao diabo, e ele fugirá de vós.
+        Aproximai-vos de Deus, e ele se aproximará de vós.
+        Purificai as mãos, ó pecadores, e santificai os corações, homens dúbios.
+        Ficai tristes, vesti o luto e chorai.
+        Transforme-se em luto o vosso riso, e a vossa alegria em desalento.
+        Humilhai-vos diante do Senhor, e ele vos exaltará.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 54(55),7-8.9-10a.10b-11a.23 (R. 23a)
+      text: |
+        R. Confia teus cuidados ao Senhor,
+        e ele há de ser o teu sustento!
+
+        É por isso que eu digo na angústia:
+        "Quem me dera ter asas de pomba
+        e voar para achar um descanso!
+        Fugiria, então, para longe,
+        e me iria esconder no deserto. R.
+        
+        Acharia depressa um refúgio
+        contra o vento, a procela, o tufão".
+        Ó Senhor, confundi as más línguas. R.
+        
+        Dispersai-as, porque na cidade
+        só se vê violência e discórdia!
+        Dia e noite circundam seus muros. R.
+        
+        Lança sobre o Senhor teus cuidados,
+        porque ele há de ser teu sustento,
+        e jamais ele irá permitir
+        que o justo para sempre vacile! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 9,30-37
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos
+
+        Naquele tempo,
+        Jesus e seus discípulos atravessavam a Galileia.
+        Ele não queria que ninguém soubesse disso, pois estava ensinando a seus discípulos.
+        E dizia-lhes: "O Filho do Homem vai ser entregue nas mãos dos homens, e eles o matarão.
+        Mas, três dias após sua morte, ele ressuscitará".
+        Os discípulos, porém, não compreendiam estas palavras e tinham medo de perguntar.
+        Eles chegaram a Cafarnaum.
+        Estando em casa, Jesus perguntou-lhes: "O que discutíeis pelo caminho?"
+        Eles, porém, ficaram calados, pois pelo caminho tinham discutido quem era o maior.
+        Jesus sentou-se, chamou os doze e lhes disse: "Se alguém quiser ser o primeiro, que seja o último de todos e aquele que serve a todos!"
+        Em seguida, pegou uma criança, colocou-a no meio deles, e abraçando-a disse: "Quem acolher em meu nome uma destas crianças, é a mim que estará acolhendo.
+        E quem me acolher, está acolhendo, não a mim, mas àquele que me enviou".
+
+        Palavra da Salvação.
 ordinary.week7.3.odd:
   title: Terça-feira da 7ª Semana
   subtitle: Tempo Comum
@@ -15270,14 +15268,57 @@ ordinary.week7.4.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Tg 4,13-17
+      text: |
+        Leitura da Carta de São Tiago 
+        
+        Caríssimos,
+        e agora, vós que dizeis: "Hoje ou amanhã iremos a tal cidade, passaremos ali um ano, negociando e ganhando dinheiro".
+        No entanto, não sabeis nem mesmo o que será da vossa vida, amanhã!
+        Com efeito, não passais de uma neblina que se vê por um instante e logo desaparece.
+        Em vez de dizer: "Se o Senhor quiser, estaremos vivos e faremos isto ou aquilo", vós vos gloriais de vossas fanfarronadas.
+        Ora, toda a arrogância deste tipo é um mal.
+        Assim, aquele que sabe fazer o bem e não o faz incorre em pecado.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 48(49),2-3.6-7.8-10.11 (R. Mt 5,3)
+      text: |
+        R. Felizes os humildes de espírito
+        porque deles é o Reino dos Céus!
+
+        Ouvi isto, povos todos do universo,
+        muita atenção, ó habitantes deste mundo;
+        poderosos e humildes, escutai-me,
+        ricos e pobres, todos juntos, sede atentos! R.
+        
+        Por que temer os dias maus e infelizes,
+        quando a malícia dos perversos me circunda?
+        Por que temer os que confiam nas riquezas
+        e se gloriam na abundância de seus bens? R.
+        
+        Ninguém se livra de sua morte por dinheiro
+        nem a Deus pode pagar o seu resgate.
+        A isenção da própria morte não tem preço;
+        não há riqueza que a possa adquirir,
+        nem dar ao homem uma vida sem limites
+        e garantir-lhe uma existência imortal. R.
+        
+        Morrem os sábios e os ricos igualmente;
+        morrem os loucos e também os insensatos,
+        e deixam tudo o que possuem aos estranhos. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 9,38-40
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos 
+        
+        Naquele tempo,
+        João disse a Jesus: "Mestre, vimos um homem expulsar demônios em teu nome.
+        Mas nós o proibimos, porque ele não nos segue".
+        Jesus disse: "Não o proibais, pois ninguém faz milagres em meu nome para depois falar mal de mim.
+        Quem não é contra nós é a nosso favor".
+        
+        Palavra da Salvação.
 ordinary.week7.4.odd:
   title: Quarta-feira da 7ª Semana
   subtitle: Tempo Comum
@@ -15298,14 +15339,66 @@ ordinary.week7.5.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Tg 5,1-6
+      text: |
+        Leitura da Carta de São Tiago 
+        
+        E agora, ricos, chorai e gemei,
+        por causa das desgraças que estão para cair sobre vós.
+        Vossa riqueza está apodrecendo, e vossas roupas estão carcomidas pelas traças.
+        Vosso ouro e vossa prata estão enferrujados, e a ferrugem deles vai servir de testemunho contra vós e devorar vossas carnes, como fogo!
+        Amontoastes tesouros nos últimos dias.
+        Vede: o salário dos trabalhadores que ceifaram os vossos campos, que vós deixastes de pagar, está gritando, e o clamor dos trabalhadores chegou aos ouvidos do Senhor todo-poderoso.
+        Vós vivestes luxuosamente na terra, entregues à boa vida, cevando os vossos corações para o dia da matança.
+        Condenastes o justo e o assassinastes; ele não resiste a vós.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 48(49),14-15ab.15cd-16.17-18.19-20 (R. Mt 5,3)
+      text: |
+        R. Felizes os humildes de espírito
+        porque deles é o Reino dos Céus!
+
+        Este é o fim do que espera estultamente,
+        o fim daqueles que se alegram com sua sorte;
+        são um rebanho recolhido ao cemitério,
+        e a própria morte é o pastor que os apascenta. R.
+        
+        São empurrados e deslizam para o abismo.
+        Logo seu corpo e seu semblante se desfazem,
+        e entre os mortos fixarão sua morada.
+        Deus, porém, me salvará das mãos da morte
+        e junto a si me tomará em suas mãos. R.
+        
+        Não te inquietes, quando um homem fica rico
+        e aumenta a opulência de sua casa;
+        pois ao morrer não levará nada consigo,
+        nem seu prestígio poderá acompanhá-lo. R.
+        
+        Felicitava-se a si mesmo enquanto vivo:
+        "Todos te aplaudem, tudo bem, isto que é vida!"
+        Mas vai-se ele para junto de seus pais,
+        que nunca mais e nunca mais verão a luz! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 9,41-50
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos 
+        
+        Naquele tempo, disse Jesus aos seus discípulos:
+        "Quem vos der a beber um copo de água, porque sois de Cristo, não ficará sem receber a sua recompensa.
+        E se alguém escandalizar um destes pequeninos que creem, melhor seria que fosse jogado no mar com uma pedra de moinho amarrada ao pescoço.
+        Se tua mão te leva a pecar, corta-a!
+        É melhor entrar na Vida sem uma das mãos, do que, tendo as duas, ir para o inferno, para o fogo que nunca se apaga.
+        Se teu pé te leva a pecar, corta-o!
+        É melhor entrar na Vida sem um dos pés, do que, tendo os dois, ser jogado no inferno.
+        Se teu olho te leva a pecar, arranca-o!
+        É melhor entrar no Reino de Deus com um olho só, do que, tendo os dois, ser jogado no inferno, 'onde o verme deles não morre, e o fogo não se apaga'.
+        Pois todos hão de ser salgados pelo fogo.
+        Coisa boa é o sal.
+        Mas se o sal se tornar insosso, com que lhe restituireis o tempero?
+        Tende, pois, sal em vos mesmos e vivei em paz uns com os outros".
+
+        Palavra da Salvação.
 ordinary.week7.5.odd:
   title: Quinta-feira da 7ª Semana
   subtitle: Tempo Comum
@@ -15326,14 +15419,68 @@ ordinary.week7.6.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Tg 5,9-12
+      text: |
+        Leitura da Carta de São Tiago 
+        
+        Irmãos, não vos queixeis uns dos outros,
+        para que não sejais julgados.
+        Eis que o juiz está às portas.
+        Irmãos, tomai por modelo de sofrimento e firmeza os profetas, que falaram em nome do Senhor.
+        Reparai que consideramos como bem-aventurados os que perseveraram.
+        Ouvistes falar da perseverança de Jó e conheceis o êxito que o Senhor lhe deu — pois o Senhor é rico em misericórdia e compassivo.
+        Sobretudo, meus irmãos, não jureis, nem pelo céu, nem pela terra, nem por qualquer outra forma de juramento.
+        Antes, que o vosso sim seja sim, e o vosso não, não.
+        Então não estareis sujeitos a julgamento.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 102(103),1-2.3-4.8-9.11-12 (R. 8a)
+      text: |
+        R. O Senhor é indulgente, é favorável.
+        
+        Bendize, ó minha alma, ao Senhor,
+        e todo o meu ser, seu santo nome!
+        Bendize, ó minha alma, ao Senhor,
+        não te esqueças de nenhum de seus favores! R.
+        
+        Pois ele te perdoa toda culpa,
+        e cura toda a tua enfermidade;
+        da sepultura ele salva a tua vida
+        e te cerca de carinho e compaixão. R.
+        
+        O Senhor é indulgente, é favorável,
+        é paciente, é bondoso e compassivo.
+        Não fica sempre repetindo as suas queixas,
+        nem guarda eternamente o seu rancor. R.
+        
+        Quanto os céus por sobre a terra se elevam,
+        tanto é grande o seu amor aos que o temem;
+        quanto dista o nascente do poente,
+        tanto afasta para longe nossos crimes. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 10,1-12
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos 
+        
+        Naquele tempo,
+        Jesus foi para o território da Judeia, do outro lado do rio Jordão.
+        As multidões se reuniram de novo, em torno de Jesus.
+        E ele, como de costume, as ensinava.
+        Alguns fariseus se aproximaram de Jesus.
+        Para pô-lo à prova, perguntaram se era permitido ao homem divorciar-se de sua mulher.
+        Jesus perguntou: "O que Moisés vos ordenou?"
+        Os fariseus responderam: "Moisés permitiu escrever uma certidão de divórcio e despedi-la".
+        Jesus então disse: "Foi por causa da dureza do vosso coração que Moisés vos escreveu este mandamento.
+        No entanto, desde o começo da criação, Deus os fez homem e mulher.
+        Por isso, o homem deixará seu pai e sua mãe e os dois serão uma só carne.
+        Assim, já não são dois, mas uma só carne.
+        Portanto, o que Deus uniu, o homem não separe!"
+        Em casa, os discípulos fizeram, novamente, perguntas sobre o mesmo assunto.
+        Jesus respondeu: "Quem se divorciar de sua mulher e casar com outra, cometerá adultério contra a primeira.
+        E se a mulher se divorciar de seu marido e casar com outro, cometerá adultério".
+
+        Palavra da Salvação.
 ordinary.week7.6.odd:
   title: Sexta-feira da 7ª Semana
   subtitle: Tempo Comum
@@ -15354,14 +15501,51 @@ ordinary.week7.7.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Tg 5,13-20
+      text: |
+        Leitura da Carta de São Tiago 
+        
+        Caríssimos,
+        se alguém dentre vós está sofrendo, recorra à oração.
+        Se alguém está alegre, entoe hinos.
+        Se alguém dentre vós estiver doente, mande chamar os presbíteros da Igreja, para que orem sobre ele, ungindo-o com óleo em nome do Senhor.
+        A oração feita com fé salvará o doente e o Senhor o levantará.
+        E se tiver cometido pecados, receberá o perdão.
+        Confessai, pois, uns aos outros, os vossos pecados e orai uns pelos outros para alcançar a saúde.
+        A oração fervorosa do justo tem grande poder.
+        Assim Elias, que era um homem semelhante a nós, orou com insistência para que não chovesse, e não houve chuva na terra durante três anos e seis meses.
+        Em seguida tornou a orar, e o céu deu a chuva e a terra voltou a produzir o seu fruto.
+        Meus irmãos, se alguém de vós se desviar da verdade e um outro o reconduzir, saiba este que aquele que reconduz um pecador desencaminhado salvará da morte a alma dele e cobrirá uma multidão de pecados.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 140(141),1-2.3 e 8 (R. 2a)
+      text: |
+        R. Minha oração suba a vós como incenso!
+        
+        Senhor, eu clamo por vós, socorrei-me;
+        quando eu grito, escutai minha voz!
+        Minha oração suba a vós como incenso,
+        e minhas mãos, como oferta da tarde! R.
+        
+        Ponde uma guarda em minha boca, Senhor,
+        e vigias às portas dos lábios!
+        A vós, Senhor, se dirigem meus olhos,
+        em vós me abrigo: poupai minha vida! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 10,13-16
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos 
+        
+        Naquele tempo,
+        traziam crianças para que Jesus as tocasse.
+        Mas os discípulos as repreendiam.
+        Vendo isso, Jesus se aborreceu e disse: "Deixai vir a mim as crianças.
+        Não as proibais, porque o Reino de Deus é dos que são como elas.
+        Em verdade vos digo: quem não receber o Reino de Deus como uma criança, não entrará nele".
+        Ele abraçava as crianças e as abençoava, impondo-lhes as mãos.
+
+        Palavra da Salvação.
 ordinary.week7.7.odd:
   title: Sábado-feira da 7ª Semana
   subtitle: Tempo Comum

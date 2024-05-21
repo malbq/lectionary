@@ -1,6 +1,6 @@
 import { convert } from "html-to-text"
 
-const html = await fetch('https://api-liturgia.edicoescnbb.com.br/contents/in/date/2024-04-10')
+const html = await fetch('https://api-liturgia.edicoescnbb.com.br/contents/in/date/2024-05-26')
   .then(response => response.json())
   .then(data => {
     return data.content.leituras + data.content.body
