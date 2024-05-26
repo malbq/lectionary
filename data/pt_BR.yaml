@@ -15816,6 +15816,7 @@ ordinary.week8.3.even:
   subtitle: Tempo Comum
   color: green
   readings:
+    - type: reading
       ref: 1Pd 1,10-16
       text: |
         Leitura da Primeira Carta de São Pedro
