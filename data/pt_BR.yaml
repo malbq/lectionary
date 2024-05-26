@@ -1614,28 +1614,145 @@ mostHolyTrinity:
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Dt 4,32-34.39-40
+      text: |
+        Leitura do Livro do Deuteronômio 
+        
+        Moisés falou ao povo dizendo:
+        "Interroga os tempos antigos que te precederam, desde o dia em que Deus criou o homem sobre a terra, e investiga de um extremo ao outro dos céus, se houve jamais um acontecimento tão grande, ou se ouviu algo semelhante.
+        Existe, porventura, algum povo que tenha ouvido a voz de Deus falando-lhe do meio do fogo, como tu ouviste, e tenha permanecido vivo?
+        Ou terá jamais algum Deus vindo escolher para si um povo entre as nações, por meio de provações, de sinais e prodígios, por meio de combates, com mão forte e braço estendido, e por meio de grandes terrores, como tudo o que por ti o Senhor vosso Deus fez no Egito, diante de teus próprios olhos?
+        Reconhece, pois, hoje, e grava-o em teu coração, que o Senhor é o Deus lá em cima do céu e cá embaixo na terra, e que não há outro além dele.
+        Guarda suas leis e seus mandamentos que hoje te prescrevo, para que sejas feliz, tu e teus filhos depois de ti, e vivas longos dias sobre a terra que o Senhor teu Deus te vai dar para sempre".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 32(33),4-5.6.9.18-19.20.22 (R. 12b)
+      text: |
+        R. Feliz o povo que o Senhor escolheu por sua herança.
+        
+        Reta é a palavra do Senhor,
+        e tudo o que ele faz merece fé.
+        Deus ama o direito e a justiça,
+        transborda em toda a terra a sua graça. R.
+        
+        A palavra do Senhor criou os céus,
+        e o sopro de seus lábios, as estrelas.
+        Ele falou e toda a terra foi criada,
+        ele ordenou e as coisas todas existiram. R.
+        
+        Mas o Senhor pousa o olhar sobre os que o temem,
+        e que confiam esperando em seu amor,
+        para da morte libertar as suas vidas
+        e alimentá-los quando é tempo de penúria. R.
+        
+        No Senhor nós esperamos confiantes,
+        porque ele é nosso auxílio e proteção!
+        Sobre nós venha, Senhor, a vossa graça,
+        da mesma forma que em vós nós esperamos! R.
+    - type: reading
+      ref: Rm 8,14-17
+      text: |
+        Leitura da Carta de São Paulo aos Romanos 
+        
+        Irmãos:
+        Todos aqueles que se deixam conduzir pelo Espírito de Deus são filhos de Deus.
+        De fato, vós não recebestes um espírito de escravos, para recairdes no medo, mas recebestes um espírito de filhos adotivos, no qual todos nós clamamos: Abá, ó Pai!
+        O próprio Espírito se une ao nosso espírito para nos atestar que somos filhos de Deus.
+        E, se somos filhos, somos também herdeiros, herdeiros de Deus e coerdeiros de Cristo; se realmente sofremos com ele, é para sermos também glorificados com ele.
+        
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mt 28,16-20
+      text: |
+        Conclusão do Evangelho de Jesus Cristo segundo Mateus
+
+        Naquele tempo,
+        Os onze discípulos foram para a Galileia, ao monte que Jesus lhes tinha indicado.
+        Quando viram Jesus, prostraram-se diante dele.
+        Ainda assim alguns duvidaram.
+        Então Jesus aproximou-se e falou: "Toda a autoridade me foi dada no céu e sobre a terra.
+        Portanto, ide e fazei discípulos meus todos os povos, batizando-os em nome do Pai e do Filho e do Espírito Santo, e ensinando-os a observar tudo o que vos ordenei!
+        Eis que eu estarei convosco todos os dias, até ao fim do mundo".
+
+        Palavra da Salvação.
 corpusChristi:
   title: Corpus Christi
   subtitle: Solenidade
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Ex 24,3-8
+      text: |
+        Leitura do Livro do Êxodo
+
+        Naqueles dias,
+        Moisés veio e transmitiu ao povo todas as palavras do Senhor e todos os decretos.
+        O povo respondeu em coro: "Faremos tudo o que o Senhor nos disse".
+        Então Moisés escreveu todas as palavras do Senhor.
+        Levantando-se na manhã seguinte, ergueu ao pé da montanha um altar e doze marcos de pedra pelas doze tribos de Israel.
+        Em seguida, mandou alguns jovens israelitas oferecer holocaustos e imolar novilhos como sacrifícios pacíficos ao Senhor.
+        Moisés tomou metade do sangue e o pôs em vasilhas, e derramou a outra metade sobre o altar.
+        Tomou depois o livro da aliança e o leu em voz alta ao povo, que respondeu: "Faremos tudo o que o Senhor disse e lhe obedeceremos".
+        Moisés, então, com o sangue separado, aspergiu o povo, dizendo: "Este é o sangue da aliança, que o Senhor fez convosco, segundo todas estas palavras".
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 115(116),12-13.15.16bc.17-18 (R. 13
+      text: |
+        R. Elevo o cálice da minha salvação,
+        invocando o nome santo do Senhor.
+
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Que poderei retribuir ao Senhor Deus
+        por tudo aquilo que ele fez em meu favor?
+        Elevo o cálice da minha salvação,
+        invocando o nome santo do Senhor. R.
+
+        É sentida por demais pelo Senhor
+        a morte de seus santos, seus amigos.
+        Eis que sou o vosso servo, ó Senhor,
+        que nasceu de vossa serva;
+        mas me quebrastes os grilhões da escravidão! R.
+
+        Por isso oferto um sacrifício de louvor,
+        invocando o nome santo do Senhor.
+        Vou cumprir minhas promessas ao Senhor
+        na presença de seu povo reunido. R.
+    - type: reading
+      ref: Hb 9,11-15
+      text: |
+        Leitura da Carta aos Hebreus
+
+        Irmãos:
+        Cristo veio como sumo-sacerdote dos bens futuros.
+        Através de uma tenda maior e mais perfeita, que não é obra de mãos humanas, isto é, que não faz parte desta criação, e não com o sangue de bodes e bezerros, mas com o seu próprio sangue, ele entrou no Santuário uma vez por todas, obtendo uma redenção eterna.    
+        De fato, se o sangue de bodes e touros, e a cinza de novilhas espalhada sobre os seres impuros os santifica e realiza a pureza ritual dos corpos, quanto mais o Sangue de Cristo, purificará a nossa consciência das obras mortas, para servirmos ao Deus vivo, pois, em virtude do espírito eterno, Cristo se ofereceu a si mesmo a Deus como vítima sem mancha.
+        Por isso, ele é mediador de uma nova aliança.
+        Pela sua morte, ele reparou as transgressões cometidas no decorrer da primeira aliança.
+        E, assim, aqueles que são chamados recebem a promessa da herança eterna.
+        
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 14,12-16.22-26
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos
+
+        No primeiro dia dos Ázimos,
+        quando se imolava o cordeiro pascal, os discípulos disseram a Jesus: "Onde queres que façamos os preparativos para comeres a Páscoa?"
+        Jesus enviou então dois dos seus discípulos e lhes disse: "Ide à cidade.
+        Um homem carregando um jarro de água virá ao vosso encontro. Segui-o e dizei ao dono da casa em que ele entrar: 'O Mestre manda dizer: onde está a sala em que vou comer a Páscoa com os meus discípulos?' Então ele vos mostrará, no andar de cima, uma grande sala, arrumada com almofadas.
+        Aí fareis os preparativos para nós!"
+        Os discípulos saíram e foram à cidade.
+        Encontraram tudo como Jesus havia dito, e prepararam a Páscoa.
+        Enquanto comiam, Jesus tomou o pão e, tendo pronunciado a bênção, partiu-o e entregou-lhes, dizendo: "Tomai, isto é o meu corpo".
+        Em seguida, tomou o cálice, deu graças, entregou-lhes e todos beberam dele.
+        Jesus lhes disse: "Isto é o meu sangue, o sangue da aliança, que é derramado em favor de muitos.
+        Em verdade vos digo, não beberei mais do fruto da videira, até o dia em que beberei o vinho novo no Reino de Deus".
+        Depois de terem cantado o hino, foram para o monte das Oliveiras.
+
+        Palavra da Salvação.
 sacredHeartOfJesus:
   title: Sagrado Coração de Jesus
   subtitle: Solenidade
@@ -2019,6 +2136,7 @@ assumption:
       ref: Sl 147(147B),12-13.14-15.19-20 (R. 12a)
       text: |
         R. Glorifica o Senhor, Jerusalém!
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Glorifica o Senhor, Jerusalém!
@@ -2482,6 +2600,7 @@ advent.week1.5:
       ref: Sl 117(118),1.8-9.19-21.25-27a (R. 26a)
       text: |
         R. Bendito é aquele que vem vindo em nome do Senhor!
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Dai graças ao Senhor, porque ele é bom!
@@ -7167,6 +7286,7 @@ easter.week1.1.b:
       text: |
         R. Este é o dia que o Senhor fez para nós:
         alegremo-nos e nele exultemos!
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Dai graças ao Senhor, porque ele é bom!
@@ -9093,6 +9213,7 @@ easter.week4.5:
         R. Ó Senhor, eu cantarei eternamente o vosso amor.
 
         Ou: Aleluia, Aleluia, Aleluia.
+
         Ó Senhor, eu cantarei eternamente o vosso amor,
         de geração em geração eu cantarei vossa verdade!
         Porque dissestes: "O amor é garantido para sempre!"
@@ -10640,7 +10761,7 @@ easter.week7.1.c:
       text: |
         R. Batei palmas, povos todos, o Senhor subiu ao toque da trombeta!
 
-        Ou: R.Aleluia, Aleluia, Aleluia
+        Ou: Aleluia, Aleluia, Aleluia
 
         Povos todos do universo, batei palmas,
         gritai a Deus aclamações de alegria!
@@ -14194,6 +14315,7 @@ ordinary.week5.1.b:
       ref: Sl 146(147),1-2.3-4.5-6 (R. cf. 3a)
       text: |
         R. Louvai a Deus, porque ele é bom e conforta os corações.
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Louvai o Senhor Deus, porque ele é bom,
@@ -15617,14 +15739,64 @@ ordinary.week8.2.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Pd 1,3-9
+      text: |
+        Leitura da Primeira Carta de São Pedro 
+        
+        Bendito seja Deus,
+        Pai de nosso Senhor Jesus Cristo.
+        Em sua grande misericórdia, pela ressurreição de Jesus Cristo dentre os mortos, ele nos fez nascer de novo, para uma esperança viva, para uma herança incorruptível, que não estraga, que não se mancha nem murcha, e que é reservada para vós nos céus.
+        Graças à fé, e pelo poder de Deus, vós fostes guardados para a salvação que deve manifestar-se nos últimos tempos.
+        Isto é motivo de alegria para vós, embora seja necessário que agora fiqueis por algum tempo aflitos, por causa de várias provações.
+        Deste modo, a vossa fé será provada como sendo verdadeira — mais preciosa que o ouro perecível, que é provado no fogo — e alcançará louvor, honra e glória, no dia da manifestação de Jesus Cristo.
+        Sem ter visto o Senhor, vós o amais.
+        Sem o ver ainda, nele acreditais.
+        Isso será para vós fonte de alegria indizível e gloriosa, pois obtereis aquilo em que acreditais: a vossa salvação.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 110(111),1-2.5-6.9 e 10c (R. 5b)
+      text: |
+        R. O Senhor se lembra sempre da Aliança!
+
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Eu agradeço a Deus de todo o coração
+        junto com todos os seus justos reunidos!
+        Que grandiosas são as obras do Senhor,
+        elas merecem todo o amor e admiração! R.
+        
+        Ele dá o alimento aos que o temem
+        e jamais esquecerá sua Aliança.
+        Ao seu povo manifesta seu poder,
+        dando a ele a herança das nações. R.
+        
+        Enviou libertação para o seu povo,
+        confirmou sua Aliança para sempre.
+        Seu nome é santo e é digno de respeito.
+        Permaneça eternamente o seu louvor. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 10,17-27
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos 
+        
+        Naquele tempo,
+        quando Jesus saiu a caminhar, veio alguém correndo, ajoelhou-se diante dele, e perguntou: "Bom Mestre, que devo fazer para ganhar a vida eterna?"
+        Jesus disse: "Por que me chamas de bom?
+        Só Deus é bom, e mais ninguém.
+        Tu conheces os mandamentos: não matarás; não cometerás adultério; não roubarás; não levantarás falso testemunho; não prejudicarás ninguém; honra teu pai e tua mãe!"
+        Ele respondeu: "Mestre, tudo isso tenho observado desde a minha juventude".
+        Jesus olhou para ele com amor, e disse: "Só uma coisa te falta: vai, vende tudo o que tens e dá aos pobres, e terás um tesouro no céu.
+        Depois vem e segue-me!"
+        Mas quando ele ouviu isso, ficou abatido e foi embora cheio de tristeza, porque era muito rico.
+        Jesus então olhou ao redor e disse aos discípulos: "Como é difícil para os ricos entrar no Reino de Deus!"
+        Os discípulos se admiravam com estas palavras, mas ele disse de novo: "Meus filhos, como é difícil entrar no Reino de Deus!
+        É mais fácil um camelo passar pelo buraco de uma agulha do que um rico entrar no Reino de Deus!"
+        Eles ficaram muito espantados ao ouvirem isso, e perguntavam uns aos outros: "Então, quem pode ser salvo?"
+        Jesus olhou para eles e disse: "Para os homens isso é impossível, mas não para Deus.
+        Para Deus tudo é possível".
+
+        Palavra da Salvação.
 ordinary.week8.2.odd:
   title: Segunda-feira da 8ª Semana
   subtitle: Tempo Comum
@@ -15644,15 +15816,53 @@ ordinary.week8.3.even:
   subtitle: Tempo Comum
   color: green
   readings:
-    - type: reading
-      ref: ''
-      text: ''
+      ref: 1Pd 1,10-16
+      text: |
+        Leitura da Primeira Carta de São Pedro
+
+        Caríssimos,
+        Esta salvação tem sido objeto das investigações e meditações dos profetas.
+        Eles profetizaram a respeito da graça que vos estava destinada.
+        Procuraram saber a que época e a que circunstâncias se referia o Espírito de Cristo, que estava neles, ao anunciar com antecedência os sofrimentos de Cristo e a glória consequente.
+        Foi-lhes revelado que, não para si mesmos, mas para vós, estavam ministrando estas coisas, que agora são anunciadas a vós por aqueles que vos pregam o evangelho em virtude do Espírito Santo, enviado do céu; revelações essas, que até os anjos desejam contemplar! 
+        Por isso, aprontai a vossa mente; sede sóbrios e colocai toda a vossa esperança na graça que vos será oferecida na revelação de Jesus Cristo.
+        Como filhos obedientes, não modeleis a vossa vida de acordo com as paixões de antigamente, do tempo da vossa ignorância.
+        Antes, como é santo aquele que vos chamou, tornai-vos santos, também vós, em todo o vosso proceder.
+        Pois está na Escritura: "Sede santos, porque eu sou santo".
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 97(98),1.2-3ab.3cd-4 (R. 2a)
+      text: |
+        R. O Senhor fez conhecer seu poder salvador,
+        perante as nações.
+
+        Cantai ao Senhor Deus um canto novo,
+        porque ele fez prodígios!
+        Sua mão e o seu braço forte e santo
+        alcançaram-lhe a vitória. R.
+
+        O Senhor fez conhecer a salvação,
+        e às nações, sua justiça;
+        recordou o seu amor sempre fiel
+        pela casa de Israel R.
+
+        Os confins do universo contemplaram
+        a salvação do nosso Deus.
+        Aclamai o Senhor Deus, ó terra inteira,
+        alegrai-vos e exultai! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 10,28-31
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos
+
+        Naquele tempo,
+        começou Pedro a dizer a Jesus: "Eis que nós deixamos tudo e te seguimos".
+        Respondeu Jesus: "Em verdade vos digo, quem tiver deixado casa, irmãos, irmãs, mãe, pai, filhos, campos, por causa de mim e do Evangelho, receberá cem vezes mais agora, durante esta vida — casa, irmãos, irmãs, mães, filhos e campos, com perseguições — e, no mundo futuro, a vida eterna.
+        Muitos que agora são os primeiros serão os últimos.
+        E muitos que agora são os últimos serão os primeiros".
+
+        Palavra da Salvação.
 ordinary.week8.3.odd:
   title: Terça-feira da 8ª Semana
   subtitle: Tempo Comum
@@ -15673,14 +15883,73 @@ ordinary.week8.4.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Pd 1,18-25
+      text: |
+        Leitura da Primeira Carta de São Pedro
+
+        Caríssimos,
+        sabeis que fostes resgatados da vida fútil herdada de vossos pais, não por meio de coisas perecíveis, como a prata ou o ouro, mas pelo precioso sangue de Cristo, como de um cordeiro sem mancha nem defeito.
+        Antes da criação do mundo, ele foi destinado para isso, e neste final dos tempos, ele apareceu, por amor de vós.
+        Por ele é que alcançastes a fé em Deus.
+        Deus o ressuscitou dos mortos e lhe deu a glória, e assim, a vossa fé e esperança estão em Deus.
+        Pela obediência à verdade, purificastes as vossas almas, para praticar um amor fraterno sem fingimento.
+        Amai-vos, pois, uns aos outros, de coração e com ardor.
+        Nascestes de novo, não de uma semente corruptível, mas incorruptível, mediante a palavra de Deus, viva e permanente.
+        Com efeito, "toda carne é como erva, e toda a sua glória como a flor da erva; secou-se a erva, cai a sua flor.
+        Mas a palavra do Senhor permanece para sempre".
+        Ora, esta palavra é a que vos foi anunciada no Evangelho.
+
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 147(147B),12-13.14-15.19-20 (R. 12a)
+      text: |
+        R. Glorifica o Senhor, Jerusalém!
+
+        Ou: Aleluia, Aleluia, Aleluia.
+
+        Glorifica o Senhor, Jerusalém!
+        Ó Sião, canta louvores ao teu Deus!
+        Pois reforçou com segurança as tuas portas,
+        e os teus filhos em teu seio abençoou. R.
+
+        a paz em teus limites garantiu
+        e te dá como alimento a flor do trigo.
+        Ele envia suas ordens para a terra,
+        e a palavra que ele diz corre veloz R.
+
+        Anuncia a Jacó sua palavra,
+        seus preceitos suas leis a Israel.
+        Nenhum povo recebeu tanto carinho,
+        a nenhum outro revelou os seus preceitos. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 10,32-45
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos
+
+        Naquele tempo,
+        os discípulos estavam a caminho, subindo para Jerusalém.
+        Jesus ia na frente.
+        Os discípulos estavam espantados, e aqueles que iam atrás estavam com medo.
+        Jesus chamou de novo os Doze à parte e começou a dizer-lhes o que estava para acontecer com ele: "Eis que estamos subindo para Jerusalém, e o Filho do Homem vai ser entregue aos sumos sacerdotes e aos doutores da Lei.
+        Eles o condenarão à morte e o entregarão aos pagãos.
+        Vão zombar dele, cuspir nele, vão torturá-lo e matá-lo.
+        E depois de três dias ele ressuscitará".
+        Tiago e João, filhos de Zebedeu, foram a Jesus e lhe disseram: "Mestre, queremos que faças por nós o que vamos pedir".
+        Ele perguntou: "O que quereis que eu vos faça?"
+        Eles responderam: "Deixa-nos sentar um à tua direita e outro à tua esquerda, quando estiveres na tua glória!"
+        Jesus então lhes disse: "Vós não sabeis o que pedis.
+        Por acaso podeis beber o cálice que eu vou beber?
+        Podeis ser batizados com o batismo com que vou ser batizado?"
+        Eles responderam: "Podemos".
+        E ele lhes disse: "Vós bebereis o cálice que eu devo beber, e sereis batizados com o batismo com que eu devo ser batizado.
+        Mas não depende de mim conceder o lugar à minha direita ou à minha esquerda.
+        É para aqueles a quem foi reservado".
+        Quando os outros dez discípulos ouviram isso, indignaram-se com Tiago e João.
+        Jesus os chamou e disse: "Vós sabeis que os chefes das nações as oprimem e os grandes as tiranizam.
+        Mas, entre vós, não deve ser assim: quem quiser ser grande, seja vosso servo; e quem quiser ser o primeiro, seja o escravo de todos.
+        Porque o Filho do Homem não veio para ser servido, mas para servir e dar a sua vida como resgate para muitos".
+
+        Palavra da Salvação.
 ordinary.week8.4.odd:
   title: Quarta-feira da 8ª Semana
   subtitle: Tempo Comum
@@ -18715,6 +18984,7 @@ ordinary.week19.2.even:
       ref: Sl 148,1-2.11-12ab.12c-14a.14bcd
       text: |
         R. Da vossa glória estão cheios o céu e a terra.
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Louvai o Senhor Deus nos altos céus,
@@ -23845,10 +24115,11 @@ ordinary.week34.7.odd:
       ref: Lc 1,46-47.48-49.50-51.52-53.54-55 (R. cf. 54b)
       text: |
         R. O Poderoso fez por mim maravilhas,
-
         e Santo é o seu nome.
+
         Ou: Bendita sejais, ó Virgem Maria;
         trouxestes no ventre a Palavra eterna!
+
         A minh'alma engrandece ao Senhor,
         e se alegrou o meu espírito em Deus, meu Salvador, R.
 

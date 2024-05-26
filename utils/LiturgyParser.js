@@ -1,6 +1,11 @@
 import { convert } from "html-to-text"
 
-const html = await fetch('https://api-liturgia.edicoescnbb.com.br/contents/in/date/2024-05-26')
+const date = process.argv[2];
+if(!date) {
+  process.exit(1);
+}
+
+const html = await fetch(`https://api-liturgia.edicoescnbb.com.br/contents/in/date/${date}`)
   .then(response => response.json())
   .then(data => {
     return data.content.leituras + data.content.body
@@ -20,6 +25,11 @@ function parseLiturgy(input) {
   var psalmRef = lines.shift();
   var readingRef2 = lines.shift();
   var gospelRef = lines.shift();
+
+  // var readingRef1 = '1Pd 1,18-25'
+  // var psalmRef = 'Sl 147(147B),12-13.14-15.19-20 (R. 12a)'
+  // var readingRef2 = '';
+  // var gospelRef = 'Mc 10,32-45'
   
   if (gospelRef.length === 0 || /^primeira leitura/i.test(gospelRef)) {
     if (/^primeira leitura/i.test(gospelRef)) {
@@ -49,7 +59,7 @@ function parseLiturgy(input) {
     reading2.push(line.slice(0, line.search(/\d/)));
     reading2.push(...readUntil(lines, /^aclamação ao evangelho/i));
   }
-  skipUntil(lines, /^proclamação do evangelho/i);
+  skipUntil(lines, /^proclamação do evangelho|conclusão do evangelho/i);
   line = lines.shift();
   gospel.push(line.slice(0, line.search(/\d/)));
   gospel.push(...lines);
