@@ -12,7 +12,7 @@
       {
         "type": "psalm",
         "ref": "Lc 1,46-47.48-49.50-51.52-53.54-55 (R. cf. 54b)",
-        "text": "R. O Poderoso fez por mim maravilhas,\n\ne Santo é o seu nome.\nOu: Bendita sejais, ó Virgem Maria;\ntrouxestes no ventre a Palavra eterna!\nA minh'alma engrandece ao Senhor,\ne se alegrou o meu espírito em Deus, meu Salvador, R.\n\npois, ele viu a pequenez de sua serva,\neis que agora as gerações hão de chamar-me de bendita.\nO Poderoso fez por mim maravilhas\ne Santo é o seu nome! R.\n\nSeu amor, de geração em geração,\nchega a todos que o respeitam.\nDemonstrou o poder de seu braço,\ndispersou os orgulhosos. R.\n\nDerrubou os poderosos de seus tronos\ne os humildes exaltou.\nDe bens saciou os famintos\ne despediu, sem nada, os ricos. R.\n\nAcolheu Israel, seu servidor,\nfiel ao seu amor,\ncomo havia prometido aos nossos pais,\nem favor de Abraão e de seus filhos, para sempre. R.\n"
+        "text": "R. O Poderoso fez por mim maravilhas,\ne Santo é o seu nome.\n\nOu: Bendita sejais, ó Virgem Maria;\ntrouxestes no ventre a Palavra eterna!\n\nA minh'alma engrandece ao Senhor,\ne se alegrou o meu espírito em Deus, meu Salvador, R.\n\npois, ele viu a pequenez de sua serva,\neis que agora as gerações hão de chamar-me de bendita.\nO Poderoso fez por mim maravilhas\ne Santo é o seu nome! R.\n\nSeu amor, de geração em geração,\nchega a todos que o respeitam.\nDemonstrou o poder de seu braço,\ndispersou os orgulhosos. R.\n\nDerrubou os poderosos de seus tronos\ne os humildes exaltou.\nDe bens saciou os famintos\ne despediu, sem nada, os ricos. R.\n\nAcolheu Israel, seu servidor,\nfiel ao seu amor,\ncomo havia prometido aos nossos pais,\nem favor de Abraão e de seus filhos, para sempre. R.\n"
       },
       {
         "type": "gospel",
@@ -633,18 +633,23 @@
     "readings": [
       {
         "type": "reading",
-        "ref": "",
-        "text": ""
+        "ref": "Dt 4,32-34.39-40",
+        "text": "Leitura do Livro do Deuteronômio \n\nMoisés falou ao povo dizendo:\n\"Interroga os tempos antigos que te precederam, desde o dia em que Deus criou o homem sobre a terra, e investiga de um extremo ao outro dos céus, se houve jamais um acontecimento tão grande, ou se ouviu algo semelhante.\nExiste, porventura, algum povo que tenha ouvido a voz de Deus falando-lhe do meio do fogo, como tu ouviste, e tenha permanecido vivo?\nOu terá jamais algum Deus vindo escolher para si um povo entre as nações, por meio de provações, de sinais e prodígios, por meio de combates, com mão forte e braço estendido, e por meio de grandes terrores, como tudo o que por ti o Senhor vosso Deus fez no Egito, diante de teus próprios olhos?\nReconhece, pois, hoje, e grava-o em teu coração, que o Senhor é o Deus lá em cima do céu e cá embaixo na terra, e que não há outro além dele.\nGuarda suas leis e seus mandamentos que hoje te prescrevo, para que sejas feliz, tu e teus filhos depois de ti, e vivas longos dias sobre a terra que o Senhor teu Deus te vai dar para sempre\".\n\nPalavra do Senhor.\n"
       },
       {
         "type": "psalm",
-        "ref": "",
-        "text": ""
+        "ref": "Sl 32(33),4-5.6.9.18-19.20.22 (R. 12b)",
+        "text": "R. Feliz o povo que o Senhor escolheu por sua herança.\n\nReta é a palavra do Senhor,\ne tudo o que ele faz merece fé.\nDeus ama o direito e a justiça,\ntransborda em toda a terra a sua graça. R.\n\nA palavra do Senhor criou os céus,\ne o sopro de seus lábios, as estrelas.\nEle falou e toda a terra foi criada,\nele ordenou e as coisas todas existiram. R.\n\nMas o Senhor pousa o olhar sobre os que o temem,\ne que confiam esperando em seu amor,\npara da morte libertar as suas vidas\ne alimentá-los quando é tempo de penúria. R.\n\nNo Senhor nós esperamos confiantes,\nporque ele é nosso auxílio e proteção!\nSobre nós venha, Senhor, a vossa graça,\nda mesma forma que em vós nós esperamos! R.\n"
+      },
+      {
+        "type": "reading",
+        "ref": "Rm 8,14-17",
+        "text": "Leitura da Carta de São Paulo aos Romanos \n\nIrmãos:\nTodos aqueles que se deixam conduzir pelo Espírito de Deus são filhos de Deus.\nDe fato, vós não recebestes um espírito de escravos, para recairdes no medo, mas recebestes um espírito de filhos adotivos, no qual todos nós clamamos: Abá, ó Pai!\nO próprio Espírito se une ao nosso espírito para nos atestar que somos filhos de Deus.\nE, se somos filhos, somos também herdeiros, herdeiros de Deus e coerdeiros de Cristo; se realmente sofremos com ele, é para sermos também glorificados com ele.\n\nPalavra do Senhor.\n"
       },
       {
         "type": "gospel",
-        "ref": "",
-        "text": ""
+        "ref": "Mt 28,16-20",
+        "text": "Conclusão do Evangelho de Jesus Cristo segundo Mateus\n\nNaquele tempo,\nOs onze discípulos foram para a Galileia, ao monte que Jesus lhes tinha indicado.\nQuando viram Jesus, prostraram-se diante dele.\nAinda assim alguns duvidaram.\nEntão Jesus aproximou-se e falou: \"Toda a autoridade me foi dada no céu e sobre a terra.\nPortanto, ide e fazei discípulos meus todos os povos, batizando-os em nome do Pai e do Filho e do Espírito Santo, e ensinando-os a observar tudo o que vos ordenei!\nEis que eu estarei convosco todos os dias, até ao fim do mundo\".\n\nPalavra da Salvação.\n"
       }
     ]
   },
@@ -655,18 +660,23 @@
     "readings": [
       {
         "type": "reading",
-        "ref": "",
-        "text": ""
+        "ref": "Ex 24,3-8",
+        "text": "Leitura do Livro do Êxodo\n\nNaqueles dias,\nMoisés veio e transmitiu ao povo todas as palavras do Senhor e todos os decretos.\nO povo respondeu em coro: \"Faremos tudo o que o Senhor nos disse\".\nEntão Moisés escreveu todas as palavras do Senhor.\nLevantando-se na manhã seguinte, ergueu ao pé da montanha um altar e doze marcos de pedra pelas doze tribos de Israel.\nEm seguida, mandou alguns jovens israelitas oferecer holocaustos e imolar novilhos como sacrifícios pacíficos ao Senhor.\nMoisés tomou metade do sangue e o pôs em vasilhas, e derramou a outra metade sobre o altar.\nTomou depois o livro da aliança e o leu em voz alta ao povo, que respondeu: \"Faremos tudo o que o Senhor disse e lhe obedeceremos\".\nMoisés, então, com o sangue separado, aspergiu o povo, dizendo: \"Este é o sangue da aliança, que o Senhor fez convosco, segundo todas estas palavras\".\n\nPalavra do Senhor.\n"
       },
       {
         "type": "psalm",
-        "ref": "",
-        "text": ""
+        "ref": "Sl 115(116),12-13.15.16bc.17-18 (R. 13",
+        "text": "R. Elevo o cálice da minha salvação,\ninvocando o nome santo do Senhor.\n\nOu: Aleluia, Aleluia, Aleluia.\n\nQue poderei retribuir ao Senhor Deus\npor tudo aquilo que ele fez em meu favor?\nElevo o cálice da minha salvação,\ninvocando o nome santo do Senhor. R.\n\nÉ sentida por demais pelo Senhor\na morte de seus santos, seus amigos.\nEis que sou o vosso servo, ó Senhor,\nque nasceu de vossa serva;\nmas me quebrastes os grilhões da escravidão! R.\n\nPor isso oferto um sacrifício de louvor,\ninvocando o nome santo do Senhor.\nVou cumprir minhas promessas ao Senhor\nna presença de seu povo reunido. R.\n"
+      },
+      {
+        "type": "reading",
+        "ref": "Hb 9,11-15",
+        "text": "Leitura da Carta aos Hebreus\n\nIrmãos:\nCristo veio como sumo-sacerdote dos bens futuros.\nAtravés de uma tenda maior e mais perfeita, que não é obra de mãos humanas, isto é, que não faz parte desta criação, e não com o sangue de bodes e bezerros, mas com o seu próprio sangue, ele entrou no Santuário uma vez por todas, obtendo uma redenção eterna.    \nDe fato, se o sangue de bodes e touros, e a cinza de novilhas espalhada sobre os seres impuros os santifica e realiza a pureza ritual dos corpos, quanto mais o Sangue de Cristo, purificará a nossa consciência das obras mortas, para servirmos ao Deus vivo, pois, em virtude do espírito eterno, Cristo se ofereceu a si mesmo a Deus como vítima sem mancha.\nPor isso, ele é mediador de uma nova aliança.\nPela sua morte, ele reparou as transgressões cometidas no decorrer da primeira aliança.\nE, assim, aqueles que são chamados recebem a promessa da herança eterna.\n\nPalavra do Senhor.\n"
       },
       {
         "type": "gospel",
-        "ref": "",
-        "text": ""
+        "ref": "Mc 14,12-16.22-26",
+        "text": "Proclamação do Evangelho de Jesus Cristo segundo Marcos\n\nNo primeiro dia dos Ázimos,\nquando se imolava o cordeiro pascal, os discípulos disseram a Jesus: \"Onde queres que façamos os preparativos para comeres a Páscoa?\"\nJesus enviou então dois dos seus discípulos e lhes disse: \"Ide à cidade.\nUm homem carregando um jarro de água virá ao vosso encontro. Segui-o e dizei ao dono da casa em que ele entrar: 'O Mestre manda dizer: onde está a sala em que vou comer a Páscoa com os meus discípulos?' Então ele vos mostrará, no andar de cima, uma grande sala, arrumada com almofadas.\nAí fareis os preparativos para nós!\"\nOs discípulos saíram e foram à cidade.\nEncontraram tudo como Jesus havia dito, e prepararam a Páscoa.\nEnquanto comiam, Jesus tomou o pão e, tendo pronunciado a bênção, partiu-o e entregou-lhes, dizendo: \"Tomai, isto é o meu corpo\".\nEm seguida, tomou o cálice, deu graças, entregou-lhes e todos beberam dele.\nJesus lhes disse: \"Isto é o meu sangue, o sangue da aliança, que é derramado em favor de muitos.\nEm verdade vos digo, não beberei mais do fruto da videira, até o dia em que beberei o vinho novo no Reino de Deus\".\nDepois de terem cantado o hino, foram para o monte das Oliveiras.\n\nPalavra da Salvação.\n"
       }
     ]
   },
@@ -869,7 +879,7 @@
       {
         "type": "psalm",
         "ref": "Sl 147(147B),12-13.14-15.19-20 (R. 12a)",
-        "text": "R. Glorifica o Senhor, Jerusalém!\nOu: Aleluia, Aleluia, Aleluia.\n\nGlorifica o Senhor, Jerusalém!\nÓ Sião, canta louvores ao teu Deus!\nPois reforçou com segurança as tuas portas,\ne os teus filhos em teu seio abençoou; R.\n\npaz em teus limites garantiu\ne te dá como alimento a flor do trigo.\nEle envia suas ordens para a terra,\ne a palavra que ele diz corre veloz. R.\n\nAnuncia a Jacó sua palavra,\nseus preceitos, suas leis a Israel.\nNenhum povo recebeu tanto carinho,\na nenhum outro revelou os seus preceitos. R.\n"
+        "text": "R. Glorifica o Senhor, Jerusalém!\n\nOu: Aleluia, Aleluia, Aleluia.\n\nGlorifica o Senhor, Jerusalém!\nÓ Sião, canta louvores ao teu Deus!\nPois reforçou com segurança as tuas portas,\ne os teus filhos em teu seio abençoou; R.\n\npaz em teus limites garantiu\ne te dá como alimento a flor do trigo.\nEle envia suas ordens para a terra,\ne a palavra que ele diz corre veloz. R.\n\nAnuncia a Jacó sua palavra,\nseus preceitos, suas leis a Israel.\nNenhum povo recebeu tanto carinho,\na nenhum outro revelou os seus preceitos. R.\n"
       },
       {
         "type": "gospel",
@@ -1219,7 +1229,7 @@
       {
         "type": "psalm",
         "ref": "Sl 117(118),1.8-9.19-21.25-27a (R. 26a)",
-        "text": "R. Bendito é aquele que vem vindo em nome do Senhor!\nOu: Aleluia, Aleluia, Aleluia.\n\nDai graças ao Senhor, porque ele é bom!\n\"Eterna é a sua misericórdia!\"\nÉ melhor buscar refúgio no Senhor,\ndo que pôr no ser humano a esperança;\né melhor buscar refúgio no Senhor,\ndo que contar com os poderosos deste mundo!\" R.\n\nAbri-me vós, abri-me as portas da justiça;\nquero entrar para dar graças ao Senhor!\n\"Sim, esta é a porta do Senhor,\npor ela só os justos entrarão!\"\nDou-vos graças, ó Senhor, porque me ouvistes\ne vos tornastes para mim o Salvador! R.\n\nÓ Senhor, dai-nos a vossa salvação,\nó Senhor, dai-nos também prosperidade!\"\nBendito seja, em nome do Senhor,\naquele que em seus átrios vai entrando!\nDesta casa do Senhor vos bendizemos.\nQue o Senhor e nosso Deus nos ilumine! R.\n"
+        "text": "R. Bendito é aquele que vem vindo em nome do Senhor!\n\nOu: Aleluia, Aleluia, Aleluia.\n\nDai graças ao Senhor, porque ele é bom!\n\"Eterna é a sua misericórdia!\"\nÉ melhor buscar refúgio no Senhor,\ndo que pôr no ser humano a esperança;\né melhor buscar refúgio no Senhor,\ndo que contar com os poderosos deste mundo!\" R.\n\nAbri-me vós, abri-me as portas da justiça;\nquero entrar para dar graças ao Senhor!\n\"Sim, esta é a porta do Senhor,\npor ela só os justos entrarão!\"\nDou-vos graças, ó Senhor, porque me ouvistes\ne vos tornastes para mim o Salvador! R.\n\nÓ Senhor, dai-nos a vossa salvação,\nó Senhor, dai-nos também prosperidade!\"\nBendito seja, em nome do Senhor,\naquele que em seus átrios vai entrando!\nDesta casa do Senhor vos bendizemos.\nQue o Senhor e nosso Deus nos ilumine! R.\n"
       },
       {
         "type": "gospel",
@@ -2893,7 +2903,7 @@
       {
         "type": "psalm",
         "ref": "Sl 117(118),1-2.16ab-17.22-23 (R. 24)",
-        "text": "R. Este é o dia que o Senhor fez para nós:\nalegremo-nos e nele exultemos!\nOu: Aleluia, Aleluia, Aleluia.\n\nDai graças ao Senhor, porque ele é bom!\n\"Eterna é a sua misericórdia!\"\nA casa de Israel agora o diga:\n\"Eterna é a sua misericórdia!\" R.\n\nA mão direita do Senhor fez maravilhas,\na mão direita do Senhor me levantou,\nNão morrerei, mas ao contrário, viverei\npara cantar as grandes obras do Senhor! R.\n\nA pedra que os pedreiros rejeitaram,\ntornou-se agora a pedra angular.\nPelo Senhor é que foi feito tudo isso:\nQue maravilhas ele fez a nossos olhos! R.\n"
+        "text": "R. Este é o dia que o Senhor fez para nós:\nalegremo-nos e nele exultemos!\n\nOu: Aleluia, Aleluia, Aleluia.\n\nDai graças ao Senhor, porque ele é bom!\n\"Eterna é a sua misericórdia!\"\nA casa de Israel agora o diga:\n\"Eterna é a sua misericórdia!\" R.\n\nA mão direita do Senhor fez maravilhas,\na mão direita do Senhor me levantou,\nNão morrerei, mas ao contrário, viverei\npara cantar as grandes obras do Senhor! R.\n\nA pedra que os pedreiros rejeitaram,\ntornou-se agora a pedra angular.\nPelo Senhor é que foi feito tudo isso:\nQue maravilhas ele fez a nossos olhos! R.\n"
       },
       {
         "type": "reading",
@@ -3664,7 +3674,7 @@
       {
         "type": "psalm",
         "ref": "Sl 88(89),2-3.21-22.25 e 27 (R. cf. 2a)",
-        "text": "R. Ó Senhor, eu cantarei eternamente o vosso amor.\n\nOu: Aleluia, Aleluia, Aleluia.\nÓ Senhor, eu cantarei eternamente o vosso amor,\nde geração em geração eu cantarei vossa verdade!\nPorque dissestes: \"O amor é garantido para sempre!\"\nE a vossa lealdade é tão firme como os céus. R.\n\nEncontrei e escolhi a Davi, meu servidor,\ne o ungi, para ser rei, com meu óleo consagrado.\nEstará sempre com ele minha mão onipotente,\ne meu braço poderoso há de ser a sua força. R.\n\nNão será surpreendido pela força do inimigo,\nnem o filho da maldade poderá prejudicá-lo.\nDiante dele esmagarei seus inimigos e agressores,\nferirei e abaterei todos aqueles que o odeiam. R.\n\nMinha verdade e meu amor estarão sempre com ele,\nsua força e seu poder por meu nome crescerão.\nEle, então, me invocará: 'Ó Senhor, vós sois meu Pai,\nsois meu Deus, sois meu Rochedo onde encontro a salvação!'\" R.\n"
+        "text": "R. Ó Senhor, eu cantarei eternamente o vosso amor.\n\nOu: Aleluia, Aleluia, Aleluia.\n\nÓ Senhor, eu cantarei eternamente o vosso amor,\nde geração em geração eu cantarei vossa verdade!\nPorque dissestes: \"O amor é garantido para sempre!\"\nE a vossa lealdade é tão firme como os céus. R.\n\nEncontrei e escolhi a Davi, meu servidor,\ne o ungi, para ser rei, com meu óleo consagrado.\nEstará sempre com ele minha mão onipotente,\ne meu braço poderoso há de ser a sua força. R.\n\nNão será surpreendido pela força do inimigo,\nnem o filho da maldade poderá prejudicá-lo.\nDiante dele esmagarei seus inimigos e agressores,\nferirei e abaterei todos aqueles que o odeiam. R.\n\nMinha verdade e meu amor estarão sempre com ele,\nsua força e seu poder por meu nome crescerão.\nEle, então, me invocará: 'Ó Senhor, vós sois meu Pai,\nsois meu Deus, sois meu Rochedo onde encontro a salvação!'\" R.\n"
       },
       {
         "type": "gospel",
@@ -4216,7 +4226,7 @@
       {
         "type": "psalm",
         "ref": "Sl 46(47),2-3.6-7.8-9 (R.6)",
-        "text": "R. Batei palmas, povos todos, o Senhor subiu ao toque da trombeta!\n\nOu: R.Aleluia, Aleluia, Aleluia\n\nPovos todos do universo, batei palmas,\ngritai a Deus aclamações de alegria!\nPorque sublime é o Senhor, o Deus Altíssimo,\no soberano que domina toda a terra. R.\n\nPor entre aclamações Deus se elevou,\no Senhor subiu ao toque da trombeta.\nSalmodiai ao nosso Deus ao som da harpa,\nsalmodiai ao som da harpa ao nosso Rei! R.\n\nPorque Deus é o grande Rei de toda a terra,\nao som da harpa acompanhai os seus louvores!\nDeus reina sobre todas as nações,\nestá sentado no seu trono glorioso. R.\n"
+        "text": "R. Batei palmas, povos todos, o Senhor subiu ao toque da trombeta!\n\nOu: Aleluia, Aleluia, Aleluia\n\nPovos todos do universo, batei palmas,\ngritai a Deus aclamações de alegria!\nPorque sublime é o Senhor, o Deus Altíssimo,\no soberano que domina toda a terra. R.\n\nPor entre aclamações Deus se elevou,\no Senhor subiu ao toque da trombeta.\nSalmodiai ao nosso Deus ao som da harpa,\nsalmodiai ao som da harpa ao nosso Rei! R.\n\nPorque Deus é o grande Rei de toda a terra,\nao som da harpa acompanhai os seus louvores!\nDeus reina sobre todas as nações,\nestá sentado no seu trono glorioso. R.\n"
       },
       {
         "type": "reading",
@@ -5830,7 +5840,7 @@
       {
         "type": "psalm",
         "ref": "Sl 146(147),1-2.3-4.5-6 (R. cf. 3a)",
-        "text": "R. Louvai a Deus, porque ele é bom e conforta os corações.\nOu: Aleluia, Aleluia, Aleluia.\n\nLouvai o Senhor Deus, porque ele é bom,\ncantai ao nosso Deus, porque é suave:\nele é digno de louvor, ele o merece!\nO Senhor reconstruiu Jerusalém,\ne os dispersos de Israel juntou de novo. R.\n\nele conforta os corações despedaçados,\nele enfaixa suas feridas e as cura;\nfixa o número de todas as estrelas\ne chama a cada uma por seu nome. R.\n\nÉ grande e onipotente o nosso Deus,\nseu saber não tem medida nem limites.\nO Senhor Deus é o amparo dos humildes,\nmas dobra até o chão os que são ímpios. R.\n"
+        "text": "R. Louvai a Deus, porque ele é bom e conforta os corações.\n\nOu: Aleluia, Aleluia, Aleluia.\n\nLouvai o Senhor Deus, porque ele é bom,\ncantai ao nosso Deus, porque é suave:\nele é digno de louvor, ele o merece!\nO Senhor reconstruiu Jerusalém,\ne os dispersos de Israel juntou de novo. R.\n\nele conforta os corações despedaçados,\nele enfaixa suas feridas e as cura;\nfixa o número de todas as estrelas\ne chama a cada uma por seu nome. R.\n\nÉ grande e onipotente o nosso Deus,\nseu saber não tem medida nem limites.\nO Senhor Deus é o amparo dos humildes,\nmas dobra até o chão os que são ímpios. R.\n"
       },
       {
         "type": "reading",
@@ -6919,18 +6929,18 @@
     "readings": [
       {
         "type": "reading",
-        "ref": "",
-        "text": ""
+        "ref": "1Pd 1,3-9",
+        "text": "Leitura da Primeira Carta de São Pedro \n\nBendito seja Deus,\nPai de nosso Senhor Jesus Cristo.\nEm sua grande misericórdia, pela ressurreição de Jesus Cristo dentre os mortos, ele nos fez nascer de novo, para uma esperança viva, para uma herança incorruptível, que não estraga, que não se mancha nem murcha, e que é reservada para vós nos céus.\nGraças à fé, e pelo poder de Deus, vós fostes guardados para a salvação que deve manifestar-se nos últimos tempos.\nIsto é motivo de alegria para vós, embora seja necessário que agora fiqueis por algum tempo aflitos, por causa de várias provações.\nDeste modo, a vossa fé será provada como sendo verdadeira — mais preciosa que o ouro perecível, que é provado no fogo — e alcançará louvor, honra e glória, no dia da manifestação de Jesus Cristo.\nSem ter visto o Senhor, vós o amais.\nSem o ver ainda, nele acreditais.\nIsso será para vós fonte de alegria indizível e gloriosa, pois obtereis aquilo em que acreditais: a vossa salvação.\n\nPalavra do Senhor.\n"
       },
       {
         "type": "psalm",
-        "ref": "",
-        "text": ""
+        "ref": "Sl 110(111),1-2.5-6.9 e 10c (R. 5b)",
+        "text": "R. O Senhor se lembra sempre da Aliança!\n\nOu: Aleluia, Aleluia, Aleluia.\n\nEu agradeço a Deus de todo o coração\njunto com todos os seus justos reunidos!\nQue grandiosas são as obras do Senhor,\nelas merecem todo o amor e admiração! R.\n\nEle dá o alimento aos que o temem\ne jamais esquecerá sua Aliança.\nAo seu povo manifesta seu poder,\ndando a ele a herança das nações. R.\n\nEnviou libertação para o seu povo,\nconfirmou sua Aliança para sempre.\nSeu nome é santo e é digno de respeito.\nPermaneça eternamente o seu louvor. R.\n"
       },
       {
         "type": "gospel",
-        "ref": "",
-        "text": ""
+        "ref": "Mc 10,17-27",
+        "text": "Proclamação do Evangelho de Jesus Cristo segundo Marcos \n\nNaquele tempo,\nquando Jesus saiu a caminhar, veio alguém correndo, ajoelhou-se diante dele, e perguntou: \"Bom Mestre, que devo fazer para ganhar a vida eterna?\"\nJesus disse: \"Por que me chamas de bom?\nSó Deus é bom, e mais ninguém.\nTu conheces os mandamentos: não matarás; não cometerás adultério; não roubarás; não levantarás falso testemunho; não prejudicarás ninguém; honra teu pai e tua mãe!\"\nEle respondeu: \"Mestre, tudo isso tenho observado desde a minha juventude\".\nJesus olhou para ele com amor, e disse: \"Só uma coisa te falta: vai, vende tudo o que tens e dá aos pobres, e terás um tesouro no céu.\nDepois vem e segue-me!\"\nMas quando ele ouviu isso, ficou abatido e foi embora cheio de tristeza, porque era muito rico.\nJesus então olhou ao redor e disse aos discípulos: \"Como é difícil para os ricos entrar no Reino de Deus!\"\nOs discípulos se admiravam com estas palavras, mas ele disse de novo: \"Meus filhos, como é difícil entrar no Reino de Deus!\nÉ mais fácil um camelo passar pelo buraco de uma agulha do que um rico entrar no Reino de Deus!\"\nEles ficaram muito espantados ao ouvirem isso, e perguntavam uns aos outros: \"Então, quem pode ser salvo?\"\nJesus olhou para eles e disse: \"Para os homens isso é impossível, mas não para Deus.\nPara Deus tudo é possível\".\n\nPalavra da Salvação.\n"
       }
     ]
   },
@@ -6963,18 +6973,18 @@
     "readings": [
       {
         "type": "reading",
-        "ref": "",
-        "text": ""
+        "ref": "1Pd 1,10-16",
+        "text": "Leitura da Primeira Carta de São Pedro\n\nCaríssimos,\nEsta salvação tem sido objeto das investigações e meditações dos profetas.\nEles profetizaram a respeito da graça que vos estava destinada.\nProcuraram saber a que época e a que circunstâncias se referia o Espírito de Cristo, que estava neles, ao anunciar com antecedência os sofrimentos de Cristo e a glória consequente.\nFoi-lhes revelado que, não para si mesmos, mas para vós, estavam ministrando estas coisas, que agora são anunciadas a vós por aqueles que vos pregam o evangelho em virtude do Espírito Santo, enviado do céu; revelações essas, que até os anjos desejam contemplar! \nPor isso, aprontai a vossa mente; sede sóbrios e colocai toda a vossa esperança na graça que vos será oferecida na revelação de Jesus Cristo.\nComo filhos obedientes, não modeleis a vossa vida de acordo com as paixões de antigamente, do tempo da vossa ignorância.\nAntes, como é santo aquele que vos chamou, tornai-vos santos, também vós, em todo o vosso proceder.\nPois está na Escritura: \"Sede santos, porque eu sou santo\".\n\nPalavra do Senhor.\n"
       },
       {
         "type": "psalm",
-        "ref": "",
-        "text": ""
+        "ref": "Sl 97(98),1.2-3ab.3cd-4 (R. 2a)",
+        "text": "R. O Senhor fez conhecer seu poder salvador,\nperante as nações.\n\nCantai ao Senhor Deus um canto novo,\nporque ele fez prodígios!\nSua mão e o seu braço forte e santo\nalcançaram-lhe a vitória. R.\n\nO Senhor fez conhecer a salvação,\ne às nações, sua justiça;\nrecordou o seu amor sempre fiel\npela casa de Israel R.\n\nOs confins do universo contemplaram\na salvação do nosso Deus.\nAclamai o Senhor Deus, ó terra inteira,\nalegrai-vos e exultai! R.\n"
       },
       {
         "type": "gospel",
-        "ref": "",
-        "text": ""
+        "ref": "Mc 10,28-31",
+        "text": "Proclamação do Evangelho de Jesus Cristo segundo Marcos\n\nNaquele tempo,\ncomeçou Pedro a dizer a Jesus: \"Eis que nós deixamos tudo e te seguimos\".\nRespondeu Jesus: \"Em verdade vos digo, quem tiver deixado casa, irmãos, irmãs, mãe, pai, filhos, campos, por causa de mim e do Evangelho, receberá cem vezes mais agora, durante esta vida — casa, irmãos, irmãs, mães, filhos e campos, com perseguições — e, no mundo futuro, a vida eterna.\nMuitos que agora são os primeiros serão os últimos.\nE muitos que agora são os últimos serão os primeiros\".\n\nPalavra da Salvação.\n"
       }
     ]
   },
@@ -7007,18 +7017,18 @@
     "readings": [
       {
         "type": "reading",
-        "ref": "",
-        "text": ""
+        "ref": "1Pd 1,18-25",
+        "text": "Leitura da Primeira Carta de São Pedro\n\nCaríssimos,\nsabeis que fostes resgatados da vida fútil herdada de vossos pais, não por meio de coisas perecíveis, como a prata ou o ouro, mas pelo precioso sangue de Cristo, como de um cordeiro sem mancha nem defeito.\nAntes da criação do mundo, ele foi destinado para isso, e neste final dos tempos, ele apareceu, por amor de vós.\nPor ele é que alcançastes a fé em Deus.\nDeus o ressuscitou dos mortos e lhe deu a glória, e assim, a vossa fé e esperança estão em Deus.\nPela obediência à verdade, purificastes as vossas almas, para praticar um amor fraterno sem fingimento.\nAmai-vos, pois, uns aos outros, de coração e com ardor.\nNascestes de novo, não de uma semente corruptível, mas incorruptível, mediante a palavra de Deus, viva e permanente.\nCom efeito, \"toda carne é como erva, e toda a sua glória como a flor da erva; secou-se a erva, cai a sua flor.\nMas a palavra do Senhor permanece para sempre\".\nOra, esta palavra é a que vos foi anunciada no Evangelho.\n\nPalavra do Senhor.\n"
       },
       {
         "type": "psalm",
-        "ref": "",
-        "text": ""
+        "ref": "Sl 147(147B),12-13.14-15.19-20 (R. 12a)",
+        "text": "R. Glorifica o Senhor, Jerusalém!\n\nOu: Aleluia, Aleluia, Aleluia.\n\nGlorifica o Senhor, Jerusalém!\nÓ Sião, canta louvores ao teu Deus!\nPois reforçou com segurança as tuas portas,\ne os teus filhos em teu seio abençoou. R.\n\na paz em teus limites garantiu\ne te dá como alimento a flor do trigo.\nEle envia suas ordens para a terra,\ne a palavra que ele diz corre veloz R.\n\nAnuncia a Jacó sua palavra,\nseus preceitos suas leis a Israel.\nNenhum povo recebeu tanto carinho,\na nenhum outro revelou os seus preceitos. R.\n"
       },
       {
         "type": "gospel",
-        "ref": "",
-        "text": ""
+        "ref": "Mc 10,32-45",
+        "text": "Proclamação do Evangelho de Jesus Cristo segundo Marcos\n\nNaquele tempo,\nos discípulos estavam a caminho, subindo para Jerusalém.\nJesus ia na frente.\nOs discípulos estavam espantados, e aqueles que iam atrás estavam com medo.\nJesus chamou de novo os Doze à parte e começou a dizer-lhes o que estava para acontecer com ele: \"Eis que estamos subindo para Jerusalém, e o Filho do Homem vai ser entregue aos sumos sacerdotes e aos doutores da Lei.\nEles o condenarão à morte e o entregarão aos pagãos.\nVão zombar dele, cuspir nele, vão torturá-lo e matá-lo.\nE depois de três dias ele ressuscitará\".\nTiago e João, filhos de Zebedeu, foram a Jesus e lhe disseram: \"Mestre, queremos que faças por nós o que vamos pedir\".\nEle perguntou: \"O que quereis que eu vos faça?\"\nEles responderam: \"Deixa-nos sentar um à tua direita e outro à tua esquerda, quando estiveres na tua glória!\"\nJesus então lhes disse: \"Vós não sabeis o que pedis.\nPor acaso podeis beber o cálice que eu vou beber?\nPodeis ser batizados com o batismo com que vou ser batizado?\"\nEles responderam: \"Podemos\".\nE ele lhes disse: \"Vós bebereis o cálice que eu devo beber, e sereis batizados com o batismo com que eu devo ser batizado.\nMas não depende de mim conceder o lugar à minha direita ou à minha esquerda.\nÉ para aqueles a quem foi reservado\".\nQuando os outros dez discípulos ouviram isso, indignaram-se com Tiago e João.\nJesus os chamou e disse: \"Vós sabeis que os chefes das nações as oprimem e os grandes as tiranizam.\nMas, entre vós, não deve ser assim: quem quiser ser grande, seja vosso servo; e quem quiser ser o primeiro, seja o escravo de todos.\nPorque o Filho do Homem não veio para ser servido, mas para servir e dar a sua vida como resgate para muitos\".\n\nPalavra da Salvação.\n"
       }
     ]
   },
@@ -10738,7 +10748,7 @@
       {
         "type": "psalm",
         "ref": "Sl 148,1-2.11-12ab.12c-14a.14bcd",
-        "text": "R. Da vossa glória estão cheios o céu e a terra.\nOu: Aleluia, Aleluia, Aleluia.\n\nLouvai o Senhor Deus nos altos céus,\nlouvai-o no excelso firmamento!\nLouvai-o, anjos seus, todos louvai-o,\nlouvai-o, legiões celestiais! R.\n\nReis da terra, povos todos, bendizei-o,\ne vós, príncipes e todos os juízes;\ne vós, jovens, e vós, moças e rapazes,\nanciãos e criancinhas, bendizei-o! R.\n\nLouvem o nome do Senhor, louvem-no todos,\nporque somente o seu nome é excelso!\nA majestade e esplendor de sua glória\nultrapassam em grandeza o céu e a terra. R.\n\nEle exaltou seu povo eleito em poderio,\nele é o motivo de louvor para os seus santos.\nÉ um hino para os filhos de Israel,\neste povo que ele ama e lhe pertence. R.\n"
+        "text": "R. Da vossa glória estão cheios o céu e a terra.\n\nOu: Aleluia, Aleluia, Aleluia.\n\nLouvai o Senhor Deus nos altos céus,\nlouvai-o no excelso firmamento!\nLouvai-o, anjos seus, todos louvai-o,\nlouvai-o, legiões celestiais! R.\n\nReis da terra, povos todos, bendizei-o,\ne vós, príncipes e todos os juízes;\ne vós, jovens, e vós, moças e rapazes,\nanciãos e criancinhas, bendizei-o! R.\n\nLouvem o nome do Senhor, louvem-no todos,\nporque somente o seu nome é excelso!\nA majestade e esplendor de sua glória\nultrapassam em grandeza o céu e a terra. R.\n\nEle exaltou seu povo eleito em poderio,\nele é o motivo de louvor para os seus santos.\nÉ um hino para os filhos de Israel,\neste povo que ele ama e lhe pertence. R.\n"
       },
       {
         "type": "gospel",
