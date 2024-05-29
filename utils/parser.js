@@ -1,4 +1,4 @@
-import { convert } from "html-to-text"
+﻿import { convert } from "html-to-text"
 
 const date = process.argv[2];
 if(!date) {
@@ -11,6 +11,7 @@ const html = await fetch(`https://api-liturgia.edicoescnbb.com.br/contents/in/da
     return data.content.leituras + data.content.body
   });
 const input = convert(html, { wordwrap: false })
+process.stdout.write('\uFEFF');
 console.log(parseLiturgy(input));
 
 

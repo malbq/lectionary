@@ -1,4 +1,4 @@
-'1208':
+﻿'1208':
   title: Imaculada Conceição da Bem-aventurada Virgem Maria
   subtitle: Solenidade
   color: white
@@ -16027,14 +16027,61 @@ ordinary.week8.7.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Jd 17.20b-25
+      text: |
+        Leitura da Carta de São Judas 
+        
+        Vós, porém, amados,
+        lembrai-vos das palavras preditas pelos apóstolos de nosso Senhor Jesus Cristo.
+        Edificai-vos sobre o fundamento da vossa santíssima fé e rezai, no Santo Espírito, de modo que vos mantenhais no amor de Deus, esperando a misericórdia de nosso Senhor Jesus Cristo, para a vida eterna.
+        E a uns, que estão com dúvidas, deveis tratar com piedade.
+        A outros, deveis salvá-los arrancando-os do fogo.
+        De outros ainda deveis ter piedade, mas com temor, aborrecendo a própria veste manchada pela carne...
+        Àquele que é capaz de guardar-vos da queda e de apresentar-vos perante a sua glória irrepreensíveis e jubilosos, ao único Deus, nosso Salvador, por Jesus Cristo, nosso Senhor: glória, majestade, poder e domínio, desde antes de todos os séculos, e agora, e por todos os séculos.
+        Amém.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 62(63),2.3-4.5-6 (R. 2b)
+      text: |
+        R. A minha alma tem sede de vós, ó Senhor!
+        
+        Sois vós, ó Senhor, o meu Deus!
+        Desde a aurora ansioso vos busco!
+        A minh'alma tem sede de vós,
+        minha carne também vos deseja,
+        como terra sedenta e sem água! R.
+        
+        Venho, assim, contemplar-vos no templo,
+        para ver vossa glória e poder.
+        Vosso amor vale mais do que a vida:
+        e por isso meus lábios vos louvam. R.
+        
+        Quero, pois vos louvar pela vida,
+        e elevar para vós minhas mãos!
+        A minh'alma será saciada,
+        como em grande banquete de festa;
+        cantará a alegria em meus lábios,
+        ao cantar para vós meu louvor! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 11,27-33
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos 
+        
+        Naquele tempo,
+        Jesus e os discípulos foram de novo a Jerusalém.
+        Enquanto Jesus estava andando no Templo, os sumos sacerdotes, os mestres da Lei e os anciãos aproximaram-se dele e perguntaram: "Com que autoridade fazes essas coisas?
+        Quem te deu autoridade para fazer isso?"
+        Jesus respondeu: "Vou fazer-vos uma só pergunta.
+        Se me responderdes, eu vos direi com que autoridade faço isso.
+        O batismo de João vinha do céu ou dos homens?
+        Respondei-me".
+        Eles discutiam entre si: "Se respondermos que vinha do céu, ele vai dizer: 'Por que não acreditastes em João?' Devemos então dizer que vinha dos homens?"
+        Mas eles tinham medo da multidão, porque todos, de fato, tinham João na qualidade de profeta.
+        Então eles responderam a Jesus: "Não sabemos".
+        E Jesus disse: "Pois eu também não vos digo com que autoridade faço essas coisas".
+        
+        Palavra da Salvação.
 ordinary.week8.7.odd:
   title: Sábado da 8ª Semana
   subtitle: Tempo Comum
@@ -16072,17 +16119,81 @@ ordinary.week9.1.b:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Dt 5,12-15
+      text: |
+        Leitura do Livro do Deuteronômio 
+        
+        Assim fala o Senhor:
+        "Guarda o dia de sábado, para o santificares, como o Senhor teu Deus te mandou.
+        Trabalharás seis dias e neles farás todas as tuas obras.
+        O sétimo dia é o do sábado, o dia do descanso dedicado ao Senhor teu Deus.
+        Não farás trabalho algum, nem tu, nem teu filho, nem tua filha, nem teu escravo, nem tua escrava, nem teu boi, nem teu jumento, nem algum de teus animais, nem o estrangeiro que vive em tuas cidades, para que assim teu escravo e tua escrava repousem da mesma forma que tu.
+        Lembra-te de que foste escravo no Egito e que de lá o Senhor teu Deus te fez sair com mão forte e braço estendido.
+        É por isso que o Senhor teu Deus te mandou guardar o sábado".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 80(81),3-4.5-6ab.6c-8a.10-11b (R. 2a)
+      text: |
+        R. Exultai no Senhor, a nossa força!
+        
+        Cantai salmos, tocai tamborim,
+        harpa e lira suaves tocai!
+        Na lua nova soai a trombeta,
+        na lua cheia, na festa solene! R.
+        
+        Porque isso é costume em Jacó,
+        um preceito do Deus de Israel;
+        uma lei que foi dada a José,
+        quando o povo saiu do Egito. R.
+        
+        Eis que ouço uma voz que não conheço:
+        "Aliviei as tuas costas de seu fardo,
+        cestos pesados eu tirei de tuas mãos.
+        Na angústia a mim clamaste, e te salvei. R.
+        
+        Em teu meio não exista um deus estranho
+        nem adores a um deus desconhecido!
+        Porque eu sou o teu Deus e teu Senhor,
+        que da terra do Egito te arranquei. R.
     - type: reading
-      ref: ''
-      text: ''
+      ref: 2Cor 4,6-11
+      text: |
+        Leitura da Segunda Carta de São Paulo aos Coríntios 
+        
+        Irmãos:
+        Deus que disse: "Do meio das trevas brilhe a luz", é o mesmo que fez brilhar a sua luz em nossos corações, para tornar claro o conhecimento da sua glória na face de Cristo.
+        Ora, trazemos esse tesouro em vasos de barro, para que todos reconheçam que este poder extraordinário vem de Deus e não de nós.
+        Somos afligidos de todos os lados, mas não vencidos pela angústia; postos entre os maiores apuros, mas sem perder a esperança; perseguidos, mas não desamparados; derrubados, mas não aniquilados; por toda parte e sempre levamos em nós mesmos os sofrimentos mortais de Jesus, para que também a vida de Jesus seja manifestada em nossos corpos.
+        De fato, nós, os vivos, somos continuamente entregues à morte, por causa de Jesus, para que também a vida de Jesus seja manifestada em nossa natureza mortal.
+        
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 2,23-3,6
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos 
+        
+        Jesus estava passando por uns campos de trigo,
+        em dia de sábado.
+        Seus discípulos começaram a arrancar espigas, enquanto caminhavam.
+        Então os fariseus disseram a Jesus: "Olha! Por que eles fazem em dia de sábado o que não é permitido?"
+        Jesus lhes disse: "Por acaso, nunca lestes o que Davi e seus companheiros fizeram quando passaram necessidade e tiveram fome?
+        Como ele entrou na casa de Deus, no tempo em que Abiatar era sumo sacerdote, comeu os pães oferecidos a Deus, e os deu também aos seus companheiros?
+        No entanto, só aos sacerdotes é permitido comer esses pães".
+        E acrescentou: "O sábado foi feito para o homem, e não o homem para o sábado.
+        Portanto, o Filho do Homem é senhor também do sábado".
+        Jesus entrou de novo na sinagoga.
+        Havia ali um homem com a mão seca.
+        Alguns o observavam para ver se haveria de curar em dia de sábado, para poderem acusá-lo.
+        Jesus disse ao homem da mão seca: "Levanta-te e fica aqui no meio!"
+        E perguntou-lhes: "É permitido no sábado fazer o bem ou fazer o mal?
+        Salvar uma vida ou deixá-la morrer?"
+        Mas eles nada disseram.
+        Jesus, então, olhou ao seu redor, cheio de ira e tristeza, porque eram duros de coração; e disse ao homem: "Estende a mão".
+        Ele a estendeu e a mão ficou curada.
+        Ao saírem, os fariseus com os partidários de Herodes, imediatamente tramaram, contra Jesus, a maneira como haveriam de matá-lo.
+        
+        Palavra da Salvação.
 ordinary.week9.1.c:
   title: Domingo da 9ª Semana
   subtitle: Tempo Comum
@@ -24471,6 +24582,82 @@ ordinary.week34.7.odd:
         Pois eu vou para o Pai, e o que pedirdes em meu nome, eu o realizarei, a fim de que o Pai seja glorificado no Filho.
         Se pedirdes algo em meu nome, eu o realizarei".
 
+        Palavra da Salvação.
+'0531':
+  title: Visitação da Bem-aventurada Virgem Maria
+  subtitle: Festa
+  color: white
+  readings:
+    - type: reading
+      main:
+        ref: Sf 3,14-18
+        text: |
+          Leitura da Profecia de Sofonias 
+          
+          Canta de alegria, cidade de Sião;
+          rejubila, povo de Israel!
+          Alegra-te e exulta de todo o coração, cidade de Jerusalém!
+          O Senhor revogou a sentença contra ti, afastou teus inimigos; o rei de Israel é o Senhor, ele está no meio de ti, nunca mais temerás o mal.
+          Naquele dia, se dirá a Jerusalém: "Não temas, Sião, não te deixes levar pelo desânimo!
+          O Senhor, teu Deus, está no meio de ti, o valente guerreiro que te salva; ele exultará de alegria por ti, movido por amor; exultará por ti, entre louvores, como nos dias de Festa.
+          Afastarei de ti a desgraça, para que nunca mais te cause humilhação".
+          
+          Palavra do Senhor.
+        ref: Rm 12,9-16b
+        text: |
+          Leitura da Carta de São Paulo aos Romanos
+          
+          Irmãos: o amor seja sincero.
+          Detestai o mal, apegai-vos ao bem.
+          Que o amor fraterno vos una uns aos outros com terna afeição, prevenindo-vos com atenções recíprocas.
+          Sede zelosos e diligentes, fervorosos de espírito, servindo sempre ao Senhor, alegres por causa da esperança, fortes nas tribulações, perseverantes na oração.
+          Socorrei os santos em suas necessidades, persisti na prática da hospitalidade.
+          Abençoai os que vos perseguem, abençoai e não amaldiçoeis.
+          Alegrai-vos com os que se alegram, chorai com os que choram.
+          Mantende um bom entendimento uns com os outros; não vos deixeis levar pelo gosto de grandeza, mas acomodai-vos às coisas humildes.
+          
+          Palavra do Senhor.
+    - type: psalm
+      ref: "Cânt.: Is 12,2-3.4bcd.5-6 (R. 6b)"
+      text: |
+        R. O Santo de Israel é grande entre vós.
+        
+        Eis o Deus, meu Salvador, eu confio e nada temo;
+        o Senhor é minha força, meu louvor e salvação.
+        Com alegria bebereis do manancial da salvação. R.
+        
+        E direis naquele dia: "Dai louvores ao Senhor,
+        invocai seu santo nome, anunciai suas maravilhas,
+        dentre os povos proclamai que seu nome é o mais sublime. R.
+        
+        Louvai cantando ao nosso Deus,
+        que fez prodígios e portentos,
+        publicai em toda a terra suas grandes maravilhas!
+        Exultai cantando alegres, habitantes de Sião,
+        porque é grande em vosso meio
+        o Deus Santo de Israel!" R.
+    - type: gospel
+      ref: Lc 1,39-56
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Lucas 
+        
+        Naqueles dias, Maria partiu para a região montanhosa,
+        dirigindo-se, apressadamente, a uma cidade da Judeia.
+        Entrou na casa de Zacarias e cumprimentou Isabel.
+        Quando Isabel ouviu a saudação de Maria, a criança pulou no seu ventre e Isabel ficou cheia do Espírito Santo.
+        Com um grande grito, exclamou: "Bendita és tu entre as mulheres e bendito é o fruto do teu ventre!"
+        Como posso merecer que a mãe do meu Senhor me venha visitar?
+        Logo que a tua saudação chegou aos meus ouvidos, a criança pulou de alegria no meu ventre.
+        Bem-aventurada aquela que acreditou, porque será cumprido, o que o Senhor lhe prometeu".
+        Maria disse: "A minha alma engrandece o Senhor, e o meu espírito se alegra em Deus, meu Salvador, porque olhou para a humildade de sua serva.
+        Doravante todas as gerações me chamarão bem-aventurada, porque o Todo-poderoso fez grandes coisas em meu favor.
+        O seu nome é santo, e sua misericórdia se estende, de geração em geração, a todos os que o temem.
+        Ele mostrou a força de seu braço: dispersou os soberbos de coração.
+        Derrubou do trono os poderosos e elevou os humildes.
+        Encheu de bens os famintos, e despediu os ricos de mãos vazias.
+        Socorreu Israel, seu servo, lembrando-se de sua misericórdia, conforme prometera aos nossos pais, em favor de Abraão e de sua descendência, para sempre".
+        Maria ficou três meses com Isabel; depois voltou para casa.
+        
         Palavra da Salvação.
 '0425':
   title: São Marcos, Evangelista
