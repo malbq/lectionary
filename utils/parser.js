@@ -5,33 +5,26 @@ if(!date) {
   process.exit(1);
 }
 
-const html = await fetch(`https://api-liturgia.edicoescnbb.com.br/contents/in/date/${date}`)
+const input = await fetch(`https://api-liturgia.edicoescnbb.com.br/contents/in/date/${date}`)
   .then(response => response.json())
   .then(data => {
-    return data.content.leituras + data.content.body
+    return convert(data.content.leituras, { wordwrap: false }) + '\n' + convert(data.content.body, { wordwrap: false })
   });
-const input = convert(html, { wordwrap: false })
 process.stdout.write('\uFEFF');
 console.log(parseLiturgy(input));
-
 
 function parseLiturgy(input) {
   const lines = input
     .split("\n")
     .filter((line) => line.trim().length > 0 && !/(^\d+\w?$|^\w$)/.test(line))
     .map((line) => line.replace(/(\*|\†|\[pics\/cruzevangelho\.png\])/, "").trim());
-  
+
   lines.shift();
   var readingRef1 = lines.shift();
   var psalmRef = lines.shift();
   var readingRef2 = lines.shift();
   var gospelRef = lines.shift();
 
-  // var readingRef1 = '1Pd 1,18-25'
-  // var psalmRef = 'Sl 147(147B),12-13.14-15.19-20 (R. 12a)'
-  // var readingRef2 = '';
-  // var gospelRef = 'Mc 10,32-45'
-  
   if (gospelRef.length === 0 || /^primeira leitura/i.test(gospelRef)) {
     if (/^primeira leitura/i.test(gospelRef)) {
       lines.unshift(gospelRef);

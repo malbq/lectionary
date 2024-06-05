@@ -1759,28 +1759,130 @@ sacredHeartOfJesus:
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Os 11,1.3-4.8c-9
+      text: |
+        Leitura da Profecia de Oseias 
+        
+        Assim diz o Senhor:
+        "Quando Israel era criança, eu já o amava, e desde o Egito chamei meu filho.
+        Ensinei Efraim a dar os primeiros passos, tomei-o em meus braços, mas eles não reconheceram que eu cuidava deles.
+        Eu os atraía com laços de humanidade, com laços de amor; era para eles como quem leva uma criança ao colo, e rebaixava-me a dar-lhes de comer.
+        Meu coração comove-se no íntimo e arde de compaixão.
+        Não darei largas à minha ira, não voltarei a destruir Efraim, eu sou Deus, e não homem; o santo no meio de vós, e não me servirei do terror".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Is 12,2-3.4bcd.5-6 (R. 3)
+      text: |
+        R. Com alegria bebereis do manancial da salvação.
+        
+        Eis o Deus, meu Salvador, eu confio e nada temo;
+        o Senhor é minha força, meu louvor e salvação. R.
+        
+        Com alegria bebereis no manancial da salvação.
+        E direis naquele dia: "Dai louvores ao Senhor,
+        invocai seu santo nome, anunciai suas maravilhas,
+        entre os povos proclamai que seu nome é o mais sublime. R.
+        
+        Louvai cantando ao nosso Deus, que fez prodígios e portentos,
+        publicai em toda a terra suas grandes maravilhas!
+        Exultai cantando alegres, habitantes de Sião,
+        porque é grande em vosso meio o Deus Santo de Israel!" R.
+    - type: reading
+      ref: Ef 3,8-12.14-19
+      text: |
+        Leitura da Carta de São Paulo aos Efésios 
+        
+        Irmãos:
+        Eu, que sou o último de todos os santos, recebi esta graça de anunciar aos pagãos a insondável riqueza de Cristo e de mostrar a todos como Deus realiza o mistério desde sempre escondido nele, o criador do universo.
+        Assim, doravante, as autoridades e poderes nos céus conhecem, graças à Igreja, a multiforme sabedoria de Deus, de acordo com o desígnio eterno que ele executou em Jesus Cristo, nosso Senhor.
+        Em Cristo nós temos, pela fé nele, a liberdade de nos aproximarmos de Deus com toda a confiança.
+        É por isso que dobro os joelhos diante do Pai, de quem toda e qualquer família recebe seu nome, no céu e sobre a terra.
+        Que ele vos conceda, segundo a riqueza da sua glória, serdes robustecidos, por seu Espírito, quanto ao homem interior; que ele faça habitar, pela fé, Cristo em vossos corações, que estejais enraizados e fundados no amor.
+        Tereis assim a capacidade de compreender, com todos os santos, qual a largura, o comprimento, a altura, a profundidade, e de conhecer o amor de Cristo, que ultrapassa todo conhecimento, a fim de que sejais cumulados até receber toda a plenitude de Deus.
+        
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Jo 19,31-37
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo João 
+        
+        Era o dia da preparação para a Páscoa.
+        Os judeus queriam evitar que os corpos ficassem na cruz durante o sábado, porque aquele sábado era dia de festa solene.
+        Então pediram a Pilatos que mandasse quebrar as pernas aos crucificados e os tirasse da cruz.
+        Os soldados foram e quebraram as pernas de um e, depois, do outro que foram crucificados com Jesus.
+        Ao se aproximarem de Jesus, e vendo que já estava morto, não lhe quebraram as pernas; mas um soldado abriu-lhe o lado com uma lança, e logo saiu sangue e água.
+        Aquele que viu, dá testemunho, e seu testemunho é verdadeiro; e ele sabe que fala a verdade, para que vós também acrediteis.
+        Isso aconteceu para que se cumprisse a Escritura, que diz: "Não quebrarão nenhum dos seus ossos".
+        E outra Escritura ainda diz: "Olharão para aquele que transpassaram".
+        
+        Palavra da Salvação.
 immaculateHeartOfMary:
   title: Imaculado Coração de Maria
   subtitle: Memória
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Is 61,9-11
+      text: |
+        Leitura do Livro do Profeta Isaías 
+        
+        A descendência do meu povo
+        será conhecida entre as nações, e seus filhos se fixarão no meio dos povos; quem os vir há de reconhecê-los como descendentes abençoados por Deus.
+        Exulto de alegria no Senhor e minh'alma regozija-se em meu Deus; ele me vestiu com as vestes da salvação, envolveu-me com o manto da justiça e adornou-me como um noivo com sua coroa, ou uma noiva com suas joias.
+        Assim como a terra faz brotar a planta e o jardim faz germinar a semente, assim o Senhor Deus fará germinar a justiça e a sua glória diante de todas as nações.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: 1Sm 2,1.4-5.6-7 8abcd (R. cf. 1a)
+      text: |
+        R. Meu coração se regozija no Senhor.
+        
+        Exulta no Senhor meu coração,
+        e se eleva a minha fronte no meu Deus;
+        minha boca desafia os meus rivais
+        porque me alegro com a vossa salvação. R.
+        
+        O arco dos fortes foi dobrado, foi quebrado,
+        mas os fracos se vestiram de vigor.
+        Os saciados se empregaram por um pão,
+        mas os pobres e os famintos se fartaram.
+        Muitas vezes deu à luz a que era estéril,
+        mas a mãe de muitos filhos definhou. R.
+        
+        É o Senhor quem dá a morte e dá a vida,
+        faz descer à sepultura e faz voltar;
+        é o Senhor quem faz o pobre e faz o rico,
+        é o Senhor quem nos humilha e nos exalta. R.
+        
+        O Senhor ergue do pó o homem fraco,
+        do lixo ele retira o indigente,
+        para fazê-los assentar-se com os nobres
+        num lugar de muita honra e distinção. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Lc 2,41-51
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Lucas 
+        
+        Os pais de Jesus iam todos os anos a Jerusalém,
+        para a festa da Páscoa.
+        Quando ele completou doze anos, subiram para a festa, como de costume.
+        Passados os dias da Páscoa, começaram a viagem de volta, mas o menino Jesus ficou em Jerusalém, sem que seus pais o notassem.
+        Pensando que ele estivesse na caravana, caminharam um dia inteiro.
+        Depois começaram a procurá-lo entre os parentes e conhecidos.
+        Não o tendo encontrado, voltaram para Jerusalém à sua procura.
+        Três dias depois, o encontraram no Templo.
+        Estava sentado no meio dos mestres, escutando e fazendo perguntas.
+        Todos os que ouviam o menino estavam maravilhados com sua inteligência e suas respostas.
+        Ao vê-lo, seus pais ficaram muito admirados e sua mãe lhe disse: "Meu filho, por que agiste assim conosco?
+        Olha que teu pai e eu estávamos, angustiados, à tua procura".
+        Jesus respondeu: "Por que me procuráveis?
+        Não sabeis que devo estar na casa de meu Pai?"
+        Eles, porém, não compreenderam as palavras que lhes dissera.
+        Jesus desceu então com seus pais para Nazaré, e era-lhes obediente.
+        Sua mãe, porém, conservava no coração todas estas coisas.
+        
+        Palavra da Salvação.
 assumption:
   title: Assunção de Nossa Senhora
   subtitle: Solenidade
@@ -16217,14 +16319,61 @@ ordinary.week9.2.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 2Pd 1,2-7
+      text: |
+        Leitura da Segunda Carta de São Pedro 
+        
+        Caríssimos,
+        graça e paz vos sejam concedidas abundantemente, porque conheceis Deus e Jesus, nosso Senhor.
+        O seu divino poder nos deu tudo o que contribui para a vida e para a piedade, mediante o conhecimento daquele que, pela sua própria glória e virtude, nos chamou.
+        Por meio de tudo isso nos foram dadas as preciosas promessas, as maiores que há, a fim de que vos tornásseis participantes da natureza divina, depois de libertos da corrupção, da concupiscência no mundo.
+        Por isso mesmo, dedicai todo o esforço em juntar à vossa fé a virtude, à virtude o conhecimento, ao conhecimento o autodomínio, ao autodomínio a perseverança, à perseverança a piedade, à piedade o amor fraterno e ao amor fraterno, a caridade.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 90(91),1-2.14-15ab.15c-16 (R. 2b)
+      text: |
+        R. Vós sois meu Deus, no qual confio inteiramente.
+        
+        Quem habita ao abrigo do Altíssimo
+        e vive à sombra do Senhor onipotente,
+        diz ao Senhor: "Sois meu refúgio e proteção,
+        sois o meu Deus, no qual confio inteiramente". R.
+        
+        "Porque a mim se confiou, hei de livrá-lo
+        e protegê-lo, pois meu nome ele conhece.
+        Ao invocar-me hei de ouvi-lo e atendê-lo,
+        a seu lado eu estarei em suas dores R.
+        
+        Hei de livrá-lo e de glória coroá-lo,
+        vou conceder-lhe vida longa e dias plenos,
+        e vou mostrar-lhe minha graça e salvação". R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 12,1-12
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos 
+        
+        Naquele tempo,
+        Jesus começou a falar aos sumos sacerdotes, mestres da Lei e anciãos, usando parábolas: "Um homem plantou uma vinha, cercou-a, fez um lagar e construiu uma torre de guarda.
+        Depois arrendou a vinha a alguns agricultores, e viajou para longe.
+        Na época da colheita, ele mandou um empregado aos agricultores para receber a sua parte dos frutos da vinha.
+        Mas os agricultores pegaram no empregado, bateram nele, e o mandaram de volta sem nada.
+        Então o dono da vinha mandou de novo mais um empregado.
+        Os agricultores bateram na cabeça dele e o insultaram.
+        Então o dono mandou ainda mais outro, e eles o mataram.
+        Trataram da mesma maneira muitos outros, batendo em uns e matando outros.
+        Restava-lhe ainda alguém: seu filho querido.
+        Por último, ele mandou o filho até aos agricultores, pensando: 'Eles respeitarão meu filho'.
+        Mas aqueles agricultores disseram uns aos outros: 'Esse é o herdeiro.
+        Vamos matá-lo, e a herança será nossa'.
+        Então agarraram o filho, o mataram, e o jogaram fora da vinha.
+        Que fará o dono da vinha?
+        Ele virá, destruirá os agricultores, e entregará a vinha a outros.
+        Por acaso, não lestes na Escritura: 'A pedra que os construtores deixaram de lado, tornou-se a pedra mais importante; isso foi feito pelo Senhor e é admirável aos nossos olhos'?"
+        Então os chefes dos judeus procuraram prender Jesus, pois compreenderam que havia contado a parábola para eles.
+        Porém, ficaram com medo da multidão e, por isso, deixaram Jesus e foram-se embora.
+        
+        Palavra da Salvação.
 ordinary.week9.2.odd:
   title: Segunda-feira da 9ª Semana
   subtitle: Tempo Comum
@@ -16245,14 +16394,62 @@ ordinary.week9.3.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 2Pd 3,12-15a.17-18
+      text: |
+        Leitura da Segunda Carta de São Pedro 
+        
+        Caríssimos,
+        Esperais com anseio a vinda do Dia de Deus, quando os céus em chama se vão derreter, e os elementos, consumidos pelo fogo, se fundirão?
+        O que nós esperamos, de acordo com a sua promessa, são novos céus e uma nova terra, onde habitará a justiça.
+        Caríssimos, vivendo nesta esperança, esforçai-vos para que ele vos encontre numa vida pura e sem mancha e em paz.
+        Considerai também como salvação a longanimidade de nosso Senhor.
+        Vós, portanto, bem-amados, sabendo disto com antecedência, precavei-vos, para não suceder que, levados pelo engano destes ímpios, percais a própria firmeza.
+        Antes procurai crescer na graça e no conhecimento de nosso Senhor e salvador Jesus Cristo.
+        A ele seja dada a glória, desde agora, até ao dia da eternidade. Amém.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 89(90),2.3-4.10.14 e 16 (R. 1)
+      text: |
+        R. Ó Senhor, vós fostes sempre um refúgio para nós!
+        
+        Já bem antes que as montanhas fossem feitas
+        ou a terra e o mundo se formassem,
+        desde sempre e para sempre vós sois Deus. R.
+        
+        Vós fazeis voltar ao pó todo mortal,
+        quando dizeis: "Voltai ao pó, filhos de Adão!"
+        Pois mil anos para vós são como ontem,
+        qual vigília de uma noite que passou. R.
+        
+        Pode durar setenta anos nossa vida,
+        os mais fortes talvez cheguem a oitenta;
+        a maior parte é ilusão e sofrimento:
+        passam depressa e também nós assim passamos. R.
+        
+        Saciai-nos de manhã com vosso amor,
+        e exultaremos de alegria todo o dia!
+        Manifestai a vossa obra a vossos servos,
+        e a seus filhos revelai a vossa glória! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 12,13-17
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos 
+        
+        Naquele tempo,
+        as autoridades mandaram alguns fariseus e alguns partidários de Herodes, para apanharem Jesus em alguma palavra.
+        Quando chegaram, disseram a Jesus: "Mestre, sabemos que tu és verdadeiro, e não dás preferência a ninguém.
+        Com efeito, tu não olhas para as aparências do homem, mas ensinas, com verdade, o caminho de Deus.
+        Dize-nos: É lícito ou não pagar o imposto a César?
+        Devemos pagar ou não?"
+        Jesus percebeu a hipocrisia deles, e respondeu: "Por que me tentais?
+        Trazei-me uma moeda para que eu a veja".
+        Eles levaram a moeda, e Jesus perguntou: "De quem é a figura e a inscrição que estão nessa moeda?"
+        Eles responderam: "De César".
+        Então Jesus disse: "Dai, pois, a César o que é de César, e a Deus o que é de Deus".
+        E eles ficaram admirados com Jesus.
+        
+        Palavra da Salvação.
 ordinary.week9.3.odd:
   title: Terça-feira da 9ª Semana
   subtitle: Tempo Comum
@@ -16273,14 +16470,58 @@ ordinary.week9.4.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 2Tm 1,1-3.6-12
+      text: |
+        Início da Segunda Carta de São Paulo a Timóteo 
+        
+        Paulo, Apóstolo de Jesus Cristo pelo desígnio de Deus
+        referente à promessa de vida que temos em Cristo Jesus, a Timóteo, meu querido filho: Graça, misericórdia e paz da parte de Deus Pai e de Cristo Jesus, nosso Senhor!
+        Dou graças a Deus, — a quem sirvo com a consciência pura, como aprendi dos meus antepassados —, quando me lembro de ti, dia e noite, nas minhas orações.
+        Por este motivo, exorto-te a reavivar a chama do dom de Deus que recebeste pela imposição das minhas mãos.
+        Pois Deus não nos deu um espírito de timidez mas de fortaleza, de amor e sobriedade.
+        Não te envergonhes do testemunho de Nosso Senhor nem de mim, seu prisioneiro, mas sofre comigo pelo Evangelho, fortificado pelo poder de Deus.
+        Deus nos salvou e nos chamou com uma vocação santa, não devido às nossas obras, mas em virtude do seu desígnio e da sua graça, que nos foi dada em Cristo Jesus desde toda a eternidade.
+        Esta graça foi revelada agora, pela manifestação de nosso Salvador, Jesus Cristo.
+        Ele não só destruiu a morte, como também fez brilhar a vida e a imortalidade por meio do Evangelho, do qual fui constituído anunciador, apóstolo e mestre.
+        Esta é a causa pela qual estou sofrendo, mas não me envergonho, porque sei em quem coloquei a minha fé.
+        E tenho a certeza de que ele é capaz de guardar aquilo que me foi confiado até ao grande dia.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 122(123),1-2a.2bcd (R. 1a)
+      text: |
+        R. Ó Senhor, para vós eu levanto meus olhos.
+        
+        Eu levanto os meus olhos para vós,
+        que habitais nos altos céus.
+        Como os olhos dos escravos estão fitos
+        nas mãos do seu senhor. R.
+        
+        Como os olhos das escravas estão fitos
+        nas mãos de sua senhora,
+        assim os nossos olhos, no Senhor,
+        até de nós ter piedade R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 12,18-27
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos 
+        
+        Naquele tempo,
+        vieram ter com Jesus alguns saduceus, os quais afirmam que não existe ressurreição e lhe propuseram este caso: "Mestre, Moisés deu-nos esta prescrição: Se morrer o irmão de alguém, e deixar a esposa sem filhos, o irmão desse homem deve casar-se com a viúva, a fim de garantir a descendência de seu irmão".
+        Ora, havia sete irmãos, o mais velho casou-se, e morreu sem deixar descendência.
+        O segundo casou-se com a viúva, e morreu sem deixar descendência.
+        E a mesma coisa aconteceu com o terceiro.
+        E nenhum dos sete deixou descendência.
+        Por último, morreu também a mulher.
+        Na ressurreição, quando eles ressuscitarem, de quem será ela mulher?
+        Por que os sete se casaram com ela!"
+        Jesus respondeu: "Acaso, vós não estais enganados, por não conhecerdes as Escrituras, nem o poder de Deus?
+        Com efeito, quando os mortos ressuscitarem, os homens e as mulheres não se casarão, pois serão como os anjos do céu.
+        Quanto ao fato da ressurreição dos mortos, não lestes, no livro de Moisés, na passagem da sarça ardente, como Deus lhe falou: 'Eu sou o Deus de Abraão, o Deus de Isaac e o Deus de Jacó'?
+        Ora, ele não é Deus de mortos, mas de vivos!
+        Vós estais muito enganados".
+        
+        Palavra da Salvação.
 ordinary.week9.4.odd:
   title: Quarta-feira da 9ª Semana
   subtitle: Tempo Comum
@@ -16301,14 +16542,59 @@ ordinary.week9.5.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 2Tm 2,8-15
+      text: |
+        Leitura da Segunda Carta de São Paulo a Timóteo 
+        
+        Caríssimo,
+        lembra-te de Jesus Cristo, da descendência de Davi, ressuscitado dentre os mortos, segundo o meu evangelho.
+        Por ele eu estou sofrendo até às algemas, como se eu fosse um malfeitor; mas a palavra de Deus não está algemada.
+        Por isso suporto qualquer coisa pelos eleitos, para que eles também alcancem a salvação, que está em Cristo Jesus, com a glória eterna.
+        Merece fé esta palavra: se com ele morremos, com ele viveremos.
+        Se com ele ficamos firmes, com ele reinaremos.
+        Se nós o negamos, também ele nos negará.
+        Se lhe somos infiéis, ele permanece fiel, pois não pode negar-se a si mesmo.
+        Lembra-lhes tais coisas e conjura-os por Deus a evitarem discussões vãs, que de nada servem a não ser para a perdição dos ouvintes.
+        Empenha-te em apresentar-te diante de Deus como homem digno de aprovação, como operário que não tem de que se envergonhar, mas expõe corretamente a palavra da verdade.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 24(25),4bc-5ab.8-9.10 e 14 (R. 4b)
+      text: |
+        R. Mostrai-me, ó Senhor, vossos caminhos!
+        
+        Mostrai-me, ó Senhor, vossos caminhos,
+        e fazei-me conhecer a vossa estrada!
+        Vossa verdade me oriente e me conduza,
+        porque sois o Deus da minha salvação R.
+        
+        O Senhor é piedade e retidão,
+        e reconduz ao bom caminho os pecadores.
+        Ele dirige os humildes na justiça,
+        e aos pobres ele ensina o seu caminho. R.
+        
+        Verdade e amor são os caminhos do Senhor
+        para quem guarda sua Aliança e seus preceitos.
+        O Senhor se torna íntimo aos que o temem
+        e lhes dá a conhecer sua Aliança. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 12,28b-34
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos 
+        
+        Naquele tempo,
+        um mestre da Lei, aproximou-se de Jesus e perguntou-lhe: "Qual é o primeiro de todos os mandamentos?"
+        Jesus respondeu: "O primeiro é este: Ouve, ó Israel!
+        O Senhor nosso Deus é o único Senhor.
+        Amarás o Senhor teu Deus de todo o teu coração, de toda a tua alma, de todo o teu entendimento e com toda a tua força!
+        O segundo mandamento é: Amarás o teu próximo como a ti mesmo!
+        Não existe outro mandamento maior do que estes".
+        O mestre da Lei disse a Jesus: "Muito bem, Mestre! Na verdade, é como disseste: Ele é o único Deus e não existe outro além dele.
+        Amá-lo de todo o coração, de toda a mente, e com toda a força, e amar o próximo como a si mesmo é melhor do que todos os holocaustos e sacrifícios".
+        Jesus viu que ele tinha respondido com inteligência, e disse: "Tu não estás longe do Reino de Deus".
+        E ninguém mais tinha coragem de fazer perguntas a Jesus.
+        
+        Palavra da Salvação.
 ordinary.week9.5.odd:
   title: Quinta-feira da 9ª Semana
   subtitle: Tempo Comum
@@ -16402,17 +16688,94 @@ ordinary.week10.1.b:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Gn 3,9-15
+      text: |
+        Leitura do Livro do Gênesis 
+        
+        Depois que o homem comeu da fruta da árvore,
+        o Senhor Deus chamou Adão, dizendo: "Onde estás?"
+        E ele respondeu: "Ouvi tua voz no jardim, e fiquei com medo, porque estava nu; e me escondi".
+        Disse-lhe o Senhor Deus: "E quem te disse que estavas nu?
+        Então comeste da árvore, de cujo fruto te proibi comer?"
+        Adão disse: "A mulher que tu me deste por companheira, foi ela que me deu do fruto da árvore, e eu comi".
+        Disse o Senhor Deus à mulher: "Por que fizeste isso?"
+        E a mulher respondeu: "A serpente enganou-me e eu comi".
+        Então o Senhor Deus disse à serpente: "Porque fizeste isso, serás maldita entre todos os animais domésticos e todos os animais selvagens!
+        Rastejarás sobre o ventre e comerás pó todos os dias da tua vida!
+        Porei inimizade entre ti e a mulher, entre a tua descendência e a dela.
+        Esta te ferirá a cabeça e tu lhe ferirás o calcanhar".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 129(130),1-2.3-4ab.4c-6.7-8 (R. 7)
+      text: |
+        R. No Senhor toda graça e redenção!
+        
+        Das profundezas eu clamo a vós, Senhor,
+        escutai a minha voz!
+        Vossos ouvidos estejam bem atentos
+        ao clamor da minha prece! R.
+        
+        Se levardes em conta nossas faltas,
+        quem haverá de subsistir?
+        Mas em vós se encontra o perdão,
+        eu vos temo e em vós espero. R.
+        
+        No Senhor ponho a minha esperança,
+        espero em sua palavra.
+        A minh'alma espera no Senhor
+        mais que o vigia pela aurora. R.
+        
+        Espere Israel pelo Senhor,
+        mais que o vigia pela aurora!
+        Pois no Senhor se encontra toda graça
+        e copiosa redenção.
+        Ele vem libertar a Israel
+        de toda a sua culpa. R.
     - type: reading
-      ref: ''
-      text: ''
+      ref: 2Cor 4,13-18.5,1
+      text: |
+        Leitura da Segunda Carta de São Paulo aos Coríntios 
+        
+        Irmãos:
+        Sustentados pelo mesmo espírito de fé, conforme o que está escrito: "Eu creio e, por isso, falei", nós também cremos e, por isso, falamos, certos de que aquele que ressuscitou o Senhor Jesus nos ressuscitará também com Jesus e nos colocará ao seu lado, juntamente convosco.
+        E tudo isso é por causa de vós, para quea abundância da graça em um número maior de pessoas faça crescer a ação de graças para a glória de Deus.
+        Por isso, não desanimamos.
+        Mesmo se o nosso homem exterior se vai arruinando, o nosso homem interior, pelo contrário, vai-se renovando, dia a dia.
+        Com efeito, o volume insignificante de uma tribulação momentânea acarreta para nós uma glória eterna e incomensurável.
+        E isso acontece, porque voltamos os nossos olhares para as coisasinvisíveis e não para as coisas visíveis.
+        Pois o que é visível é passageiro, mas o que é invisível é eterno.
+        De fato, sabemos que, se a tenda em que moramos neste mundo for destruída, Deus nos dá uma outra moradia no céu que não é obra de mãos humanas, mas que é eterna.
+        
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 3,20-35
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos 
+        
+        Naquele tempo,
+        Jesus voltou para casa com os seus discípulos.
+        E de novo se reuniu tanta gente que eles nem sequer podiam comer.
+        Quando souberam disso, os parentes de Jesus saíram para agarrá-lo, porque diziam que estava fora de si.
+        Os mestres da Lei, que tinham vindo de Jerusalém, diziam que ele estava possuído por Belzebu, e que pelo príncipe dos demônios ele expulsava os demônios.
+        Então Jesus os chamou e falou-lhes em parábolas: "Como é que Satanás pode expulsar a Satanás?
+        Se um reino se divide contra si mesmo, ele não poderá manter-se.
+        Se uma família se divide contra si mesma, ela não poderá manter-se.
+        Assim, se Satanás se levanta contra si mesmo e se divide, não poderá sobreviver, mas será destruído.
+        Ninguém pode entrar na casa de um homem forte para roubar seus bens, sem antes o amarrar.
+        Só depois poderá saquear sua casa.
+        Em verdade vos digo: tudo será perdoado aos homens, tanto os pecados, como qualquer blasfêmia que tiverem dito.
+        Mas quem blasfemar contra o Espírito Santo, nunca será perdoado, mas será culpado de um pecado eterno".
+        Jesus falou isso, porque diziam: "Ele está possuído por um espírito mau".
+        Nisso chegaram sua mãe e seus irmãos.
+        Eles ficaram do lado de fora e mandaram chamá-lo.
+        Havia uma multidão sentada ao redor dele.
+        Então lhe disseram: "Tua mãe e teus irmãos estão lá fora à tua procura".
+        Ele respondeu: "Quem é minha mãe, e quem são meus irmãos?"
+        E olhando para os que estavam sentados ao seu redor, disse: "Aqui estão minha mãe e meus irmãos.
+        Quem faz a vontade de Deus, esse é meu irmão, minha irmã e minha mãe".
+        
+        Palavra da Salvação.
 ordinary.week10.1.c:
   title: Domingo da 10ª Semana
   subtitle: Tempo Comum
@@ -16436,14 +16799,65 @@ ordinary.week10.2.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Rs 17,1-6
+      text: |
+        Leitura do Primeiro Livro dos Reis 
+        
+        Naqueles dias,
+        o profeta Elias, tesbita de Tesbi de Galaad, disse a Acab: "Pela vida do Senhor, o Deus de Israel, a quem sirvo, não haverá nestes anos nem orvalho nem chuva, senão quando eu disser!"
+        E a palavra do Senhor foi dirigida a Elias nestes termos: "Parte daqui e toma a direção do oriente.
+        Vai esconder-te junto à torrente de Carit, que está defronte ao Jordão.
+        Lá beberás da torrente.
+        E eu ordenei aos corvos que te deem alimento".
+        Elias partiu e fez como o Senhor lhe tinha ordenado, e foi morar junto à torrente de Carit, que está defronte ao Jordão.
+        Os corvos traziam-lhe pão e carne, tanto de manhã como de tarde, e ele bebia da torrente.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 120(121),1-2.3-4.5-6.7-8 (R. Cf. 2)
+      text: |
+        R. Do Senhor é que vem o meu socorro,
+        do Senhor que fez o céu e fez a terra!
+
+        Eu levanto os meus olhos para os montes:
+        de onde pode vir o meu socorro?
+        "Do Senhor é que me vem o meu socorro,
+        do Senhor que fez o céu e fez a terra!" R.
+        
+        Ele não deixa tropeçarem os meus pés,
+        e não dorme quem te guarda e te vigia.
+        Oh! Não! Ele não dorme nem cochila,
+        aquele que é o guarda de Israel! R.
+        
+        O Senhor é o teu guarda, o teu vigia,
+        é uma sombra protetora à tua direita.
+        Não vai ferir-te o sol durante o dia,
+        nem a lua através de toda a noite. R.
+        
+        O Senhor te guardará de todo o mal,
+        ele mesmo vai cuidar da tua vida!
+        Deus te guarda na partida e na chegada.
+        Ele te guarda desde agora e para sempre! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mt 5,1-12
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Mateus 
+        
+        Naquele tempo,
+        vendo Jesus as multidões, subiu ao monte e sentou-se.
+        Os discípulos aproximaram-se, e Jesus começou a ensiná-los: "Bem-aventurados os pobres em espírito, porque deles é o Reino dos Céus.
+        Bem-aventurados os aflitos, porque serão consolados.
+        Bem-aventurados os mansos, porque possuirão a terra.
+        Bem-aventurados os que têm fome e sede de justiça, porque serão saciados.
+        Bem-aventurados os misericordiosos, porque alcançarão misericórdia.
+        Bem-aventurados os puros de coração, porque verão a Deus.
+        Bem-aventurados os que promovem a paz, porque serão chamados filhos de Deus.
+        Bem-aventurados os que são perseguidos por causa da justiça, porque deles é o Reino dos Céus.
+        Bem-aventurados sois vós quando vos injuriarem e perseguirem e, mentindo, disserem todo tipo de mal contra vós, por causa de mim.
+        Alegrai-vos e exultai, porque será grande a vossa recompensa nos céus.
+        Do mesmo modo perseguiram os profetas que vieram antes de vós".
+        
+        Palavra da Salvação.
 ordinary.week10.2.odd:
   title: Segunda-feira da 10ª Semana
   subtitle: Tempo Comum
@@ -16464,14 +16878,68 @@ ordinary.week10.3.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: At 11,21b-26.13,1-3
+      text: |
+        Leitura dos Atos dos Apóstolos 
+        
+        Naqueles dias,
+        Muitas pessoas acreditaram no Evangelho e se converteram ao Senhor.
+        A notícia chegou aos ouvidos da Igreja que estava em Jerusalém.
+        Então enviaram Barnabé até Antioquia.
+        Quando Barnabé chegou e viu a graça que Deus havia concedido, ficou muito alegre e exortou a todos para que permanecessem fiéis ao Senhor, com firmeza de coração.
+        É que ele era um homem bom, cheio do Espírito Santo e de fé.
+        E uma grande multidão aderiu ao Senhor.
+        Então Barnabé partiu para Tarso, à procura de Saulo.
+        Tendo encontrado Saulo, levou-o a Antioquia.
+        Passaram um ano inteiro trabalhando juntos naquela Igreja, e instruíram uma numerosa multidão.
+        Em Antioquia os discípulos foram, pela primeira vez, chamados com o nome de cristãos.
+        Na igreja de Antioquia, havia profetas e doutores.
+        Eram eles: Barnabé, Simeão, chamado o Negro, Lúcio de Cirene, Manaém, que fora criado junto com Herodes, e Saulo.
+        Um dia, enquanto celebravam a liturgia, em honra do Senhor, e jejuavam, o Espírito Santo disse: "Separai para mim Barnabé e Saulo, a fim de fazerem o trabalho para o qual eu os chamei".
+        Então eles jejuaram e rezaram, impuseram as mãos sobre Barnabé e Saulo, e deixaram-nos partir.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 97(98),1.2-3ab.3cd-4.5-6 (R. 2a)
+      text: |
+        R. o Senhor fez conhecer seu poder salvador,
+        e às nações sua justiça.
+
+        Cantai ao Senhor Deus um canto novo,
+        porque ele fez prodígios!
+        Sua mão e o seu braço forte e santo
+        alcançaram-lhe a vitória. R.
+        
+        O Senhor fez conhecer a salvação,
+        e às nações, sua justiça;
+        recordou o seu amor sempre fiel
+        pela casa de Israel R.
+        
+        Os confins do universo contemplaram
+        a salvação do nosso Deus.
+        Aclamai o Senhor Deus, ó terra inteira,
+        alegrai-vos e exultai! R.
+        
+        Cantai salmos ao Senhor ao som da harpa
+        e da cítara suave!
+        Aclamai, com os clarins e as trombetas,
+        ao Senhor, o nosso Rei! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mt 10,7-13
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Mateus 
+        
+        Naquele tempo,
+        disse Jesus aos seus discípulos: "Em vosso caminho, anunciai: 'O Reino dos Céus está próximo'.
+        Curai os doentes, ressuscitai os mortos, purificai os leprosos, expulsai os demônios.
+        De graça recebestes, de graça deveis dar!
+        Não leveis ouro nem prata nem dinheiro nos vossos cintos; nem sacola para o caminho, nem duas túnicas nem sandálias nem bastão, porque o operário tem direito ao seu sustento.
+        Em qualquer cidade ou povoado onde entrardes, informai-vos para saber quem ali seja digno.
+        Hospedai-vos com ele até a vossa partida.
+        Ao entrardes numa casa, saudai-a.
+        Se a casa for digna, desça sobre ela a vossa paz; se ela não for digna, volte para vós a vossa paz".
+        
+        Palavra da Salvação.
 ordinary.week10.3.odd:
   title: Terça-feira da 10ª Semana
   subtitle: Tempo Comum
@@ -16492,14 +16960,83 @@ ordinary.week10.4.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Rs 18,20-39
+      text: |
+        Leitura do Primeiro Livro dos Reis 
+        
+        Naqueles dias,
+        Acab convocou todos os filhos de Israel e reuniu os profetas de Baal no monte Carmelo.
+        Então Elias, aproximando-se de todo o povo, disse: "Até quando andareis mancando com os dois pés?
+        Se o Senhor é o verdadeiro Deus, segui-o; mas, se é Baal, segui a ele".
+        O povo não respondeu uma palavra.
+        Então Elias disse ao povo: "Eu sou o único profeta do Senhor que resta, ao passo que os profetas de Baal são quatrocentos e cinquenta.
+        Deem-nos dois novilhos; que eles escolham um novilho e, depois de cortá-lo em pedaços, coloquem-no sobre a lenha, mas sem pôr fogo por baixo.
+        Eu prepararei depois o outro novilho e o colocarei sobre a lenha e tampouco lhe porei fogo.
+        Em seguida, invocareis o nome de vosso deus e eu invocarei o nome do Senhor.
+        O Deus que ouvir, enviando fogo, este é o Deus verdadeiro".
+        Todo o povo respondeu, dizendo: "Ótima proposição".
+        Elias disse então aos profetas de Baal: "Escolhei vós um novilho e começai, pois sois maioria.
+        E invocai o nome de vosso deus, mas não lhe ponhais fogo".
+        Eles tomaram o novilho que lhes foi dado e prepararam-no.
+        E invocavam o nome de Baal desde a manhã até ao meio-dia, dizendo: "Baal, ouve-nos!"
+        Mas não se ouvia voz alguma e ninguém que respondesse.
+        E dançavam ao redor do altar que tinham levantado.
+        Ao meio-dia, Elias zombou deles, dizendo: "Gritai mais alto, pois sendo um deus, tem suas ocupações.
+        Porventura ausentou-se ou está de viagem; ou talvez esteja dormindo e é preciso que o acordem".
+        Então eles gritavam ainda mais forte, e retalhavam-se, segundo o seu costume, com espadas e lanças, até o sangue escorrer.
+        Passado o meio-dia, entraram em transe até a hora do sacrifício vespertino.
+        Mas não se ouviu voz nenhuma, nem resposta nem sinal de atenção.
+        Então Elias disse a todo o povo: "Aproximai-vos de mim".
+        Todo o povo veio para perto dele.
+        E ele refez o altar do Senhor que tinha sido demolido.
+        Tomou doze pedras, segundo o número das doze tribos dos filhos de Jacó, a quem Deus tinha dito: "Teu nome será Israel", e edificou com as pedras um altar ao nome do Senhor.
+        Fez em redor do altar um rego, capaz de conter duas medidas de sementes.
+        Empilhou a lenha, esquartejou o novilho e colocou-o sobre a lenha, e disse: "Enchei quatro talhas de água e derramai-a sobre o holocausto e sobre a lenha".
+        Depois, disse: "Outra vez".
+        E eles assim fizeram uma segunda vez.
+        E acrescentou: "Ainda uma terceira vez".
+        E assim foi feito.
+        A água correu em volta do altar e o rego ficou completamente cheio.
+        Chegada a hora do sacrifício, o profeta Elias aproximou-se e disse: "Senhor, Deus de Abraão, de Isaac e de Israel, mostra hoje que tu és Deus em Israel, e que eu sou teu servo e que é por ordem tua que fiz estas coisas.
+        Ouve-me, Senhor, ouve-me, para que este povo reconheça que tu, Senhor, és Deus, e que és tu que convertes os seus corações!"
+        Então caiu o fogo do Senhor, que devorou o holocausto, a lenha, as pedras e a poeira, e secou a água que estava no rego.
+        Vendo isto, o povo todo prostrou-se com o rosto em terra, exclamando: "É o Senhor que é Deus, é o Senhor que é Deus!"
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 15(16),1-2a.4.5 e 8.11 (R. 1)
+      text: |
+        R. Guardai-me, ó Deus, porque em vós me refugio!
+        
+        Guardai-me, ó Deus, porque em vós me refugio!
+        Digo ao Senhor: "Somente vós sois meu Senhor". R.
+        
+        Multiplicam, no entanto, suas dores
+        os que correm para os deuses estrangeiros;
+        seus sacrifícios sanguinários não partilho,
+        nem seus nomes passarão pelos meus lábios. R.
+        
+        Ó Senhor, sois minha herança e minha taça,
+        meu destino está seguro em vossas mãos!
+        Tenho sempre o Senhor ante meus olhos,
+        pois se o tenho a meu lado não vacilo. R.
+        
+        Vós me ensinais vosso caminho para a vida;
+        junto a vós, felicidade sem limites,
+        delícia eterna e alegria ao vosso lado! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mt 5,17-19
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Mateus 
+        
+        Naquele tempo, disse Jesus aos seus discípulos:
+        "Não penseis que vim abolir a Lei e os Profetas.
+        Não vim para abolir, mas para dar-lhes pleno cumprimento.
+        Em verdade, eu vos digo: antes que o céu e a terra deixem de existir, nem uma só letra ou vírgula serão tiradas da Lei, sem que tudo se cumpra.
+        Portanto, quem desobedecer a um só destes mandamentos, por menor que seja, e ensinar os outros a fazerem o mesmo, será considerado o menor no Reino dos Céus.
+        Porém, quem os praticar e ensinar será considerado grande no Reino dos Céus".
+        
+        Palavra da Salvação.
 ordinary.week10.4.odd:
   title: Quarta-feira da 10ª Semana
   subtitle: Tempo Comum
@@ -16520,14 +17057,60 @@ ordinary.week10.5.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Rs 18,41-46
+      text: |
+        Leitura do Primeiro Livro dos Reis 
+        
+        Naqueles dias,
+        Elias disse a Acab: "Sobe, come e bebe, porque já ouço o ruído de muita chuva".
+        Enquanto Acab subia para comer e beber, Elias subiu ao cume do Carmelo, prostrou-se por terra e pôs o rosto entre os joelhos.
+        E disse ao seu servo: "Sobe e observa na direção do mar".
+        Ele subiu, observou e disse: "Não há nada".
+        Elias disse-lhe de novo: "Volta sete vezes".
+        À sétima vez o servo disse: "Eis que sobe do mar uma nuvem, pequena como a mão de um homem".
+        Então Elias disse-lhe: "Vai dizer a Acab que prepare o carro e desça, para que a chuva não o detenha".
+        Nesse meio tempo, o céu cobriu-se de nuvens escuras, soprou o vento e a chuva caiu torrencialmente.
+        Acab subiu para o seu carro e partiu para Jezrael.
+        A mão do Senhor esteve sobre Elias; e ele, cingindo os rins, correu adiante de Acab até a entrada de Jezrael.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 64(65),10abcd.10e-11.12-13 (R. 2a)
+      text: |
+        R. Ó Senhor que o povo vos louve em Sião!
+        
+        Visitais a nossa terra com as chuvas,
+        e transborda de fartura.
+        Rios de Deus que vêm do céu derramam águas,
+        e preparais o nosso trigo. R.
+        
+        É assim que preparais a nossa terra:
+        vós a regais e aplainais,
+        os seus sulcos com a chuva amoleceis
+        e abençoais as sementeiras. R.
+        
+        O ano todo coroais com vossos dons,
+        os vossos passos são fecundos;
+        transborda a fartura onde passais.
+        Brotam pastos no deserto
+        as colinas se enfeitam de alegria. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mt 5,20-26
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Mateus 
+        
+        Naquele tempo, disse Jesus aos seus discípulos:
+        "Se a vossa justiça não for maior que a justiça dos mestres da Lei e dos fariseus, vós não entrareis no Reino dos Céus.
+        Vós ouvistes o que foi dito aos antigos: 'Não matarás!
+        Quem matar será condenado pelo tribunal'.
+        Eu, porém, vos digo: todo aquele que se encoleriza com seu irmão será réu em juízo; quem disser ao seu irmão: 'patife!' será condenado pelo tribunal; quem chamar o irmão de 'tolo' será condenado ao fogo do inferno.
+        Portanto, quando tu estiveres levando a tua oferta para o altar, e ali te lembrares que teu irmão tem alguma coisa contra ti, deixa a tua oferta ali diante do altar, e vai primeiro reconciliar-te com o teu irmão.
+        Só então vai apresentar a tua oferta.
+        Procura reconciliar-te com teu adversário, enquanto caminha contigo para o tribunal.
+        Senão o adversário te entregará ao juiz, o juiz te entregará ao oficial de justiça, e tu serás jogado na prisão.
+        Em verdade eu te digo: dali não sairás, enquanto não pagares o último centavo".
+        
+        Palavra da Salvação.
 ordinary.week10.5.odd:
   title: Quinta-feira da 10ª Semana
   subtitle: Tempo Comum
@@ -16548,14 +17131,65 @@ ordinary.week10.6.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Rs 19,9a.11-16
+      text: |
+        Leitura do Primeiro Livro dos Reis 
+        
+        Naqueles dias, ao chegar a Horeb, o monte de Deus,
+        o profeta Elias entrou numa gruta, onde passou a noite.
+        E eis que a palavra do Senhor lhe foi dirigida nestes termos: "Sai e permanece sobre o monte diante do Senhor, porque o Senhor vai passar".
+        Antes do Senhor, porém, veio um vento impetuoso e forte, que desfazia as montanhas e quebrava os rochedos.
+        Mas o Senhor não estava no vento.
+        Depois do vento houve um terremoto.
+        Mas o Senhor não estava no terremoto.
+        Passado o terremoto, veio um fogo.
+        Mas o Senhor não estava no fogo.
+        E depois do fogo ouviu-se um murmúrio de uma leve brisa.
+        Ouvindo isto, Elias cobriu o rosto com o manto, saiu e pôs-se à entrada da gruta.
+        Ouviu, então, uma voz que dizia: "Que fazes aqui, Elias?"
+        Ele respondeu: "Estou ardendo de zelo pelo Senhor, Deus Todo-poderoso, porque os filhos de Israel abandonaram tua aliança, demoliram teus altares e mataram à espada teus profetas.
+        Só eu escapei.
+        Mas, agora, também querem matar-me".
+        O Senhor disse-lhe: "Vai e toma o teu caminho de volta, na direção do deserto de Damasco.
+        Chegando lá, ungirás Hazael como rei da Síria.
+        Unge também a Jeú, filho de Namsi, como rei de Israel, e a Eliseu, filho de Safat, de Abel-Meula, como profeta em teu lugar".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 26(27),7-8a.8b-9.13-14 (R. 8b)
+      text: |
+        R. Senhor, é vossa face que eu procuro!
+        
+        Ó Senhor, ouvi a voz do meu apelo,
+        atendei por compaixão!
+        Meu coração fala convosco confiante,
+        é vossa face que eu procuro. R.
+        
+        Não afasteis em vossa ira o vosso servo,
+        sois vós o meu auxílio!
+        Não me esqueçais nem me deixeis abandonado,
+        meu Deus e Salvador! R.
+        
+        Sei que a bondade do Senhor eu hei de ver
+        na terra dos viventes.
+        Espera no Senhor e tem coragem,
+        espera no Senhor! R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mt 5,27-32
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Mateus 
+        
+        Naquele tempo, disse Jesus aos seus discípulos:
+        "Ouvistes o que foi dito: 'Não cometerás adultério'.
+        Eu, porém, vos digo: Todo aquele que olhar para uma mulher, com o desejo de possuí-la, já cometeu adultério com ela no seu coração.
+        Se o teu olho direito é para ti ocasião de pecado, arranca-o e joga-o para longe de ti!
+        De fato, é melhor perder um de teus membros, do que todo o teu corpo ser jogado no inferno.
+        Se a tua mão direita é para ti ocasião de pecado, corta-a e joga-a para longe de ti!
+        De fato, é melhor perder um dos teus membros, do que todo o teu corpo ir para o inferno.
+        Foi dito também: 'Quem se divorciar de sua mulher, dê-lhe uma certidão de divórcio'.
+        Eu, porém, vos digo: Todo aquele que se divorcia de sua mulher, a não ser por motivo de união irregular, faz com que ela se torne adúltera; e quem se casa com a mulher divorciada comete adultério".
+        
+        Palavra da Salvação.
 ordinary.week10.6.odd:
   title: Sexta-feira da 10ª Semana
   subtitle: Tempo Comum
@@ -16576,14 +17210,54 @@ ordinary.week10.7.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: 1Rs 19,19-21
+      text: |
+        Leitura do Primeiro Livro dos Reis 
+        
+        Naqueles dias,
+        o profeta Elias partiu dali e encontrou Eliseu, filho de Safat, lavrando a terra com doze juntas de bois; e ele mesmo conduzia a última.
+        Elias, ao passar perto de Eliseu, lançou sobre ele o seu manto.
+        Então Eliseu deixou os bois e correu atrás de Elias, dizendo: "Deixa-me primeiro ir beijar meu pai e minha mãe, depois te seguirei".
+        Elias respondeu: "Vai e volta!
+        Pois o que te fiz eu?"
+        Ele retirou-se, tomou a junta de bois e os imolou.
+        Com a madeira do arado e da canga assou a carne e deu de comer à sua gente.
+        Depois levantou-se, seguiu Elias e pôs-se ao seu serviço.
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 15(16),1-2a e 5.7-8.9-10 (R. cf. 5a)
+      text: |
+        R. O Senhor é a porção da minha herança.
+        
+        Guardai-me, ó Deus, porque em vós me refugio!
+        Digo ao Senhor: "Somente vós sois meu Senhor.
+        Ó Senhor, sois minha herança e minha taça,
+        meu destino está seguro em vossas mãos! R.
+        
+        Eu bendigo o Senhor, que me aconselha,
+        e até de noite me adverte o coração.
+        Tenho sempre o Senhor ante meus olhos,
+        pois se o tenho a meu lado não vacilo. R.
+        
+        Eis por que meu coração está em festa,
+        minha alma rejubila de alegria,
+        e até meu corpo no repouso está tranquilo;
+        pois não haveis de me deixar entregue à morte,
+        nem vosso amigo conhecer a corrupção. R.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mt 5,33-37
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Mateus 
+        
+        Naquele tempo, disse Jesus aos seus discípulos:
+        "Vós ouvistes o que foi dito aos antigos: 'Não jurarás falso', mas 'cumprirás os teus juramentos feitos ao Senhor'.
+        Eu, porém, vos digo: Não jureis de modo algum: nem pelo céu, porque é o trono de Deus; nem pela terra, porque é o suporte onde apoia os seus pés; nem por Jerusalém, porque é a cidade do Grande Rei.
+        Não jures tão pouco pela tua cabeça, porque tu não podes tornar branco ou preto um só fio de cabelo.
+        Seja o vosso 'sim': 'Sim', e o vosso 'não': 'Não'.
+        Tudo o que for além disso vem do Maligno".
+        
+        Palavra da Salvação.
 ordinary.week10.7.odd:
   title: Sábado da 10ª Semana
   subtitle: Tempo Comum
@@ -16621,17 +17295,68 @@ ordinary.week11.1.b:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: Ez 17,22-24
+      text: |
+        Leitura da Profecia de Ezequiel 
+        
+        Assim diz o Senhor Deus:
+        "Eu mesmo tirarei um galho da copa do cedro, do mais alto de seus ramos arrancarei um broto e o plantarei sobre um monte alto e elevado.
+        Vou plantá-lo sobre o alto monte de Israel.
+        Ele produzirá folhagem, dará frutos e se tornará um cedro majestoso.
+        Debaixo dele pousarão todos os pássaros, à sombra de sua ramagem as aves farão ninhos.
+        E todas as árvores do campo saberão que eu sou o Senhor, que abaixo a árvore alta e elevo a árvore baixa; faço secar a árvore verde e brotar a árvore seca.
+        Eu, o Senhor, digo e faço".
+        
+        Palavra do Senhor.
     - type: psalm
-      ref: ''
-      text: ''
+      ref: Sl 91(92),2-3.13-14.15-16 (R. cf. 2a)
+      text: |
+        R. Como é bom agradecermos ao Senhor.
+        
+        Como é bom agradecermos ao Senhor
+        e cantar salmos de louvor ao Deus Altíssimo!
+        Anunciar pela manhã vossa bondade,
+        e o vosso amor fiel, a noite inteira. R.
+        
+        O justo crescerá como a palmeira,
+        florirá igual ao cedro que há no Líbano;
+        na casa do Senhor estão plantados,
+        nos átrios de meu Deus florescerão. R.
+        
+        Mesmo no tempo da velhice darão frutos,
+        cheios de seiva e de folhas verdejantes;
+        e dirão: "É justo mesmo o Senhor Deus:
+        meu Rochedo, não existe nele o mal!" R.
     - type: reading
-      ref: ''
-      text: ''
+      ref: 2Cor 5,6-10
+      text: |
+        Leitura da Segunda Carta de São Paulo aos Coríntios 
+        
+        Irmãos:
+        Estamos sempre cheios de confiança e bem lembrados de que, enquanto moramos no corpo, somos peregrinos longe do Senhor; pois caminhamos na fé e não na visão clara.
+        Mas estamos cheios de confiança e preferimos deixar a moradia do nosso corpo, para ir morar junto do Senhor.
+        Por isso, também nos empenhamos em ser agradáveis a ele, quer estejamos no corpo, quer já tenhamos deixado essa morada.
+        Aliás, todos nós temos de comparecer às claras perante o tribunal de Cristo, para cada um receber a devida recompensa — prêmio ou castigo — do que tiver feito ao longo de sua vida corporal.
+        
+        Palavra do Senhor.
     - type: gospel
-      ref: ''
-      text: ''
+      ref: Mc 4,26-34
+      text: |
+        Proclamação do Evangelho de Jesus Cristo segundo Marcos 
+        
+        Naquele tempo,
+        Jesus disse à multidão: "O Reino de Deus é como quando alguém espalha a semente na terra.
+        Ele vai dormir e acorda, noite e dia, e a semente vai germinando e crescendo, mas ele não sabe como isso acontece.
+        A terra, por si mesma, produz o fruto: primeiro aparecem as folhas, depois vem a espiga e, por fim, os grãos que enchem a espiga.
+        Quando as espigas estão maduras, o homem mete logo a foice, porque o tempo da colheita chegou".
+        E Jesus continuou: "Com que mais poderemos comparar o Reino de Deus?
+        Que parábola usaremos para representá-lo?
+        O Reino de Deus é como um grão de mostarda que, ao ser semeado na terra, é a menor de todas as sementes da terra.
+        Quando é semeado, cresce e se torna maior do que todas as hortaliças, e estende ramos tão grandes, que os pássaros do céu podem abrigar-se à sua sombra".
+        Jesus anunciava a Palavra usando muitas parábolas como estas, conforme eles podiam compreender.
+        E só lhes falava por meio de parábolas, mas, quando estava sozinho com os discípulos, explicava tudo.
+        
+        Palavra da Salvação.
 ordinary.week11.1.c:
   title: Domingo da 11ª Semana
   subtitle: Tempo Comum
