@@ -3,15 +3,14 @@ import chalk from 'chalk'
 import { readFileSync } from 'fs'
 import { fileURLToPath, pathToFileURL } from 'url'
 import { join, dirname } from 'path'
-import yaml from 'js-yaml'
 import { evaluateText, evaluateMeta } from './helpers.mjs'
 
 const thisPath = fileURLToPath(import.meta.url)
-const lectionaryPath = join(dirname(thisPath), '../data/pt_BR.yaml')
+const lectionaryPath = join(dirname(thisPath), '../data/pt_BR.json')
 const lectionaryUrl = pathToFileURL(lectionaryPath)
 
 const lectionaryText = readFileSync(lectionaryPath).toString()
-const lectionary = yaml.load(lectionaryText)
+const lectionary = JSON.parse(lectionaryText)
 
 const program = new Command()
 

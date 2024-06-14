@@ -1,61 +1,59 @@
-﻿import { convert } from "html-to-text"
-
-const date = process.argv[2];
-if(!date) {
-  process.exit(1);
-}
-
-const input = await fetch(`https://api-liturgia.edicoescnbb.com.br/contents/in/date/${date}`)
-  .then(response => response.json())
-  .then(data => {
-    return convert(data.content.leituras, { wordwrap: false }) + '\n' + convert(data.content.body, { wordwrap: false })
-  });
-process.stdout.write('\uFEFF');
-console.log(parseLiturgy(input));
-
-function parseLiturgy(input) {
-  const lines = input
+﻿export function prepareInput(input) {
+  return input
     .split("\n")
     .filter((line) => line.trim().length > 0 && !/(^\d+\w?$|^\w$)/.test(line))
-    .map((line) => line.replace(/(\*|\†|\[pics\/cruzevangelho\.png\])/, "").trim());
+    .map((line) => line.replace(/(\*|\†|\[pics\/cruzevangelho\.png\])/, "").trim())
+}
 
-  lines.shift();
-  var readingRef1 = lines.shift();
-  var psalmRef = lines.shift();
-  var readingRef2 = lines.shift();
-  var gospelRef = lines.shift();
-
-  if (gospelRef.length === 0 || /^primeira leitura/i.test(gospelRef)) {
-    if (/^primeira leitura/i.test(gospelRef)) {
-      lines.unshift(gospelRef);
-    }
-    gospelRef = readingRef2;
-    readingRef2 = "";
-  }
-
+export function parseRefs(lines) {
+  skipUntil(lines, /^(leitura d|início d)/i);
+  const readingRef1 = lines[0];
   
+  skipUntil(lines, /^salmo responsorial/i)
+  if (!/(Sl|SI)/.test(lines[0]) && !/^R./.test(lines[1])) {
+    lines.shift();
+  }
+  const psalmRef = lines[0];
+  
+  let readingRef2 = '';
+  skipUntil(lines, /^(segunda leitura|evangelho|aclamação ao evangelho)/i)
+  if (/^segunda leitura/i.test(lines[0])) {
+    skipUntil(lines, /^(leitura d|início d)/i);
+    readingRef2 = lines[0];
+  }
+  skipUntil(lines, /^(paixão de nosso senhor jesus cristo segundo|proclamação do evangelho|conclusão do evangelho)/i);
+  const gospelRef = lines[0]
+
+  return {
+    readingRef1,
+    psalmRef,
+    readingRef2,
+    gospelRef
+  }
+}
+
+export function parseTexts(lines) { 
   const reading1 = [];
   const psalm = [];
   const reading2 = [];
   const gospel = [];
   
-  skipUntil(lines, /^primeira leitura/i);
   skipUntil(lines, /^(leitura d|início d)/i);
   
   let line = lines.shift();
-  reading1.push(line.slice(0, line.search(/\d/)));
+  reading1.push(line.slice(0, line.search(/\d/)).trim());
   reading1.push(...readUntil(lines, /^salmo responsorial/i));
   skipUntil(lines, /^R\./i);
   psalm.push(...readUntil(lines, /^(segunda leitura|evangelho|aclamação ao evangelho)/i));
   if (/^segunda leitura/i.test(lines[0])) {
-    skipUntil(lines, /^leitura d/i);
+    skipUntil(lines, /^(leitura d|início d)/i);
     line = lines.shift();
-    reading2.push(line.slice(0, line.search(/\d/)));
-    reading2.push(...readUntil(lines, /^aclamação ao evangelho/i));
+    reading2.push(line.slice(0, line.search(/\d/)).trim());
+    reading2.push(...readUntil(lines, /^(evangelho|aclamação ao evangelho)/i));
   }
-  skipUntil(lines, /^proclamação do evangelho|conclusão do evangelho/i);
+  skipUntil(lines, /^(paixão de nosso senhor jesus cristo segundo|proclamação do evangelho|conclusão do evangelho)/i);
   line = lines.shift();
-  gospel.push(line.slice(0, line.search(/\d/)));
+  gospel.push(line.slice(0, line.search(/\d/)).trim());
   gospel.push(...lines);
 
   reading1.splice(1, 0, "");
@@ -77,7 +75,7 @@ function parseLiturgy(input) {
       psalm.splice(i + 1, 0, "");
     }
   }
-  if (readingRef2.length > 0) {
+  if (reading2.length > 0) {
     reading2.splice(1, 0, "");
     reading2.splice(reading2.length - 1, 0, "");
     {
@@ -106,47 +104,21 @@ function parseLiturgy(input) {
     }
   }
 
-  if (readingRef2.length === 0) {
-    return `    - type: reading
-      ref: ${readingRef1}
-      text: |
-        ${reading1.join("\n        ")}
-    - type: psalm
-      ref: ${psalmRef}
-      text: |
-        ${psalm.join("\n        ")}
-    - type: gospel
-      ref: ${gospelRef}
-      text: |
-        ${gospel.join("\n        ")}
-`;
+  return {
+    reading1,
+    psalm,
+    reading2,
+    gospel,
   }
-  return `    - type: reading
-      ref: ${readingRef1}
-      text: |
-        ${reading1.join("\n        ")}
-    - type: psalm
-      ref: ${psalmRef}
-      text: |
-        ${psalm.join("\n        ")}
-    - type: reading
-      ref: ${readingRef2}
-      text: |
-        ${reading2.join("\n        ")}
-    - type: gospel
-      ref: ${gospelRef}
-      text: |
-        ${gospel.join("\n        ")}
-`;
 }
 
-function skipUntil(lines, regex) {
+export function skipUntil(lines, regex) {
   while (lines.length > 0 && !regex.test(lines[0])) {
     lines.shift();
   }
 }
 
-function readUntil(lines, regex) {
+export function readUntil(lines, regex) {
   const result = [];
   while (lines.length > 0 && !regex.test(lines[0])) {
     result.push(lines.shift());
