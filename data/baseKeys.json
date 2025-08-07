@@ -1,4 +1,12 @@
 [
+  "1002",
+  "1007",
+  "1012",
+  "1018",
+  "1028",
+  "1101",
+  "1102",
+  "1109",
   "1121",
   "1208",
   "1212",
@@ -38,7 +46,8 @@
   "sacredHeartOfJesus.b",
   "sacredHeartOfJesus.c",
   "immaculateHeartOfMary",
-  "assumption",
+  "assumption.vigil",
+  "assumption.day",
   "0101",
   "0102",
   "0103",
@@ -731,5 +740,10 @@
   "0531",
   "0425",
   "0512",
-  "annunciation"
+  "annunciation",
+  "0822",
+  "0823",
+  "0829",
+  "0908",
+  "0929"
 ]
