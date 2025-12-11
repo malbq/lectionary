@@ -1720,62 +1720,121 @@ holyFamily.c:
   color: white
   readings:
     - type: reading
-      ref: Eclo 3,3-7.14-17a (gr. 2-6.12-14)
-      text: |
-        Leitura do Livro do Eclesiástico
+      main:
+        ref: Eclo 3,3-7.14-17a (gr. 2-6.12-14)
+        text: |
+          Leitura do Livro do Eclesiástico
 
-        Deus honra o pai nos filhos
-        e confirma, sobre eles, a autoridade da mãe.
-        Quem honra o seu pai, alcança o perdão dos pecados; evita cometê-los e será ouvido na oração quotidiana.
-        Quem respeita a sua mãe é como alguém que ajunta tesouros.
-        Quem honra o seu pai, terá alegria com seus próprios filhos; e, no dia em que orar, será atendido.
-        Quem respeita o seu pai, terá vida longa, e quem obedece ao pai é o consolo da sua mãe.
-        Meu filho, ampara o teu pai na velhice e não lhe causes desgosto enquanto ele vive.
-        Mesmo que ele esteja perdendo a lucidez, procura ser compreensivo para com ele; não o humilhes, em nenhum dos dias de sua vida, a caridade feita a teu pai não será esquecida, mas servirá para reparar os teus pecados e, na justiça, será para tua edificação.
+          Deus honra o pai nos filhos
+          e confirma, sobre eles, a autoridade da mãe.
+          Quem honra o seu pai, alcança o perdão dos pecados; evita cometê-los e será ouvido na oração quotidiana.
+          Quem respeita a sua mãe é como alguém que ajunta tesouros.
+          Quem honra o seu pai, terá alegria com seus próprios filhos; e, no dia em que orar, será atendido.
+          Quem respeita o seu pai, terá vida longa, e quem obedece ao pai é o consolo da sua mãe.
+          Meu filho, ampara o teu pai na velhice e não lhe causes desgosto enquanto ele vive.
+          Mesmo que ele esteja perdendo a lucidez, procura ser compreensivo para com ele; não o humilhes, em nenhum dos dias de sua vida, a caridade feita a teu pai não será esquecida, mas servirá para reparar os teus pecados e, na justiça, será para tua edificação.
 
-        Palavra do Senhor.
+          Palavra do Senhor.
+        optional:
+          ref: Sm 1,20-22.24-28
+          text: |
+            Leitura do Primeiro Livro de Samuel 
+            
+            Ana concebeu e, no devido tempo, deu à luz um filho e chamou-o Samuel, porque - disse ela - "eu o pedi ao Senhor".
+            Quando seu marido Elcana subiu com toda a família para oferecer ao Senhor o sacrifício anual e cumprir seu voto, Ana não subiu, mas disse ao marido: "Eu não irei enquanto o menino não for desmamado.
+            Então o levarei para ser apresentado ao Senhor, e ali ficará para sempre".
+            Logo que o desmamou, Ana levou consigo o menino à casa do Senhor em Silo, e mais um novilho de três anos, três arrobas de farinha e um odre de vinho.
+            O menino, porém, era ainda uma criança.
+            Depois de sacrificarem o novilho, apresentaram o menino a Eli.
+            E Ana disse-lhe: "Ouve, meu senhor, por tua vida, eu sou a mulher que esteve aqui orando ao Senhor, na tua presença.
+            Eis o menino por quem eu pedi, e o Senhor ouviu a minha súplica.
+            Portanto, eu também o ofereço ao Senhor, a fim de que só a ele sirva em todos os dias da sua vida".
+            E adoraram o Senhor.
+            
+            Palavra do Senhor
     - type: psalm
-      ref: Sl 127(128),1-2.3.4-5 (R. cf. 1)
-      text: |
-        R. Felizes os que temem o Senhor e trilham seus caminhos!
+      main:
+        ref: Sl 127(128),1-2.3.4-5 (R. cf. 1)
+        text: |
+          R. Felizes os que temem o Senhor e trilham seus caminhos!
 
-        Feliz és tu se temes o Senhor
-        e trilhas seus caminhos!
-        Do trabalho de tuas mãos hás de viver,
-        serás feliz, tudo irá bem! R.
+          Feliz és tu se temes o Senhor
+          e trilhas seus caminhos!
+          Do trabalho de tuas mãos hás de viver,
+          serás feliz, tudo irá bem! R.
 
-        A tua esposa é uma videira bem fecunda
-        no coração da tua casa;
-        os teus filhos são rebentos de oliveira
-        ao redor de tua mesa. R.
+          A tua esposa é uma videira bem fecunda
+          no coração da tua casa;
+          os teus filhos são rebentos de oliveira
+          ao redor de tua mesa. R.
 
-        Será assim abençoado todo homem
-        que teme o Senhor.
-        O Senhor te abençoe de Sião,
-        cada dia de tua vida. R.
+          Será assim abençoado todo homem
+          que teme o Senhor.
+          O Senhor te abençoe de Sião,
+          cada dia de tua vida. R.
+      optional:
+        ref: Sl 83(84),2-3.5-6.9-10 (R. cf. 5a)
+        text: |
+          R. Felizes os que habitam vossa casa.
+
+          Quão amável, ó Senhor, é vossa casa,
+          quanto a amo, Senhor Deus do universo!
+          Minha alma desfalece de saudades
+          e anseia pelos átrios do Senhor!
+          Meu coração e minha carne rejubilam
+          e exultam de alegria no Deus vivo! R.
+
+          Felizes os que habitam vossa casa;
+          para sempre haverão de vos louvar!
+          Felizes os que em vós têm sua força,
+          e se decidem a partir quais peregrinos! R.
+
+          Deus do universo, escutai minha oração!
+          Inclinai, Deus de Jacó, o vosso ouvido!
+          Olhai, ó Deus, que sois a nossa proteção,
+          vede a face do eleito, vosso Ungido! R.
     - type: reading
-      ref: Col 3,12-21
-      text: |
-        Leitura da Carta de São Paulo aos Colossenses
+      main:
+        ref: Col 3,12-21
+        text: |
+          Leitura da Carta de São Paulo aos Colossenses
 
-        Irmãos:
-        Vós sois amados por Deus, sois os seus santos eleitos.
-        Por isso, revesti-vos de sincera misericórdia, bondade, humildade, mansidão e paciência, suportando-vos uns aos outros e perdoando-vos mutuamente, se um tiver queixa contra o outro.
-        Como o Senhor vos perdoou, assim perdoai vós também.
-        Mas, sobretudo, amai-vos uns aos outros, pois o amor é o vínculo da perfeição.
-        Que a paz de Cristo reine em vossos corações, à qual fostes chamados como membros de um só corpo.
-        E sede agradecidos.
-        Que a palavra de Cristo, com toda a sua riqueza, habite em vós.
-        Ensinai e admoestai-vos uns aos outros com toda a sabedoria.
-        Do fundo dos vossos corações, cantai a Deus salmos, hinos e cânticos espirituais, em ação de graças.
-        Tudo o que fizerdes, em palavras ou obras, seja feito em nome do Senhor Jesus Cristo.
-        Por meio dele dai graças a Deus, o Pai.
-        Esposas, sede solícitas para com vossos maridos, como convém, no Senhor.
-        Maridos, amai vossas esposas e não sejais grosseiros com elas.
-        Filhos, obedecei em tudo aos vossos pais, pois isso é bom e correto no Senhor.
-        Pais, não intimideis os vossos filhos, para que eles não desanimem.
+          Irmãos:
+          Vós sois amados por Deus, sois os seus santos eleitos.
+          Por isso, revesti-vos de sincera misericórdia, bondade, humildade, mansidão e paciência, suportando-vos uns aos outros e perdoando-vos mutuamente, se um tiver queixa contra o outro.
+          Como o Senhor vos perdoou, assim perdoai vós também.
+          Mas, sobretudo, amai-vos uns aos outros, pois o amor é o vínculo da perfeição.
+          Que a paz de Cristo reine em vossos corações, à qual fostes chamados como membros de um só corpo.
+          E sede agradecidos.
+          Que a palavra de Cristo, com toda a sua riqueza, habite em vós.
+          Ensinai e admoestai-vos uns aos outros com toda a sabedoria.
+          Do fundo dos vossos corações, cantai a Deus salmos, hinos e cânticos espirituais, em ação de graças.
+          Tudo o que fizerdes, em palavras ou obras, seja feito em nome do Senhor Jesus Cristo.
+          Por meio dele dai graças a Deus, o Pai.
+          Esposas, sede solícitas para com vossos maridos, como convém, no Senhor.
+          Maridos, amai vossas esposas e não sejais grosseiros com elas.
+          Filhos, obedecei em tudo aos vossos pais, pois isso é bom e correto no Senhor.
+          Pais, não intimideis os vossos filhos, para que eles não desanimem.
 
-        Palavra do Senhor.
+          Palavra do Senhor.
+      optional:
+        ref: 1Jo 3,1-2.21-24
+        text: |
+          Leitura da Primeira Carta de São João
+          
+          Caríssimos:
+          Vede que grande presente de amor o Pai nos deu: de sermos chamados filhos de Deus!
+          E nós o somos!
+          Se o mundo não nos conhece, é porque não conheceu o Pai.
+          Caríssimos, desde já somos filhos de Deus, mas nem sequer se manifestou o que seremos!
+          Sabemos que, quando Jesus se manifestar, seremos semelhantes a ele, porque o veremos tal como ele é.
+          Caríssimos, se o nosso coração não nos acusa, temos confiança diante de Deus.
+          E qualquer coisa que pedimos recebemos dele, porque guardamos os seus mandamentos e fazemos o que é do seu agrado.
+          Este é o seu mandamento: que creiamos no nome do seu Filho, Jesus Cristo, e nos amemos uns aos outros, de acordo com o mandamento que ele nos deu.
+          Quem guarda os seus mandamentos permanece com Deus e Deus permanece com ele.
+          Que ele permanece conosco, sabemo-lo pelo Espírito que ele nos deu.
+          
+          Palavra do Senhor.
     - type: gospel
       ref: Lc 2,41-52
       text: |
@@ -1799,43 +1858,8 @@ holyFamily.c:
         Jesus desceu então com seus pais para Nazaré, e era-lhes obediente.
         Sua mãe, porém, conservava no coração todas estas coisas.
         E Jesus crescia em sabedoria, estatura e graça, diante de Deus e diante dos homens.
+
         Palavra da Salvação.
-        Ou, à escolha: PRIMEIRA LEITURA Samuel, cuja vida foi pedida ao Senhor.
-        Leitura do Primeiro Livro de Samuel 1,20-22.24-28 Ana concebeu e, no devido tempo, deu à luz um filho e chamou-o Samuel, porque - disse ela - "eu o pedi ao Senhor".
-        Quando seu marido Elcana subiu com toda a família para oferecer ao Senhor o sacrifício anual e cumprir seu voto, Ana não subiu, mas disse ao marido: "Eu não irei enquanto o menino não for desmamado.
-        Então o levarei para ser apresentado ao Senhor, e ali ficará para sempre".
-        Logo que o desmamou, Ana levou consigo o menino à casa do Senhor em Silo, e mais um novilho de três anos, três arrobas de farinha e um odre de vinho.
-        O menino, porém, era ainda uma criança.
-        Depois de sacrificarem o novilho, apresentaram o menino a Eli.
-        E Ana disse-lhe: "Ouve, meu senhor, por tua vida, eu sou a mulher que esteve aqui orando ao Senhor, na tua presença.
-        Eis o menino por quem eu pedi, e o Senhor ouviu a minha súplica.
-        Portanto, eu também o ofereço ao Senhor, a fim de que só a ele sirva em todos os dias da sua vida".
-        E adoraram o Senhor.
-        Palavra do Senhor Salmo responsorial Sl 83(84),2-3.5-6.9-10 (R. cf. 5a) R. Felizes os que habitam vossa casa.
-        Quão amável, ó Senhor, é vossa casa, quanto a amo, Senhor Deus do universo!
-        Minha alma desfalece de saudades e anseia pelos átrios do Senhor!
-        Meu coração e minha carne rejubilam e exultam de alegria no Deus vivo! R.
-        Felizes os que habitam vossa casa; para sempre haverão de vos louvar!
-        Felizes os que em vós têm sua força, e se decidem a partir quais peregrinos! R.
-        Deus do universo, escutai minha oração!
-        Inclinai, Deus de Jacó, o vosso ouvido!
-        Olhai, ó Deus, que sais a nossa proteção, vede a face do eleito, vosso Ungido! R.
-        SEGUNDA LEITURA Somos chamados filhos de Deus.
-        Leitura da Primeira Carta de São João 3,1-2.21-24 Caríssimos: Vede que grande presente de amor o Pai nos deu: de sermos chamados filhos de Deus!
-        E nós o somos!
-        Se o mundo não nos conhece, é porque não conheceu o Pai.
-        Caríssimos, desde já somos filhos de Deus, mas nem sequer se manifestou o que seremos!
-        Sabemos que, quando Jesus se manifestar, seremos semelhantes a ele, porque o veremos tal como ele é.
-        Caríssimos, se o nosso coração não nos acusa, temos confiança diante de Deus.
-        E qualquer coisa que pedimos recebemos dele, porque guardamos os seus mandamentos e fazemos o que é do seu agrado.
-        Este é o seu mandamento: que creiamos no nome do seu Filho, Jesus Cristo, e nos amemos uns aos outros, de acordo com o mandamento que ele nos deu.
-        Quem guarda os seus mandamentos permanece com Deus e Deus permanece com ele.
-        Que ele permanece conosco, sabemo-lo pelo Espírito que ele nos deu.
-        Palavra do Senhor.
-        Aclamação ao Evangelho cf. At 16,14b R. Aleluia, Aleluia, Aleluia.
-        V. Ó Senhor, abre o nosso coração, para atendermos às palavras de Jesus!
-        EVANGELHO 
-        Como acima, Lc 2,41-52.
 epiphany:
   title: Epifania do Senhor
   subtitle: Solenidade
@@ -2108,104 +2132,146 @@ baptism.c:
   color: white
   readings:
     - type: reading
-      ref: Is 42,1-4.6-7
-      text: |
-        Leitura do Livro do Profeta Isaías
+      main:
+        ref: Is 42,1-4.6-7
+        text: |
+          Leitura do Livro do Profeta Isaías
 
-        Assim fala o Senhor:
-        "Eis o meu servo - eu o recebo; eis o meu eleito - nele se compraz minh'alma; pus meu espírito sobre ele, ele promoverá o julgamento das nações.
-        Ele não clama nem levanta a voz, nem se faz ouvir pelas ruas.
-        Não quebra uma cana rachada nem apaga um pavio que ainda fumega; mas promoverá o julgamento para obter a verdade.
-        Não esmorecerá nem se deixará abater, enquanto não estabelecer a justiça na terra; os países distantes esperam seus ensinamentos.
-        Eu, o Senhor, te chamei para a justiça e te tomei pela mão; eu te formei e te constituí como o centro de aliança do povo, luz das nações, para abrires os olhos dos cegos, tirar os cativos da prisão, livrar do cárcere os que vivem nas trevas".
+          Assim fala o Senhor:
+          "Eis o meu servo - eu o recebo; eis o meu eleito - nele se compraz minh'alma; pus meu espírito sobre ele, ele promoverá o julgamento das nações.
+          Ele não clama nem levanta a voz, nem se faz ouvir pelas ruas.
+          Não quebra uma cana rachada nem apaga um pavio que ainda fumega; mas promoverá o julgamento para obter a verdade.
+          Não esmorecerá nem se deixará abater, enquanto não estabelecer a justiça na terra; os países distantes esperam seus ensinamentos.
+          Eu, o Senhor, te chamei para a justiça e te tomei pela mão; eu te formei e te constituí como o centro de aliança do povo, luz das nações, para abrires os olhos dos cegos, tirar os cativos da prisão, livrar do cárcere os que vivem nas trevas".
 
-        Palavra do Senhor.
+          Palavra do Senhor.
+      optional:
+        ref: Is 40,1-5.9-11
+        text: |
+          Leitura do Livro do Profeta Isaías
+          
+          Consolai o meu povo, consolai-o!
+          - diz o vosso Deus.
+          Falai ao coração de Jerusalém e dizei em alta voz que sua servidão acabou e a expiação de suas culpas foi cumprida; ela recebeu das mãos do Senhor o dobro por todos os seus pecados.
+          Grita uma voz: "Preparai no deserto o caminho do Senhor, aplainai na solidão a estrada de nosso Deus.
+          Nivelem-se todos os vales, rebaixem-se todos os montes e colinas; endireite-se o que é torto e alisem-se as asperezas: a glória do Senhor então se manifestará, e todos os homens verão juntamente o que a boca do Senhor falou".
+          Sobe a um alto monte, tu, que trazes a Boa-Nova a Sião; levanta com força a tua voz, tu, que trazes a Boa-Nova a Jerusalém, ergue a voz, não temas; dize às cidades de Judá:
+          "Eis o vosso Deus, eis que o Senhor Deus vem com poder, seu braço tudo domina: eis, com ele, sua conquista, eis à sua frente a vitória.
+          Como um pastor, ele apascenta o rebanho, reúne, com a força dos braços, os cordeiros e carrega-os ao colo; ele mesmo tange as ovelhas-mães".
+          
+          Palavra do Senhor.
     - type: psalm
-      ref: Sl 28(29),1a.2.3ac-4.3b.9b-10 (R.11b)
-      text: |
-        R. Que o Senhor abençoe, com a paz, o seu povo!
+      main:
+        ref: Sl 28(29),1a.2.3ac-4.3b.9b-10 (R.11b)
+        text: |
+          R. Que o Senhor abençoe, com a paz, o seu povo!
 
-        Filhos de Deus, tributai ao Senhor,
-        tributai-lhe a glória e o poder!
-        Dai-lhe a glória devida ao seu nome;
-        adorai-o com santo ornamento! R.
+          Filhos de Deus, tributai ao Senhor,
+          tributai-lhe a glória e o poder!
+          Dai-lhe a glória devida ao seu nome;
+          adorai-o com santo ornamento! R.
 
-        Eis a voz do Senhor sobre as águas,
-        sua voz sobre as águas imensas!
-        Eis a voz do Senhor com poder!
-        Eis a voz do Senhor majestosa. R.
+          Eis a voz do Senhor sobre as águas,
+          sua voz sobre as águas imensas!
+          Eis a voz do Senhor com poder!
+          Eis a voz do Senhor majestosa. R.
 
-        Sua voz no trovão reboando!
-        No seu templo os fiéis bradam: "Glória!"
-        É o Senhor que domina os dilúvios,
-        o Senhor reinará para sempre! R.
+          Sua voz no trovão reboando!
+          No seu templo os fiéis bradam: "Glória!"
+          É o Senhor que domina os dilúvios,
+          o Senhor reinará para sempre! R.
+        optional:
+          ref: Sl 103(104),1-2.3-4.24-25.27-28.29-30 (R. 1)
+          text: |
+            R. Bendize, ó minha alma, ao Senhor!
+
+            Bendize, ó minha alma, ao Senhor!
+            Ó meu Deus e meu Senhor, como sois grande!
+            De majestade e esplendor vos revestis
+            e de luz vos envolveis como num manto. R.
+            
+            Estendeis qual uma tenda o firmamento,
+            construís vosso palácio sobre as águas;
+            dos ventos fazeis vossos mensageiros,
+            do fogo e chama fazeis vossos servidores. R.
+            
+            Quão numerosas, ó Senhor, são vossas obras,
+            e que sabedoria em todas elas!
+            Encheu-se a terra com as vossas criaturas!
+            Eis o mar tão espaçoso e tão imenso,
+            no qual se movem seres incontáveis,
+            gigantescos animais e pequeninos. R.
+            
+            Todos eles, ó Senhor, de vós esperam
+            que a seu tempo vós lhes deis o alimento;
+            vós lhes dais o que comer e eles recolhem,
+            vós abris a vossa mão e eles se fartam. R.
+            
+            Se escondeis a vossa face, se apavoram,
+            se tirais o seu respiro, eles perecem
+            e voltam para o pó de onde vieram;
+            enviais o vosso espírito e renascem
+            e da terra toda a face renovais. R.
     - type: reading
-      ref: At 10,34-38
-      text: |
-        Leitura dos Atos dos Apóstolos
+      main:
+        ref: At 10,34-38
+        text: |
+          Leitura dos Atos dos Apóstolos
 
-        Naqueles dias,
-        Pedro tomou a palavra e disse: "De fato, estou compreendendo que Deus não faz distinção entre as pessoas.
-        Pelo contrário, ele aceita quem o teme e pratica a justiça, qualquer que seja a nação a que pertença.
-        Deus enviou sua palavra aos israelitas e lhes anunciou a Boa-Nova da paz, por meio de Jesus Cristo, que é o Senhor de todos.
-        Vós sabeis o que aconteceu em toda a Judeia, a começar pela Galileia, depois do batismo pregado por João: como Jesus de Nazaré foi ungido por Deus com o Espírito Santo e com poder.
-        Ele andou por toda a parte, fazendo o bem e curando a todos os que estavam dominados pelo demônio; porque Deus estava com ele".
+          Naqueles dias,
+          Pedro tomou a palavra e disse: "De fato, estou compreendendo que Deus não faz distinção entre as pessoas.
+          Pelo contrário, ele aceita quem o teme e pratica a justiça, qualquer que seja a nação a que pertença.
+          Deus enviou sua palavra aos israelitas e lhes anunciou a Boa-Nova da paz, por meio de Jesus Cristo, que é o Senhor de todos.
+          Vós sabeis o que aconteceu em toda a Judeia, a começar pela Galileia, depois do batismo pregado por João: como Jesus de Nazaré foi ungido por Deus com o Espírito Santo e com poder.
+          Ele andou por toda a parte, fazendo o bem e curando a todos os que estavam dominados pelo demônio; porque Deus estava com ele".
 
-        Palavra do Senhor.
+          Palavra do Senhor.
+        optional:
+          ref: Tt 2,11-14;3,4-7
+          text: |
+            Leitura da Carta de São Paulo a Tito
+            
+            Caríssimos: A graça de Deus se manifestou trazendo salvação para todos os homens.
+            Ela nos ensina a abandonar a impiedade e as paixões mundanas e a viver neste mundo com equilíbrio, justiça e piedade, aguardando a feliz esperança e a manifestação da glória do nosso grande Deus e Salvador, Jesus Cristo.
+            Ele se entregou por nós, para nos resgatar de toda a maldade e purificar para si um povo que lhe pertença e que se dedique a praticar o bem.
+            Manifestou-se a bondade de Deus, nosso Salvador, e o seu amor pelos homens:
+            Ele salvou-nos não por causa dos atos de justiça que tivéssemos praticado, mas por sua misericórdia, quando renascemos e fomos renovados no batismo pelo Espírito Santo, que ele derramou abundantemente sobre nós por meio de nosso Salvador Jesus Cristo.
+            Justificados assim, pela sua graça, nos tornamos na esperança herdeiros da vida eterna.
+            
+            Palavra do Senhor.
     - type: gospel
-      ref: Lc 3,15-16.21-22
-      text: |
-        Proclamação do Evangelho de Jesus Cristo segundo Lucas
+      main:
+        ref: Lc 3,15-16.21-22
+        text: |
+          Proclamação do Evangelho de Jesus Cristo segundo Lucas
 
-        Naquele tempo,
-        o povo estava na expectativa e todos se perguntavam no seu íntimo se João não seria o Messias.
-        Por isso, João declarou a todos: "Eu vos batizo com água, mas virá aquele que é mais forte do que eu.
-        Eu não sou digno de desamarrar a correia de suas sandálias.
-        Ele vos batizará no Espírito Santo e no fogo".
-        Quando todo o povo estava sendo batizado, Jesus também recebeu o batismo.
-        E, enquanto rezava, o céu se abriu e o Espírito Santo desceu sobre Jesus em forma visível, como pomba.
-        E do céu veio uma voz: "Tu és o meu Filho amado, em ti ponho o meu bem-querer".
-        Palavra da Salvação.
-        Ou, à escolha: PRIMEIRA LEITURA A glória do Senhor se manifestará e todos os homens a verão.
-        Leitura do Livro do Profeta Isaías 40,1-5.9-11 Consolai o meu povo, consolai-o!
-        - diz o vosso Deus.
-        Falai ao coração de Jerusalém e dizei em alta voz que sua servidão acabou e a expiação de suas culpas foi cumprida; ela recebeu das mãos do Senhor o dobro por todos os seus pecados.
-        Grita uma voz: "Preparai no deserto o caminho do Senhor, aplainai na solidão a estrada de nosso Deus.
-        Nivelem-se todos os vales, rebaixem-se todos os montes e colinas; endireite-se o que é torto e alisem-se as asperezas: a glória do Senhor então se manifestará, e todos os homens verão juntamente o que a boca do Senhor falou".
-        Sobe a um alto monte, tu, que trazes a Boa-Nova a Sião; levanta com força a tua voz, tu, que trazes a Boa-Nova a Jerusalém, ergue a voz, não temas; dize às cidades de Judá: "Eis o vosso Deus, eis que o Senhor Deus vem com poder, seu braço tudo domina: eis, com ele, sua conquista, eis à sua frente a vitória.
-        Como um pastor, ele apascenta o rebanho, reúne, com a força dos braços, os cordeiros e carrega-os ao colo; ele mesmo tange as ovelhas-mães".
-        Palavra do Senhor.
-        Salmo responsorial Sl 103(104),1-2.3-4.24-25.27-28.29-30 (R. 1) R. Bendize, ó minha alma, ao Senhor!
-        Bendize, ó minha alma, ao Senhor!
-        Ó meu Deus e meu Senhor, como sois grande!
-        De majestade e esplendor vos revestis e de luz vos envolveis como num manto. R.
-        Estendeis qual uma tenda o firmamento, construís vosso palácio sobre as águas; dos ventos fazeis vossos mensageiros, do fogo e chama fazeis vossos servidores. R.
-        Quão numerosas, ó Senhor, são vossas obras, e que sabedoria em todas elas!
-        Encheu-se a terra com as vossas criaturas!
-        Eis o mar tão espaçoso e tão imenso, no qual se movem seres incontáveis, gigantescos animais e pequeninos. R.
-        Todos eles, ó Senhor, de vós esperam que a seu tempo vós lhes deis o alimento; vós lhes dais o que comer e eles recolhem, vós abris a vossa mão e eles se fartam. R.
-        Se escondeis a vossa face, se apavoram, se tirais o seu respiro, eles perecem e voltam para o pó de onde vieram; enviais o vosso espírito e renascem e da terra toda a face renovais. R.
-        SEGUNDA LEITURA Fomos salvos mediante o batismo de regeneração e renovação do Espírito Santo.
-        Leitura da Carta de São Paulo a Tito 2,11-14;3,4-7 Caríssimos: A graça de Deus se manifestou trazendo salvação para todos os homens.
-        Ela nos ensina a abandonar a impiedade e as paixões mundanas e a viver neste mundo com equilíbrio, justiça e piedade, aguardando a feliz esperança e a manifestação da glória do nosso grande Deus e Salvador, Jesus Cristo.
-        Ele se entregou por nós, para nos resgatar de toda a maldade e purificar para si um povo que lhe pertença e que se dedique a praticar o bem.
-        Manifestou-se a bondade de Deus, nosso Salvador, e o seu amor pelos homens: Ele salvou-nos não por causa dos atos de justiça que tivéssemos praticado, mas por sua misericórdia, quando renascemos e fomos renovados no batismo pelo Espírito Santo, que ele derramou abundantemente sobre nós por meio de nosso Salvador Jesus Cristo.
-        Justificados assim, pela sua graça, nos tornamos na esperança herdeiros da vida eterna.
-        Palavra do Senhor.
-        Aclamação ao Evangelho cf. Lc 3,16 R. Aleluia, Aleluia, Aleluia.
-        V. Virá aquele que é mais forte do que eu.
-        Ele vos batizará no Espírito Santo e no fogo.
-        EVANGELHO Jesus recebeu o batismo.
-        E, enquanto rezava, o céu se abriu.
-        Proclamação do Evangelho de Jesus Cristo segundo Lucas 3,15-16.21-22 Naquele tempo, o povo estava na expectativa e todos se perguntavam no seu íntimo se João não seria o Messias.
-        Por isso, João declarou a todos: "Eu vos batizo com água, mas virá aquele que é mais forte do que eu.
-        Eu não sou digno de desamarrar a correia de suas sandálias.
-        Ele vos batizará no Espírito Santo e no fogo".
-        Quando todo o povo estava sendo batizado, Jesus também recebeu o batismo.
-        E, enquanto rezava, o céu se abriu e o Espírito Santo desceu sobre Jesus em forma visível, como pomba.
-        E do céu veio uma voz: "Tu és o meu Filho amado, em ti ponho o meu bem-querer".
+          Naquele tempo,
+          o povo estava na expectativa e todos se perguntavam no seu íntimo se João não seria o Messias.
+          Por isso, João declarou a todos: "Eu vos batizo com água, mas virá aquele que é mais forte do que eu.
+          Eu não sou digno de desamarrar a correia de suas sandálias.
+          Ele vos batizará no Espírito Santo e no fogo".
+          Quando todo o povo estava sendo batizado, Jesus também recebeu o batismo.
+          E, enquanto rezava, o céu se abriu e o Espírito Santo desceu sobre Jesus em forma visível, como pomba.
+          E do céu veio uma voz: "Tu és o meu Filho amado, em ti ponho o meu bem-querer".
 
-        Palavra da Salvação.
+          Palavra da Salvação.
+      optional: 
+        ref: Lc 3,15-16.21-22
+        text: |
+          Proclamação do Evangelho de Jesus Cristo segundo Lucas
+
+          Naquele tempo,
+          o povo estava na expectativa e todos se perguntavam no seu íntimo se João não seria o Messias.
+          Por isso, João declarou a todos:
+          "Eu vos batizo com água, mas virá aquele que é mais forte do que eu.
+          Eu não sou digno de desamarrar a correia de suas sandálias.
+          Ele vos batizará no Espírito Santo e no fogo".
+          Quando todo o povo estava sendo batizado, Jesus também recebeu o batismo.
+          E, enquanto rezava, o céu se abriu e o Espírito Santo desceu sobre Jesus em forma visível, como pomba.
+          E do céu veio uma voz:
+          "Tu és o meu Filho amado, em ti ponho o meu bem-querer".
+
+          Palavra da Salvação.
 mostHolyTrinity.a:
   title: Santíssima Trindade
   subtitle: Solenidade
@@ -4922,7 +4988,7 @@ advent.week2.5:
         R. Misericórdia e piedade é o Senhor!
         Ele é amor, é paciência, é compaixão.
 
-        Ó meu Deus, quero exaltar-os, ó meu Rei,
+        Ó meu Deus, quero exaltar-vos, ó meu Rei,
         e bendizer o vosso nome pelos séculos.
         O Senhor é muito bom para com todos,
         sua ternura abraça toda criatura. R.
@@ -8415,204 +8481,243 @@ lent.week4.1.c:
   color: purple
   readings:
     - type: reading
-      ref: Js 5,9a.10-12
-      text: |
-        Leitura do Livro de Josué
+      main:
+        ref: Js 5,9a.10-12
+        text: |
+          Leitura do Livro de Josué
 
-        Naqueles dias,
-        o Senhor disse a Josué: "Hoje tirei de cima de vós o opróbrio do Egito".
-        Os israelitas ficaram acampados em Guilgal e celebraram a Páscoa no dia catorze do mês, à tarde, na planície de Jericó.
-        No dia seguinte à Páscoa comeram dos produtos da terra, pães sem fermento e grãos tostados nesse mesmo dia.
-        O maná cessou de cair no dia seguinte, quando comeram dos produtos da terra.
-        Os israelitas não mais tiveram o maná.
-        Naquele ano comeram dos frutos da terra de Canaã.
+          Naqueles dias,
+          o Senhor disse a Josué: "Hoje tirei de cima de vós o opróbrio do Egito".
+          Os israelitas ficaram acampados em Guilgal e celebraram a Páscoa no dia catorze do mês, à tarde, na planície de Jericó.
+          No dia seguinte à Páscoa comeram dos produtos da terra, pães sem fermento e grãos tostados nesse mesmo dia.
+          O maná cessou de cair no dia seguinte, quando comeram dos produtos da terra.
+          Os israelitas não mais tiveram o maná.
+          Naquele ano comeram dos frutos da terra de Canaã.
 
-        Palavra do Senhor.
+          Palavra do Senhor.
+      optional:
+        ref: Sm 16,1b.6-7.10-13a
+        text: |
+          Leitura do Primeiro Livro de Samuel
+
+          Naqueles dias,
+          o Senhor disse a Samuel: Enche o chifre de óleo e vem para que eu te envie à casa de Jessé de Belém, pois escolhi um rei para mim entre os seus filhos.
+          Assim que chegou, Samuel viu a Eliab e disse consigo "Certamente é este o ungido do Senhor!"
+          Mas o Senhor disse-lhe: Não olhes para a sua aparência nem para a sua grande estatura, porque eu o rejeitei.
+          Não julgo segundo os critérios do homem: o homem vê as aparências, mas o Senhor olha o coração".
+          Jessé fez vir seus sete filhos à presença de Samuel, mas Samuel disse: "O Senhor não escolheu a nenhum deles".
+          E acrescentou: "Estão aqui todos os teus filhos?"
+          Jessé respondeu: Resta ainda o mais novo que está apascentando as ovelhas".
+          E Samuel ordenou a Jessé: "Manda buscá-lo, pois não nos sentaremos à mesa enquanto ele não chegar".
+          Jessé mandou buscá-lo.
+          Era Davi, ruivo, de belos olhos e de formosa aparência.
+          E o Senhor disse: "Levanta-te, unge-o: é este!"
+          Samuel tomou o chifre com óleo e ungiu a Davi na presença de seus irmãos.
+          E a partir daquele dia o espírito do Senhor se apoderou de Davi.
+          
+          Palavra do Senhor.
     - type: psalm
-      ref: Sl 33(34),2-3.4-5.6-7 (R. 9a)
-      text: |
-        R. Provai e vede quão suave é o Senhor!
+      main:
+        ref: Sl 33(34),2-3.4-5.6-7 (R. 9a)
+        text: |
+          R. Provai e vede quão suave é o Senhor!
 
-        Bendirei o Senhor Deus em todo o tempo,
-        seu louvor estará sempre em minha boca.
-        Minha alma se gloria no Senhor;
-        que ouçam os humildes e se alegrem! R.
+          Bendirei o Senhor Deus em todo o tempo,
+          seu louvor estará sempre em minha boca.
+          Minha alma se gloria no Senhor;
+          que ouçam os humildes e se alegrem! R.
 
-        Comigo engrandecei ao Senhor Deus,
-        exaltemos todos juntos o seu nome!
-        Todas as vezes que o busquei, ele me ouviu,
-        e de todos os temores me livrou. R.
+          Comigo engrandecei ao Senhor Deus,
+          exaltemos todos juntos o seu nome!
+          Todas as vezes que o busquei, ele me ouviu,
+          e de todos os temores me livrou. R.
 
-        Contemplai a sua face e alegrai-vos,
-        e vosso rosto não se cubra de vergonha!
-        Este infeliz gritou a Deus, e foi ouvido,
-        e o Senhor o libertou de toda angústia. R.
+          Contemplai a sua face e alegrai-vos,
+          e vosso rosto não se cubra de vergonha!
+          Este infeliz gritou a Deus, e foi ouvido,
+          e o Senhor o libertou de toda angústia. R.
+        optional:
+          ref: Sl 22(23),1-3a.3b-4.5.6 (R. 1)
+          text: |
+            R. O Senhor é o pastor que me conduz;
+            não me falta coisa alguma.
+
+            O Senhor é o pastor que me conduz;
+            não me falta coisa alguma.
+            Pelos prados e campinas verdejantes
+            ele me leva a descansar.
+            Para as águas repousantes me encaminha,
+            e restaura as minhas forças R.
+
+            Ele me guia no caminho mais seguro,
+            pela honra do seu nome.
+            Mesmo que eu passe pelo vale tenebroso,
+            nenhum mal eu temerei.
+            Estais comigo com bastão e com cajado,
+            eles me dão a segurança! R.
+            
+            Preparais à minha frente uma mesa,
+            bem à vista do inimigo;
+            com óleo vós ungis minha cabeça,
+            e o meu cálice transborda. R.
+
+            Felicidade e todo bem hão de seguir-me,
+            por toda a minha vida;
+            e, na casa do Senhor, habitarei
+            pelos tempos infinitos. R.
     - type: reading
-      ref: 2Cor 5,17-21
-      text: |
-        Leitura da Segunda Carta de São Paulo aos Coríntios
+      main:
+        ref: 2Cor 5,17-21
+        text: |
+          Leitura da Segunda Carta de São Paulo aos Coríntios
 
-        Irmãos:
-        Se alguém está em Cristo, é uma criatura nova.
-        O mundo velho desapareceu.
-        Tudo agora é novo.
-        E tudo vem de Deus, que, por Cristo, nos reconciliou consigo e nos confiou o ministério da reconciliação.
-        Com efeito, em Cristo, Deus reconciliou o mundo consigo, não imputando aos homens as suas faltas e colocando em nós a palavra da reconciliação.
-        Somos, pois, embaixadores de Cristo, e é Deus mesmo que exorta através de nós.
-        Em nome de Cristo, nós vos suplicamos: deixai-vos reconciliar com Deus.
-        Aquele que não cometeu nenhum pecado, Deus o fez pecado por nós, para que nele nós nos tornemos justiça de Deus.
+          Irmãos:
+          Se alguém está em Cristo, é uma criatura nova.
+          O mundo velho desapareceu.
+          Tudo agora é novo.
+          E tudo vem de Deus, que, por Cristo, nos reconciliou consigo e nos confiou o ministério da reconciliação.
+          Com efeito, em Cristo, Deus reconciliou o mundo consigo, não imputando aos homens as suas faltas e colocando em nós a palavra da reconciliação.
+          Somos, pois, embaixadores de Cristo, e é Deus mesmo que exorta através de nós.
+          Em nome de Cristo, nós vos suplicamos: deixai-vos reconciliar com Deus.
+          Aquele que não cometeu nenhum pecado, Deus o fez pecado por nós, para que nele nós nos tornemos justiça de Deus.
 
-        Palavra do Senhor.
+          Palavra do Senhor.
+      optional:
+        ref: Ef 5,8-14
+        text: |
+          Leitura da Carta de São Paulo aos Efésios
+          
+          Irmãos:
+          Outrora éreis trevas, mas agora sois luz no Senhor.
+          Vivei como filhos da luz.
+          E o fruto da luz chama-se: bondade, justiça, verdade.
+          Discerni o que agrada ao Senhor.
+          Não vos associeis às obras das trevas, que não levam a nada; antes, desmascarai-as.
+          O que essa gente faz em segredo, tem vergonha até de dizê-lo.
+          Mas tudo que é condenável torna-se manifesto pela luz; e tudo o que é manifesto é luz.
+          É por isso que se diz: "Desperta, tu que dormes, levanta-te dentre os mortos e sobre ti Cristo resplandecerá".
+          
+          Palavra do Senhor.
     - type: gospel
-      ref: Lc 15,1-3.11-32
-      text: |
-        Proclamação do Evangelho de Jesus Cristo segundo Lucas
+      main:
+        ref: Lc 15,1-3.11-32
+        text: |
+          Proclamação do Evangelho de Jesus Cristo segundo Lucas
 
-        Naquele tempo,
-        Os publicanos e pecadores aproximavam-se de Jesus para o escutar.
-        Os fariseus, porém, e os mestres da Lei criticavam Jesus.
-        "Este homem acolhe os pecadores e faz refeição com eles".
-        Então Jesus contou-lhes esta parábola: "Um homem tinha dois filhos.
-        O filho mais novo disse ao pai: 'Pai, dá-me a parte da herança que me cabe'.
-        E o pai dividiu os bens entre eles.
-        Poucos dias depois, o filho mais novo juntou o que era seu e partiu para um lugar distante.
-        E ali esbanjou tudo numa vida desenfreada.
-        Quando tinha gasto tudo o que possuía, houve uma grande fome naquela região, e ele começou a passar necessidade.
-        Então foi pedir trabalho a um homem do lugar, que o mandou para seu campo cuidar dos porcos.
-        O rapaz queria matar a fome com a comida que os porcos comiam, mas nem isto lhe davam.
-        Então caiu em si e disse: 'Quantos empregados do meu pai têm pão com fartura, e eu aqui, morrendo de fome.
-        Vou-me embora, vou voltar para meu pai e dizer-lhe: Pai, pequei contra Deus e contra ti; já não mereço ser chamado teu filho.
-        Trata-me como a um dos teus empregados'.
-        Então ele partiu e voltou para seu pai.
-        Quando ainda estava longe, seu pai o avistou e sentiu compaixão.
-        Correu-lhe ao encontro, abraçou-o, e cobriu-o de beijos.
-        O filho, então, lhe disse: 'Pai, pequei contra Deus e contra ti.
-        Já não mereço ser chamado teu filho'.
-        Mas o pai disse aos empregados: 'Trazei depressa a melhor túnica para vestir meu filho.
-        E colocai um anel no seu dedo e sandálias nos pés.
-        Trazei um novilho gordo e matai-o.
-        Vamos fazer um banquete.
-        Porque este meu filho estava morto e tornou a viver; estava perdido e foi encontrado'.
-        E começaram a festa.
-        O filho mais velho estava no campo.
-        Ao voltar, já perto de casa, ouviu música e barulho de dança.
-        Então chamou um dos criados e perguntou o que estava acontecendo.
-        O criado respondeu: 'É teu irmão que voltou.
-        Teu pai matou o novilho gordo, porque o recuperou com saúde'.
-        Mas ele ficou com raiva e não queria entrar.
-        O pai, saindo, insistia com ele.
-        Ele, porém, respondeu ao pai: 'Eu trabalho para ti há tantos anos, jamais desobedeci a qualquer ordem tua.
-        E tu nunca me deste um cabrito para eu festejar com meus amigos.
-        Quando chegou esse teu filho, que esbanjou teus bens com prostitutas, matas para ele o novilho cevado'.
-        Então o pai lhe disse: 'Filho, tu estás sempre comigo, e tudo o que é meu é teu.
-        Mas era preciso festejar e alegrar-nos, porque este teu irmão estava morto e tornou a viver; estava perdido, e foi encontrado'".
-        Palavra da Salvação.
-        Ou, à escolha: todas as leituras do Ano A.
-        PRIMEIRA LEITURA Davi é ungido rei de Israel.
-        Leitura do Primeiro Livro de Samuel 16,1b.6-7.10-13a Naqueles dias, o Senhor disse a Samuel: Enche o chifre de óleo e vem para que eu te envie à casa de Jessé de Belém, pois escolhi um rei para mim entre os seus filhos.
-        Assim que chegou, Samuel viu a Eliab e disse consigo "Certamente é este o ungido do Senhor!"
-        Mas o Senhor disse-lhe: Não olhes para a sua aparência nem para a sua grande estatura, porque eu o rejeitei.
-        Não julgo segundo os critérios do homem: o homem vê as aparências, mas o Senhor olha o coração".
-        Jessé fez vir seus sete filhos à presença de Samuel, mas Samuel disse: "O Senhor não escolheu a nenhum deles".
-        E acrescentou: "Estão aqui todos os teus filhos?"
-        Jessé respondeu: Resta ainda o mais novo que está apascentando as ovelhas".
-        E Samuel ordenou a Jessé: "Manda buscá-lo, pois não nos sentaremos à mesa enquanto ele não chegar".
-        Jessé mandou buscá-lo.
-        Era Davi, ruivo, de belos olhos e de formosa aparência.
-        E o Senhor disse: "Levanta-te, unge-o: é este!"
-        Samuel tomou o chifre com óleo e ungiu a Davi na presença de seus irmãos.
-        E a partir daquele dia o espírito do Senhor se apoderou de Davi.
-        Palavra do Senhor.
-        Salmo responsorial Sl 22(23),1-3a.3b-4.5.6 (R. 1) R. O Senhor é o pastor que me conduz; não me falta coisa alguma.
-        O Senhor é o pastor que me conduz; não me falta coisa alguma.
-        Pelos prados e campinas verdejantes ele me leva a descansar.
-        Para as águas repousantes me encaminha, e restaura as minhas forças R.
-        Ele me guia no caminho mais seguro, pela honra do seu nome.
-        Mesmo que eu passe pelo vale tenebroso, nenhum mal eu temerei.
-        Estais comigo com bastão e com cajado, eles me dão a segurança! R.
-        Preparais à minha frente uma mesa, bem à vista do inimigo; com óleo vós ungis minha cabeça, e o meu cálice transborda. R.
-        Felicidade e todo bem hão de seguir-me, por toda a minha vida; e, na casa do Senhor, habitarei pelos tempos infinitos. R.
-        SEGUNDA LEITURA Levanta-te dentre os mortos e sobre ti Cristo resplandecerá.
-        Leitura da Carta de São Paulo aos Efésios 5,8-14 Irmãos: Outrora éreis trevas, mas agora sois luz no Senhor.
-        Vivei como filhos da luz.
-        E o fruto da luz chama-se: bondade, justiça, verdade.
-        Discerni o que agrada ao Senhor.
-        Não vos associeis às obras das trevas, que não levam a nada; antes, desmascarai-as.
-        O que essa gente faz em segredo, tem vergonha até de dizê-lo.
-        Mas tudo que é condenável torna-se manifesto pela luz; e tudo o que é manifesto é luz.
-        É por isso que se diz: "Desperta, tu que dormes, levanta-te dentre os mortos e sobre ti Cristo resplandecerá".
-        Palavra do Senhor.
-        Aclamação ao Evangelho Jo 8,12 R. Louvor e honra a vós, Senhor Jesus.
-        V. Pois eu sou a luz do mundo, quem nos diz é o Senhor; e vai ter a luz da vida quem se faz meu seguidor!
-        EVANGELHO (mais longo) O cego foi, lavou-se e voltou enxergando.
-        Proclamação do Evangelho de Jesus Cristo segundo João 9,1-41 Naquele tempo, ao passar, Jesus viu um homem cego de nascença.
-        Os discípulos perguntaram a Jesus: "Mestre, quem pecou para que nascesse cego: ele ou os seus pais?"
-        Jesus respondeu: "Nem ele nem seus pais pecaram, mas isso serve para que as obras de Deus se manifestem nele.
-        É necessário que nós realizemos as obras daquele que me enviou, enquanto é dia.
-        Vem a noite, em que ninguém pode trabalhar.
-        Enquanto estou no mudo, eu sou a luz do mundo".
-        Dito isto, Jesus cuspiu no chão, fez lama com a saliva e colocou-a sobre os olhos do cego.
-        E disse-lhe: "Vai lavar-te na piscina de Siloé"
-        (que quer dizer: Enviado).
-        O cego foi, lavou-se e voltou enxergando.
-        Os vizinhos e os que costumavam ver o cego - pois ele era mendigo - diziam: "Não é aquele que ficava pedindo esmola?"
-        Uns diziam: "Sim, é ele!"
-        Outros afirmavam: "Não é ele, mas alguém parecido com ele".
-        Ele, porém, dizia: "Sou eu mesmo!"
-        Então lhe perguntaram: "Como é que se abriram os teus olhos?"
-        Ele respondeu: "Aquele homem chamado Jesus fez lama, colocou-a nos meus olhos e disse-me: 'Vai a Siloé e lava-te'.
-        Então fui, lavei-me e comecei a ver".
-        Perguntaram-lhe: "Onde está ele?"
-        Respondeu: "Não sei".
-        Levaram então aos fariseus o homem que tinha sido cego.
-        Ora, era sábado, o dia em que Jesus tinha feito lama e aberto os olhos do cego.
-        Novamente, então, lhe perguntaram os fariseus como tinha recuperado a vista.
-        Respondeu-lhes: "Colocou lama sobre meus olhos, fui lavar-me e agora vejo!"
-        Disseram, então, alguns dos fariseus: "Esse homem não vem de Deus, pois não guarda o sábado".
-        Mas outros diziam: "Como pode um pecador fazer tais sinais?"
-        E havia divergência entre eles.
-        Perguntaram outra vez ao cego: "E tu, que dizes daquele que te abriu os olhos?"
-        Respondeu: "É um profeta".
-        Então, os judeus não acreditaram que ele tinha sido cego e que tinha recuperado a vista.
-        Chamaram os pais dele e perguntaram-lhes: "Este é o vosso filho, que dizeis ter nascido cego?
-        Como é que ele agora está enxergando?"
-        Os seus pais disseram: "Sabemos que este é nosso filho e que nasceu cego.
-        Como agora está enxergando, isso não sabemos.
-        E quem lhe abriu os olhos também não sabemos.
-        Interrogai-o, ele é maior de idade, ele pode falar por si mesmo".
-        Os seus pais disseram isso, porque tinham medo das autoridades judaicas.
-        De fato, os judeus já tinham combinado expulsar da comunidade quem declarasse que Jesus era o Messias.
-        Foi por isso que seus pais disseram: "É maior de idade. Interrogai-o a ele".
-        Então, os judeus chamaram de novo o homem que tinha sido cego.
-        Disseram-lhe: "Dá glória a Deus!
-        Nós sabemos que esse homem é um pecador".
-        Então ele respondeu: "Se ele é pecador, não sei. Só sei que eu era cego e agora vejo".
-        Perguntaram-lhe então: "Que é que ele te fez? Como te abriu os olhos?"
-        Respondeu ele: "Eu já vos disse, e não escutastes.
-        Por que quereis ouvir de novo?
-        Por acaso quereis tornar-vos discípulos dele?"
-        Então insultaram-no, dizendo: "Tu, sim, és discípulo dele!
-        Nós somos discípulos de Moisés.
-        Nós sabemos que Deus falou a Moisés, mas esse, não sabemos de onde é".
-        Respondeu-lhes o homem: "Espantoso!
-        Vós não sabeis de onde ele é?
-        No entanto, ele abriu-me os olhos!
-        Sabemos que Deus não escuta os pecadores, mas escuta aquele que é piedoso e que faz a sua vontade.
-        Jamais se ouviu dizer que alguém tenha aberto os olhos a um cego de nascença.
-        Se este homem não viesse de Deus, não poderia fazer nada".
-        Os fariseus disseram-lhe: "Tu nasceste todo em pecado e estás nos ensinando?"
-        E expulsaram-no da comunidade.
-        Jesus soube que o tinham expulsado.
-        Encontrando-o, perguntou-lhe: "Acreditas no Filho do Homem?"
-        Respondeu ele: "Quem é, Senhor, para que eu creia nele?"
-        Jesus disse: "Tu o estás vendo; é aquele que está falando contigo".
-        Exclamou ele: "Eu creio, Senhor!"
-        E prostrou-se diante de Jesus.
-        Então, Jesus disse: "Eu vim a este mundo para exercer um julgamento, a fim de que os que não veem, vejam, e os que veem se tornem cegos".
-        Alguns fariseus, que estavam com ele, ouviram isto e lhe disseram: "Porventura, também nós somos cegos?"
-        Respondeu-lhes Jesus: "Se fôsseis cegos, não teríeis culpa; mas como dizeis: 'Nós vemos', o vosso pecado permanece".
+          Naquele tempo,
+          Os publicanos e pecadores aproximavam-se de Jesus para o escutar.
+          Os fariseus, porém, e os mestres da Lei criticavam Jesus.
+          "Este homem acolhe os pecadores e faz refeição com eles".
+          Então Jesus contou-lhes esta parábola: "Um homem tinha dois filhos.
+          O filho mais novo disse ao pai: 'Pai, dá-me a parte da herança que me cabe'.
+          E o pai dividiu os bens entre eles.
+          Poucos dias depois, o filho mais novo juntou o que era seu e partiu para um lugar distante.
+          E ali esbanjou tudo numa vida desenfreada.
+          Quando tinha gasto tudo o que possuía, houve uma grande fome naquela região, e ele começou a passar necessidade.
+          Então foi pedir trabalho a um homem do lugar, que o mandou para seu campo cuidar dos porcos.
+          O rapaz queria matar a fome com a comida que os porcos comiam, mas nem isto lhe davam.
+          Então caiu em si e disse: 'Quantos empregados do meu pai têm pão com fartura, e eu aqui, morrendo de fome.
+          Vou-me embora, vou voltar para meu pai e dizer-lhe: Pai, pequei contra Deus e contra ti; já não mereço ser chamado teu filho.
+          Trata-me como a um dos teus empregados'.
+          Então ele partiu e voltou para seu pai.
+          Quando ainda estava longe, seu pai o avistou e sentiu compaixão.
+          Correu-lhe ao encontro, abraçou-o, e cobriu-o de beijos.
+          O filho, então, lhe disse: 'Pai, pequei contra Deus e contra ti.
+          Já não mereço ser chamado teu filho'.
+          Mas o pai disse aos empregados: 'Trazei depressa a melhor túnica para vestir meu filho.
+          E colocai um anel no seu dedo e sandálias nos pés.
+          Trazei um novilho gordo e matai-o.
+          Vamos fazer um banquete.
+          Porque este meu filho estava morto e tornou a viver; estava perdido e foi encontrado'.
+          E começaram a festa.
+          O filho mais velho estava no campo.
+          Ao voltar, já perto de casa, ouviu música e barulho de dança.
+          Então chamou um dos criados e perguntou o que estava acontecendo.
+          O criado respondeu: 'É teu irmão que voltou.
+          Teu pai matou o novilho gordo, porque o recuperou com saúde'.
+          Mas ele ficou com raiva e não queria entrar.
+          O pai, saindo, insistia com ele.
+          Ele, porém, respondeu ao pai: 'Eu trabalho para ti há tantos anos, jamais desobedeci a qualquer ordem tua.
+          E tu nunca me deste um cabrito para eu festejar com meus amigos.
+          Quando chegou esse teu filho, que esbanjou teus bens com prostitutas, matas para ele o novilho cevado'.
+          Então o pai lhe disse: 'Filho, tu estás sempre comigo, e tudo o que é meu é teu.
+          Mas era preciso festejar e alegrar-nos, porque este teu irmão estava morto e tornou a viver; estava perdido, e foi encontrado'".
+          
+          Palavra da Salvação.
+      optional:
+        ref: Jo 9,1-41
+        text: |
+          Proclamação do Evangelho de Jesus Cristo segundo João
+          
+          Naquele tempo,
+          ao passar, Jesus viu um homem cego de nascença.
+          Os discípulos perguntaram a Jesus: "Mestre, quem pecou para que nascesse cego: ele ou os seus pais?"
+          Jesus respondeu: "Nem ele nem seus pais pecaram, mas isso serve para que as obras de Deus se manifestem nele.
+          É necessário que nós realizemos as obras daquele que me enviou, enquanto é dia.
+          Vem a noite, em que ninguém pode trabalhar.
+          Enquanto estou no mudo, eu sou a luz do mundo".
+          Dito isto, Jesus cuspiu no chão, fez lama com a saliva e colocou-a sobre os olhos do cego.
+          E disse-lhe: "Vai lavar-te na piscina de Siloé"
+          (que quer dizer: Enviado).
+          O cego foi, lavou-se e voltou enxergando.
+          Os vizinhos e os que costumavam ver o cego - pois ele era mendigo - diziam: "Não é aquele que ficava pedindo esmola?"
+          Uns diziam: "Sim, é ele!"
+          Outros afirmavam: "Não é ele, mas alguém parecido com ele".
+          Ele, porém, dizia: "Sou eu mesmo!"
+          Então lhe perguntaram: "Como é que se abriram os teus olhos?"
+          Ele respondeu: "Aquele homem chamado Jesus fez lama, colocou-a nos meus olhos e disse-me: 'Vai a Siloé e lava-te'.
+          Então fui, lavei-me e comecei a ver".
+          Perguntaram-lhe: "Onde está ele?"
+          Respondeu: "Não sei".
+          Levaram então aos fariseus o homem que tinha sido cego.
+          Ora, era sábado, o dia em que Jesus tinha feito lama e aberto os olhos do cego.
+          Novamente, então, lhe perguntaram os fariseus como tinha recuperado a vista.
+          Respondeu-lhes: "Colocou lama sobre meus olhos, fui lavar-me e agora vejo!"
+          Disseram, então, alguns dos fariseus: "Esse homem não vem de Deus, pois não guarda o sábado".
+          Mas outros diziam: "Como pode um pecador fazer tais sinais?"
+          E havia divergência entre eles.
+          Perguntaram outra vez ao cego: "E tu, que dizes daquele que te abriu os olhos?"
+          Respondeu: "É um profeta".
+          Então, os judeus não acreditaram que ele tinha sido cego e que tinha recuperado a vista.
+          Chamaram os pais dele e perguntaram-lhes: "Este é o vosso filho, que dizeis ter nascido cego?
+          Como é que ele agora está enxergando?"
+          Os seus pais disseram: "Sabemos que este é nosso filho e que nasceu cego.
+          Como agora está enxergando, isso não sabemos.
+          E quem lhe abriu os olhos também não sabemos.
+          Interrogai-o, ele é maior de idade, ele pode falar por si mesmo".
+          Os seus pais disseram isso, porque tinham medo das autoridades judaicas.
+          De fato, os judeus já tinham combinado expulsar da comunidade quem declarasse que Jesus era o Messias.
+          Foi por isso que seus pais disseram: "É maior de idade. Interrogai-o a ele".
+          Então, os judeus chamaram de novo o homem que tinha sido cego.
+          Disseram-lhe: "Dá glória a Deus!
+          Nós sabemos que esse homem é um pecador".
+          Então ele respondeu: "Se ele é pecador, não sei. Só sei que eu era cego e agora vejo".
+          Perguntaram-lhe então: "Que é que ele te fez? Como te abriu os olhos?"
+          Respondeu ele: "Eu já vos disse, e não escutastes.
+          Por que quereis ouvir de novo?
+          Por acaso quereis tornar-vos discípulos dele?"
+          Então insultaram-no, dizendo: "Tu, sim, és discípulo dele!
+          Nós somos discípulos de Moisés.
+          Nós sabemos que Deus falou a Moisés, mas esse, não sabemos de onde é".
+          Respondeu-lhes o homem: "Espantoso!
+          Vós não sabeis de onde ele é?
+          No entanto, ele abriu-me os olhos!
+          Sabemos que Deus não escuta os pecadores, mas escuta aquele que é piedoso e que faz a sua vontade.
+          Jamais se ouviu dizer que alguém tenha aberto os olhos a um cego de nascença.
+          Se este homem não viesse de Deus, não poderia fazer nada".
+          Os fariseus disseram-lhe: "Tu nasceste todo em pecado e estás nos ensinando?"
+          E expulsaram-no da comunidade.
+          Jesus soube que o tinham expulsado.
+          Encontrando-o, perguntou-lhe: "Acreditas no Filho do Homem?"
+          Respondeu ele: "Quem é, Senhor, para que eu creia nele?"
+          Jesus disse: "Tu o estás vendo; é aquele que está falando contigo".
+          Exclamou ele: "Eu creio, Senhor!"
+          E prostrou-se diante de Jesus.
+          Então, Jesus disse: "Eu vim a este mundo para exercer um julgamento, a fim de que os que não veem, vejam, e os que veem se tornem cegos".
+          Alguns fariseus, que estavam com ele, ouviram isto e lhe disseram: "Porventura, também nós somos cegos?"
+          Respondeu-lhes Jesus: "Se fôsseis cegos, não teríeis culpa; mas como dizeis: 'Nós vemos', o vosso pecado permanece".
 
-        Palavra da Salvação.
+          Palavra da Salvação.
 lent.week4.2:
   title: Segunda-feira da 4ª Semana
   subtitle: Tempo da Quaresma
@@ -9252,168 +9357,203 @@ lent.week5.1.c:
   color: purple
   readings:
     - type: reading
-      ref: Is 43,16-21
-      text: |
-        Leitura do Livro do Profeta Isaías
+      main:
+        ref: Is 43,16-21
+        text: |
+          Leitura do Livro do Profeta Isaías
 
-        Isto diz o Senhor,
-        que abriu uma passagem no mar e um caminho entre águas impetuosas; que pôs a perder carros e cavalos, tropas e homens corajosos; pois estão todos mortos e não ressuscitarão, foram abafados como mecha de pano e apagaram-se: "Não relembreis coisas passadas, não olheis para fatos antigos.
-        Eis que eu farei coisas novas, e que já estão surgindo: acaso não as reconheceis?
-        Pois abrirei uma estrada no deserto e farei correr rios na terra seca.
-        Hão de glorificar-me os animais selvagens, os dragões e os avestruzes, porque fiz brotar água no deserto e rios na terra seca para dar de beber a meu povo, a meus escolhidos.
-        Este povo, eu o criei para mim e ele cantará meus louvores".
+          Isto diz o Senhor,
+          que abriu uma passagem no mar e um caminho entre águas impetuosas; que pôs a perder carros e cavalos, tropas e homens corajosos; pois estão todos mortos e não ressuscitarão, foram abafados como mecha de pano e apagaram-se: "Não relembreis coisas passadas, não olheis para fatos antigos.
+          Eis que eu farei coisas novas, e que já estão surgindo: acaso não as reconheceis?
+          Pois abrirei uma estrada no deserto e farei correr rios na terra seca.
+          Hão de glorificar-me os animais selvagens, os dragões e os avestruzes, porque fiz brotar água no deserto e rios na terra seca para dar de beber a meu povo, a meus escolhidos.
+          Este povo, eu o criei para mim e ele cantará meus louvores".
 
-        Palavra do Senhor.
+          Palavra do Senhor.
+      optional:
+        ref: Ez 37,12-14
+        text: |
+          Leitura da Profecia de Ezequiel
+          
+          Assim fala o Senhor Deus:
+          "Ó meu povo, vou abrir as vossas sepulturas e conduzir-vos para a terra de Israel; e quando eu abrir as vossas sepulturas e vos fizer sair delas, sabereis que eu sou o Senhor.
+          Porei em vós o meu espírito, para que vivais e vos colocarei em vossa terra.
+          Então sabereis que eu, o Senhor, digo e faço - oráculo do Senhor".
+
+          Palavra do Senhor.
     - type: psalm
-      ref: Sl 125(126),1-2ab.2cd-3.4-5.6 (R. 3)
-      text: |
-        R. Maravilhas fez conosco o Senhor,
+      main:
+        ref: Sl 125(126),1-2ab.2cd-3.4-5.6 (R. 3)
+        text: |
+          R. Maravilhas fez conosco o Senhor,
 
-        exultemos de alegria!
-        Quando o Senhor reconduziu nossos cativos,
-        parecíamos sonhar;
-        encheu-se de sorriso nossa boca,
-        nossos lábios, de canções. R.
+          exultemos de alegria!
+          Quando o Senhor reconduziu nossos cativos,
+          parecíamos sonhar;
+          encheu-se de sorriso nossa boca,
+          nossos lábios, de canções. R.
 
-        Entre os gentios se dizia: "Maravilhas
-        fez com eles o Senhor!"
-        Sim, maravilhas fez conosco o Senhor,
-        exultemos de alegria! R.
+          Entre os gentios se dizia: "Maravilhas
+          fez com eles o Senhor!"
+          Sim, maravilhas fez conosco o Senhor,
+          exultemos de alegria! R.
 
-        Mudai a nossa sorte, ó Senhor,
-        como torrentes no deserto.
-        Os que lançam as sementes entre lágrimas,
-        ceifarão com alegria. R.
+          Mudai a nossa sorte, ó Senhor,
+          como torrentes no deserto.
+          Os que lançam as sementes entre lágrimas,
+          ceifarão com alegria. R.
 
-        Chorando de tristeza sairão,
-        espalhando suas sementes;
-        cantando de alegria voltarão,
-        carregando os seus feixes! R.
+          Chorando de tristeza sairão,
+          espalhando suas sementes;
+          cantando de alegria voltarão,
+          carregando os seus feixes! R.
+      optional:
+        ref: Sl 129(130),1-2.3-4ab.5-6.7-8 (R. cf. 7)
+        text: |
+          R. No Senhor, toda graça e redenção!
+
+          Das profundezas eu clamo a vós, Senhor,
+          escutai a minha voz!
+          Vossos ouvidos estejam bem atentos
+          ao clamor da minha prece! R.
+
+          Se levardes em conta nossas faltas,
+          quem haverá de subsistir?
+          Mas em vós se encontra o perdão,
+          eu vos temo e em vós espero. R.
+
+          No Senhor ponho a minha esperança,
+          espero em sua palavra.
+          A minh'alma espera no Senhor
+          mais que o vigia pela aurora. R.
+
+          Espere Israel pelo Senhor,
+          mais que o vigia pela aurora!
+          Pois no Senhor se encontra toda graça
+          e copiosa redenção.
+          Ele vem libertar a Israel
+          de toda a sua culpa. R.
     - type: reading
-      ref: Fl 3,8-14
-      text: |
-        Leitura da Carta de São Paulo aos Filipenses
+      main:
+        ref: Fl 3,8-14
+        text: |
+          Leitura da Carta de São Paulo aos Filipenses
 
-        Irmãos:
-        Na verdade, considero tudo como perda diante da vantagem suprema que consiste em conhecer a Cristo Jesus, meu Senhor.
-        Por causa dele eu perdi tudo.
-        Considero tudo como lixo, para ganhar Cristo e ser encontrado unido a ele, não com minha justiça provindo da Lei, mas com a justiça por meio da fé em Cristo, a justiça que vem de Deus, na base da fé.
-        Esta consiste em conhecer a Cristo, experimentar a força da sua ressurreição, ficar em comunhão com os seus sofrimentos, tornando-me semelhante a ele na sua morte, para ver se alcanço a ressurreição dentre os mortos.
-        Não que já tenha recebido tudo isso, ou que já seja perfeito.
-        Mas corro para alcançá-lo, visto que já fui alcançado por Cristo Jesus.
-        Irmãos, eu não julgo já tê-lo alcançado.
-        Uma coisa, porém, eu faço: esquecendo o que fica para trás, eu me lanço para o que está na frente.
-        Corro direto para a meta, rumo ao prêmio, que, do alto, Deus me chama a receber em Cristo Jesus.
+          Irmãos:
+          Na verdade, considero tudo como perda diante da vantagem suprema que consiste em conhecer a Cristo Jesus, meu Senhor.
+          Por causa dele eu perdi tudo.
+          Considero tudo como lixo, para ganhar Cristo e ser encontrado unido a ele, não com minha justiça provindo da Lei, mas com a justiça por meio da fé em Cristo, a justiça que vem de Deus, na base da fé.
+          Esta consiste em conhecer a Cristo, experimentar a força da sua ressurreição, ficar em comunhão com os seus sofrimentos, tornando-me semelhante a ele na sua morte, para ver se alcanço a ressurreição dentre os mortos.
+          Não que já tenha recebido tudo isso, ou que já seja perfeito.
+          Mas corro para alcançá-lo, visto que já fui alcançado por Cristo Jesus.
+          Irmãos, eu não julgo já tê-lo alcançado.
+          Uma coisa, porém, eu faço: esquecendo o que fica para trás, eu me lanço para o que está na frente.
+          Corro direto para a meta, rumo ao prêmio, que, do alto, Deus me chama a receber em Cristo Jesus.
 
-        Palavra do Senhor.
+          Palavra do Senhor.
+      optional:
+        ref: Rm 8,8-11
+        text: |
+          Leitura da Carta de São Paulo aos Romanos
+          
+          Irmãos:
+          Os que vivem segundo a carne não podem agradar a Deus.
+          Vós não viveis segundo a carne, mas segundo o Espírito, se realmente o Espírito de Deus mora em vós.
+          Se alguém não tem o Espírito de Cristo, não pertence a Cristo.
+          Se, porém, Cristo está em vós, embora vosso corpo esteja ferido de morte por causa do pecado, vosso espírito está cheio de vida, graças à justiça.
+          E, se o Espírito daquele que ressuscitou Jesus dentre os mortos mora em vós, então aquele que ressuscitou Jesus Cristo dentre os mortos vivificará também vossos corpos mortais por meio do seu Espírito que mora em vós.
+          
+          Palavra do Senhor.
     - type: gospel
-      ref: Jo 8,1-11
-      text: |
-        Proclamação do Evangelho de Jesus Cristo segundo João
+      main:
+        ref: Jo 8,1-11
+        text: |
+          Proclamação do Evangelho de Jesus Cristo segundo João
 
-        Naquele tempo,
-        Jesus foi para o monte das Oliveiras.
-        De madrugada, voltou de novo ao Templo.
-        Todo o povo se reuniu em volta dele.
-        Sentando-se, começou a ensiná-los.
-        Entretanto, os mestres da Lei e os fariseus trouxeram uma mulher surpreendida em adultério.
-        Colocando-a no meio deles, disseram a Jesus: "Mestre, esta mulher foi surpreendida em flagrante adultério.
-        Moisés na Lei mandou apedrejar tais mulheres.
-        Que dizes tu?"
-        Perguntavam isso para experimentar Jesus e para terem motivo de o acusar.
-        Mas Jesus, inclinando-se, começou a escrever com o dedo no chão.
-        Como persistissem em interrogá-lo, Jesus ergueu-se e disse: "Quem dentre vós não tiver pecado, seja o primeiro a atirar-lhe uma pedra".
-        E tornando a inclinar-se, continuou a escrever no chão.
-        E eles, ouvindo o que Jesus falou, foram saindo um a um, a começar pelos mais velhos; e Jesus ficou sozinho, com a mulher que estava lá, no meio do povo.
-        Então Jesus se levantou e disse: "Mulher, onde estão eles?
-        Ninguém te condenou?"
-        Ela respondeu: "Ninguém, Senhor".
-        Então Jesus lhe disse: "Eu também não te condeno.
-        Podes ir, e de agora em diante não peques mais".
-        Palavra da Salvação.
-        Ou, à escolha: todas as leituras do ano A PRIMEIRA LEITURA Porei em vós o meu espírito para que vivais.
-        Leitura da Profecia de Ezequiel 37,12-14 Assim fala o Senhor Deus: "Ó meu povo, vou abrir as vossas sepulturas e conduzir-vos para a terra de Israel; e quando eu abrir as vossas sepulturas e vos fizer sair delas, sabereis que eu sou o Senhor.
-        Porei em vós o meu espírito, para que vivais e vos colocarei em vossa terra.
-        Então sabereis que eu, o Senhor, digo e faço - oráculo do Senhor".
-        Palavra do Senhor.
-        Salmo responsorial Sl 129(130),1-2.3-4ab.5-6.7-8 (R. cf. 7) R. No Senhor, toda graça e redenção!
-        Das profundezas eu clamo a vós, Senhor, escutai a minha voz!
-        Vossos ouvidos estejam bem atentos ao clamor da minha prece! R.
-        Se levardes em conta nossas faltas, quem haverá de subsistir?
-        Mas em vós se encontra o perdão, eu vos temo e em vós espero. R.
-        No Senhor ponho a minha esperança, espero em sua palavra.
-        A minh'alma espera no Senhor mais que o vigia pela aurora. R.
-        Espere Israel pelo Senhor, mais que o vigia pela aurora!
-        Pois no Senhor se encontra toda graça e copiosa redenção.
-        Ele vem libertar a Israel de toda a sua culpa. R.
-        SEGUNDA LEITURA O Espírito daquele que ressuscitou Jesus dentre os mortos mora em vós.
-        Leitura da Carta de São Paulo aos Romanos 8,8-11 Irmãos: Os que vivem segundo a carne não podem agradar a Deus.
-        Vós não viveis segundo a carne, mas segundo o Espírito, se realmente o Espírito de Deus mora em vós.
-        Se alguém não tem o Espírito de Cristo, não pertence a Cristo.
-        Se, porém, Cristo está em vós, embora vosso corpo esteja ferido de morte por causa do pecado, vosso espírito está cheio de vida, graças à justiça.
-        E, se o Espírito daquele que ressuscitou Jesus dentre os mortos mora em vós, então aquele que ressuscitou Jesus Cristo dentre os mortos vivificará também vossos corpos mortais por meio do seu Espírito que mora em vós.
-        Palavra do Senhor.
-        Aclamação ao Evangelho Jo 11,25a.26 R. Glória a vós, ó Cristo, verbo de Deus.
-        V. Eu sou a ressurreição, eu sou a vida.
-        Quem crê em mim não morrerá eternamente.
-        EVANGELHO (mais longo) Eu sou a ressurreição e a vida.
-        Proclamação do Evangelho de Jesus Cristo segundo João 11,1-45 Naquele tempo, havia um doente, Lázaro, que era de Betânia, o povoado de Maria e de Marta, sua irmã.
-        Maria era aquela que ungira o Senhor com perfume e enxugara os pés dele com seus cabelos.
-        O irmão dela, Lázaro, é que estava doente.
-        As irmãs mandaram então dizer a Jesus: "Senhor, aquele que amas está doente".
-        Ouvindo isto, Jesus disse: "Esta doença não leva à morte; ela serve para a glória de Deus, para que o Filho de Deus seja glorificado por ela".
-        Jesus era muito amigo de Marta, de sua irmã Maria e de Lázaro.
-        Quando ouviu que este estava doente, Jesus ficou ainda dois dias no lugar onde se encontrava.
-        Então, disse aos discípulos: "Vamos de novo à Judeia".
-        Os discípulos disseram-lhe: "Mestre, ainda há pouco os judeus queriam apedrejar-te, e agora vais outra vez para lá?"
-        Jesus respondeu: "O dia não tem doze horas?
-        Se alguém caminha de dia, não tropeça, porque vê a luz deste mundo.
-        Mas se alguém caminha de noite, tropeça, porque lhe falta a luz".
-        Depois acrescentou: "O nosso amigo Lázaro dorme. Mas eu vou acordá-lo".
-        Os discípulos disseram: "Senhor, se ele dorme, vai ficar bom".
-        Jesus falava da morte de Lázaro, mas os discípulos pensaram que falasse do sono mesmo.
-        Então Jesus disse abertamente: "Lázaro está morto.
-        Mas por causa de vós, alegro-me por não ter estado lá, para que creiais. Mas vamos para junto dele".
-        Então Tomé, cujo nome significa Gêmeo, disse aos companheiros: "Vamos nós também para morrermos com ele".
-        Quando Jesus chegou, encontrou Lázaro sepultado havia quatro dias.
-        Betânia ficava a uns três quilômetros de Jerusalém.
-        Muitos judeus tinham vindo à casa de Marta e Maria para as consolar por causa do irmão.
-        Quando Marta soube que Jesus tinha chegado, foi ao encontro dele.
-        Maria ficou sentada em casa.
-        Então Marta disse a Jesus: "Senhor, se tivesses estado aqui, meu irmão não teria morrido.
-        Mas mesmo assim, eu sei que o que pedires a Deus, ele to concederá".
-        Respondeu-lhe Jesus: "Teu irmão ressuscitará".
-        Disse Marta: "Eu sei que ele ressuscitará na ressurreição, no último dia".
-        Então Jesus disse: "Eu sou a ressurreição e a vida.
-        Quem crê em mim, mesmo que morra, viverá.
-        E todo aquele que vive e crê em mim, não morrerá jamais. Crês isto?"
-        Respondeu ela: "Sim, Senhor, eu creio firmemente que tu és o Messias, o Filho de Deus, que devia vir ao mundo".
-        Depois de ter dito isto, ela foi chamar a sua irmã, Maria, dizendo baixinho: "O Mestre está aí e te chama".
-        Quando Maria ouviu isso, levantou-se depressa e foi ao encontro de Jesus.
-        Jesus estava ainda fora do povoado, no mesmo lugar onde Marta se tinha encontrado com ele.
-        Os judeus que estavam em casa consolando-a, quando a viram levantar-se depressa e sair, foram atrás dela, pensando que fosse ao túmulo para ali chorar.
-        Indo para o lugar onde estava Jesus, quando o viu, caiu de joelhos diante dele e disse-lhe: "Senhor, se tivesses estado aqui, o meu irmão não teria morrido".
-        Quando Jesus a viu chorar, e também os que estavam com ela, estremeceu interiormente, ficou profundamente comovido, e perguntou: "Onde o colocastes?"
-        Responderam: "Vem ver, Senhor".
-        E Jesus chorou.
-        Então os judeus disseram: "Vede como ele o amava!"
-        Alguns deles, porém, diziam: "Este, que abriu os olhos ao cego, não podia também ter feito com que Lázaro não morresse?"
-        De novo, Jesus ficou interiormente comovido.
-        Chegou ao túmulo.
-        Era uma caverna, fechada com uma pedra.
-        Disse Jesus: "Tirai a pedra!"
-        Marta, a irmã do morto, interveio: "Senhor, já cheira mal. Está morto há quatro dias".
-        Jesus lhe respondeu: "Não te disse que, se creres, verás a glória de Deus?"
-        Tiraram então a pedra.
-        Jesus levantou os olhos para o alto e disse: "Pai, eu te dou graças porque me ouviste.
-        Eu sei que sempre me escutas.
-        Mas digo isto por causa do povo que me rodeia, para que creia que tu me enviaste".
-        Tendo dito isso, exclamou com voz forte: "Lázaro, vem para fora!"
-        O morto saiu, atado de mãos e pés com os lençóis mortuários e o rosto coberto com um pano.
-        Então Jesus lhes disse: "Desatai-o e deixai-o caminhar!"
-        Então, muitos dos judeus que tinham ido à casa de Maria e viram o que Jesus fizera, creram nele.
+          Naquele tempo,
+          Jesus foi para o monte das Oliveiras.
+          De madrugada, voltou de novo ao Templo.
+          Todo o povo se reuniu em volta dele.
+          Sentando-se, começou a ensiná-los.
+          Entretanto, os mestres da Lei e os fariseus trouxeram uma mulher surpreendida em adultério.
+          Colocando-a no meio deles, disseram a Jesus: "Mestre, esta mulher foi surpreendida em flagrante adultério.
+          Moisés na Lei mandou apedrejar tais mulheres.
+          Que dizes tu?"
+          Perguntavam isso para experimentar Jesus e para terem motivo de o acusar.
+          Mas Jesus, inclinando-se, começou a escrever com o dedo no chão.
+          Como persistissem em interrogá-lo, Jesus ergueu-se e disse: "Quem dentre vós não tiver pecado, seja o primeiro a atirar-lhe uma pedra".
+          E tornando a inclinar-se, continuou a escrever no chão.
+          E eles, ouvindo o que Jesus falou, foram saindo um a um, a começar pelos mais velhos; e Jesus ficou sozinho, com a mulher que estava lá, no meio do povo.
+          Então Jesus se levantou e disse: "Mulher, onde estão eles?
+          Ninguém te condenou?"
+          Ela respondeu: "Ninguém, Senhor".
+          Então Jesus lhe disse: "Eu também não te condeno.
+          Podes ir, e de agora em diante não peques mais".
+          
+          Palavra da Salvação.
+      optional:
+        ref: Jo 11,1-45
+        text: |
+          Proclamação do Evangelho de Jesus Cristo segundo João
 
-        Palavra da Salvação.
+          Naquele tempo,
+          havia um doente, Lázaro, que era de Betânia, o povoado de Maria e de Marta, sua irmã.
+          Maria era aquela que ungira o Senhor com perfume e enxugara os pés dele com seus cabelos.
+          O irmão dela, Lázaro, é que estava doente.
+          As irmãs mandaram então dizer a Jesus: "Senhor, aquele que amas está doente".
+          Ouvindo isto, Jesus disse: "Esta doença não leva à morte; ela serve para a glória de Deus, para que o Filho de Deus seja glorificado por ela".
+          Jesus era muito amigo de Marta, de sua irmã Maria e de Lázaro.
+          Quando ouviu que este estava doente, Jesus ficou ainda dois dias no lugar onde se encontrava.
+          Então, disse aos discípulos: "Vamos de novo à Judeia".
+          Os discípulos disseram-lhe: "Mestre, ainda há pouco os judeus queriam apedrejar-te, e agora vais outra vez para lá?"
+          Jesus respondeu: "O dia não tem doze horas?
+          Se alguém caminha de dia, não tropeça, porque vê a luz deste mundo.
+          Mas se alguém caminha de noite, tropeça, porque lhe falta a luz".
+          Depois acrescentou: "O nosso amigo Lázaro dorme. Mas eu vou acordá-lo".
+          Os discípulos disseram: "Senhor, se ele dorme, vai ficar bom".
+          Jesus falava da morte de Lázaro, mas os discípulos pensaram que falasse do sono mesmo.
+          Então Jesus disse abertamente: "Lázaro está morto.
+          Mas por causa de vós, alegro-me por não ter estado lá, para que creiais. Mas vamos para junto dele".
+          Então Tomé, cujo nome significa Gêmeo, disse aos companheiros: "Vamos nós também para morrermos com ele".
+          Quando Jesus chegou, encontrou Lázaro sepultado havia quatro dias.
+          Betânia ficava a uns três quilômetros de Jerusalém.
+          Muitos judeus tinham vindo à casa de Marta e Maria para as consolar por causa do irmão.
+          Quando Marta soube que Jesus tinha chegado, foi ao encontro dele.
+          Maria ficou sentada em casa.
+          Então Marta disse a Jesus: "Senhor, se tivesses estado aqui, meu irmão não teria morrido.
+          Mas mesmo assim, eu sei que o que pedires a Deus, ele to concederá".
+          Respondeu-lhe Jesus: "Teu irmão ressuscitará".
+          Disse Marta: "Eu sei que ele ressuscitará na ressurreição, no último dia".
+          Então Jesus disse: "Eu sou a ressurreição e a vida.
+          Quem crê em mim, mesmo que morra, viverá.
+          E todo aquele que vive e crê em mim, não morrerá jamais. Crês isto?"
+          Respondeu ela: "Sim, Senhor, eu creio firmemente que tu és o Messias, o Filho de Deus, que devia vir ao mundo".
+          Depois de ter dito isto, ela foi chamar a sua irmã, Maria, dizendo baixinho: "O Mestre está aí e te chama".
+          Quando Maria ouviu isso, levantou-se depressa e foi ao encontro de Jesus.
+          Jesus estava ainda fora do povoado, no mesmo lugar onde Marta se tinha encontrado com ele.
+          Os judeus que estavam em casa consolando-a, quando a viram levantar-se depressa e sair, foram atrás dela, pensando que fosse ao túmulo para ali chorar.
+          Indo para o lugar onde estava Jesus, quando o viu, caiu de joelhos diante dele e disse-lhe: "Senhor, se tivesses estado aqui, o meu irmão não teria morrido".
+          Quando Jesus a viu chorar, e também os que estavam com ela, estremeceu interiormente, ficou profundamente comovido, e perguntou: "Onde o colocastes?"
+          Responderam: "Vem ver, Senhor".
+          E Jesus chorou.
+          Então os judeus disseram: "Vede como ele o amava!"
+          Alguns deles, porém, diziam: "Este, que abriu os olhos ao cego, não podia também ter feito com que Lázaro não morresse?"
+          De novo, Jesus ficou interiormente comovido.
+          Chegou ao túmulo.
+          Era uma caverna, fechada com uma pedra.
+          Disse Jesus: "Tirai a pedra!"
+          Marta, a irmã do morto, interveio: "Senhor, já cheira mal. Está morto há quatro dias".
+          Jesus lhe respondeu: "Não te disse que, se creres, verás a glória de Deus?"
+          Tiraram então a pedra.
+          Jesus levantou os olhos para o alto e disse: "Pai, eu te dou graças porque me ouviste.
+          Eu sei que sempre me escutas.
+          Mas digo isto por causa do povo que me rodeia, para que creia que tu me enviaste".
+          Tendo dito isso, exclamou com voz forte: "Lázaro, vem para fora!"
+          O morto saiu, atado de mãos e pés com os lençóis mortuários e o rosto coberto com um pano.
+          Então Jesus lhes disse: "Desatai-o e deixai-o caminhar!"
+          Então, muitos dos judeus que tinham ido à casa de Maria e viram o que Jesus fizera, creram nele.
+
+          Palavra da Salvação.
 lent.week5.2:
   title: Segunda-feira da 5ª Semana
   subtitle: Tempo da Quaresma
@@ -17981,71 +18121,89 @@ easter.week8.1.c:
   color: red
   readings:
     - type: reading
-      ref: Gn 11,1-9
-      text: |
-        Leitura do Livro do Gênesis
+      main:
+        ref: Gn 11,1-9
+        text: |
+          Leitura do Livro do Gênesis
 
-        Toda a terra tinha uma só linguagem
-        e servia-se das mesmas palavras.
-        E aconteceu que, partindo do oriente, os homens acharam uma planície na terra de Senaar, e aí se estabeleceram.
-        E disseram uns aos outros: "Vamos, façamos tijolos e cozamo-los ao fogo".
-        Usaram tijolos em vez de pedra, e betume em lugar de argamassa.
-        E disseram: "Vamos, façamos para nós uma cidade e uma torre cujo cimo atinja o céu.
-        Assim, ficaremos famosos, e não seremos dispersos por toda a face da terra".
-        Então o Senhor desceu para ver a cidade e a torre que os homens estavam construindo.
-        E o Senhor disse: "Eis que eles são um só povo e falam uma só língua.
-        E isso é apenas o começo de seus empreendimentos.
-        Agora, nada os impedirá de fazer o que se propuseram.
-        Desçamos e confundamos a sua língua, de modo que não se entendam uns aos outros".
-        E o Senhor os dispersou daquele lugar por toda a superfície da terra, e eles cessaram de construir a cidade.
-        Por isso, foi chamada Babel, porque foi aí que o Senhor confundiu a linguagem de todo o mundo, e daí dispersou os homens por toda a terra.
-        Palavra do Senhor.
-        Ou, b: O Senhor desceu sobre o monte Sinai diante de todo o povo.
-        Leitura do Livro do Êxodo 19,3-8a.16-20b Naqueles dias, Moisés subiu ao encontro de Deus.
-        O Senhor chamou-o do alto da montanha, e disse: "Assim deverás falar à casa de Jacó e anunciar aos filhos de Israel: Vistes o que fiz aos egípcios, e como vos levei sobre asas de águia e vos trouxe a mim.
-        Portanto, se ouvirdes a minha voz e guardardes a minha aliança, sereis para mim a porção escolhida dentre todos os povos, porque minha é toda a terra.
-        E vós sereis para mim um reino de sacerdotes e uma nação santa.
-        São estas as palavras que deverás dizer aos filhos de Israel".
-        Moisés voltou e, convocando os anciãos do povo, expôs tudo o que o Senhor lhe tinha mandado.
-        E o povo todo respondeu a uma só voz: "Faremos tudo o que o Senhor disse".
-        Quando chegou o terceiro dia, ao raiar da manhã, houve trovões e relâmpagos.
-        Uma nuvem espessa cobriu a montanha, e um fortíssimo som de trombetas se fez ouvir.
-        No acampamento o povo se pôs a tremer.
-        Moisés fez o povo sair do acampamento ao encontro de Deus, e eles pararam ao pé da montanha.
-        Todo o monte Sinai fumegava, pois o Senhor descera sobre ele em meio ao fogo.
-        A fumaça subia como de uma fornalha, e todo o monte tremia violentamente.
-        O som da trombeta ia aumentando cada vez mais.
-        Moisés falava e o Senhor lhe respondia através do trovão.
-        O Senhor desceu sobre o monte Sinai e chamou Moisés ao cume do monte.
-        Palavra do Senhor.
-        Ou, c: Ossos ressequidos, vou fazer entrar um espírito em vós, e voltareis à vida.
-        Leitura da Profecia de Ezequiel 37,1-14 Naqueles dias, a mão do Senhor estava sobre mim e por seu espírito ele me levou para fora e me deixou no meio de uma planície cheia de ossos e me fez andar no meio deles em todas as direções.
-        Havia muitíssimos ossos na planície e estavam ressequidos.
-        Ele me perguntou: "Filho do homem, será que estes ossos podem voltar à vida?"
-        E eu respondi: "Senhor Deus, só tu o sabes".
-        E ele me disse: "Profetiza sobre estes ossos e dize: 'Ossos ressequidos, escutai a palavra do Senhor!' Assim diz o Senhor Deus a estes ossos: Eu mesmo vou fazer entrar um espírito em vós e voltareis à vida.
-        Porei nervos em vós, farei crescer carne e estenderei a pele por cima.
-        Porei em vós um espírito, para que possais voltar à vida.
-        Assim sabereis que eu sou o Senhor'".
-        Profetizei como me foi ordenado.
-        Enquanto eu profetizava, ouviu-se primeiro um rumor, e logo um estrondo, quando os ossos se aproximaram uns dos outros.
-        Olhei e vi nervos e carne crescendo sobre os ossos e, por cima, a pele que se estendia.
-        Mas não tinham nenhum sopro de vida.
-        Ele me disse: "Profetiza para o espírito, profetiza, filho do homem!
-        Dirás ao espírito: 'Assim diz o Senhor Deus: Vem dos quatro ventos, ó espírito, vem soprar sobre estes mortos, para que eles possam voltar à vida'".
-        Profetizei como me foi ordenado, e o espírito entrou neles.
-        Eles voltaram à vida e puseram-se de pé: era uma imensa multidão!
-        Então ele me disse: "Filho do homem, estes ossos são toda a casa de Israel.
-        É isto que eles dizem: 'Nossos ossos estão secos, nossa esperança acabou, estamos perdidos!' Por isso, profetiza e dize-lhes: 'Assim fala o Senhor Deus: Ó meu povo, vou abrir as vossas sepulturas e conduzir-vos para a terra de Israel; e quando eu abrir as vossas sepulturas e vos fizer sair delas, sabereis que eu sou o Senhor.
-        Porei em vós o meu espírito, para que vivais e vos colocarei em vossa terra.
-        Então sabereis que eu, o Senhor, digo e faço, - oráculo do Senhor -".
-        Palavra do Senhor.
-        Ou, d: Sobre meus servos e servas derramarei o meu espírito.
-        Leitura da Profecia de Joel 3,1-5 Assim diz o Senhor: "Derramarei o meu espírito sobre todo ser humano, e vossos filhos e filhas profetizarão, vossos anciãos terão sonhos e vossos jovens terão visões; também sobre meus servos e servas, naqueles dias, derramarei o meu espírito.
-        Colocarei sinais no céu e na terra, sangue, fogo e rolos de fumaça; o sol se transformará em trevas e a lua, em sangue, antes de chegar o dia do Senhor, dia grandioso e terrível.
-        Então, todo aquele que invocar o nome do Senhor, será salvo, pois, no monte Sião e em Jerusalém, haverá salvação, como disse o Senhor, entre os sobreviventes que o Senhor chamar".
+          Toda a terra tinha uma só linguagem
+          e servia-se das mesmas palavras.
+          E aconteceu que, partindo do oriente, os homens acharam uma planície na terra de Senaar, e aí se estabeleceram.
+          E disseram uns aos outros: "Vamos, façamos tijolos e cozamo-los ao fogo".
+          Usaram tijolos em vez de pedra, e betume em lugar de argamassa.
+          E disseram: "Vamos, façamos para nós uma cidade e uma torre cujo cimo atinja o céu.
+          Assim, ficaremos famosos, e não seremos dispersos por toda a face da terra".
+          Então o Senhor desceu para ver a cidade e a torre que os homens estavam construindo.
+          E o Senhor disse: "Eis que eles são um só povo e falam uma só língua.
+          E isso é apenas o começo de seus empreendimentos.
+          Agora, nada os impedirá de fazer o que se propuseram.
+          Desçamos e confundamos a sua língua, de modo que não se entendam uns aos outros".
+          E o Senhor os dispersou daquele lugar por toda a superfície da terra, e eles cessaram de construir a cidade.
+          Por isso, foi chamada Babel, porque foi aí que o Senhor confundiu a linguagem de todo o mundo, e daí dispersou os homens por toda a terra.
+          
+          Palavra do Senhor.
+      optional:
+        ref: Ex 19,3-8a.16-20b
+        text: |
+          Leitura do Livro do Êxodo
+          
+          Naqueles dias, Moisés subiu ao encontro de Deus.
+          O Senhor chamou-o do alto da montanha, e disse: "Assim deverás falar à casa de Jacó e anunciar aos filhos de Israel:
+          Vistes o que fiz aos egípcios, e como vos levei sobre asas de águia e vos trouxe a mim.
+          Portanto, se ouvirdes a minha voz e guardardes a minha aliança, sereis para mim a porção escolhida dentre todos os povos, porque minha é toda a terra.
+          E vós sereis para mim um reino de sacerdotes e uma nação santa.
+          São estas as palavras que deverás dizer aos filhos de Israel".
+          Moisés voltou e, convocando os anciãos do povo, expôs tudo o que o Senhor lhe tinha mandado.
+          E o povo todo respondeu a uma só voz: "Faremos tudo o que o Senhor disse".
+          Quando chegou o terceiro dia, ao raiar da manhã, houve trovões e relâmpagos.
+          Uma nuvem espessa cobriu a montanha, e um fortíssimo som de trombetas se fez ouvir.
+          No acampamento o povo se pôs a tremer.
+          Moisés fez o povo sair do acampamento ao encontro de Deus, e eles pararam ao pé da montanha.
+          Todo o monte Sinai fumegava, pois o Senhor descera sobre ele em meio ao fogo.
+          A fumaça subia como de uma fornalha, e todo o monte tremia violentamente.
+          O som da trombeta ia aumentando cada vez mais.
+          Moisés falava e o Senhor lhe respondia através do trovão.
+          O Senhor desceu sobre o monte Sinai e chamou Moisés ao cume do monte.
+          
+          Palavra do Senhor.
+      optional2:
+        ref: Ez 37,1-14
+        text: |
+          Leitura da Profecia de Ezequiel
+          
+          Naqueles dias, a mão do Senhor estava sobre mim e por seu espírito ele me levou para fora e me deixou no meio de uma planície cheia de ossos e me fez andar no meio deles em todas as direções.
+          Havia muitíssimos ossos na planície e estavam ressequidos.
+          Ele me perguntou: "Filho do homem, será que estes ossos podem voltar à vida?"
+          E eu respondi: "Senhor Deus, só tu o sabes".
+          E ele me disse: "Profetiza sobre estes ossos e dize: 'Ossos ressequidos, escutai a palavra do Senhor!' Assim diz o Senhor Deus a estes ossos: Eu mesmo vou fazer entrar um espírito em vós e voltareis à vida.
+          Porei nervos em vós, farei crescer carne e estenderei a pele por cima.
+          Porei em vós um espírito, para que possais voltar à vida.
+          Assim sabereis que eu sou o Senhor'".
+          Profetizei como me foi ordenado.
+          Enquanto eu profetizava, ouviu-se primeiro um rumor, e logo um estrondo, quando os ossos se aproximaram uns dos outros.
+          Olhei e vi nervos e carne crescendo sobre os ossos e, por cima, a pele que se estendia.
+          Mas não tinham nenhum sopro de vida.
+          Ele me disse: "Profetiza para o espírito, profetiza, filho do homem!
+          Dirás ao espírito: 'Assim diz o Senhor Deus: Vem dos quatro ventos, ó espírito, vem soprar sobre estes mortos, para que eles possam voltar à vida'".
+          Profetizei como me foi ordenado, e o espírito entrou neles.
+          Eles voltaram à vida e puseram-se de pé: era uma imensa multidão!
+          Então ele me disse: "Filho do homem, estes ossos são toda a casa de Israel.
+          É isto que eles dizem: 'Nossos ossos estão secos, nossa esperança acabou, estamos perdidos!' Por isso, profetiza e dize-lhes: 'Assim fala o Senhor Deus: Ó meu povo, vou abrir as vossas sepulturas e conduzir-vos para a terra de Israel; e quando eu abrir as vossas sepulturas e vos fizer sair delas, sabereis que eu sou o Senhor.
+          Porei em vós o meu espírito, para que vivais e vos colocarei em vossa terra.
+          Então sabereis que eu, o Senhor, digo e faço, - oráculo do Senhor -".
+          
+          Palavra do Senhor.
+      optional3:
+        ref: Jl 3,1-5
+        text: |
+          Leitura da Profecia de Joel
+          
+          Assim diz o Senhor:
+          "Derramarei o meu espírito sobre todo ser humano, e vossos filhos e filhas profetizarão, vossos anciãos terão sonhos e vossos jovens terão visões; também sobre meus servos e servas, naqueles dias, derramarei o meu espírito.
+          Colocarei sinais no céu e na terra, sangue, fogo e rolos de fumaça; o sol se transformará em trevas e a lua, em sangue, antes de chegar o dia do Senhor, dia grandioso e terrível.
+          Então, todo aquele que invocar o nome do Senhor, será salvo, pois, no monte Sião e em Jerusalém, haverá salvação, como disse o Senhor, entre os sobreviventes que o Senhor chamar".
 
-        Palavra do Senhor.
+          Palavra do Senhor.
     - type: psalm
       ref: Sl 103(104),1-2a.24.35c.27-28.29bc-30 (R. 30)
       text: |
@@ -18101,9 +18259,18 @@ easter.week8.1.c:
         Jesus falava do Espírito, que deviam receber os que tivessem fé nele; pois ainda não tinha sido dado o Espírito, porque Jesus ainda não tinha sido glorificado.
         
         Palavra da Salvação.
-
-        Missa do dia PRIMEIRA LEITURA Todos ficaram cheios do Espírito Santo e começaram a falar.
-        Leitura dos Atos dos Apóstolos 2,1-11 Quando chegou o dia de Pentecostes, os discípulos estavam todos reunidos no mesmo lugar.
+easter.week8.1.c.day:
+  title: Domingo de Pentecostes, Missa do dia
+  subtitle: Solenidade
+  color: red
+  readings:
+    - type: reading
+      ref: At  2,1-11
+      text: |
+        Leitura dos Atos dos Apóstolos
+        
+        Quando chegou o dia de Pentecostes,
+        os discípulos estavam todos reunidos no mesmo lugar.
         De repente, veio do céu um barulho como se fosse uma forte ventania, que encheu a casa onde eles se encontravam.
         Então apareceram línguas como de fogo que se repartiram e pousaram sobre cada um deles.
         Todos ficaram cheios do Espírito Santo e começaram a falar em outras línguas, conforme o Espírito os inspirava.
@@ -18114,79 +18281,91 @@ easter.week8.1.c:
         Nós que somos partos, medos e elamitas, habitantes da Mesopotâmia, da Judeia e da Capadócia, do Ponto e da Ásia, da Frígia e da Panfília, do Egito e da parte da Líbia, próxima de Cirene, também romanos que aqui residem; judeus e prosélitos, cretenses e árabes, todos nós os escutamos anunciarem as maravilhas de Deus na nossa própria língua!"
         
         Palavra do Senhor
-        
-        Salmo responsorial Sl 103(104),1ab.24ac.29bc-30.31.34 (R. cf. 30)
+    - type: psalm
+      ref: Sl 103(104),1ab.24ac.29bc-30.31.34 (R. cf. 30)
+      text: |
         R. Enviai o vosso Espírito, Senhor, e da terra toda a face renovai.
         
         Ou: Aleluia, Aleluia, Aleluia.
         
         Bendize, ó minha alma, ao Senhor!
-        b Ó meu Deus e meu Senhor, como sois grande!
+        Ó meu Deus e meu Senhor, como sois grande!
         Quão numerosas, ó Senhor, são vossas obras!
-        c Encheu-se a terra com as vossas criaturas! R.
+        Encheu-se a terra com as vossas criaturas! R.
 
-        Se tirais o seu respiro, elas perecem c e voltam para o pó de onde vieram.
-        Enviais o vosso espírito e renascem e da terra toda a face renovais. R.
+        Se tirais o seu respiro, elas perecem
+        e voltam para o pó de onde vieram.
+        Enviais o vosso espírito e renascem
+        e da terra toda a face renovais. R.
 
-        Que a glória do Senhor perdure sempre, e alegre-se o Senhor em suas obras!
-        Hoje seja-lhe agradável o meu canto, pois o Senhor é a minha grande alegria! R.
+        Que a glória do Senhor perdure sempre,
+        e alegre-se o Senhor em suas obras!
+        Hoje seja-lhe agradável o meu canto,
+        pois o Senhor é a minha grande alegria! R.
+    - type: reading
+      main:
+        ref: 1Co 12,3b-7.12-13
+        text: |
+          Leitura da Primeira Carta de São Paulo aos Coríntios
+          
+          Irmãos:
+          Ninguém pode dizer: Jesus é o Senhor a não ser no Espírito Santo.
+          Há diversidade de dons, mas um mesmo é o Espírito.
+          Há diversidade de ministérios, mas um mesmo é o Senhor.
+          Há diferentes atividades, mas um mesmo Deus que realiza todas as coisas em todos.
+          A cada um é dada a manifestação do Espírito em vista do bem comum.
+          Como o corpo é um, embora tenha muitos membros, e como todos os membros do corpo, embora sejam muitos, formam um só corpo, assim também acontece com Cristo.
+          De fato, todos nós, judeus ou gregos, escravos ou livres, fomos batizados num único Espírito, para formarmos um único corpo, e todos nós bebemos de um único Espírito.
+          
+          Palavra do Senhor.
+      optional:
+        ref: Rm 8,8-17
+        text: |
+          Leitura da Carta de São Paulo aos Romanos
+          
+          Irmãos:
+          Os que vivem segundo a carne não podem agradar a Deus.
+          Vós não viveis segundo a carne, mas segundo o Espírito, se realmente o Espírito de Deus mora em vós.
+          Se alguém não tem o Espírito de Cristo, não pertence a Cristo.
+          Se, porém, Cristo está em vós, embora vosso corpo esteja ferido de morte por causa do pecado, vosso espírito está cheio de vida, graças à justiça.
+          E, se o Espírito daquele que ressuscitou Jesus dentre os mortos mora em vós, então aquele que ressuscitou Jesus Cristo dentre os mortos vivificará também vossos corpos mortais por meio do seu Espírito que mora em vós.
+          Portanto, irmãos, temos uma dívida, mas não para com a carne, para vivermos segundo a carne.
+          Pois, se viverdes segundo a carne, morrereis, mas se, pelo espírito, matardes o procedimento carnal, então vivereis.
+          Todos aqueles que se deixam conduzir pelo Espírito de Deus são filhos de Deus.
+          De fato, vós não recebestes um espírito de escravos, para recairdes no medo, mas recebestes um espírito de filhos adotivos, no qual todos nós clamamos: Abá - ó Pai!
+          O próprio Espírito se une ao nosso espírito para nos atestar que somos filhos de Deus.
+          E, se somos filhos, somos também herdeiros, herdeiros de Deus e co-herdeiros de Cristo; se realmente sofremos com ele, é para sermos também glorificados com ele.
+          
+          Palavra do Senhor.
+    - type: gospel
+      main:
+        ref: Jo 20,19-23
+        text: |
+          Proclamação do Evangelho de Jesus Cristo segundo João
+          
+          Ao anoitecer daquele dia, o primeiro da semana,
+          estando fechadas, por medo dos judeus, as portas do lugar onde os discípulos se encontravam, Jesus entrou e pondo-se no meio deles, disse: "A paz esteja convosco".
+          Depois destas palavras, mostrou-lhes as mãos e o lado.
+          Então os discípulos se alegraram por verem o Senhor.
+          Novamente, Jesus disse: "A paz esteja convosco.
+          Como o Pai me enviou, também eu vos envio".
+          E depois de ter dito isso, soprou sobre eles e disse: "Recebei o Espírito Santo.
+          A quem perdoardes os pecados, eles lhes serão perdoados; a quem os não perdoardes, eles lhes serão retidos".
+          
+          Palavra da Salvação.
+      optional:
+        ref: Jo 14,15-16.23b-26
+        text: |
+          Proclamação do Evangelho de Jesus Cristo segundo João
+          
+          Naquele tempo,
+          disse Jesus a seus discípulos: "Se me amais, guardareis os meus mandamentos, e eu rogarei ao Pai, e ele vos dará um outro Defensor, para que permaneça sempre convosco.
+          Se alguém me ama, guardará a minha palavra, e o meu Pai o amará, e nós viremos e faremos nele a nossa morada.
+          Quem não me ama, não guarda a minha palavra.
+          E a palavra que escutais não é minha, mas do Pai que me enviou.
+          Isso é o que vos disse enquanto estava convosco, mas o Defensor, o Espírito Santo, que o Pai enviará em meu nome, ele vos ensinará tudo e vos recordará tudo o que eu vos tenho dito".
 
-        
-        Leitura da Primeira Carta de São Paulo aos Coríntios 12,3b-7.12-13
-        
-        Irmãos:
-        Ninguém pode dizer: Jesus é o Senhor a não ser no Espírito Santo.
-        Há diversidade de dons, mas um mesmo é o Espírito.
-        Há diversidade de ministérios, mas um mesmo é o Senhor.
-        Há diferentes atividades, mas um mesmo Deus que realiza todas as coisas em todos.
-        A cada um é dada a manifestação do Espírito em vista do bem comum.
-        Como o corpo é um, embora tenha muitos membros, e como todos os membros do corpo, embora sejam muitos, formam um só corpo, assim também acontece com Cristo.
-        De fato, todos nós, judeus ou gregos, escravos ou livres, fomos batizados num único Espírito, para formarmos um único corpo, e todos nós bebemos de um único Espírito.
-        
-        Palavra do Senhor.
-        
-        Ou, à escolha:
-        
-        Leitura da Carta de São Paulo aos Romanos 8,8-17
-        
-        Irmãos:
-        Os que vivem segundo a carne não podem agradar a Deus.
-        Vós não viveis segundo a carne, mas segundo o Espírito, se realmente o Espírito de Deus mora em vós.
-        Se alguém não tem o Espírito de Cristo, não pertence a Cristo.
-        Se, porém, Cristo está em vós, embora vosso corpo esteja ferido de morte por causa do pecado, vosso espírito está cheio de vida, graças à justiça.
-        E, se o Espírito daquele que ressuscitou Jesus dentre os mortos mora em vós, então aquele que ressuscitou Jesus Cristo dentre os mortos vivificará também vossos corpos mortais por meio do seu Espírito que mora em vós.
-        Portanto, irmãos, temos uma dívida, mas não para com a carne, para vivermos segundo a carne.
-        Pois, se viverdes segundo a carne, morrereis, mas se, pelo espírito, matardes o procedimento carnal, então vivereis.
-        Todos aqueles que se deixam conduzir pelo Espírito de Deus são filhos de Deus.
-        De fato, vós não recebestes um espírito de escravos, para recairdes no medo, mas recebestes um espírito de filhos adotivos, no qual todos nós clamamos: Abá - ó Pai!
-        O próprio Espírito se une ao nosso espírito para nos atestar que somos filhos de Deus.
-        E, se somos filhos, somos também herdeiros, herdeiros de Deus e co-herdeiros de Cristo; se realmente sofremos com ele, é para sermos também glorificados com ele.
-        
-        Palavra do Senhor.
-        
-        Proclamação do Evangelho de Jesus Cristo segundo João 20,19-23
-        
-        Ao anoitecer daquele dia, o primeiro da semana,
-        estando fechadas, por medo dos judeus, as portas do lugar onde os discípulos se encontravam, Jesus entrou e pondo-se no meio deles, disse: "A paz esteja convosco".
-        Depois destas palavras, mostrou-lhes as mãos e o lado.
-        Então os discípulos se alegraram por verem o Senhor.
-        Novamente, Jesus disse: "A paz esteja convosco.
-        Como o Pai me enviou, também eu vos envio".
-        E depois de ter dito isso, soprou sobre eles e disse: "Recebei o Espírito Santo.
-        A quem perdoardes os pecados, eles lhes serão perdoados; a quem os não perdoardes, eles lhes serão retidos".
-        
-        Palavra da Salvação.
-        
-        Proclamação do Evangelho de Jesus Cristo segundo João 14,15-16.23b-26
-        
-        Naquele tempo,
-        disse Jesus a seus discípulos: "Se me amais, guardareis os meus mandamentos, e eu rogarei ao Pai, e ele vos dará um outro Defensor, para que permaneça sempre convosco.
-        Se alguém me ama, guardará a minha palavra, e o meu Pai o amará, e nós viremos e faremos nele a nossa morada.
-        Quem não me ama, não guarda a minha palavra.
-        E a palavra que escutais não é minha, mas do Pai que me enviou.
-        Isso é o que vos disse enquanto estava convosco, mas o Defensor, o Espírito Santo, que o Pai enviará em meu nome, ele vos ensinará tudo e vos recordará tudo o que eu vos tenho dito".
-
-        Palavra da Salvação.
+          Palavra da Salvação.
 ordinary.week1.2.even:
   title: Segunda-feira da 1ª Semana
   subtitle: Tempo Comum
@@ -37098,48 +37277,54 @@ ordinary.week19.6.even:
   color: green
   readings:
     - type: reading
-      ref: Ez 16,1-15.60.63
-      text: |
-        Leitura da Profecia de Ezequiel
+      main:
+        ref: Ez 16,1-15.60.63
+        text: |
+          Leitura da Profecia de Ezequiel
 
-        A palavra do Senhor foi-me dirigida nestes termos:
-        "Filho do homem, mostra a Jerusalém suas abominações.
-        Dirás: Assim fala o Senhor Deus a Jerusalém: Por tua origem e nascimento és do país de Canaã.
-        Teu pai era um amorreu e tua mãe uma hitita.
-        E como foi o teu nascimento?
-        Quando nasceste, não te cortaram o cordão umbilical, não foste banhada em água, nem esfregada com salmoura nem envolvida em faixas.
-        Ninguém teve dó de ti, nem te prestou algum desses serviços por compaixão.
-        Ao contrário, no dia em que nasceste, eles te deixaram exposta em campo aberto, porque desprezavam a tua vida.
-        Então, eu passei junto de ti e vi que te debatias no próprio sangue.
-        E enquanto estavas em teu sangue, eu te disse: Vive!
-        Eu te fiz crescer exuberante como planta silvestre.
-        Tu cresceste e te desenvolveste, e chegaste à puberdade.
-        Teus seios se firmaram e os pelos cresceram; mas estavas inteiramente nua.
-        Passando junto de ti, percebi que tinhas chegado à idade do amor.
-        Estendi meu manto sobre ti para cobrir tua nudez.
-        Fiz um juramento, estabelecendo uma aliança contigo - oráculo do Senhor - e tu foste minha.
-        Banhei-te na água, limpei-te do sangue e ungi-te com perfume.
-        Eu te revesti de roupas bordadas, calcei-te com sandálias de fino couro, cingi-te de linho e te cobri de seda.
-        Eu te enfeitei de joias, coloquei braceletes em teu braços e um colar no pescoço.
-        Eu te pus um anel no nariz, brincos nas orelhas e uma coroa magnífica na cabeça.
-        Estavas enfeitada de ouro e prata, tuas vestimentas eram de linho finíssimo, de seda e de bordados.
-        Eu te nutria com flor de farinha, mel e óleo.
-        Ficaste cada vez mais bela e chegaste à realeza.
-        Tua fama se espalhou entre as nações por causa de tua beleza perfeita, devido ao esplendor com que te cobri - oráculo do Senhor.
-        Mas puseste tua confiança na beleza e te prostituíste graças à tua fama.
-        E sem pudor te oferecias a qualquer passante.
-        Eu, porém, me lembrarei de minha aliança contigo, quando ainda eras jovem, e vou estabelecer contigo uma aliança eterna.
-        É para que te recordes e te envergonhes, e na tua confusão não abras mais a boca, quando eu te houver perdoado tudo o que fizeste, - oráculo do Senhor Deus".
-        Palavra do Senhor.
-        Ou, à escolha: PRIMEIRA LEITURA Eu, porém, me lembrarei de minha aliança contigo; e ficarás envergonhada.
-        Leitura da Profecia de Ezequiel 16,59-63 Assim diz o Senhor Deus: "Agirei contigo, Jerusalém, segundo o teu proceder, tu que desprezaste o juramento, violando a aliança.
-        Eu, porém, me lembrarei de minha aliança contigo, quando ainda eras jovem, e vou estabelecer contigo uma aliança eterna.
-        Quando receberes tuas irmãs mais velhas e mais novas do que tu, então te lembrarás de tua conduta e ficarás envergonhada.
-        Eu as entregarei a ti como filhas, embora não em virtude de tua aliança.
-        Eu mesmo firmarei contigo a minha aliança, e saberás que eu sou o Senhor.
-        É para que te recordes e te envergonhes, e na tua confusão não abras mais a boca, quando eu te houver perdoado tudo o que fizeste, - oráculo do Senhor Deus".
+          A palavra do Senhor foi-me dirigida nestes termos:
+          "Filho do homem, mostra a Jerusalém suas abominações.
+          Dirás: Assim fala o Senhor Deus a Jerusalém: Por tua origem e nascimento és do país de Canaã.
+          Teu pai era um amorreu e tua mãe uma hitita.
+          E como foi o teu nascimento?
+          Quando nasceste, não te cortaram o cordão umbilical, não foste banhada em água, nem esfregada com salmoura nem envolvida em faixas.
+          Ninguém teve dó de ti, nem te prestou algum desses serviços por compaixão.
+          Ao contrário, no dia em que nasceste, eles te deixaram exposta em campo aberto, porque desprezavam a tua vida.
+          Então, eu passei junto de ti e vi que te debatias no próprio sangue.
+          E enquanto estavas em teu sangue, eu te disse: Vive!
+          Eu te fiz crescer exuberante como planta silvestre.
+          Tu cresceste e te desenvolveste, e chegaste à puberdade.
+          Teus seios se firmaram e os pelos cresceram; mas estavas inteiramente nua.
+          Passando junto de ti, percebi que tinhas chegado à idade do amor.
+          Estendi meu manto sobre ti para cobrir tua nudez.
+          Fiz um juramento, estabelecendo uma aliança contigo - oráculo do Senhor - e tu foste minha.
+          Banhei-te na água, limpei-te do sangue e ungi-te com perfume.
+          Eu te revesti de roupas bordadas, calcei-te com sandálias de fino couro, cingi-te de linho e te cobri de seda.
+          Eu te enfeitei de joias, coloquei braceletes em teu braços e um colar no pescoço.
+          Eu te pus um anel no nariz, brincos nas orelhas e uma coroa magnífica na cabeça.
+          Estavas enfeitada de ouro e prata, tuas vestimentas eram de linho finíssimo, de seda e de bordados.
+          Eu te nutria com flor de farinha, mel e óleo.
+          Ficaste cada vez mais bela e chegaste à realeza.
+          Tua fama se espalhou entre as nações por causa de tua beleza perfeita, devido ao esplendor com que te cobri - oráculo do Senhor.
+          Mas puseste tua confiança na beleza e te prostituíste graças à tua fama.
+          E sem pudor te oferecias a qualquer passante.
+          Eu, porém, me lembrarei de minha aliança contigo, quando ainda eras jovem, e vou estabelecer contigo uma aliança eterna.
+          É para que te recordes e te envergonhes, e na tua confusão não abras mais a boca, quando eu te houver perdoado tudo o que fizeste, - oráculo do Senhor Deus".
 
-        Palavra do Senhor.
+          Palavra do Senhor.
+      optional:
+        ref: Ez 16,59-63
+        text: |
+          Leitura da Profecia de Ezequiel
+          
+          Assim diz o Senhor Deus: "Agirei contigo, Jerusalém, segundo o teu proceder, tu que desprezaste o juramento, violando a aliança.
+          Eu, porém, me lembrarei de minha aliança contigo, quando ainda eras jovem, e vou estabelecer contigo uma aliança eterna.
+          Quando receberes tuas irmãs mais velhas e mais novas do que tu, então te lembrarás de tua conduta e ficarás envergonhada.
+          Eu as entregarei a ti como filhas, embora não em virtude de tua aliança.
+          Eu mesmo firmarei contigo a minha aliança, e saberás que eu sou o Senhor.
+          É para que te recordes e te envergonhes, e na tua confusão não abras mais a boca, quando eu te houver perdoado tudo o que fizeste, - oráculo do Senhor Deus".
+
+          Palavra do Senhor.
     - type: psalm
       ref: Is 12,2-4.5-6 (R. 1c)
       text: |
@@ -38575,7 +38760,8 @@ ordinary.week21.2.even:
         Naquele tempo, disse Jesus:
         "Ai de vós, mestres da Lei e fariseus hipócritas!
         Vós fechais o Reino dos Céus aos homens.
-        Vós porém não entrais, nem deixais entrar aqueles que o desejam. [14] Aí de vós, mestres da Lei e fariseus hipócritas!
+        Vós porém não entrais, nem deixais entrar aqueles que o desejam.
+        Ai de vós, mestres da Lei e fariseus hipócritas!
         Vós percorreis o mar e a terra para converter alguém, e quando o conseguis, o tornais merecedor do inferno, duas vezes pior do que vós.
         Ai de vós, guias cegos!
         Vós dizeis: 'Se alguém jura pelo Templo, não vale; mas, se alguém jura pelo ouro do Templo, então vale!' Insensatos e cegos!
@@ -38637,7 +38823,7 @@ ordinary.week21.2.odd:
         "Ai de vós, mestres da Lei e fariseus hipócritas!
         Vós fechais o Reino dos Céus aos homens.
         Vós, porém, não entrais, nem deixais entrar aqueles que o desejam.
-        Aí de vós, mestres da Lei e fariseus hipócritas!
+        Ai de vós, mestres da Lei e fariseus hipócritas!
         Vós percorreis o mar e a terra para converter alguém, e quando o conseguis, o tornais merecedor do inferno, duas vezes pior do que vós.
         Ai de vós, guias cegos!
         Vós dizeis: 'Se alguém jura pelo Templo, não vale; mas, se alguém jura pelo ouro do Templo, então vale!' Insensatos e cegos!
@@ -38695,7 +38881,7 @@ ordinary.week21.3.even:
         Vós deveríeis praticar isto, sem contudo deixar aquilo.
         Guias cegos!
         Vós filtrais o mosquito, mas engolis o camelo.
-        Aí de vós, mestres da Lei e fariseus hipócritas!
+        Ai de vós, mestres da Lei e fariseus hipócritas!
         Vós limpais o copo e o prato por fora, mas, por dentro, estais cheios de roubo e cobiça.
         Fariseu cego!
         Limpa primeiro o copo por dentro, para que também por fora fique limpo".
@@ -38804,7 +38990,7 @@ ordinary.week21.4.even:
         "Ai de vós, mestres da Lei e fariseus hipócritas!
         Vós sois como sepulcros caiados: por fora parecem belos, mas por dentro estão cheios de ossos de mortos e de toda podridão!
         Assim também vós: por fora, pareceis justos diante dos outros, mas por dentro estais cheios de hipocrisia e injustiça.
-        Aí de vós, mestres da Lei e fariseus hipócritas!
+        Ai de vós, mestres da Lei e fariseus hipócritas!
         Vós construís sepulcros para os profetas e enfeitais os túmulos dos justos, e dizeis: 'Se tivéssemos vivido no tempo de nossos pais, não teríamos sido cúmplices da morte dos profetas'.
         Com isso, confessais que sois filhos daqueles que mataram os profetas.
         Completai, pois, a medida de vossos pais!"
@@ -38857,7 +39043,7 @@ ordinary.week21.4.odd:
         "Ai de vós, mestres da Lei e fariseus hipócritas!
         Vós sois como sepulcros caiados: por fora parecem belos, mas por dentro estão cheios de ossos de mortos e de toda podridão!
         Assim também vós: por fora, pareceis justos diante dos outros, mas por dentro estais cheios de hipocrisia e injustiça.
-        Aí de vós, mestres da Lei e fariseus hipócritas!
+        Ai de vós, mestres da Lei e fariseus hipócritas!
         Vós construís sepulcros para os profetas e enfeitais os túmulos dos justos, e dizeis: 'Se tivéssemos vivido no tempo de nossos pais, não teríamos sido cúmplices da morte dos profetas'.
         Com isso, confessais que sois filhos daqueles que mataram os profetas.
         Completai, pois, a medida de vossos pais!"
@@ -43246,7 +43432,6 @@ ordinary.week26.1.c:
         o Senhor ama aquele que é justo
         É o Senhor quem protege o estrangeiro. R.
 
-        bc
         Ele ampara a viúva e o órfão
         mas confunde os caminhos dos maus.
         O Senhor reinará para sempre!
@@ -43873,7 +44058,7 @@ ordinary.week26.6.even:
         Proclamação do Evangelho de Jesus Cristo segundo Lucas
 
         Naquele tempo, disse Jesus:
-        "Ai de ti, Corazim! Aí de ti, Betsaida!
+        "Ai de ti, Corazim! Ai de ti, Betsaida!
         Porque se em Tiro e Sidônia tivessem sido realizados os milagres que foram feitos no vosso meio, há muito tempo teriam feito penitência, vestindo-se de cilício e sentando-se sobre cinzas.
         Pois bem: no dia do julgamento, Tiro e Sidônia terão uma sentença menos dura do que vós.
         Ai de ti, Cafarnaum!
@@ -43935,7 +44120,7 @@ ordinary.week26.6.odd:
         Proclamação do Evangelho de Jesus Cristo segundo Lucas
 
         Naquele tempo, disse Jesus:
-        "Ai de ti, Corazim! Aí de ti, Betsaida!
+        "Ai de ti, Corazim! Ai de ti, Betsaida!
         Porque se em Tiro e Sidônia tivessem sido realizados os milagres que foram feitos no vosso meio, há muito tempo teriam feito penitência, vestindo-se de cilício e sentando-se sobre cinzas.
         Pois bem: no dia do julgamento, Tiro e Sidônia terão uma sentença menos dura do que vós.
         Ai de ti, Cafarnaum!
@@ -45549,7 +45734,7 @@ ordinary.week28.4.even:
         "Ai de vós, fariseus, porque pagais o dízimo da hortelã, da arruda e de todas as outras ervas, mas deixais de lado a justiça e o amor de Deus.
         Vós deveríeis praticar isso, sem deixar de lado aquilo.
         Ai de vós, fariseus, porque gostais do lugar de honra nas sinagogas, e de serdes cumprimentados nas praças públicas.
-        Aí de vós, porque sois como túmulos que não se veem, sobre os quais os homens andam sem saber".
+        Ai de vós, porque sois como túmulos que não se veem, sobre os quais os homens andam sem saber".
         Um mestre da Lei tomou a palavra e disse: "Mestre, falando assim, insultas-nos também a nós!"
         Jesus respondeu: "Ai de vós também, mestres da Lei, porque colocais sobre os homens cargas insuportáveis, e vós mesmos não tocais nessas cargas, nem com um só dedo".
 
@@ -45599,10 +45784,10 @@ ordinary.week28.4.odd:
         Proclamação do Evangelho de Jesus Cristo segundo Lucas
 
         Naquele tempo, disse o Senhor:
-        "Aí de vós, fariseus, porque pagais o dízimo da hortelã, da arruda e de todas as outras ervas, mas deixais de lado a justiça e o amor de Deus.
+        "Ai de vós, fariseus, porque pagais o dízimo da hortelã, da arruda e de todas as outras ervas, mas deixais de lado a justiça e o amor de Deus.
         Vós deveríeis praticar isso, sem deixar de lado aquilo.
-        Aí de vós, fariseus, porque gostais do lugar de honra nas sinagogas, e de serdes cumprimentados nas praças públicas.
-        Aí de vós, porque sois como túmulos que não se veem, sobre os quais os homens andam sem saber".
+        Ai de vós, fariseus, porque gostais do lugar de honra nas sinagogas, e de serdes cumprimentados nas praças públicas.
+        Ai de vós, porque sois como túmulos que não se veem, sobre os quais os homens andam sem saber".
         Um mestre da Lei tomou a palavra e disse: "Mestre, falando assim, insultas-nos também a nós!"
         Jesus respondeu: "Ai de vós também, mestres da Lei, porque colocais sobre os homens cargas insuportáveis, e vós mesmos não tocais nessas cargas, nem com um só dedo".
 
@@ -46051,11 +46236,11 @@ ordinary.week29.1.b:
 
         Palavra do Senhor.
     - type: psalm
-      ref: ' Sl 32(33),4-5.18-19.20.22 (R. 22)'
+      ref: Sl 32(33),4-5.18-19.20.22 (R. 22)
       text: |
         R. Sobre nós venha, Senhor, a vossa graça,
-
         pois, em vós, nós esperamos!
+
         Pois reta é a palavra do Senhor,
         e tudo o que ele faz merece fé.
         Deus ama o direito e a justiça,
@@ -46130,8 +46315,8 @@ ordinary.week29.1.c:
       ref: Sl 120(121),1-2.3-4.5-6.7-8 (R. cf. 2)
       text: |
         R. Do Senhor é que me vem o meu socorro,
-
         do Senhor que fez o céu e fez a terra.
+
         Eu levanto os meus olhos para os montes:
         de onde pode vir o meu socorro?
         "Do Senhor é que me vem o meu socorro,
@@ -46268,8 +46453,8 @@ ordinary.week29.2.odd:
       ref: Lc 1,69-70.71-72.73-75 (R. cf. 68)
       text: |
         R. Bendito seja o Senhor Deus de Israel,
-
         porque a seu povo visitou e libertou!
+
         Fez surgir um poderoso Salvador
         na casa de Davi, seu servidor,
         como falara pela boca de seus santos,
@@ -46392,8 +46577,8 @@ ordinary.week29.3.odd:
       ref: Sl 39(40),7-8a.8b-9.10.17 (R. cf. 8a.9a)
       text: |
         R. Eis que venho fazer, com prazer,
-
         a vossa vontade, Senhor!
+
         Sacrifício e oblação não quisestes,
         mas abristes, Senhor, meus ouvidos;
         não pedistes ofertas nem vítimas,
@@ -46869,8 +47054,8 @@ ordinary.week29.7.odd:
       ref: Sl 23(24),1-2.3-4ab.5-6 (R. cf. 6)
       text: |
         R. É assim a geração dos que buscam vossa face,
-
         ó Senhor, Deus de Israel.
+
         Ao Senhor pertence a terra e o que ela encerra,
         o mundo inteiro com os seres que o povoam;
         porque ele a tornou firme sobre os mares,
@@ -46992,7 +47177,7 @@ ordinary.week30.1.b:
 
         Palavra do Senhor.
     - type: psalm
-      ref: '  Sl 125(126),1-2ab.2cd-3.4-5.6 (R. 3)'
+      ref: Sl 125(126),1-2ab.2cd-3.4-5.6 (R. 3)
       text: |
         R. Maravilhas fez conosco o Senhor,
         exultemos de alegria!
@@ -47071,8 +47256,8 @@ ordinary.week30.1.c:
       ref: Sl 33(34),2-3.17-18.19.23 (R. 7a.23a)
       text: |
         R. O pobre clama a Deus e ele escuta:
-
         o Senhor liberta a vida dos seus servos.
+
         Bendirei o Senhor Deus em todo o tempo,
         seu louvor estará sempre em minha boca.
         Minha alma se gloria no Senhor;
@@ -52545,7 +52730,7 @@ ordinary.week34.7.odd:
 
           Palavra do Senhor.
     - type: psalm
-      ref: 'Cânt.: Is 12,2-3.4bcd.5-6 (R. 6b)'
+      ref: Is 12,2-3.4bcd.5-6 (R. 6b)
       text: |
         R. O Santo de Israel é grande entre vós.
 
@@ -54173,8 +54358,8 @@ annunciation:
       ref: Sl 45(46),2-3.5-6.8-9 (R. 5)
       text: |
         R. Os braços de um rio vêm trazer alegria
-        
         à Cidade de Deus, à morada do Altíssimo.
+
         O Senhor para nós é refúgio e vigor,
         sempre pronto, mostrou-se um socorro na angústia;
         assim não tememos, se a terra estremece,

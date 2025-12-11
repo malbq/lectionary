@@ -18,16 +18,14 @@
     "build": "npm run json:gen && npm run keys:gen",
     "postbuild": "npm run json:validate",
     "status": "npm run status:s",
-    "status:s": "node --experimental-json-modules cli/index.mjs -s",
-    "status:d": "node --experimental-json-modules cli/index.mjs -d",
-    "status:a": "node --experimental-json-modules cli/index.mjs -a"
+    "status:s": "node cli/index.js -s",
+    "status:d": "node cli/index.js -d",
+    "status:a": "node cli/index.js -a"
   },
   "author": "mauro@malbq.dev",
   "license": "ISC",
   "devDependencies": {
     "ajv-cli": "^5.0.0",
-    "chalk": "^5.0.1",
-    "commander": "^9.4.0",
     "js-yaml": "^4.1.0",
     "typescript": "^4.7.4",
     "typescript-json-schema": "^0.54.0"
