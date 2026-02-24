@@ -1,4 +1,4 @@
-'1121':
+"1121":
   title: Apresentação da Bem-aventurada Virgem Maria
   subtitle: Memória
   color: white
@@ -21,7 +21,7 @@
       text: |
         R. O Poderoso fez por mim maravilhas,
         e Santo é o seu nome.
-        
+
         Ou: Bendita sejais, ó Virgem Maria;
         trouxestes no ventre a Palavra eterna!
 
@@ -60,7 +60,7 @@
         Pois todo aquele que faz a vontade do meu Pai, que está nos céus, esse é meu irmão, minha irmã e minha mãe".
 
         Palavra da Salvação.
-'1208':
+"1208":
   title: Imaculada Conceição da Bem-aventurada Virgem Maria
   subtitle: Solenidade
   color: white
@@ -141,7 +141,7 @@
         E o anjo retirou-se.
 
         Palavra da Salvação.
-'1212':
+"1212":
   title: Bem-aventurada Virgem Maria de Guadalupe
   subtitle: Festa
   color: white
@@ -187,8 +187,8 @@
         Então Maria disse: "A minha alma engrandece o Senhor, e se alegrou o meu espírito em Deus, meu Salvador".
 
         Palavra da Salvação.
-'1217':
-  title: '?{weekday} da {week}ª Semana'
+"1217":
+  title: "?{weekday} da {week}ª Semana"
   subtitle: Tempo do Advento
   color: purple
   readings:
@@ -250,8 +250,8 @@
         Assim, as gerações desde Abraão até Davi são quatorze; de Davi até o exílio na Babilônia, quatorze; e do exílio na Babilônia até Cristo, quatorze.
 
         Palavra da Salvação.
-'1218':
-  title: '?{weekday} da {week}ª Semana'
+"1218":
+  title: "?{weekday} da {week}ª Semana"
   subtitle: Tempo do Advento
   color: purple
   readings:
@@ -301,8 +301,8 @@
         Quando acordou, José fez conforme o anjo do Senhor havia mandado, e aceitou sua esposa.
 
         Palavra da Salvação.
-'1219':
-  title: '?{weekday} da {week}ª Semana'
+"1219":
+  title: "?{weekday} da {week}ª Semana"
   subtitle: Tempo do Advento
   color: purple
   readings:
@@ -379,8 +379,8 @@
         Ela dizia: "Eis o que o Senhor fez por mim, nos dias em que ele se dignou tirar-me da humilhação pública!"
 
         Palavra da Salvação.
-'1220':
-  title: '?{weekday} da {week}ª Semana'
+"1220":
+  title: "?{weekday} da {week}ª Semana"
   subtitle: Tempo do Advento
   color: purple
   readings:
@@ -437,8 +437,8 @@
         E o anjo retirou-se.
 
         Palavra da Salvação.
-'1221':
-  title: '?{weekday} da {week}ª Semana'
+"1221":
+  title: "?{weekday} da {week}ª Semana"
   subtitle: Tempo do Advento
   color: purple
   readings:
@@ -507,8 +507,8 @@
         Bem-aventurada aquela que acreditou, porque será cumprido, o que o Senhor lhe prometeu".
 
         Palavra da Salvação.
-'1222':
-  title: '?{weekday} da {week}ª Semana'
+"1222":
+  title: "?{weekday} da {week}ª Semana"
   subtitle: Tempo do Advento
   color: purple
   readings:
@@ -569,8 +569,8 @@
         Maria ficou três meses com Isabel; depois voltou para casa.
 
         Palavra da Salvação.
-'1223':
-  title: '?{weekday} da {week}ª Semana'
+"1223":
+  title: "?{weekday} da {week}ª Semana"
   subtitle: Tempo do Advento
   color: purple
   readings:
@@ -623,7 +623,7 @@
         E todos os que ouviam a notícia, ficavam pensando: "O que virá a ser este menino?" De fato, a mão do Senhor estava com ele.
 
         Palavra da Salvação.
-'1226':
+"1226":
   title: Santo Estêvão, Primeiro Mártir
   subtitle: Festa
   color: red
@@ -680,7 +680,7 @@
         Mas quem perseverar até o fim, esse será salvo".
 
         Palavra da Salvação.
-'1227':
+"1227":
   title: São João, Apóstolo e Evangelista
   subtitle: Festa
   color: white
@@ -732,7 +732,7 @@
         Ele viu, e acreditou.
 
         Palavra da Salvação.
-'1228':
+"1228":
   title: Os Santos Inocentes, mártires
   subtitle: Festa
   color: red
@@ -788,7 +788,7 @@
         Então se cumpriu o que foi dito pelo profeta Jeremias: "Ouviu-se um grito em Ramá, choro e grande lamento: é Raquel que chora seus filhos, e não quer ser consolada, porque eles não existem mais".
 
         Palavra da Salvação.
-'1229':
+"1229":
   title: Quinto dia na Oitava de Natal
   subtitle: Oitava de Natal
   color: white
@@ -847,7 +847,7 @@
         Quanto a ti, uma espada te traspassará a alma".
 
         Palavra da Salvação.
-'1230':
+"1230":
   title: Sexto dia na Oitava de Natal
   subtitle: Oitava de Natal
   color: white
@@ -901,7 +901,7 @@
         O menino crescia e tornava-se forte, cheio de sabedoria; e a graça de Deus estava com ele.
 
         Palavra da Salvação.
-'1231':
+"1231":
   title: Sétimo dia na Oitava de Natal
   subtitle: Oitava de Natal
   color: white
@@ -967,7 +967,7 @@
 
         Palavra da Salvação.
 1224.day:
-  title: '?{weekday} da {week}ª Semana'
+  title: "?{weekday} da {week}ª Semana"
   subtitle: Tempo do Advento
   color: purple
   readings:
@@ -1014,17 +1014,17 @@
       ref: Lc 1,67-79
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Lucas
-        
+
         Naquele tempo,
         Zacarias, o pai de João, repleto do Espírito Santo, profetizou, dizendo: "Bendito seja o Senhor, Deus de Israel, porque a seu povo visitou e libertou.
         Fez aparecer para nós uma força de salvação na casa de seu servo Davi, como tinha prometido desde outrora, pela boca de seus santos profetas, para nos salvar dos nossos inimigos e da mão de todos os que nos odeiam.
         Ele usou de misericórdia para com nossos pais, recordando-se de sua santa aliança e do juramento que fez a nosso pai Abraão, para conceder-nos, que, sem temor e libertos das mãos dos inimigos, nós o sirvamos, com santidade e justiça, em sua presença, todos os nossos dias.
         E tu, Menino, serás chamado profeta do Altíssimo, pois irás adiante do Senhor para preparar-lhe os caminhos, anunciando ao seu povo a salvação, pelo perdão dos seus pecados.
         Graças à misericordiosa compaixão do nosso Deus, o sol que nasce do alto nos visitará, para iluminar os que jazem nas trevas e nas sombras da morte, e dirigir nossos passos no caminho da paz."
-        
+
         Palavra da Salvação.
 1224.1.day:
-  title: '?{weekday} da {week}ª Semana'
+  title: "?{weekday} da {week}ª Semana"
   subtitle: Tempo do Advento
   color: purple
   readings:
@@ -1726,23 +1726,23 @@ holyFamily.c:
           Mesmo que ele esteja perdendo a lucidez, procura ser compreensivo para com ele; não o humilhes, em nenhum dos dias de sua vida, a caridade feita a teu pai não será esquecida, mas servirá para reparar os teus pecados e, na justiça, será para tua edificação.
 
           Palavra do Senhor.
-        optional:
-          ref: Sm 1,20-22.24-28
-          text: |
-            Leitura do Primeiro Livro de Samuel 
-            
-            Ana concebeu e, no devido tempo, deu à luz um filho e chamou-o Samuel, porque - disse ela - "eu o pedi ao Senhor".
-            Quando seu marido Elcana subiu com toda a família para oferecer ao Senhor o sacrifício anual e cumprir seu voto, Ana não subiu, mas disse ao marido: "Eu não irei enquanto o menino não for desmamado.
-            Então o levarei para ser apresentado ao Senhor, e ali ficará para sempre".
-            Logo que o desmamou, Ana levou consigo o menino à casa do Senhor em Silo, e mais um novilho de três anos, três arrobas de farinha e um odre de vinho.
-            O menino, porém, era ainda uma criança.
-            Depois de sacrificarem o novilho, apresentaram o menino a Eli.
-            E Ana disse-lhe: "Ouve, meu senhor, por tua vida, eu sou a mulher que esteve aqui orando ao Senhor, na tua presença.
-            Eis o menino por quem eu pedi, e o Senhor ouviu a minha súplica.
-            Portanto, eu também o ofereço ao Senhor, a fim de que só a ele sirva em todos os dias da sua vida".
-            E adoraram o Senhor.
-            
-            Palavra do Senhor
+      optional:
+        ref: Sm 1,20-22.24-28
+        text: |
+          Leitura do Primeiro Livro de Samuel 
+
+          Ana concebeu e, no devido tempo, deu à luz um filho e chamou-o Samuel, porque - disse ela - "eu o pedi ao Senhor".
+          Quando seu marido Elcana subiu com toda a família para oferecer ao Senhor o sacrifício anual e cumprir seu voto, Ana não subiu, mas disse ao marido: "Eu não irei enquanto o menino não for desmamado.
+          Então o levarei para ser apresentado ao Senhor, e ali ficará para sempre".
+          Logo que o desmamou, Ana levou consigo o menino à casa do Senhor em Silo, e mais um novilho de três anos, três arrobas de farinha e um odre de vinho.
+          O menino, porém, era ainda uma criança.
+          Depois de sacrificarem o novilho, apresentaram o menino a Eli.
+          E Ana disse-lhe: "Ouve, meu senhor, por tua vida, eu sou a mulher que esteve aqui orando ao Senhor, na tua presença.
+          Eis o menino por quem eu pedi, e o Senhor ouviu a minha súplica.
+          Portanto, eu também o ofereço ao Senhor, a fim de que só a ele sirva em todos os dias da sua vida".
+          E adoraram o Senhor.
+
+          Palavra do Senhor
     - type: psalm
       main:
         ref: Sl 127(128),1-2.3.4-5 (R. cf. 1)
@@ -1812,7 +1812,7 @@ holyFamily.c:
         ref: 1Jo 3,1-2.21-24
         text: |
           Leitura da Primeira Carta de São João
-          
+
           Caríssimos:
           Vede que grande presente de amor o Pai nos deu: de sermos chamados filhos de Deus!
           E nós o somos!
@@ -1824,7 +1824,7 @@ holyFamily.c:
           Este é o seu mandamento: que creiamos no nome do seu Filho, Jesus Cristo, e nos amemos uns aos outros, de acordo com o mandamento que ele nos deu.
           Quem guarda os seus mandamentos permanece com Deus e Deus permanece com ele.
           Que ele permanece conosco, sabemo-lo pelo Espírito que ele nos deu.
-          
+
           Palavra do Senhor.
     - type: gospel
       ref: Lc 2,41-52
@@ -2140,7 +2140,7 @@ baptism.c:
         ref: Is 40,1-5.9-11
         text: |
           Leitura do Livro do Profeta Isaías
-          
+
           Consolai o meu povo, consolai-o!
           - diz o vosso Deus.
           Falai ao coração de Jerusalém e dizei em alta voz que sua servidão acabou e a expiação de suas culpas foi cumprida; ela recebeu das mãos do Senhor o dobro por todos os seus pecados.
@@ -2149,7 +2149,7 @@ baptism.c:
           Sobe a um alto monte, tu, que trazes a Boa-Nova a Sião; levanta com força a tua voz, tu, que trazes a Boa-Nova a Jerusalém, ergue a voz, não temas; dize às cidades de Judá:
           "Eis o vosso Deus, eis que o Senhor Deus vem com poder, seu braço tudo domina: eis, com ele, sua conquista, eis à sua frente a vitória.
           Como um pastor, ele apascenta o rebanho, reúne, com a força dos braços, os cordeiros e carrega-os ao colo; ele mesmo tange as ovelhas-mães".
-          
+
           Palavra do Senhor.
     - type: psalm
       main:
@@ -2171,38 +2171,38 @@ baptism.c:
           No seu templo os fiéis bradam: "Glória!"
           É o Senhor que domina os dilúvios,
           o Senhor reinará para sempre! R.
-        optional:
-          ref: Sl 103(104),1-2.3-4.24-25.27-28.29-30 (R. 1)
-          text: |
-            R. Bendize, ó minha alma, ao Senhor!
+      optional:
+        ref: Sl 103(104),1-2.3-4.24-25.27-28.29-30 (R. 1)
+        text: |
+          R. Bendize, ó minha alma, ao Senhor!
 
-            Bendize, ó minha alma, ao Senhor!
-            Ó meu Deus e meu Senhor, como sois grande!
-            De majestade e esplendor vos revestis
-            e de luz vos envolveis como num manto. R.
-            
-            Estendeis qual uma tenda o firmamento,
-            construís vosso palácio sobre as águas;
-            dos ventos fazeis vossos mensageiros,
-            do fogo e chama fazeis vossos servidores. R.
-            
-            Quão numerosas, ó Senhor, são vossas obras,
-            e que sabedoria em todas elas!
-            Encheu-se a terra com as vossas criaturas!
-            Eis o mar tão espaçoso e tão imenso,
-            no qual se movem seres incontáveis,
-            gigantescos animais e pequeninos. R.
-            
-            Todos eles, ó Senhor, de vós esperam
-            que a seu tempo vós lhes deis o alimento;
-            vós lhes dais o que comer e eles recolhem,
-            vós abris a vossa mão e eles se fartam. R.
-            
-            Se escondeis a vossa face, se apavoram,
-            se tirais o seu respiro, eles perecem
-            e voltam para o pó de onde vieram;
-            enviais o vosso espírito e renascem
-            e da terra toda a face renovais. R.
+          Bendize, ó minha alma, ao Senhor!
+          Ó meu Deus e meu Senhor, como sois grande!
+          De majestade e esplendor vos revestis
+          e de luz vos envolveis como num manto. R.
+
+          Estendeis qual uma tenda o firmamento,
+          construís vosso palácio sobre as águas;
+          dos ventos fazeis vossos mensageiros,
+          do fogo e chama fazeis vossos servidores. R.
+
+          Quão numerosas, ó Senhor, são vossas obras,
+          e que sabedoria em todas elas!
+          Encheu-se a terra com as vossas criaturas!
+          Eis o mar tão espaçoso e tão imenso,
+          no qual se movem seres incontáveis,
+          gigantescos animais e pequeninos. R.
+
+          Todos eles, ó Senhor, de vós esperam
+          que a seu tempo vós lhes deis o alimento;
+          vós lhes dais o que comer e eles recolhem,
+          vós abris a vossa mão e eles se fartam. R.
+
+          Se escondeis a vossa face, se apavoram,
+          se tirais o seu respiro, eles perecem
+          e voltam para o pó de onde vieram;
+          enviais o vosso espírito e renascem
+          e da terra toda a face renovais. R.
     - type: reading
       main:
         ref: At 10,34-38
@@ -2217,19 +2217,19 @@ baptism.c:
           Ele andou por toda a parte, fazendo o bem e curando a todos os que estavam dominados pelo demônio; porque Deus estava com ele".
 
           Palavra do Senhor.
-        optional:
-          ref: Tt 2,11-14;3,4-7
-          text: |
-            Leitura da Carta de São Paulo a Tito
-            
-            Caríssimos: A graça de Deus se manifestou trazendo salvação para todos os homens.
-            Ela nos ensina a abandonar a impiedade e as paixões mundanas e a viver neste mundo com equilíbrio, justiça e piedade, aguardando a feliz esperança e a manifestação da glória do nosso grande Deus e Salvador, Jesus Cristo.
-            Ele se entregou por nós, para nos resgatar de toda a maldade e purificar para si um povo que lhe pertença e que se dedique a praticar o bem.
-            Manifestou-se a bondade de Deus, nosso Salvador, e o seu amor pelos homens:
-            Ele salvou-nos não por causa dos atos de justiça que tivéssemos praticado, mas por sua misericórdia, quando renascemos e fomos renovados no batismo pelo Espírito Santo, que ele derramou abundantemente sobre nós por meio de nosso Salvador Jesus Cristo.
-            Justificados assim, pela sua graça, nos tornamos na esperança herdeiros da vida eterna.
-            
-            Palavra do Senhor.
+      optional:
+        ref: Tt 2,11-14;3,4-7
+        text: |
+          Leitura da Carta de São Paulo a Tito
+
+          Caríssimos: A graça de Deus se manifestou trazendo salvação para todos os homens.
+          Ela nos ensina a abandonar a impiedade e as paixões mundanas e a viver neste mundo com equilíbrio, justiça e piedade, aguardando a feliz esperança e a manifestação da glória do nosso grande Deus e Salvador, Jesus Cristo.
+          Ele se entregou por nós, para nos resgatar de toda a maldade e purificar para si um povo que lhe pertença e que se dedique a praticar o bem.
+          Manifestou-se a bondade de Deus, nosso Salvador, e o seu amor pelos homens:
+          Ele salvou-nos não por causa dos atos de justiça que tivéssemos praticado, mas por sua misericórdia, quando renascemos e fomos renovados no batismo pelo Espírito Santo, que ele derramou abundantemente sobre nós por meio de nosso Salvador Jesus Cristo.
+          Justificados assim, pela sua graça, nos tornamos na esperança herdeiros da vida eterna.
+
+          Palavra do Senhor.
     - type: gospel
       main:
         ref: Lc 3,15-16.21-22
@@ -2246,7 +2246,7 @@ baptism.c:
           E do céu veio uma voz: "Tu és o meu Filho amado, em ti ponho o meu bem-querer".
 
           Palavra da Salvação.
-      optional: 
+      optional:
         ref: Lc 3,15-16.21-22
         text: |
           Proclamação do Evangelho de Jesus Cristo segundo Lucas
@@ -2475,7 +2475,7 @@ corpusChristi.a:
       text: |
         R. Glorifica o Senhor, Jerusalém;
         celebra teu Deus, ó Sião!
-        
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Glorifica o Senhor, Jerusalém!
@@ -3036,7 +3036,7 @@ assumption.vigil:
       text: |
         R. Subi, Senhor, para o lugar de vosso pouso,
         subi com vossa arca poderosa!
-        
+
         Nós soubemos que a arca estava em Éfrata
         e nos campos de Iaar a encontramos:
         Entremos no lugar em que ele habita,
@@ -3075,7 +3075,7 @@ assumption.vigil:
         "Feliz o ventre que te trouxe e os seios que te amamentaram".
         Jesus respondeu:
         "Muito mais felizes são aqueles que ouvem a palavra de Deus e a põem em prática".
-        
+
         Palavra da Salvação.
 assumption.day:
   title: Assunção de Nossa Senhora
@@ -3105,7 +3105,7 @@ assumption.day:
       text: |
         R. À vossa direita se encontra a rainha,
         com veste esplendente de ouro de Ofir.
-        
+
         As filhas de reis vêm ao vosso encontro,
         e à vossa direita se encontra a rainha
         com veste esplendente de ouro de Ofir. R.
@@ -3160,7 +3160,7 @@ assumption.day:
         Maria ficou três meses com Isabel; depois voltou para casa.
 
         Palavra da Salvação.
-'0101':
+"0101":
   title: Santa Maria, Mãe de Deus
   subtitle: Solenidade
   color: white
@@ -3221,8 +3221,8 @@ assumption.day:
         Quando se completaram os oito dias para a circuncisão do menino, deram-lhe o nome de Jesus, como fora chamado pelo anjo antes de ser concebido.
 
         Palavra da Salvação.
-'0102':
-  title: '?{weekday} antes da Epifania'
+"0102":
+  title: "?{weekday} antes da Epifania"
   subtitle: Tempo do Natal
   color: white
   readings:
@@ -3289,8 +3289,8 @@ assumption.day:
         Isso aconteceu em Betânia além do Jordão, onde João estava batizando.
 
         Palavra da Salvação.
-'0103':
-  title: '?{weekday} antes da Epifania'
+"0103":
+  title: "?{weekday} antes da Epifania"
   subtitle: Tempo do Natal
   color: white
   readings:
@@ -3345,8 +3345,8 @@ assumption.day:
         Também eu não o conhecia, mas aquele que me enviou a batizar com água me disse: 'Aquele sobre quem vires o Espírito descer e permanecer, este é quem batiza com o Espírito Santo'.
         Eu vi e dou testemunho: Este é o Filho de Deus!"
         Palavra da Salvação.
-'0104':
-  title: '?{weekday} antes da Epifania'
+"0104":
+  title: "?{weekday} antes da Epifania"
   subtitle: Tempo do Natal
   color: white
   readings:
@@ -3402,8 +3402,8 @@ assumption.day:
         Jesus olhou bem para ele e disse: "Tu és Simão, filho de João; tu serás chamado Cefas" (que quer dizer: Pedra).
 
         Palavra da Salvação.
-'0105':
-  title: '?{weekday} antes da Epifania'
+"0105":
+  title: "?{weekday} antes da Epifania"
   subtitle: Tempo do Natal
   color: white
   readings:
@@ -3469,8 +3469,8 @@ assumption.day:
         E Jesus continuou: "Em verdade, em verdade, eu vos digo: Vereis o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do Homem".
 
         Palavra da Salvação.
-'0106':
-  title: '?{weekday} antes da Epifania'
+"0106":
+  title: "?{weekday} antes da Epifania"
   subtitle: Tempo do Natal
   color: white
   readings:
@@ -3529,8 +3529,8 @@ assumption.day:
         E do céu veio uma voz: "Tu és o meu Filho amado, em ti ponho meu bem-querer".
 
         Palavra da Salvação.
-'0107':
-  title: '?{weekday} antes da Epifania'
+"0107":
+  title: "?{weekday} antes da Epifania"
   subtitle: Tempo do Natal
   color: white
   readings:
@@ -3607,17 +3607,17 @@ christmas.week2.1:
   color: white
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: psalm
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: reading
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: gospel
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
 christmas.week2.2:
   title: Segunda-feira após a Epifania
   subtitle: Tempo do Natal
@@ -4210,12 +4210,12 @@ advent.week1.2:
       ref: Leitura do Livro do Profeta Isaías 4,2-6
       text: |
         Leitura do Livro do Profeta Isaías
-        
+
         Naquele dia, o povo do Senhor terá esplendor e glória,
         e o fruto da terra será de grande alegria para os sobreviventes de Israel.
         Então, os que forem deixados em Sião, os sobreviventes de Jerusalém, serão chamados santos, a saber, todos os destinados à vida em Jerusalém.
         Quando o Senhor tiver lavado as imundícies das filhas de Sião, e limpado as manchas de sangue dentro de Jerusalém, com espírito de justiça e de purificação, ele criará em todo lugar do monte Sião e em suas assembleias uma nuvem durante o dia, e fumaça e clarão de chamas durante a noite: e será proteção para toda a sua glória, uma tenda para dar sombra contra o calor do dia, abrigo e refúgio contra a ventania e a chuva.
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Sl 121(122),1-2.3-4a.4b-5.6-7.8-9 (R:.1)
@@ -6924,13 +6924,13 @@ lent.week2.1.c:
           De lá aguardamos o nosso Salvador, o Senhor, Jesus Cristo.
           Ele transformará o nosso corpo humilhado e o tornará semelhante ao seu corpo glorioso, com o poder que tem de sujeitar a si todas as coisas.
           Assim, meus irmãos, a quem quero bem e dos quais sinto saudade, minha alegria, minha coroa, meus amigos, continuai firmes no Senhor.
-          
+
           Palavra do Senhor.
       short:
         ref: Fl 3,20-4,1
         text: |
           Leitura da Carta de São Paulo aos Filipenses
-          
+
           Irmãos:
           Nós, porém, somos cidadãos do céu.
           De lá aguardamos o nosso Salvador, o Senhor, Jesus Cristo.
@@ -7490,13 +7490,13 @@ lent.week3.1.a:
           Jesus permaneceu aí dois dias.
           E muitos outros creram por causa da sua palavra.
           E disseram à mulher: "Já não cremos por causa das tuas palavras, pois nós mesmos ouvimos e sabemos, que este é verdadeiramente o salvador do mundo".
-          
+
           Palavra da Salvação.
       short:
         ref: João 4,5-15.19b-26.39a.40-42
         text: |
           Proclamação do Evangelho de Jesus Cristo segundo
-          
+
           Naquele tempo, Jesus chegou a uma cidade da Samaria, chamada Sicar, perto do terreno que Jacó tinha dado ao seu filho José.
           Era aí que ficava o poço de Jacó.
           Cansado da viagem, Jesus sentou-se junto ao poço.
@@ -7665,7 +7665,7 @@ lent.week3.1.c:
           Ferirás a pedra e dela sairá água para o povo beber".
           Moisés assim fez na presença dos anciãos de Israel.
           E deu àquele lugar o nome de Massa e Meriba, por causa da disputa dos filhos de Israel e porque tentaram o Senhor, dizendo: "O Senhor está no meio de nós, ou não?"
-          
+
           Palavra do Senhor.
     - type: psalm
       main:
@@ -7734,7 +7734,7 @@ lent.week3.1.c:
           Com efeito, quando éramos ainda fracos, Cristo morreu pelo ímpios, no tempo marcado.
           Dificilmente alguém morrerá por um justo; por uma pessoa muito boa, talvez alguém se anime a morrer.
           Pois bem, a prova de que Deus nos ama é que Cristo morreu por nós, quando éramos ainda pecadores.
-          
+
           Palavra do Senhor.
     - type: gospel
       main:
@@ -7764,7 +7764,7 @@ lent.week3.1.c:
         ref: João 4,5-42
         text: |
           Proclamação do Evangelho de Jesus Cristo segundo João
-          
+
           Naquele tempo,
           Jesus chegou a uma cidade da Samaria, chamada Sicar, perto do terreno que Jacó tinha dado ao seu filho José.
           Era aí que ficava o poço de Jacó.
@@ -7818,13 +7818,13 @@ lent.week3.1.c:
           Jesus permaneceu aí dois dias.
           E muitos outros creram por causa da sua palavra.
           E disseram à mulher: "Já não cremos por causa das tuas palavras, pois nós mesmos ouvimos e sabemos, que este é verdadeiramente o salvador do mundo".
-          
+
           Palavra da Salvação.
       optional2:
         ref: 4,5-15.19b-26.39a.40-42
         text: |
           Proclamação do Evangelho de Jesus Cristo segundo João
-          
+
           Naquele tempo,
           Jesus chegou a uma cidade da Samaria, chamada Sicar, perto do terreno que Jacó tinha dado ao seu filho José.
           Era aí que ficava o poço de Jacó.
@@ -8505,7 +8505,7 @@ lent.week4.1.c:
           E o Senhor disse: "Levanta-te, unge-o: é este!"
           Samuel tomou o chifre com óleo e ungiu a Davi na presença de seus irmãos.
           E a partir daquele dia o espírito do Senhor se apoderou de Davi.
-          
+
           Palavra do Senhor.
     - type: psalm
       main:
@@ -8527,35 +8527,35 @@ lent.week4.1.c:
           e vosso rosto não se cubra de vergonha!
           Este infeliz gritou a Deus, e foi ouvido,
           e o Senhor o libertou de toda angústia. R.
-        optional:
-          ref: Sl 22(23),1-3a.3b-4.5.6 (R. 1)
-          text: |
-            R. O Senhor é o pastor que me conduz;
-            não me falta coisa alguma.
+      optional:
+        ref: Sl 22(23),1-3a.3b-4.5.6 (R. 1)
+        text: |
+          R. O Senhor é o pastor que me conduz;
+          não me falta coisa alguma.
 
-            O Senhor é o pastor que me conduz;
-            não me falta coisa alguma.
-            Pelos prados e campinas verdejantes
-            ele me leva a descansar.
-            Para as águas repousantes me encaminha,
-            e restaura as minhas forças R.
+          O Senhor é o pastor que me conduz;
+          não me falta coisa alguma.
+          Pelos prados e campinas verdejantes
+          ele me leva a descansar.
+          Para as águas repousantes me encaminha,
+          e restaura as minhas forças R.
 
-            Ele me guia no caminho mais seguro,
-            pela honra do seu nome.
-            Mesmo que eu passe pelo vale tenebroso,
-            nenhum mal eu temerei.
-            Estais comigo com bastão e com cajado,
-            eles me dão a segurança! R.
-            
-            Preparais à minha frente uma mesa,
-            bem à vista do inimigo;
-            com óleo vós ungis minha cabeça,
-            e o meu cálice transborda. R.
+          Ele me guia no caminho mais seguro,
+          pela honra do seu nome.
+          Mesmo que eu passe pelo vale tenebroso,
+          nenhum mal eu temerei.
+          Estais comigo com bastão e com cajado,
+          eles me dão a segurança! R.
 
-            Felicidade e todo bem hão de seguir-me,
-            por toda a minha vida;
-            e, na casa do Senhor, habitarei
-            pelos tempos infinitos. R.
+          Preparais à minha frente uma mesa,
+          bem à vista do inimigo;
+          com óleo vós ungis minha cabeça,
+          e o meu cálice transborda. R.
+
+          Felicidade e todo bem hão de seguir-me,
+          por toda a minha vida;
+          e, na casa do Senhor, habitarei
+          pelos tempos infinitos. R.
     - type: reading
       main:
         ref: 2Cor 5,17-21
@@ -8577,7 +8577,7 @@ lent.week4.1.c:
         ref: Ef 5,8-14
         text: |
           Leitura da Carta de São Paulo aos Efésios
-          
+
           Irmãos:
           Outrora éreis trevas, mas agora sois luz no Senhor.
           Vivei como filhos da luz.
@@ -8587,7 +8587,7 @@ lent.week4.1.c:
           O que essa gente faz em segredo, tem vergonha até de dizê-lo.
           Mas tudo que é condenável torna-se manifesto pela luz; e tudo o que é manifesto é luz.
           É por isso que se diz: "Desperta, tu que dormes, levanta-te dentre os mortos e sobre ti Cristo resplandecerá".
-          
+
           Palavra do Senhor.
     - type: gospel
       main:
@@ -8633,13 +8633,13 @@ lent.week4.1.c:
           Quando chegou esse teu filho, que esbanjou teus bens com prostitutas, matas para ele o novilho cevado'.
           Então o pai lhe disse: 'Filho, tu estás sempre comigo, e tudo o que é meu é teu.
           Mas era preciso festejar e alegrar-nos, porque este teu irmão estava morto e tornou a viver; estava perdido, e foi encontrado'".
-          
+
           Palavra da Salvação.
       optional:
         ref: Jo 9,1-41
         text: |
           Proclamação do Evangelho de Jesus Cristo segundo João
-          
+
           Naquele tempo,
           ao passar, Jesus viu um homem cego de nascença.
           Os discípulos perguntaram a Jesus: "Mestre, quem pecou para que nascesse cego: ele ou os seus pais?"
@@ -9365,7 +9365,7 @@ lent.week5.1.c:
         ref: Ez 37,12-14
         text: |
           Leitura da Profecia de Ezequiel
-          
+
           Assim fala o Senhor Deus:
           "Ó meu povo, vou abrir as vossas sepulturas e conduzir-vos para a terra de Israel; e quando eu abrir as vossas sepulturas e vos fizer sair delas, sabereis que eu sou o Senhor.
           Porei em vós o meu espírito, para que vivais e vos colocarei em vossa terra.
@@ -9446,14 +9446,14 @@ lent.week5.1.c:
         ref: Rm 8,8-11
         text: |
           Leitura da Carta de São Paulo aos Romanos
-          
+
           Irmãos:
           Os que vivem segundo a carne não podem agradar a Deus.
           Vós não viveis segundo a carne, mas segundo o Espírito, se realmente o Espírito de Deus mora em vós.
           Se alguém não tem o Espírito de Cristo, não pertence a Cristo.
           Se, porém, Cristo está em vós, embora vosso corpo esteja ferido de morte por causa do pecado, vosso espírito está cheio de vida, graças à justiça.
           E, se o Espírito daquele que ressuscitou Jesus dentre os mortos mora em vós, então aquele que ressuscitou Jesus Cristo dentre os mortos vivificará também vossos corpos mortais por meio do seu Espírito que mora em vós.
-          
+
           Palavra do Senhor.
     - type: gospel
       main:
@@ -9480,7 +9480,7 @@ lent.week5.1.c:
           Ela respondeu: "Ninguém, Senhor".
           Então Jesus lhe disse: "Eu também não te condeno.
           Podes ir, e de agora em diante não peques mais".
-          
+
           Palavra da Salvação.
       optional:
         ref: Jo 11,1-45
@@ -10099,34 +10099,34 @@ lent.week6.1.a:
       ref: Is 50,4-7
       text: |
         Leitura do Livro do Profeta Isaías
-        
+
         O Senhor Deus deu-me língua adestrada,
         para que eu saiba dizer palavras de conforto à pessoa abatida; ele me desperta cada manhã e me excita o ouvido, para prestar atenção como um discípulo.
         O Senhor abriu-me os ouvidos; não lhe resisti nem voltei atrás.
         Ofereci as costas para me baterem e as faces para me arrancarem a barba; não desviei o rosto de bofetões e cusparadas.
         Mas o Senhor Deus é meu Auxiliador, por isso não me deixei abater o ânimo, conservei o rosto impassível como pedra, porque sei que não sairei humilhado.
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Sl 21(22),8-9.17-18a.19-20.23-24 (R. 2a)
       text: |
         R. Meu Deus, meu Deus, por que me abandonastes?
-        
+
         Riem de mim todos aqueles que me veem,
         torcem os lábios e sacodem a cabeça:
         "Ao Senhor se confiou, ele o liberte
         e agora o salve, se é verdade que ele o ama!" R.
-        
+
         Cães numerosos me rodeiam furiosos,
         e por um bando de malvados fui cercado.
         Transpassaram minhas mãos e os meus pés
         e eu posso contar todos os meus ossos.  R.
-        
+
         Eles repartem entre si as minhas vestes
         e sorteiam entre si a minha túnica.
         Vós, porém, ó meu Senhor, não fiqueis longe,
         ó minha força, vinde logo em meu socorro! R.
-        
+
         Anunciarei o vosso nome a meus irmãos
         e no meio da assembleia hei de louvar-vos!
         Vós que temeis ao Senhor Deus, dai-lhe louvores,
@@ -10136,20 +10136,20 @@ lent.week6.1.a:
       ref: Fl 2,6-11
       text: |
         Leitura da Carta de São Paulo aos Filipenses
-        
+
         Jesus Cristo, existindo em condição divina,
         não fez do ser igual a Deus uma usurpação, mas ele esvaziou-se a si mesmo, assumindo a condição de escravo e tornando-se igual aos homens.
         Encontrado com aspecto humano, humilhou-se a si mesmo, fazendo-se obediente até a morte, e morte de cruz.
         Por isso, Deus o exaltou acima de tudo e lhe deu o Nome que está acima de todo nome.
         Assim, ao nome de Jesus, todo joelho se dobre no céu, na terra e abaixo da terra, e toda língua proclame: "Jesus Cristo é o Senhor", para a glória de Deus Pai.
-        
+
         Palavra do Senhor.
     - type: gospel
       long:
         ref: Mt 26,14-27,66
         text: |
           Paixão de Nosso Senhor Jesus Cristo segundo Mateus
-          
+
           O que me dareis se vos entregar Jesus?
           Naquele tempo, Um dos doze discípulos, chamado Judas Iscariotes, foi ter com os sumos sacerdotes e disse: "O que me dareis se vos entregar Jesus?"
           Combinaram, então, trinta moedas de prata.
@@ -10401,7 +10401,7 @@ lent.week6.1.a:
           Os túmulos se abriram e muito corpos dos santos falecidos ressuscitaram!
           Saindo dos túmulos, depois da ressurreição de Jesus, apareceram na Cidade Santa e foram vistos por muitas pessoas.
           O oficial e os soldados que estavam com ele guardando Jesus, ao notarem o terremoto e tudo que havia acontecido, ficaram com muito medo e disseram: "Ele era mesmo Filho de Deus!"
-          
+
           Palavra da Salvação.
 lent.week6.1.b:
   title: Domingo de Ramos da Paixão do Senhor
@@ -10771,34 +10771,34 @@ lent.week6.1.c:
       ref: Is 50,4-7
       text: |
         Leitura do Livro do Profeta Isaías
-        
+
         O Senhor Deus deu-me língua adestrada,
         para que eu saiba dizer palavras de conforto à pessoa abatida; ele me desperta cada manhã e me excita o ouvido, para prestar atenção como um discípulo.
         O Senhor abriu-me os ouvidos; não lhe resisti nem voltei atrás.
         Ofereci as costas para me baterem e as faces para me arrancarem a barba; não desviei o rosto de bofetões e cusparadas.
         Mas o Senhor Deus é meu auxiliador, por isso não me deixei abater o ânimo, conservei o rosto impassível como pedra, porque sei que não sairei humilhado.
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Sl 21(22),8-9.17-18a.19-20.23-24 (R.2a)
       text: |
         R. Meu Deus, meu Deus, por que me abandonastes?
-        
+
         Riem de mim todos aqueles que me veem,
         torcem os lábios e sacodem a cabeça:
         "Ao Senhor se confiou, ele o liberte
         e agora o salve, se é verdade que ele o ama!" R.
-        
+
         Cães numerosos me rodeiam furiosos,
         e por um bando de malvados fui cercado.
         Transpassaram minhas mãos e os meus pés
         e eu posso contar todos os meus ossos. R.
-        
+
         Eles repartem entre si as minhas vestes
         e sorteiam entre si a minha túnica.
         Vós, porém, ó meu Senhor, não fiqueis longe,
         ó minha força, vinde logo em meu socorro! R.
-        
+
         Anunciarei o vosso nome a meus irmãos
         e no meio da assembleia hei de louvar-vos!
         Vós que temeis ao Senhor Deus, dai-lhe louvores,
@@ -10808,20 +10808,20 @@ lent.week6.1.c:
       ref: Fl 2,6-11
       text: |
         Leitura da Carta de São Paulo aos Filipenses
-        
+
         Jesus Cristo, existindo em condição divina,
         não fez do ser igual a Deus uma usurpação, mas ele esvaziou-se a si mesmo, assumindo a condição de escravo e tornando-se igual aos homens.
         Encontrado com aspecto humano, humilhou-se a si mesmo, fazendo-se obediente até a morte, e morte de cruz.
         Por isso, Deus o exaltou acima de tudo e lhe deu o Nome que está acima de todo nome.
         Assim, ao nome de Jesus, todo joelho se dobre no céu, na terra e abaixo da terra, e toda língua proclame: "Jesus Cristo é o Senhor", para a glória de Deus Pai.
-        
+
         Palavra do Senhor.
     - type: gospel
       long:
         ref: Lc 22,14-23,56
         text: |
           Paixão de Nosso Senhor Jesus Cristo segundo Lucas
-          
+
           Desejei ardentemente comer convosco esta ceia pascal, antes de sofrer.
           Quando chegou a hora, Jesus pôs-se à mesa com os apóstolos e disse: "Desejei ardentemente comer convosco esta ceia pascal, antes de sofrer.
           Pois eu vos digo que nunca mais a comerei, até que ela se realize no Reino de Deus".
@@ -10983,13 +10983,13 @@ lent.week6.1.c:
           As mulheres, que tinham vindo da Galileia com Jesus, foram com José, para ver o túmulo e como o corpo de Jesus ali fora colocado.
           Depois voltaram para casa e prepararam perfumes e bálsamos.
           E, no sábado, elas descansaram, conforme ordenava a Lei.
-          
+
           Palavra da Salvação.
       short:
         ref: Lc 23,1-49
         text: |
           Paixão de Nosso Senhor Jesus Cristo segundo Lucas
-          
+
           Naquele tempo,
           toda a multidão se levantou e levou Jesus a Pilatos.
           Não encontro neste homem nenhum crime.
@@ -11057,7 +11057,7 @@ lent.week6.1.c:
           O oficial do exército romano viu o que acontecera e glorificou a Deus dizendo: "De fato! Este homem era justo!"
           E as multidões, que tinham acorrido para assistir, viram o que havia acontecido, e voltaram para casa, batendo no peito.
           Todos os conhecidos de Jesus, bem como as mulheres que o acompanhavam desde a Galileia, ficaram à distância, olhando essas coisas.
-          
+
           Palavra da Salvação
 lent.week6.2:
   title: Segunda-feira
@@ -11651,7 +11651,7 @@ easter.week0.7.a:
       ref: Gn 1,1-2,2
       text: |
         Leitura do Livro do Gênesis
-        
+
         No princípio Deus criou o céu e a terra.
         A terra estava deserta e vazia, as trevas cobriam a face do abismo e o Espírito de Deus pairava sobre as águas.
         Deus disse: "Faça-se a luz!" E a luz se fez.
@@ -11696,7 +11696,7 @@ easter.week0.7.a:
         Houve uma tarde e uma manhã: sexto dia.
         E assim foram concluídos o céu e a terra com todo o seu exército.
         No sétimo dia, Deus considerou acabada toda a obra que tinha feito; e no sétimo dia descansou de toda a obra que fizera.
-        
+
         Palavra do Senhor.
     - type: psalm
       main:
@@ -11709,27 +11709,27 @@ easter.week0.7.a:
           Ó meu Deus e meu Senhor, como sois grande!
           De majestade e esplendor vos revestis
           e de luz vos envolveis como num manto. R.
-          
+
           A terra vós firmastes em suas bases,
           ficará firme pelos séculos sem fim;
           os mares a cobriam como um manto,
           e as águas envolviam as montanhas. R.
-          
+
           Fazeis brotar em meio aos vales as nascentes
           que passam serpeando entre as montanhas;
           às suas margens vêm morar os passarinhos,
           entre os ramos eles erguem o seu canto. R.
-          
+
           De vossa casa as montanhas irrigais,
           com vossos frutos saciais a terra inteira;
           fazeis crescer os verdes pastos para o gado
           e as plantas que são úteis para o homem. R.
-          
+
           Quão numerosas, ó Senhor, são vossas obras,
           e que sabedoria em todas elas!
           Encheu-se a terra com as vossas criaturas!
           Bendize, ó minha alma, ao Senhor! R.
-          
+
       optional:
         ref: Sl 32(33),4-5.6-7.12-13.20.22 (R. 5b)
         text: |
@@ -11739,17 +11739,17 @@ easter.week0.7.a:
           e tudo o que ele faz merece fé.
           Deus ama o direito e a justiça,
           transborda em toda a terra a sua graça. R.
-          
+
           A Palavra do Senhor criou os céus,
           e o sopro de seus lábios, as estrelas.
           Como num odre junta as águas do oceano,
           e mantém no seu limite as grandes águas. R.
-          
+
           Feliz o povo cujo Deus é o Senhor,
           e a nação que escolheu por sua herança!
           Dos altos céus o Senhor olha e observa;
           ele se inclina para olhar todos os homens. R.
-          
+
           No Senhor nós esperamos confiantes,
           porque ele é nosso auxílio e proteção!
           Sobre nós venha, Senhor, a vossa graça,
@@ -11758,7 +11758,7 @@ easter.week0.7.a:
       ref: Gn 22,1-18
       text: |
         Leitura do Livro do Gênesis
-        
+
         Naqueles dias,
         Deus pôs Abraão à prova. Chamando-o, disse: "Abraão!"
         E ele respondeu: "Aqui estou".
@@ -11812,7 +11812,7 @@ easter.week0.7.a:
       ref: Ex 14,15-15,1
       text: |
         Leitura do Livro do Êxodo
-        
+
         Naqueles dias, O Senhor disse a Moisés: "Por que clamas a mim por socorro?
         Dize aos filhos de Israel que se ponham em marcha.
         Quanto a ti, ergue a vara, estende o braço sobre o mar e divide-o, para que os filhos de Israel caminhem em seco pelo meio do mar.
@@ -11863,7 +11863,7 @@ easter.week0.7.a:
       ref: Is 54,5-14
       text: |
         Leitura do Livro do Profeta Isaías
-        
+
         Teu esposo é aquele que te criou,
         seu nome é Senhor dos exércitos; teu redentor, o Santo de Israel, chama-se Deus de toda a terra.
         O Senhor te chamou, como a mulher abandonada e de alma aflita; como a esposa repudiada na mocidade, falou o teu Deus.
@@ -11874,7 +11874,7 @@ easter.week0.7.a:
         Pobrezinha, batida por vendavais, sem nenhum consolo, eis que assentarei tuas pedras sobre rubis, e tuas bases sobre safiras; revestirei de jaspe tuas fortificações, e teus portões, de pedras preciosas, e todos os teus muros, de pedra escolhida.
         Todos os teus filhos serão discípulos do Senhor, teus filhos possuirão muita paz; terás a justiça por fundamento.
         Longe da opressão, nada terás a temer; serás livre do terror, porque ele não se aproximará de ti.
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Sl 29(30),2.4.5-6.11.12a.13b (R. 2a)
@@ -11901,7 +11901,7 @@ easter.week0.7.a:
       ref: Is 55,1-11
       text: |
         Leitura do Livro do Profeta Isaías
-        
+
         Assim diz o Senhor:
         "Ó vós todos que estais com sede, vinde às águas; vós que não tendes dinheiro, apressai-vos, vinde e comei, vinde comprar sem dinheiro, tomar vinho e leite, sem nenhuma paga.
         Por que gastar dinheiro com outra coisa que não o pão, desperdiçar o salário senão com satisfação completa?
@@ -11914,7 +11914,7 @@ easter.week0.7.a:
         Meus pensamentos não são como os vossos pensamentos e vossos caminhos não são como os meus caminhos, diz o Senhor.
         Estão meus caminhos tão acima dos vossos caminhos e meus pensamentos acima dos vossos pensamentos, quanto está o céu acima da terra.
         Como a chuva e a neve descem do céu e para lá não voltam mais, mas vêm irrigar e fecundar a terra, e fazê-la germinar e dar semente, para o plantio e para a alimentação, assim a palavra que sair de minha boca: não voltará para mim vazia; antes, realizará tudo que for de minha vontade e produzirá os efeitos que pretendi, ao enviá-la".
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Is 12,2-3.4bcd.5-6 (R. 3)
@@ -11937,7 +11937,7 @@ easter.week0.7.a:
       ref: Br 3,9-15.32-4,4
       text: |
         Leitura do Livro do Profeta Baruc
-        
+
         Ouve, Israel,
         os preceitos da vida; presta atenção, para aprenderes a sabedoria.
         Que se passa, Israel?
@@ -11988,7 +11988,7 @@ easter.week0.7.a:
       ref: Ez 36,16-17a.18-28
       text: |
         Leitura da Profecia de Ezequiel
-        
+
         A palavra do Senhor foi-me dirigida nestes termos:
         "Filho do homem, os da casa de Israel estavam morando em sua terra.
         Mancharam-na com sua conduta e suas más ações.
@@ -12028,7 +12028,7 @@ easter.week0.7.a:
       ref: Rm 6,3-11
       text: |
         Leitura da Carta de São Paulo aos Romanos
-        
+
         Irmãos:
         Será que ignorais que todos nós, batizados em Jesus Cristo, é na sua morte que fomos batizados?
         Pelo batismo na sua morte, fomos sepultados com ele, para que, como Cristo ressuscitou dos mortos pela glória do Pai, assim também nós levemos uma vida nova.
@@ -12045,7 +12045,7 @@ easter.week0.7.a:
       ref: Sl 117(118),1-2.16ab-17.22-23
       text: |
         R. Aleluia, Aleluia, Aleluia
-        
+
         Dai graças ao Senhor, porque ele é bom!
         Eterna é a sua misericórdia!
         A casa de Israel agora o diga:
@@ -12065,7 +12065,7 @@ easter.week0.7.a:
       ref: Mt 28,1-10
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Mateus
-        
+
         Depois do sábado,
         ao amanhecer do primeiro dia da semana, Maria Madalena e a outra Maria foram ver o sepulcro.
         De repente, houve um grande tremor de terra: o anjo do Senhor desceu do céu e, aproximando-se, retirou a pedra e sentou-se nela.
@@ -12084,7 +12084,7 @@ easter.week0.7.a:
         Então Jesus disse a elas: "Não tenhais medo.
         Ide anunciar aos meus irmãos que se dirijam para a Galiléia.
         Lá eles me verão".
-        
+
         Palavra da Salvação.
 easter.week0.7.b:
   title: Vigília Pascal na Noite Santa
@@ -12515,7 +12515,7 @@ easter.week0.7.c:
       ref: Gn 1,1-2,2
       text: |
         Leitura do Livro do Gênesis
-        
+
         No princípio Deus criou o céu e a terra.
         A terra estava deserta e vazia, as trevas cobriam a face do abismo e o Espírito de Deus pairava sobre as águas.
         Deus disse: "Faça-se a luz!" E a luz se fez.
@@ -12559,34 +12559,34 @@ easter.week0.7.c:
         Houve uma tarde e uma manhã: sexto dia.
         E assim foram concluídos o céu e a terra com todo o seu exército.
         No sétimo dia, Deus considerou acabada toda a obra que tinha feito; e no sétimo dia descansou de toda a obra que fizera.
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Sl 103(104),1-2a.5-6.10.12.13-14.24.35c (R. cf. 30)
       text: |
         R. Enviai o vosso Espírito Senhor,
-        
+
         e da terra toda a face renovai.
         Bendize, ó minha alma, ao Senhor!
         Ó meu Deus e meu Senhor, como sois grande!
         De majestade e esplendor vos revestis
         e de luz vos envolveis como num manto. R.
-        
+
         A terra vós firmastes em suas bases,
         ficará firme pelos séculos sem fim;
         os mares a cobriam como um manto,
         e as águas envolviam as montanhas. R.
-        
+
         Fazeis brotar em meio aos vales as nascentes
         que passam serpeando entre as montanhas;
         às suas margens vêm morar os passarinhos,
         entre os ramos eles erguem o seu canto. R.
-        
+
         De vossa casa as montanhas irrigais,
         com vossos frutos saciais a terra inteira;
         fazeis crescer os verdes pastos para o gado
         e as plantas que são úteis para o homem. R.
-        
+
         Quão numerosas, ó Senhor, são vossas obras,
         e que sabedoria em todas elas!
         Encheu-se a terra com as vossas criaturas!
@@ -12595,7 +12595,7 @@ easter.week0.7.c:
       ref: Gn 22,1-18
       text: |
         Leitura do Livro do Gênesis
-        
+
         Naqueles dias,
         Deus pôs Abraão à prova. Chamando-o, disse: "Abraão!"
         E ele respondeu: "Aqui estou".
@@ -12648,7 +12648,7 @@ easter.week0.7.c:
       ref: Ex 14,15-15,1
       text: |
         Leitura do Livro do Êxodo
-        
+
         Naqueles dias,
         o Senhor disse a Moisés: "Por que clamas a mim por socorro?
         Dize aos filhos de Israel que se ponham em marcha.
@@ -12700,7 +12700,7 @@ easter.week0.7.c:
       ref: Is 54,5-14
       text: |
         Leitura do Livro do Profeta Isaías
-        
+
         Teu esposo é aquele que te criou,
         seu nome é Senhor dos exércitos; teu redentor, o Santo de Israel, chama-se Deus de toda a terra.
         O Senhor te chamou, como a mulher abandonada e de alma aflita; como a esposa repudiada na mocidade, falou o teu Deus.
@@ -12711,7 +12711,7 @@ easter.week0.7.c:
         Pobrezinha, batida por vendavais, sem nenhum consolo, eis que assentarei tuas pedras sobre rubis, e tuas bases sobre safiras; revestirei de jaspe tuas fortificações, e teus portões, de pedras preciosas, e todos os teus muros, de pedra escolhida.
         Todos os teus filhos serão discípulos do Senhor, teus filhos possuirão muita paz; terás a justiça por fundamento.
         Longe da opressão, nada terás a temer; serás livre do terror, porque ele não se aproximará de ti.
-        
+
         Palavra do Senhor
     - type: psalm
       ref: Sl 29(30),2.4.5-6.11.12a.13b (R. 2a)
@@ -12738,7 +12738,7 @@ easter.week0.7.c:
       ref: Isaías 55,1-11
       text: |
         Leitura do Livro do Profeta Isaías
-        
+
         Assim diz o Senhor:
         "Ó vós todos que estais com sede, vinde às águas; vós que não tendes dinheiro, apressai-vos, vinde e comei, vinde comprar sem dinheiro, tomar vinho e leite, sem nenhuma paga.
         Por que gastar dinheiro com outra coisa que não o pão, desperdiçar o salário senão com satisfação completa?
@@ -12751,7 +12751,7 @@ easter.week0.7.c:
         Meus pensamentos não são como os vossos pensamentos e vossos caminhos não são como os meus caminhos, diz o Senhor.
         Estão meus caminhos tão acima dos vossos caminhos e meus pensamentos acima dos vossos pensamentos, quanto está o céu acima da terra.
         Como a chuva e a neve descem do céu e para lá não voltam mais, mas vêm irrigar e fecundar a terra, e fazê-la germinar e dar semente, para o plantio e para a alimentação, assim a palavra que sair de minha boca: não voltará para mim vazia; antes, realizará tudo que for de minha vontade e produzirá os efeitos que pretendi, ao enviá-la".
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Is 12,2-3.4bcd.5-6 (R. 3)
@@ -12774,7 +12774,7 @@ easter.week0.7.c:
       ref: Br 3,9-15.32-4,4
       text: |
         Leitura do Livro do Profeta Baruc
-        
+
         Ouve, Israel,
         os preceitos da vida; presta atenção, para aprenderes a sabedoria.
         Que se passa, Israel?
@@ -12795,7 +12795,7 @@ easter.week0.7.c:
         Volta-te, Jacó, e abraça-a; marcha para o esplendor, à sua luz.
         Não dês a outro a tua glória nem cedas a uma nação estranha teus privilégios.
         Ó Israel, felizes somos nós, porque nos é dado conhecer o que agrada a Deus.
-        
+
         Palavra do Senhor.
     - type: reading
       ref: Sl 18B(19),8.9.10.11 (R. Jo 6,68c)
@@ -12825,7 +12825,7 @@ easter.week0.7.c:
       ref: Ez 36,16-17a.18-28
       text: |
         Leitura da Profecia de Ezequiel
-        
+
         A palavra do Senhor foi-me dirigida nestes termos:
         'Filho do homem, os da casa de Israel estavam morando em sua terra.
         Mancharam-na com sua conduta e suas más ações.
@@ -12843,7 +12843,7 @@ easter.week0.7.c:
         Arrancarei do vosso corpo o coração de pedra e vos darei um coração de carne; porei o meu espírito dentro de vós e farei com que sigais a minha lei e cuideis de observar os meus mandamentos.
         Habitareis no país que dei a vossos pais.
         Sereis o meu povo e eu serei o vosso Deus.
-        
+
         Palavra do Senhor.
     - type: reading
       ref: Sl 41(42),3.5bcd; 42,3.4 (R. 3a)
@@ -12858,14 +12858,14 @@ easter.week0.7.c:
 
         Enviai vossa luz, vossa verdade: elas serão o meu guia;
         que me levem ao vosso Monte santo, até a vossa morada! R.
-        
+
         Então irei aos altares do Senhor, Deus da minha alegria.
         Vosso louvor cantarei, ao som da harpa, meu Senhor e meu Deus! R.
     - type: reading
       ref: Rm 6,3-11
       text: |
         Leitura da Carta de São Paulo aos Romanos
-        
+
         Irmãos: Será que ignorais que todos nós, batizados em Jesus Cristo, é na sua morte que fomos batizados?
         Pelo batismo na sua morte, fomos sepultados com ele, para que, como Cristo ressuscitou dos mortos pela glória do Pai, assim também nós levemos uma vida nova.
         Pois, se fomos de certo modo identificados a Jesus Cristo por uma morte semelhante à sua, seremos semelhantes a ele também pela ressurreição.
@@ -12875,7 +12875,7 @@ easter.week0.7.c:
         Sabemos que Cristo ressuscitado dos mortos não morre mais; a morte já não tem poder sobre ele.
         Pois aquele que morreu, morreu para o pecado uma vez por todas; mas aquele que vive, é para Deus que vive.
         Assim, vós também considerai-vos mortos para o pecado e vivos para Deus, em Jesus Cristo.
-        
+
         Palavra do Senhor.
     - type: reading
       ref: Sl 117(118),1-2.16ab-17.22-23
@@ -12901,7 +12901,7 @@ easter.week0.7.c:
       ref: Lc 24,1-12
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Lucas
-        
+
         No primeiro dia da semana, bem de madrugada,
         as mulheres foram ao túmulo de Jesus, levando os perfumes que haviam preparado.
         Elas encontraram a pedra do túmulo removida.
@@ -12917,7 +12917,7 @@ easter.week0.7.c:
         Pedro, no entanto, levantou-se e correu ao túmulo.
         Olhou para dentro e viu apenas os lençóis.
         Então voltou para casa, admirado com o que havia acontecido.
-        
+
         Palavra da Salvação.
 easter.week1.1.a:
   title: Missa da Páscoa na Ressurreição do Senhor
@@ -13186,7 +13186,7 @@ easter.week1.1.c:
         alegremo-nos e nele exultemos!
 
         Ou: Aleluia, Aleluia, Aleluia.
-        
+
         Dai graças ao Senhor, porque ele é bom!
         "Eterna é a sua misericórdia!"
         A casa de Israel agora o diga:
@@ -13944,7 +13944,7 @@ easter.week2.1.c:
         "Eterna é a sua misericórdia!"
 
         Ou: Aleluia, Aleluia, Aleluia.
-        
+
         A casa de Israel agora o diga:
         "Eterna é a sua misericórdia!"
         A casa de Aarão agora o diga:
@@ -14039,7 +14039,7 @@ easter.week2.2:
         que põem sua esperança no Senhor.
 
         Ou: Aleluia, Aleluia, Aleluia.
-        
+
         Por que os povos agitados se revoltam?
         por que tramam as nações projetos vãos?
         Por que os reis de toda a terra se reúnem,
@@ -14431,7 +14431,7 @@ easter.week3.1.a:
         junto de vós felicidade sem limites!
 
         Ou: Aleluia, Aleluia, Aleluia
-        
+
         Guardai-me, ó Deus, porque em vós me refugio!
         Digo ao Senhor: "Somente vós sois meu Senhor:
         nenhum bem eu posso achar fora de vós!"
@@ -14586,7 +14586,7 @@ easter.week3.1.c:
       ref: At 5,27b-32.40b-41
       text: |
         Leitura dos Atos dos Apóstolos
-        
+
         Naqueles dias,
         os guardas levaram os apóstolos e os apresentaram ao Sinédrio.
         O sumo sacerdote começou a interrogá-los, dizendo: "Nós tínhamos proibido expressamente que vós ensinásseis em nome de Jesus.
@@ -14598,27 +14598,27 @@ easter.week3.1.c:
         E disso somos testemunhas, nós e o Espírito Santo, que Deus concedeu àqueles que lhe obedecem".
         Então mandaram açoitar os apóstolos e proibiram que eles falassem em nome de Jesus, e depois os soltaram.
         Os apóstolos saíram do Conselho, muito contentes, por terem sido considerados dignos de injúrias, por causa do nome de Jesus.
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Sl 29(30),2.4.5-6.11.12a.13b (R.2a)
       text: |
         R. Eu vos exalto, ó Senhor, porque vós me livrastes.
-        
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Eu vos exalto, ó Senhor, pois me livrastes,
         e não deixastes rir de mim meus inimigos!
         Vós tirastes minha alma dos abismos
         e me salvastes, quando estava já morrendo! R.
-        
+
         Cantai salmos ao Senhor, povo fiel,
         dai-lhe graças e invocai seu santo nome!
         Pois sua ira dura apenas um momento,
         mas sua bondade permanece a vida inteira;
         se à tarde vem o pranto visitar-nos,
         de manhã vem saudar-nos a alegria. R.
-        
+
         Escutai-me, Senhor Deus, tende piedade!
         Sede, Senhor, o meu abrigo protetor!
         Transformastes o meu pranto em uma festa,
@@ -14627,19 +14627,19 @@ easter.week3.1.c:
       ref: Ap 5,11-14
       text: |
         Leitura do Livro do Apocalipse de São João
-        
+
         Eu, João, vi
         e ouvi a voz de numerosos anjos, que estavam em volta do trono, e dos Seres vivos e dos Anciãos.
         Eram milhares de milhares, milhões de milhões, e proclamavam em alta voz: "O Cordeiro imolado é digno de receber o poder, a riqueza, a sabedoria e a força, a honra, a glória e o louvor".
         Ouvi também todas as criaturas que estão no céu, na terra, debaixo da terra e no mar, e tudo o que neles existe, e diziam: "Ao que está sentado no trono e ao Cordeiro, o louvor e a honra, a glória e o poder para sempre".
         Os quatro Seres vivos respondiam: "Amém", e os Anciãos se prostraram em adoração daquele que vive para sempre.
-        
+
         Palavra do Senhor.
     - type: gospel
       ref: Proclamação do Evangelho de Jesus Cristo segundo João 21,1-19
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo João
-        
+
         Naquele tempo,
         Jesus apareceu de novo aos discípulos, à beira do mar de Tiberíades.
         A aparição foi assim: Estavam juntos Simão Pedro, Tomé, chamado Dídimo, Natanael de Caná da Galiléia, os filhos de Zebedeu e outros dois discípulos de Jesus.
@@ -14679,7 +14679,7 @@ easter.week3.1.c:
         Quando fores velho, estenderás as mãos e outro te cingirá e te levará para onde não queres ir".
         Jesus disse isso, significando com que morte Pedro iria glorificar a Deus.
         E acrescentou : "Segue-me".
-        
+
         Palavra da Salvação.
 easter.week3.2:
   title: Segunda-feira da 3ª Semana
@@ -15978,7 +15978,7 @@ easter.week5.1.c:
         meu Senhor e meu Rei para sempre.
 
         Ou: Aleluia, Aleluia, Aleluia.
-        
+
         Misericórdia e piedade é o Senhor,
         ele é amor, é paciência, é compaixão.
         O Senhor é muito bom para com todos,
@@ -16606,7 +16606,7 @@ easter.week6.1.c:
         que todas as nações vos glorifiquem!
 
         Ou: Aleluia, Aleluia, Aleluia.
-        
+
         Que Deus nos dê a sua graça e sua bênção,
         e sua face resplandeça sobre nós!
         Que na terra se conheça o seu caminho
@@ -18131,13 +18131,13 @@ easter.week8.1.c:
           Desçamos e confundamos a sua língua, de modo que não se entendam uns aos outros".
           E o Senhor os dispersou daquele lugar por toda a superfície da terra, e eles cessaram de construir a cidade.
           Por isso, foi chamada Babel, porque foi aí que o Senhor confundiu a linguagem de todo o mundo, e daí dispersou os homens por toda a terra.
-          
+
           Palavra do Senhor.
       optional:
         ref: Ex 19,3-8a.16-20b
         text: |
           Leitura do Livro do Êxodo
-          
+
           Naqueles dias, Moisés subiu ao encontro de Deus.
           O Senhor chamou-o do alto da montanha, e disse: "Assim deverás falar à casa de Jacó e anunciar aos filhos de Israel:
           Vistes o que fiz aos egípcios, e como vos levei sobre asas de águia e vos trouxe a mim.
@@ -18155,13 +18155,13 @@ easter.week8.1.c:
           O som da trombeta ia aumentando cada vez mais.
           Moisés falava e o Senhor lhe respondia através do trovão.
           O Senhor desceu sobre o monte Sinai e chamou Moisés ao cume do monte.
-          
+
           Palavra do Senhor.
       optional2:
         ref: Ez 37,1-14
         text: |
           Leitura da Profecia de Ezequiel
-          
+
           Naqueles dias, a mão do Senhor estava sobre mim e por seu espírito ele me levou para fora e me deixou no meio de uma planície cheia de ossos e me fez andar no meio deles em todas as direções.
           Havia muitíssimos ossos na planície e estavam ressequidos.
           Ele me perguntou: "Filho do homem, será que estes ossos podem voltar à vida?"
@@ -18182,13 +18182,13 @@ easter.week8.1.c:
           É isto que eles dizem: 'Nossos ossos estão secos, nossa esperança acabou, estamos perdidos!' Por isso, profetiza e dize-lhes: 'Assim fala o Senhor Deus: Ó meu povo, vou abrir as vossas sepulturas e conduzir-vos para a terra de Israel; e quando eu abrir as vossas sepulturas e vos fizer sair delas, sabereis que eu sou o Senhor.
           Porei em vós o meu espírito, para que vivais e vos colocarei em vossa terra.
           Então sabereis que eu, o Senhor, digo e faço, - oráculo do Senhor -".
-          
+
           Palavra do Senhor.
       optional3:
         ref: Jl 3,1-5
         text: |
           Leitura da Profecia de Joel
-          
+
           Assim diz o Senhor:
           "Derramarei o meu espírito sobre todo ser humano, e vossos filhos e filhas profetizarão, vossos anciãos terão sonhos e vossos jovens terão visões; também sobre meus servos e servas, naqueles dias, derramarei o meu espírito.
           Colocarei sinais no céu e na terra, sangue, fogo e rolos de fumaça; o sol se transformará em trevas e a lua, em sangue, antes de chegar o dia do Senhor, dia grandioso e terrível.
@@ -18202,7 +18202,7 @@ easter.week8.1.c:
         e da terra toda a face renovai.
 
         Ou: Aleluia, Aleluia, Aleluia.
-        
+
         Bendize, ó minha alma, ao Senhor!
         Ó meu Deus e meu Senhor, como sois grande!
         De majestade e esplendor vos revestis
@@ -18248,7 +18248,7 @@ easter.week8.1.c:
         Jesus, em pé, proclamou em voz alta: "Se alguém tem sede, venha a mim, e beba.
         Aquele que crê em mim, conforme diz a Escritura, rios de água viva jorrarão do seu interior".
         Jesus falava do Espírito, que deviam receber os que tivessem fé nele; pois ainda não tinha sido dado o Espírito, porque Jesus ainda não tinha sido glorificado.
-        
+
         Palavra da Salvação.
 easter.week8.1.c.day:
   title: Domingo de Pentecostes, Missa do dia
@@ -18259,7 +18259,7 @@ easter.week8.1.c.day:
       ref: At  2,1-11
       text: |
         Leitura dos Atos dos Apóstolos
-        
+
         Quando chegou o dia de Pentecostes,
         os discípulos estavam todos reunidos no mesmo lugar.
         De repente, veio do céu um barulho como se fosse uma forte ventania, que encheu a casa onde eles se encontravam.
@@ -18270,15 +18270,15 @@ easter.week8.1.c.day:
         Cheios de espanto e de admiração, diziam: "Esses homens que estão falando não são todos galileus?
         Como é que nós os escutamos na nossa própria língua?
         Nós que somos partos, medos e elamitas, habitantes da Mesopotâmia, da Judeia e da Capadócia, do Ponto e da Ásia, da Frígia e da Panfília, do Egito e da parte da Líbia, próxima de Cirene, também romanos que aqui residem; judeus e prosélitos, cretenses e árabes, todos nós os escutamos anunciarem as maravilhas de Deus na nossa própria língua!"
-        
+
         Palavra do Senhor
     - type: psalm
       ref: Sl 103(104),1ab.24ac.29bc-30.31.34 (R. cf. 30)
       text: |
         R. Enviai o vosso Espírito, Senhor, e da terra toda a face renovai.
-        
+
         Ou: Aleluia, Aleluia, Aleluia.
-        
+
         Bendize, ó minha alma, ao Senhor!
         Ó meu Deus e meu Senhor, como sois grande!
         Quão numerosas, ó Senhor, são vossas obras!
@@ -18298,7 +18298,7 @@ easter.week8.1.c.day:
         ref: 1Co 12,3b-7.12-13
         text: |
           Leitura da Primeira Carta de São Paulo aos Coríntios
-          
+
           Irmãos:
           Ninguém pode dizer: Jesus é o Senhor a não ser no Espírito Santo.
           Há diversidade de dons, mas um mesmo é o Espírito.
@@ -18307,13 +18307,13 @@ easter.week8.1.c.day:
           A cada um é dada a manifestação do Espírito em vista do bem comum.
           Como o corpo é um, embora tenha muitos membros, e como todos os membros do corpo, embora sejam muitos, formam um só corpo, assim também acontece com Cristo.
           De fato, todos nós, judeus ou gregos, escravos ou livres, fomos batizados num único Espírito, para formarmos um único corpo, e todos nós bebemos de um único Espírito.
-          
+
           Palavra do Senhor.
       optional:
         ref: Rm 8,8-17
         text: |
           Leitura da Carta de São Paulo aos Romanos
-          
+
           Irmãos:
           Os que vivem segundo a carne não podem agradar a Deus.
           Vós não viveis segundo a carne, mas segundo o Espírito, se realmente o Espírito de Deus mora em vós.
@@ -18326,14 +18326,14 @@ easter.week8.1.c.day:
           De fato, vós não recebestes um espírito de escravos, para recairdes no medo, mas recebestes um espírito de filhos adotivos, no qual todos nós clamamos: Abá - ó Pai!
           O próprio Espírito se une ao nosso espírito para nos atestar que somos filhos de Deus.
           E, se somos filhos, somos também herdeiros, herdeiros de Deus e co-herdeiros de Cristo; se realmente sofremos com ele, é para sermos também glorificados com ele.
-          
+
           Palavra do Senhor.
     - type: gospel
       main:
         ref: Jo 20,19-23
         text: |
           Proclamação do Evangelho de Jesus Cristo segundo João
-          
+
           Ao anoitecer daquele dia, o primeiro da semana,
           estando fechadas, por medo dos judeus, as portas do lugar onde os discípulos se encontravam, Jesus entrou e pondo-se no meio deles, disse: "A paz esteja convosco".
           Depois destas palavras, mostrou-lhes as mãos e o lado.
@@ -18342,13 +18342,13 @@ easter.week8.1.c.day:
           Como o Pai me enviou, também eu vos envio".
           E depois de ter dito isso, soprou sobre eles e disse: "Recebei o Espírito Santo.
           A quem perdoardes os pecados, eles lhes serão perdoados; a quem os não perdoardes, eles lhes serão retidos".
-          
+
           Palavra da Salvação.
       optional:
         ref: Jo 14,15-16.23b-26
         text: |
           Proclamação do Evangelho de Jesus Cristo segundo João
-          
+
           Naquele tempo,
           disse Jesus a seus discípulos: "Se me amais, guardareis os meus mandamentos, e eu rogarei ao Pai, e ele vos dará um outro Defensor, para que permaneça sempre convosco.
           Se alguém me ama, guardará a minha palavra, e o meu Pai o amará, e nós viremos e faremos nele a nossa morada.
@@ -22395,7 +22395,7 @@ ordinary.week5.1.a:
         permanece para sempre o bem que fez.
 
         Ou: Aleluia, Aleluia, Aleluia.
-        
+
         Ele é correto, generoso e compassivo,
         como luz brilha nas trevas para os justos.
         Feliz o homem caridoso e prestativo,
@@ -23505,7 +23505,7 @@ ordinary.week6.1.a:
         ref: Mt 5,20-22a.27-28.33-34a.37
         text: |
           Proclamação do Evangelho de Jesus Cristo segundo Mateus
-          
+
           Naquele tempo,
           disse Jesus a seus discípulos: "Eu vos digo: Se a vossa justiça não for maior que a justiça dos mestres da Lei e dos fariseus, vós não entrareis no Reino dos Céus.
           Vós ouvistes o que foi dito aos antigos: 'Não matarás!' Quem matar será condenado pelo tribunal.
@@ -24011,7 +24011,7 @@ ordinary.week6.4.odd:
         R. Oferto ao Senhor um sacrifício de louvor.
 
         Ou: Aleluia, Aleluia, Aleluia
-        
+
         Que poderei retribuir ao Senhor Deus
         por tudo aquilo que ele fez em meu favor?
         Elevo o cálice da minha salvação,
@@ -24521,17 +24521,17 @@ ordinary.week7.1.b:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: psalm
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: reading
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: gospel
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
 ordinary.week7.1.c:
   title: Domingo da 7ª Semana
   subtitle: Tempo Comum
@@ -25486,17 +25486,17 @@ ordinary.week8.1.b:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: psalm
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: reading
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: gospel
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
 ordinary.week8.1.c:
   title: Domingo da 8ª Semana
   subtitle: Tempo Comum
@@ -25961,14 +25961,14 @@ ordinary.week8.5.even:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: psalm
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: gospel
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
 ordinary.week8.5.odd:
   title: Quinta-feira da 8ª Semana
   subtitle: Tempo Comum
@@ -26310,17 +26310,17 @@ ordinary.week9.1.a:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: psalm
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: reading
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: gospel
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
 ordinary.week9.1.b:
   title: Domingo da 9ª Semana
   subtitle: Tempo Comum
@@ -26411,29 +26411,29 @@ ordinary.week9.1.c:
       ref: 1Rs 8,41-43
       text: |
         Leitura do Primeiro Livro dos Reis
-        
+
         Naqueles dias, Salomão rezou no Templo, dizendo:
         Senhor, pode acontecer que até um estrangeiro que não pertence a teu povo, Israel, escute falar de teu grande nome, de tua mão poderosa e do poder de teu braço.
         Se, por esse motivo, ele vier de uma terra distante, para rezar neste templo, Senhor, escuta então do céu onde moras e atende a todos os pedidos desse estrangeiro, para que todos os povos da terra conheçam o teu nome e o respeitem, como faz o teu povo Israel, e para que saibam que o teu nome é invocado neste templo que eu construí'.
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Sl 116,1.2 (R.Mc 16,15)
       text: |
         R. Proclamai o Evangelho a toda criatura!
-        
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Cantai louvores ao Senhor, todas as gentes,
         povos todos, festejai-o! R.
-        
+
         Pois comprovado é seu amor para conosco,
         para sempre ele é fiel! R.
     - type: reading
       ref: Gl 1,1-2.6-10
       text: |
         Início da Carta de São Paulo aos Gálatas
-        
+
         Eu, Paulo, apóstolo
         - não por iniciativa humana, nem por intermédio de nenhum homem, mas por Jesus Cristo e por Deus Pai que o ressuscitou dos mortos - e todos os irmãos que estão comigo, às igrejas da Galácia.
         Admiro-me de terdes abandonado tão depressa aquele que vos chamou, na graça de Cristo, e de terdes passado para um outro evangelho.
@@ -26443,13 +26443,13 @@ ordinary.week9.1.c:
         Será que eu estou buscando a aprovação dos homens ou a aprovação de Deus?
         Ou estou procurando agradar aos homens?
         Se eu ainda estivesse preocupado em agradar aos homens, não seria servo de Cristo.
-        
+
         Palavra do Senhor.
     - type: gospel
       ref: Lc 7,1-10
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Lucas
-        
+
         Naquele tempo:
         Quando acabou de falar ao povo que o escutava, Jesus entrou em Cafarnaum.
         Havia lá um oficial romano que tinha um empregado a quem estimava muito, e que estava doente, à beira da morte.
@@ -26462,7 +26462,7 @@ ordinary.week9.1.c:
         Eu também estou debaixo de autoridade, mas tenho soldados que obedecem às minhas ordens.
         Se ordeno a um : 'Vai!', ele vai; e a outro: 'Vem!', ele vem; e ao meu empregado 'Faze isto!', e ele o faz'.' Ouvindo isso, Jesus ficou admirado.
         Virou-se para a multidão que o seguia, e disse: 'Eu vos declaro que nem mesmo em Israel encontrei tamanha fé.' Os mensageiros voltaram para a casa do oficial e encontraram o empregado em perfeita saúde.
-        
+
         Palavra da Salvação.
 ordinary.week9.2.even:
   title: Segunda-feira da 9ª Semana
@@ -29422,7 +29422,7 @@ ordinary.week12.1.b:
         porque eterna é a sua misericórdia!
 
         Ou: Aleluia, Aleluia, Aleluia.
-        
+
         Os que sulcam o alto-mar com seus navios,
         para ir comerciar nas grandes águas,
         testemunharam os prodígios do Senhor
@@ -30375,17 +30375,17 @@ ordinary.week13.1.a:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: psalm
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: reading
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: gospel
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
 ordinary.week13.1.b:
   title: Domingo da 13ª Semana
   subtitle: Tempo Comum
@@ -32490,7 +32490,7 @@ ordinary.week15.1.a:
         ref: Mt 13,1-9
         text: |
           Proclamação do Evangelho de Jesus Cristo segundo Mateus
-          
+
           Naquele dia,
           Jesus saiu de casa e foi sentar-se às margens do mar da Galileia.
           Uma grande multidão reuniu-se em volta dele.
@@ -33909,7 +33909,7 @@ ordinary.week16.3.odd:
         Naquele dia, o Senhor livrou Israel da mão dos egípcios, e Israel viu os egípcios mortos nas praias do mar, e a mão poderosa do Senhor agir contra eles.
         O povo temeu o Senhor, e teve fé no Senhor e em Moisés, seu servo.
         Então, Moisés e os filhos de Israel cantaram ao Senhor este cântico: 
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Ex 15,8-9.10 e 12.17 (R. 1a)
@@ -37307,7 +37307,7 @@ ordinary.week19.6.even:
         ref: Ez 16,59-63
         text: |
           Leitura da Profecia de Ezequiel
-          
+
           Assim diz o Senhor Deus: "Agirei contigo, Jerusalém, segundo o teu proceder, tu que desprezaste o juramento, violando a aliança.
           Eu, porém, me lembrarei de minha aliança contigo, quando ainda eras jovem, e vou estabelecer contigo uma aliança eterna.
           Quando receberes tuas irmãs mais velhas e mais novas do que tu, então te lembrarás de tua conduta e ficarás envergonhada.
@@ -37562,34 +37562,34 @@ ordinary.week20.1.a:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: psalm
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: reading
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: gospel
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
 ordinary.week20.1.b:
   title: Domingo da 20ª Semana
   subtitle: Tempo Comum
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: psalm
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: reading
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: gospel
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
 ordinary.week20.1.c:
   title: Domingo da 20ª Semana
   subtitle: Tempo Comum
@@ -37643,7 +37643,7 @@ ordinary.week20.1.c:
         Em vista da alegria que lhe foi proposta, suportou a cruz, não se importando com a infâmia, e assentou-se à direita do trono de Deus.
         Pensai pois naquele que enfrentou uma tal oposição por parte dos pecadores, para que não vos deixeis abater pelo desânimo.
         Vós ainda não resististes até ao sangue na vossa luta contra o pecado.
-        
+
         Palavra do Senhor.
     - type: gospel
       ref: Lc 12,49-53
@@ -37939,7 +37939,7 @@ ordinary.week20.4.even:
       ref: Ez 34,1-11
       text: |
         Leitura da Profecia de Ezequiel
-        
+
         A palavra do Senhor foi-me dirigida nestes termos:
         "Filho do homem, profetiza contra os pastores de Israel!
         Profetiza, dizendo-lhes: Assim fala o Senhor Deus aos pastores: Ai dos pastores de Israel, que se apascentam a si mesmos!
@@ -37955,7 +37955,7 @@ ordinary.week20.4.even:
         Vou tirar-lhes o ofício de pastor, e eles não mais poderão apascentar-se a si mesmos.
         Vou libertar da boca deles as minhas ovelhas, para não mais lhes servirem de alimento.
         Assim diz o Senhor Deus: Vede! Eu mesmo vou procurar minhas ovelhas e tomar conta delas".
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Sl 22(23),1-3a,3b-4.5.6 (R. 1)
@@ -37969,19 +37969,19 @@ ordinary.week20.4.even:
         ele me leva a descansar.
         Para as águas repousantes me encaminha,
         e restaura as minhas forças R.
-        
+
         Ele me guia no caminho mais seguro,
         pela honra do seu nome.
         Mesmo que eu passe pelo vale tenebroso,
         nenhum mal eu temerei.
         Estais comigo com bastão e com cajado,
         eles me dão a segurança! R.
-        
+
         Preparais à minha frente uma mesa,
         bem à vista do inimigo;
         com óleo vós ungis minha cabeça,
         e o meu cálice transborda. R.
-        
+
         Felicidade e todo bem hão de seguir-me,
         por toda a minha vida;
         e, na casa do Senhor, habitarei
@@ -37990,7 +37990,7 @@ ordinary.week20.4.even:
       ref: Mt 20,1-16a
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Mateus
-        
+
         Naquele tempo,
         disse Jesus aos seus discípulos esta parábola: "O Reino dos Céus é como a história do patrão que saiu de madrugada para contratar trabalhadores para a sua vinha.
         Combinou com os trabalhadores uma moeda de prata por dia, e os mandou para a vinha.
@@ -38011,7 +38011,7 @@ ordinary.week20.4.even:
         Eu quero dar a este que foi contratado por último o mesmo que dei a ti.
         Por acaso não tenho o direito de fazer o que quero com aquilo que me pertence?
         Ou estás com inveja, porque estou sendo bom?' Assim, os últimos serão os primeiros, e os primeiros serão os últimos".
-        
+
         Palavra da Salvação.
 ordinary.week20.4.odd:
   title: Quarta-feira da 20ª Semana
@@ -40470,7 +40470,7 @@ ordinary.week23.1.b:
       text: |
         R. Bendize, ó minha alma ao Senhor.
         Bendirei ao Senhor toda a vida!
-        
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         O Senhor é fiel para sempre,
@@ -41396,7 +41396,7 @@ ordinary.week24.1.b:
       text: |
         R. Andarei na presença de Deus,
         junto a ele, na terra dos vivos.
-        
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Eu amo o Senhor, porque ouve
@@ -41919,7 +41919,7 @@ ordinary.week24.4.odd:
         R. Grandiosas são as obras do Senhor!
 
         Ou: Aleluia, Aleluia, Aleluia.
-        
+
         Eu agradeço a Deus de todo o coração
         junto com todos os seus justos reunidos!
         Que grandiosas são as obras do Senhor,
@@ -45478,7 +45478,7 @@ ordinary.week28.2.even:
       text: |
         R. Bendito seja o nome do Senhor,
         agora e para sempre!
-        
+
         Ou: Aleluia, Aleluia, Aleluia
 
         Louvai, louvai, ó servos do Senhor,
@@ -48005,17 +48005,17 @@ ordinary.week31.1.a:
   color: green
   readings:
     - type: reading
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: psalm
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: reading
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
     - type: gospel
-      ref: ''
-      text: ''
+      ref: ""
+      text: ""
 ordinary.week31.1.b:
   title: Domingo da 31ª Semana
   subtitle: Tempo Comum
@@ -51559,7 +51559,7 @@ ordinary.week34.5.odd:
       ref: Dn 6,12-28
       text: |
         Leitura da Profecia de Daniel
-        
+
         Naqueles dias,
         aproximaram-se os chefes do reino e encontraram Daniel orando e fazendo preces a seu Deus.
         Foram ter com o rei e falaram a propósito do decreto: "Ó rei, acaso não assinaste um decreto segundo o qual toda pessoa que, nos próximos trinta dias, dirija oração a qualquer divindade ou homem que não sejas tu, ó rei, seria atirada na cova dos leões?"
@@ -51579,27 +51579,27 @@ ordinary.week34.5.odd:
         Então o rei Dario escreveu a todos os povos, nações e línguas que habitavam a terra: "Que vossa paz se multiplique.
         Está decretado por mim que, em todo o território do meu império, todos respeitem e temam o Deus de Daniel: ele é o Deus vivo que permanece para sempre, seu reino não será destruído e seu poder durará eternamente; ele é o libertador e o salvador, que opera sinais e maravilhas no céu e na terra.
         Foi ele quem salvou Daniel das garras dos leões!"
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Dn 3,68-70.71-72.73-74 (R. 59b)
       text: |
         R. Louvai-o e exaltai-o, pelos séculos sem fim!
-        
+
         Orvalhos e garoas, bendizei o Senhor!
         Geada e frio, bendizei o Senhor!
         Gelos e neves, bendizei o Senhor! R.
-        
+
         Noites e dias, bendizei o Senhor!
         Luzes e trevas, bendizei o Senhor! R.
-        
+
         Raios e nuvens, bendizei o Senhor!
         Ilhas e terra, bendizei o Senhor! R.
     - type: gospel
       ref: Lc 21,20-28
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Lucas
-        
+
         Naquele tempo, disse Jesus aos seus discípulos:
         "Quando virdes Jerusalém cercada de exércitos, ficai sabendo que a sua destruição está próxima.
         Então, os que estiverem na Judeia, devem fugir para as montanhas; os que estiverem no meio da cidade, devem afastar-se; os que estiverem no campo, não entrem na cidade.
@@ -51612,7 +51612,7 @@ ordinary.week34.5.odd:
         Os homens vão desmaiar de medo, só em pensar no que vai acontecer ao mundo, porque as forças do céu serão abaladas.
         Então eles verão o Filho do Homem, vindo numa nuvem com grande poder e glória.
         Quando estas coisas começarem a acontecer, levantai-vos e erguei a cabeça, porque a vossa libertação está próxima".
-        
+
         Palavra da Salvação.
 ordinary.week34.6.even:
   title: Sexta-feira da 34ª Semana
@@ -51855,7 +51855,7 @@ ordinary.week34.7.odd:
         Portanto, ficai atentos e orai a todo momento, a fim de terdes força para escapar de tudo o que deve acontecer e para ficardes em pé diante do Filho do Homem".
 
         Palavra da Salvação.
-'0125':
+"0125":
   title: Conversão de São Paulo, Apóstolo
   subtitle: Festa
   color: white
@@ -51932,7 +51932,7 @@ ordinary.week34.7.odd:
       ref: Sl 116(117),1-2 (R. Mc 16,15)
       text: |
         R. Ide, por todo o mundo, a todos pregai o Evangelho.
-        
+
         Ou: Aleluia, aleluia, aleluia.
 
         Cantai louvores ao Senhor, todas as gentes,
@@ -51952,7 +51952,7 @@ ordinary.week34.7.odd:
         Os sinais que acompanharão aqueles que crerem serão estes: expulsarão demônios em meu nome, falarão novas línguas; se pegarem em serpentes ou beberem algum veneno mortal não lhes fará mal algum; quando impuserem as mãos sobre os doentes, eles ficarão curados".
 
         Palavra da Salvação.
-'0126':
+"0126":
   title: Santos Timóteo e Tito, bispos
   subtitle: Memória
   color: white
@@ -52024,7 +52024,7 @@ ordinary.week34.7.odd:
         Quando entrardes numa cidade e fordes bem recebidos, comei do que vos servirem, curai os doentes que nela houver e dizei ao povo: 'O Reino de Deus está próximo de vós'".
 
         Palavra da Salvação.
-'0806.1':
+"0806.1":
   title: Transfiguração do Senhor
   subtitle: Festa
   color: white
@@ -52086,7 +52086,7 @@ ordinary.week34.7.odd:
         Enquanto a voz ressoava, Jesus encontrou-se sozinho. Os discípulos ficaram calados e naqueles dias não contaram a ninguém nada do que tinham visto.
 
         Palavra da Salvação.
-'0806':
+"0806":
   title: Transfiguração do Senhor
   subtitle: Festa
   color: white
@@ -52149,7 +52149,7 @@ ordinary.week34.7.odd:
         Enquanto a voz ressoava, Jesus encontrou-se sozinho. Os discípulos ficaram calados e naqueles dias não contaram a ninguém nada do que tinham visto.
 
         Palavra da Salvação.
-'0914.1':
+"0914.1":
   title: Exaltação da Santa Cruz
   subtitle: Festa
   color: red
@@ -52222,7 +52222,7 @@ ordinary.week34.7.odd:
         De fato, Deus não enviou o seu Filho ao mundo para condenar o mundo, mas para que o mundo seja salvo por ele".
 
         Palavra da Salvação.
-'0914':
+"0914":
   title: Exaltação da Santa Cruz
   subtitle: Festa
   color: red
@@ -52296,7 +52296,7 @@ ordinary.week34.7.odd:
         De fato, Deus não enviou o seu Filho ao mundo para condenar o mundo, mas para que o mundo seja salvo por ele".
 
         Palavra da Salvação.
-'0915':
+"0915":
   title: Nossa Senhora das Dores
   subtitle: Memória
   color: white
@@ -52369,7 +52369,7 @@ ordinary.week34.7.odd:
           Quanto a ti, uma espada te traspassará a alma".
 
           Palavra da Salvação.
-'0202':
+"0202":
   title: Apresentação do Senhor
   subtitle: Festa
   color: white
@@ -52466,7 +52466,7 @@ ordinary.week34.7.odd:
           "Agora, Senhor, conforme a tua promessa, podes deixar teu servo partir em paz; porque meus olhos viram a tua salvação, que preparaste diante de todos os povos: luz para iluminar as nações e glória do teu povo Israel".
 
           Palavra da Salvação.
-'0222':
+"0222":
   title: Cátedra de São Pedro, Apóstolo
   subtitle: Festa
   color: white
@@ -52530,7 +52530,7 @@ ordinary.week34.7.odd:
         Eu te darei as chaves do Reino dos Céus: tudo o que tu ligares na terra será ligado nos céus; tudo o que tu desligares na terra será desligado nos céus".
 
         Palavra da Salvação.
-'0319':
+"0319":
   title: São José, Esposo da Bem-aventurada Virgem Maria
   subtitle: Solenidade
   color: white
@@ -52620,7 +52620,7 @@ ordinary.week34.7.odd:
           Jesus desceu então com seus pais para Nazaré, e era-lhes obediente.
 
           Palavra da Salvação.
-'0503':
+"0503":
   title: Santos Filipe e Tiago, Apóstolos
   subtitle: Festa
   color: red
@@ -52685,7 +52685,7 @@ ordinary.week34.7.odd:
         Se pedirdes algo em meu nome, eu o realizarei".
 
         Palavra da Salvação.
-'0531':
+"0531":
   title: Visitação da Bem-aventurada Virgem Maria
   subtitle: Festa
   color: white
@@ -52762,7 +52762,7 @@ ordinary.week34.7.odd:
         Maria ficou três meses com Isabel; depois voltou para casa.
 
         Palavra da Salvação.
-'0425':
+"0425":
   title: São Marcos, Evangelista
   subtitle: Festa
   color: red
@@ -52791,7 +52791,7 @@ ordinary.week34.7.odd:
       ref: Sl 88(89),2-3,6-7,16-17 (R. cf. 2a)
       text: |
         R. Ó Senhor, eu cantarei, eternamente, o vosso amor.
-        
+
         Ou: Aleluia, Aleluia, Aleluia.
 
         Ó Senhor, eu cantarei eternamente o vosso amor,
@@ -52823,7 +52823,7 @@ ordinary.week34.7.odd:
         O Senhor os ajudava e confirmava sua palavra por meio dos sinais que a acompanhavam.
 
         Palavra da Salvação.
-'0512':
+"0512":
   title: São Matias, Apóstolo
   subtitle: Festa
   color: red
@@ -52972,7 +52972,7 @@ annunciation:
         E o anjo retirou-se.
 
         Palavra da Salvação.
-'0822':
+"0822":
   title: Bem-aventurada Virgem Maria Rainha
   subtitle: Memória
   color: white
@@ -53047,7 +53047,7 @@ annunciation:
         E o anjo retirou-se.
 
         Palavra da Salvação.
-'0823':
+"0823":
   title: Santa Rosa de Lima, Padroeira da América Latina
   subtitle: Festa
   color: white
@@ -53104,10 +53104,10 @@ annunciation:
         Quando encontra uma pérola de grande valor, ele vai, vende todos os seus bens e compra aquela pérola".
 
         Palavra da Salvação.
-'0829':
+"0829":
   title: Martírio de São João Batista
   subtitle: Memória
-  color: red  
+  color: red
   readings:
     - type: reading
       ref: Jr 1,17-19
@@ -53180,7 +53180,7 @@ annunciation:
         Ao saberem disso, os discípulos de João foram lá, levaram o cadáver e o sepultaram.
 
         Palavra da Salvação.
-'0908':
+"0908":
   title: Natividade da Bem-aventurada Virgem Maria
   subtitle: Festa
   color: white
@@ -53195,7 +53195,7 @@ annunciation:
           "Tu, Belém de Éfrata, pequenina entre os mil povoados de Judá, de ti há de sair aquele que dominará em Israel; sua origem vem de tempos remotos, desde os dias da eternidade.
           Deus deixará seu povo ao abandono, até ao tempo em que uma mãe der à luz; e o resto de seus irmãos se voltará para os filhos de Israel.
           Ele não recuará, apascentará com a força do Senhor e com a majestade do nome do Senhor seu Deus; os homens viverão em paz, pois ele agora estenderá o poder até aos confins da terra, e ele mesmo será a Paz".
-          
+
           Palavra do Senhor.
       optional:
         ref: Rm 8,28-30
@@ -53266,7 +53266,7 @@ annunciation:
           Ele será chamado pelo nome de Emanuel, que significa: Deus está conosco".
 
           Palavra da Salvação.
-'0929':
+"0929":
   title: Santos Miguel, Gabriel e Rafael, Arcanjos
   subtitle: Festa
   color: white
@@ -53344,7 +53344,7 @@ annunciation:
         Vereis o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do Homem".
 
         Palavra da Salvação.
-'1002':
+"1002":
   title: Santos Anjos da Guarda
   subtitle: Memória
   color: white
@@ -53402,7 +53402,7 @@ annunciation:
         Não desprezeis nenhum desses pequeninos, pois eu vos digo que os seus anjos nos céus veem sem cessar a face do meu Pai que está nos céus".
 
         Palavra da Salvação.
-'1007':
+"1007":
   title: Bem-aventurada Virgem Maria do Rosário
   subtitle: Memória
   color: white
@@ -53411,13 +53411,13 @@ annunciation:
       ref: At 1,12-14
       text: |
         Leitura dos Atos dos Apóstolos
-        
+
         Depois que Jesus subiu ao céu,
         os apóstolos voltaram para Jerusalém, vindo do monte das Oliveiras, que fica perto de Jerusalém, a mais ou menos um quilômetro.
         Entraram na cidade e subiram para a sala de cima, onde costumavam ficar.
         Eram Pedro e João, Tiago e André, Filipe e Tomé, Bartolomeu e Mateus, Tiago, filho de Alfeu, Simão Zelota e Judas, filho de Tiago.
         Todos eles perseveravam na oração em comum, junto com algumas mulheres, entre as quais Maria, mãe de Jesus, e com os irmãos de Jesus.
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Lc 1,46-47.48-49.50-51.52-53.54-55 (R. 49)
@@ -53435,17 +53435,17 @@ annunciation:
         desde agora as gerações hão de chamar-me de bendita.
         O Poderoso fez por mim maravilhas
         e Santo é o seu nome! R.
-        
+
         Seu amor, de geração em geração,
         chega a todos que o respeitam.
         Demonstrou o poder de seu braço,
         dispersou os orgulhosos. R.
-        
+
         Derrubou os poderosos de seus tronos
         e os humildes exaltou.
         De bens saciou os famintos
         e despediu, sem nada, os ricos. R.
-        
+
         Acolheu Israel, seu servidor,
         fiel ao seu amor,
         como havia prometido aos nossos pais,
@@ -53454,7 +53454,7 @@ annunciation:
       ref: Lc 1,26-38
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Lucas
-        
+
         Naquele tempo,
         o anjo Gabriel foi enviado por Deus a uma cidade da Galileia, chamada Nazaré, a uma virgem, prometida em casamento a um homem chamado José.
         Ele era descendente de Davi e o nome da virgem era Maria O anjo entrou onde ela estava e disse: "Alegra-te, cheia de graça, o Senhor está contigo!"
@@ -53470,9 +53470,9 @@ annunciation:
         Este já é o sexto mês daquela que era considerada estéril, porque para Deus nada é impossível".
         Maria, então, disse: "Eis aqui a serva do Senhor; faça-se em mim segundo a tua palavra!"
         E o anjo retirou-se.
-        
+
         Palavra da Salvação.
-'1012':
+"1012":
   title: Bem-aventurada Virgem Maria da Conceição Aparecida
   subtitle: Solenidade
   color: white
@@ -53481,7 +53481,7 @@ annunciation:
       ref: Est 5,1b-2;7,2b-3
       text: |
         Leitura do Livro de Ester
-        
+
         Ester revestiu-se com vestes de rainha
         e foi colocar-se no vestíbulo interno do palácio real, frente à residência do rei.
         O rei estava sentado no trono real, na sala do trono, frente à entrada.
@@ -53489,7 +53489,7 @@ annunciation:
         Então, o rei lhe disse: "O que me pedes, Ester; o que queres que eu faça?
         Ainda que me pedisses a metade do meu reino, ela te seria concedida".
         Ester respondeu-lhe: "Se ganhei as tuas boas graças, ó rei, e se for de teu agrado, concede-me a vida - eis o meu pedido! - e a vida do meu povo - eis o meu desejo!"
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Sl 44(45),11-12a.12b-13.14-15a.15b-16 (R. 11.12a)
@@ -53501,7 +53501,7 @@ annunciation:
         "Esquecei vosso povo e a casa paterna!
         Que o Rei se encante com vossa beleza!
         Prestai-lhe homenagem: é vosso Senhor! R.
-        
+
         O povo de Tiro vos traz seus presentes,
         os grandes do povo vos pedem favores.
         Majestosa, a princesa real vem chegando,
@@ -53515,7 +53515,7 @@ annunciation:
       ref: Ap 12,1.5.13a.15-16a
       text: |
         Leitura do Livro do Apocalipse de São João
-        
+
         Apareceu no céu um grande sinal:
         uma mulher vestida do sol, tendo a lua debaixo dos pés e sobre a cabeça uma coroa de doze estrelas.
         E ela deu à luz um filho homem, que veio para governar todas as nações com cetro de ferro.
@@ -53523,13 +53523,13 @@ annunciation:
         Quando viu que tinha sido expulso para a terra, o dragão começou a perseguir a mulher que tinha dado à luz o menino.
         A serpente, então, vomitou como um rio de água atrás da mulher, a fim de a submergir.
         A terra, porém, veio em socorro da mulher.
-        
+
         Palavra do Senhor.
     - type: gospel
       ref: Jo 2,1-11
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo João
-        
+
         Naquele tempo,
         houve um casamento em Caná da Galileia.
         A mãe de Jesus estava presente.
@@ -53550,9 +53550,9 @@ annunciation:
         Mas tu guardaste o vinho melhor até agora!"
         Este foi o início dos sinais de Jesus.
         Ele o realizou em Caná da Galileia e manifestou a sua glória, e seus discípulos creram nele.
-        
+
         Palavra da Salvação.
-'1018':
+"1018":
   title: São Lucas, Evangelista
   subtitle: Festa
   color: red
@@ -53561,7 +53561,7 @@ annunciation:
       ref: 2Tm 4,10-17b
       text: |
         Leitura da Segunda Carta de São Paulo a Timóteo
-        
+
         Caríssimo:
         Demas me abandonou por amor deste mundo, e foi para Tessalônica.
         Crescente foi para a Galácia, Tito para a Dalmácia.
@@ -53574,23 +53574,23 @@ annunciation:
         Na minha primeira defesa, ninguém me assistiu; todos me abandonaram.
         Oxalá que não lhes seja levado em conta.
         Mas o Senhor esteve a meu lado e me deu forças, ele fez com que a mensagem fosse anunciada por mim integralmente, e ouvida por todas as nações.
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Sl 144(145),10-11,12-13ab,17-18 (R. 12a)
       text: |
         R. Ó Senhor, vossos amigos anunciem vosso Reino glorioso!
-        
+
         Que vossas obras, ó Senhor, vos glorifiquem,
         e os vossos santos com louvores vos bendigam!
         Narrem a glória e o esplendor do vosso reino
         e saibam proclamar vosso poder! R.
-        
+
         Para espalhar vossos prodígios entre os homens
         e o fulgor de vosso reino esplendoroso.
         O vosso reino é um reino para sempre,
         vosso poder, de geração em geração. R.
-        
+
         É justo o Senhor em seus caminhos,
         é Santo em toda obra que ele faz.
         Ele está perto da pessoa que o invoca,
@@ -53599,7 +53599,7 @@ annunciation:
       ref: Lc 10,1-9
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Lucas
-        
+
         Naquele tempo,
         o Senhor escolheu outros setenta e dois discípulos e os enviou dois a dois, na sua frente, a toda cidade e lugar aonde ele próprio devia ir.
         E dizia-lhes: "A messe é grande, mas os trabalhadores são poucos.
@@ -53610,9 +53610,9 @@ annunciation:
         Permanecei naquela mesma casa, comei e bebei do que tiverem, porque o trabalhador merece o seu salário.
         Não passeis de casa em casa.
         Quando entrardes numa cidade e fordes bem recebidos, comei do que vos servirem, curai os doentes que nela houver e dizei ao povo: 'O Reino de Deus está próximo de vós' ".
-        
+
         Palavra da Salvação.
-'1028':
+"1028":
   title: Santos Simão e Judas, Apóstolos
   subtitle: Festa
   color: red
@@ -53621,25 +53621,25 @@ annunciation:
       ref: Ef 2,19-22
       text: |
         Leitura da Carta de São Paulo aos Efésios
-        
+
         Irmãos,
         já não sois mais estrangeiros nem migrantes, mas concidadãos dos santos.
         Sois da família de Deus.
         Vós fostes integrados no edifício que tem como fundamento os apóstolos e os profetas, e o próprio Jesus Cristo como pedra principal.
         É nele que toda a construção se ajusta e se eleva para formar um templo Santo no Senhor.
         E vós também sois integrados nesta construção, para vos tornardes morada de Deus pelo Espírito.
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Sl 18(19A),2-3.4-5 (R. 5a)
       text: |
         R. Seu som ressoa e se espalha em toda terra.
-        
+
         Os céus proclamam a glória do Senhor,
         e o firmamento, a obra de suas mãos;
         o dia ao dia transmite esta mensagem,
         a noite à noite publica esta notícia. R.
-        
+
         Não são discursos nem frases ou palavras,
         nem são vozes que possam ser ouvidas;
         seu som ressoa e se espalha em toda a terra,
@@ -53648,7 +53648,7 @@ annunciation:
       ref: Lc 6,12-19
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Lucas
-        
+
         Naqueles dias, Jesus foi à montanha para rezar.
         E passou a noite toda em oração a Deus.
         Ao amanhecer, chamou seus discípulos e escolheu doze dentre eles, aos quais deu o nome de apóstolos: Simão, a quem impôs o nome de Pedro, e seu irmão André; Tiago e João; Filipe e Bartolomeu; Mateus e Tomé; Tiago, filho de Alfeu, e Simão, chamado Zelota; Judas, filho de Tiago, e Judas Iscariotes, aquele que se tornou traidor.
@@ -53659,7 +53659,7 @@ annunciation:
         A multidão toda procurava tocar em Jesus, porque uma força saía dele, e curava a todos.
 
         Palavra da Salvação.
-'1101':
+"1101":
   title: Todos os Santos
   subtitle: Solenidade
   color: white
@@ -53668,7 +53668,7 @@ annunciation:
       ref: Ap 7,2-4.9-14
       text: |
         Leitura do Livro do Apocalipse de São João
-        
+
         Eu, João,
         vi um outro anjo, que subia do lado onde nasce o sol.
         Ele trazia a marca do Deus vivo e gritava, em alta voz, aos quatro anjos que tinham recebido o poder de danificar a terra e o mar, dizendo-lhes: "Não façais mal à terra, nem ao mar nem às arvores, até que tenhamos marcado na fronte os servos do nosso Deus".
@@ -53684,23 +53684,23 @@ annunciation:
         Eu respondi: "Tu é que sabes, meu senhor".
         E então ele me disse: "Esses são os que vieram da grande tribulação.
         Lavaram e alvejaram as suas roupas no sangue do Cordeiro".
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Sl 23(24),1-2.3-4ab.5-6 (R. cf. 6)
       text: |
         R. É assim a geração dos que procuram o Senhor!
-        
+
         Ao Senhor pertence a terra e o que ela encerra,
         o mundo inteiro com os seres que o povoam;
         porque ele a tornou firme sobre os mares,
         e sobre as águas a mantém inabalável. R.
-        
+
         "Quem subirá até o monte do Senhor,
         quem ficará em sua santa habitação?"
         "Quem tem mãos puras e inocente coração,
         quem não dirige sua mente para o crime. R.
-        
+
         Sobre este desce a bênção do Senhor
         e a recompensa de seu Deus e Salvador".
         "É assim a geração dos que o procuram,
@@ -53709,7 +53709,7 @@ annunciation:
       ref: 1Jo 3,1-3
       text: |
         Leitura da Primeira Carta de São João
-        
+
         Caríssimos,
         vede que grande presente de amor o Pai nos deu: de sermos chamados filhos de Deus!
         E nós o somos!
@@ -53717,13 +53717,13 @@ annunciation:
         Caríssimos, desde já somos filhos de Deus, mas nem sequer se manifestou o que seremos!
         Sabemos que, quando Jesus se manifestar, seremos semelhantes a ele, porque o veremos tal como ele é.
         Todo o que espera nele, purifica-se a si mesmo, como também ele é puro.
-        
+
         Palavra do Senhor.
     - type: gospel
       ref: Mt 5,1-12a
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo Mateus
-        
+
         Naquele tempo,
         vendo Jesus as multidões, subiu ao monte e sentou-se.
         Os discípulos aproximaram-se, e Jesus começou a ensiná-los: "Bem-aventurados os pobres em espírito, porque deles é o Reino dos Céus.
@@ -53736,9 +53736,9 @@ annunciation:
         Bem-aventurados os que são perseguidos por causa da justiça, porque deles é o Reino dos Céus.
         Bem-aventurados sois vós, quando vos injuriarem e perseguirem, e mentindo, disserem todo tipo de mal contra vós, por causa de mim.
         Alegrai-vos e exultai, porque será grande a vossa recompensa nos céus".
-        
+
         Palavra da Salvação.
-'1102':
+"1102":
   title: Comemoração de Todos os Fiéis Defuntos
   subtitle: Solenidade
   color: white
@@ -53748,18 +53748,18 @@ annunciation:
         ref: Jó 19,1.23-27a
         text: |
           Leitura do Livro de Jó
-          
+
           Jó tomou a palavra e disse:
           "Gostaria que minhas palavras fossem escritas e gravadas numa inscrição com ponteiro de ferro e com chumbo, cravadas na rocha para sempre!
           Eu sei que o meu redentor está vivo e que, por último, se levantará sobre o pó; e depois que tiverem destruído esta minha pele, na minha carne, verei a Deus.
           Eu mesmo o verei, meus olhos o contemplarão, e não os olhos de outros".
-          
+
           Palavra do Senhor.
       optional:
         ref: 2Mc 12,43-46
         text: |
           Leitura do Segundo Livro dos Macabeus
-          
+
           Naqueles dias,
           Judas, mandou fazer uma coleta, recolhendo cerca de dez mil dracmas, que enviou a Jerusalém para que se oferecesse um sacrifício pelo pecado.
           Ação justa e nobre, inspirada na sua crença na ressurreição.
@@ -53767,64 +53767,64 @@ annunciation:
           Considerava, porém, que aos que morrem piedosamente está reservada uma bela recompensa.
           Santo e piedoso pensamento, este de orar pelos mortos.
           Por isso ele ofereceu um sacrifício expiatório pelos defuntos, para que fossem livres dos seus pecados.
-          
+
           Palavra do Senhor.
       optional2:
         ref: Sb 3,1-9
         text: |
           Leitura do Livro da Sabedoria
-          
+
           A vida dos justos está nas mãos de Deus,
           e nenhum tormento os atingirá.
           Aos olhos dos insensatos parecem ter morrido; sua saída do mundo foi considerada uma desgraça, e sua partida do meio de nós, uma destruição; mas eles estão em paz.
           Aos olhos dos homens parecem ter sido castigados, mas sua esperança é cheia de imortalidade; tendo sofrido leves correções, serão cumulados de grandes bens, porque Deus os pôs à prova e os achou dignos de si.
           Provou-os como se prova o ouro no fogo e aceitou-os como ofertas de holocausto; no dia do seu julgamento hão de brilhar, correndo como centelhas no meio da palha; vão julgar as nações e dominar os povos, e o Senhor reinará sobre eles para sempre.
           Os que nele confiam compreenderão a verdade, e os que perseveram no amor ficarão junto dele, porque a graça e a misericórdia são para seus eleitos.
-          
+
           Palavra do Senhor.
       optional3:
         ref: Sb 3,1-6.9
         text: |
           Leitura do Livro da Sabedoria
-          
+
           A vida dos justos está nas mãos de Deus,
           e nenhum tormento os atingirá.
           Aos olhos dos insensatos parecem ter morrido; sua saída do mundo foi considerada uma desgraça, e sua partida do meio de nós, uma destruição; mas eles estão em paz.
           Aos olhos dos homens parecem ter sido castigados, mas sua esperança é cheia de imortalidade; tendo sofrido leves correções, serão cumulados de grandes bens, porque Deus os pôs à prova e os achou dignos de si.
           Provou-os como se prova o ouro no fogo e aceitou-os como ofertas de holocausto.
           Os que nele confiam compreenderão a verdade, e os que perseveram no amor ficarão junto dele, porque a graça e a misericórdia são para seus eleitos.
-          
+
           Palavra do Senhor.
       optional4:
         ref: Sb 4,7-15
         text: |
           Leitura do Livro da Sabedoria
-          
+
           O justo, ainda que morra jovem, encontrará descanso.
           A honra da velhice não consiste numa longa vida, e não se mede pelo número de anos; mas os cabelos brancos são uma vida sensata, e a idade avançada, uma vida sem mancha.
           O justo agradou a Deus e é amado por ele; vivia entre pecadores, e Deus o transferiu para outro lugar; foi arrebatado, para que a maldade não lhe pervertesse a consciência, nem o engano seduzisse a sua alma.
           Pois a atração dos vícios obscurece os valores verdadeiros, e a vertigem das paixões corrompe a mente sem malícia.
           Tendo alcançado em pouco tempo a perfeição, completou uma longa carreira; pois sua alma era agradável ao Senhor, que por isso se apressou em tirá-Ia do meio da maldade.
           As pessoas vêem isso e não compreendem, e não lhes vem à mente que a graça e a misericórdia são para os eleitos do Senhor, e que ele intervém em favor dos seus santos.
-          
+
           Palavra do Senhor.
       optional5:
         ref: Is 15,6a.7-9
         text: |
           Leitura do Livro do Profeta Isaías
-          
+
           Naquele dia,
           O Senhor dos exércitos dará neste monte, para todos os povos, um banquete de ricas iguarias.
           Ele removerá, neste monte, a ponta da cadeia que ligava todos os povos, a teia em que tinha envolvido todas as nações.
           O Senhor Deus eliminará para sempre a morte e enxugará as lágrimas de todas as faces e acabará com a desonra do seu povo em toda a terra; o Senhor o disse.
           Naquele dia, se dirá: "Este é o nosso Deus, esperamos nele, até que nos salvou; este é o Senhor, nele temos confiado: vamos alegrar-nos e exultar por nos ter salvo".
-          
+
           Palavra do Senhor.
       optional6:
         ref: Lm 3,17-26
         text: |
           Leitura do Livro das Lamentações
-          
+
           Minha vida distanciou-se da paz,
           estou esquecido de seus bens.
           Disse para mim mesmo: "Acabou-se o meu vigor, minha esperança ausentou-se do Senhor".
@@ -53835,19 +53835,19 @@ annunciation:
           Diz minh'alma: "O Senhor é minha herança, por isso, espero por ele".
           O Senhor é bondoso para quem nele confia, para a alma que o procura.
           É bom aguardar em silêncio a salvação que vem de Deus.
-          
+
           Palavra do Senhor.
       optional7:
         ref: Dn 12,1-3
         text: |
           Leitura do Profeta Daniel
-          
+
           Eu, Daniel, ouvi a palavra do Senhor:
           Naquele tempo, se levantará Miguel, o grande príncipe; defensor dos filhos de teu povo; e será um tempo de angústia, como nunca houve até então, desde que começaram a existir nações.
           Mas, nesse tempo, teu povo será salvo, todos os que se acharem inscritos no livro.
           Muitos dos que dormem no pó da terra, despertarão, uns para a vida eterna, outros para o opróbrio eterno.
           Mas os que tiverem sido sábios, brilharão como o firmamento; e os que tiverem ensinado a muitos homens os caminhos da virtude, brilharão como as estrelas, por toda a eternidade.
-          
+
           Palavra do Senhor.
     - type: psalm
       main:
@@ -53855,30 +53855,30 @@ annunciation:
         text: |
           R. O Senhor é o pastor que me conduz,
           não me falta coisa alguma.
-          
+
           Ou: Mesmo que eu passe pelo vale tenebroso,
           nenhum mal eu temerei.
-          
+
           O Senhor é o pastor que me conduz;
           não me falta coisa alguma.
           Pelos prados e campinas verdejantes
           ele me leva a descansar. R.
-          
+
           Para as águas repousantes me encaminha,
           e restaura as minhas forças.
           Ele me guia no caminho mais seguro,
           pela honra do seu nome. R.
-          
+
           Mesmo que eu passe pelo vale tenebroso,
           nenhum mal eu temerei.
           Estais comigo com bastão e com cajado,
           eles me dão a segurança! R.
-          
+
           Preparais à minha frente uma mesa,
           bem à vista do inimigo;
           com óleo vós ungis minha cabeça,
           e o meu cálice transborda. R.
-          
+
           Felicidade e todo bem hão de seguir-me,
           por toda a minha vida;
           e, na casa do Senhor, habitarei
@@ -53908,7 +53908,7 @@ annunciation:
         ref: Sl 26(27),1.4.7-8b.9a.13-14 (R. 1a ou 13)
         text: |
           R. O Senhor é minha luz e salvação.
-          
+
           Ou: Sei que a bondade do Senhor eu hei de ver na terra dos viventes.
 
           O Senhor é minha luz e salvação; de quem eu terei medo?
@@ -53926,9 +53926,9 @@ annunciation:
         ref: Sl 102(103),8.10.13-14.15-16.17-18 (R. 8a ou 36,39a)
         text: |
           R. O Senhor é indulgente, é favorável.
-          
+
           Ou: A salvação dos justos vem de Deus.
-          
+
           O Senhor é indulgente, é favorável,
           é paciênte, é bondoso e compassivo.
           Não nos trata como exigem nossas faltas,
@@ -53956,7 +53956,7 @@ annunciation:
           R. Andarei na presença de Deus, junto a ele, na terra dos vivos.
 
           Ou: Aleluía, Aleluia, Aleluia.
-          
+
           O Senhor é justiça e bondade,
           nosso Deus é amor-compaixão.
           É o Senhor quem defende os humildes:
@@ -53976,7 +53976,7 @@ annunciation:
         ref: 1Cor 15,20-24a.25-28
         text: |
           Leitura da Primeira Carta de São Paulo aos Coríntios
-          
+
           Irmãos:
           Cristo ressuscitou dos mortos como primícias dos que morreram.
           Com efeito, por um homem veio a morte e é também por um homem que vem a ressurreição dos mortos.
@@ -53988,13 +53988,13 @@ annunciation:
           Com efeito, "Deus pôs tudo debaixo de seus pés".
           Mas, quando ele disser: "Tudo está submetido", é claro que estará excluído dessa submissão aquele que submeteu tudo a Cristo.
           E, quando todas as coisas estiverem submetidas a ele, então o próprio Filho se submeterá àquele que lhe submeteu todas as coisas, para que Deus seja tudo em todos.
-          
+
           Palavra do Senhor.
       optional:
         ref: Rm 5,5-11
         text: |
           Leitura da Carta de São Paulo aos Romanos
-          
+
           Irmãos:
           A esperança não decepciona, porque o amor de Deus foi derramado em nossos corações pelo Espírito Santo que nos foi dado.
           Com efeito, quando éramos ainda fracos, Cristo morreu pelos ímpios, no tempo marcado.
@@ -54004,13 +54004,13 @@ annunciation:
           Quando éramos inimigos de Deus, fomos reconciliados com ele pela morte do seu Filho; quanto mais agora, estando já reconciliados, seremos salvos por sua vida!
           Ainda mais: Nós nos gloriamos em Deus, por nosso Senhor Jesus Cristo.
           É por ele que, já desde o tempo presente, recebemos a reconciliação.
-          
+
           Palavra do Senhor.
       optional2:
         ref: Rm 5,17-21
         text: |
           Leitura da Carta de São Paulo aos Romanos
-          
+
           Irmãos:
           Por um só homem, pela falta de um só homem, a morte começou a reinar.
           Muito mais reinarão na vida, pela mediação de um só, Jesus Cristo, os que recebem o dom gratuito e superabundante da justiça.
@@ -54019,13 +54019,13 @@ annunciation:
           Quanto à Lei, ela interveio para que se multiplicasse a transgressão.
           Porém, onde se multiplicou o pecado, aí superabundou a graça.
           Enfim, como o pecado tem reinado pela morte, que a graça reine pela justiça, para a vida eterna, por Jesus Cristo, Senhor nosso.
-          
+
           Palavra do Senhor.
       optional3:
         ref: Rm 6,3-9
         text: |
           Leitura da Carta de São Paulo aos Romanos
-          
+
           Irmãos:
           Leitura da Carta de São Paulo aos Romanos Irmãos: Será que ignorais que todos nós, batizados em Jesus Cristo, é na sua morte que fomos batizados?
           Pelo batismo na sua morte, fomos sepultados com ele, para que, como Cristo ressuscitou dos mortos pela glória do Pai, assim também nós levemos uma vida nova.
@@ -54034,13 +54034,13 @@ annunciation:
           Com efeito, aquele que morreu está livre do pecado.
           Se, pois, morremos com Cristo, cremos que também viveremos com ele.
           Sabemos que Cristo ressuscitado dos mortos não morre mais; a morte já não tem poder sobre ele.
-          
+
           Palavra do Senhor.
       optional4:
         ref: Rm 6,3-4.8-9
         text: |
           Leitura da Carta de São Paulo aos Romanos
-          
+
           Irmãos:
           Será que ignorais que todos nós, batizados em Jesus Cristo, é na sua morte que fomos batizados?
           Pelo batismo na sua morte, fomos sepultados com ele, para que, como Cristo ressuscitou dos mortos pela glória do Pai, assim também nós levemos uma vida nova.
@@ -54052,7 +54052,7 @@ annunciation:
         ref: Rm 8,14-23
         text: |
           Leitura da Carta de São Paulo aos Romanos
-          
+
           Irmãos:
           Todos aqueles que se deixam conduzir pelo Espírito de Deus são filhos de Deus.
           De fato, vós não recebestes um espírito de escravos, para recairdes no medo, mas recebestes um espírito de filhos adotivos, no qual todos nós clamamos: Abá - ó Pai!
@@ -54069,7 +54069,7 @@ annunciation:
         ref: Rm 8,31b-35.37-39
         text: |
           Leitura da Carta de São Paulo aos Romanos
-          
+
           Irmãos:
           Se Deus é por nós, quem será contra nós?
           Deus que não poupou seu próprio filho, mas o entregou por todos nós, como não nos daria tudo junto com ele?
@@ -54082,13 +54082,13 @@ annunciation:
           Fome? Nudez? Perigo? Espada?
           Mas, em tudo isso, somos mais que vencedores, graças àquele que nos amou!
           Tenho a certeza que nem a morte, nem a vida, nem os anjos, nem os poderes celestiais, nem o presente nem o futuro, nem as forças cósmicas, nem a altura, nem a profundeza, nem outra criatura qualquer será capaz de nos separar do amor de Deus por nós, manifestado em Cristo Jesus, nosso Senhor.
-          
+
           Palavra do Senhor.
       optional7:
         ref: Rm 14,7-9.10c-12
         text: |
           Leitura da Carta de São Paulo aos Romanos
-          
+
           Irmãos:
           Ninguém dentre nós vive para si mesmo ou morre para si mesmo.
           Se estamos vivos, é para o Senhor que vivemos; se morremos, é para o Senhor que morremos.
@@ -54097,13 +54097,13 @@ annunciation:
           Pois é diante do tribunal de Deus que todos compareceremos.
           Com efeito, está escrito: "Por minha vida, diz o Senhor, todo joelho se dobrará diante de mim e toda língua glorificará a Deus".
           Assim, cada um de nós prestará contas de si mesmo a Deus.
-          
+
           Palavra do Senhor.
       optional8:
         ref: 1Cor 15,20-24a.25-28
         text: |
           Leitura da Primeira Carta de São Paulo aos Coríntios
-          
+
           Irmãos:
           Cristo ressuscitou dos mortos como primícias dos que morreram.
           Com efeito, por um homem veio a morte e é também por um homem que vem a ressurreição dos mortos.
@@ -54115,13 +54115,13 @@ annunciation:
           Com efeito, "Deus pôs tudo debaixo de seus pés".
           Mas, quando ele disser: "Tudo está submetido", é claro que estará excluído dessa submissão aquele que submeteu tudo a Cristo.
           E, quando todas as coisas estiverem submetidas a ele, então o próprio Filho se submeterá àquele que lhe submeteu todas as coisas, para que Deus seja tudo em todos.
-          
+
           Palavra do Senhor.
       optional9:
         ref: 1Cor 15,20-23
         text: |
           Leitura da Primeira Carta de São Paulo aos Coríntios
-          
+
           Irmãos:
           Cristo ressuscitou dos mortos como primícias dos que morreram.
           Com efeito, por um homem veio a morte e é também por um homem .
@@ -54134,7 +54134,7 @@ annunciation:
         ref: 2Tm 2,8-13
         text: |
           Leitura da Segunda Carta de São Paulo a Timóteo
-          
+
           Caríssimo:
           Lembra-te de Jesus Cristo, da descendência de Davi, ressuscitado dentre os mortos, segundo o meu evangelho.
           Por ele eu estou sofrendo até às algemas, como se eu fosse um malfeitor; mas a palavra de Deus não está algemada.
@@ -54143,14 +54143,14 @@ annunciation:
           Se com ele ficamos firmes, com ele reinaremos.
           Se nós o negamos, também ele nos negará.
           Se lhe somos infiéis, ele permanece fiel, pois não pode negar-se a si mesmo.
-          
+
           Palavra do Senhor.
     - type: gospel
       main:
         ref: Lc 12,35-40
         text: |
           Proclamação do Evangelho de Jesus Cristo segundo Lucas
-          
+
           Naquele tempo, disse Jesus a seus discípulos:
           Que vossos rins estejam cingidos e as lâmpadas acesas.
           Sede como homens que estão esperando seu senhor voltar de uma festa de casamento, para lhe abrir, imediatamente, a porta, logo que ele chegar e bater.
@@ -54166,7 +54166,7 @@ annunciation:
         ref: Mt 5,1-12a
         text: |
           Proclamação do Evangelho de Jesus Cristo segundo Mateus
-          
+
           Naquele tempo,
           vendo Jesus as multidões, subiu ao monte e sentou-se.
           Os discípulos aproximaram-se, e Jesus começou a ensiná-Ias: "Bem-aventurados os pobres em espírito, porque deles é o Reino dos Céus.
@@ -54179,13 +54179,13 @@ annunciation:
           Bem-aventurados os que são perseguidos por causa da justiça, porque deles é o Reino dos Céus.
           Bem-aventurados sais vós, quando vos injuriarem e perseguirem, e, mentindo, disserem todo tipo de mal contra vós, por causa de mim.
           Alegrai-vos e exultai, porque será grande a vossa recompensa nos céus.
-          
+
           Palavra da Salvação.
       optional2:
         ref: Mt 11,25-30
         text: |
           Proclamação do Evangelho de Jesus Cristo segundo Mateus
-          
+
           Naquele tempo,
           Jesus pôs-se a dizer: "Eu te louvo, ó Pai, Senhor do céu e da terra, porque escondeste estas coisas aos sábios e entendidos e as revelaste aos pequeninos.
           Sim, Pai, porque assim foi do teu agrado.
@@ -54199,7 +54199,7 @@ annunciation:
         ref: Mt 25,1-13
         text: |
           Proclamação do Evangelho de Jesus Cristo segundo Mateus
-          
+
           Naquele tempo,
           disse Jesus a seus discípulos esta parábola: "O Reino dos Céus é como a história das dez jovens que pegaram suas lâmpadas de óleo e saíram ao encontro do noivo.
           Cinco delas eram imprevidentes, e as outras cinco eram previdentes.
@@ -54213,13 +54213,13 @@ annunciation:
           Enquanto elas foram comprar óleo, o noivo chegou, e as que estavam preparadas entraram com ele para a festa de casamento.
           E a porta se fechou.
           Por fim, chegaram também as outras jovens e disseram: 'Senhor! Senhor! Abre-nos a porta!' Ele, porém, respondeu: 'Em verdade eu vos digo: Não vos conheço!' Portanto, ficai vigiando, pois não sabeis qual será o dia, nem a hora".
-          
+
           Palavra da Salvação.
       optional4:
         ref: Mc 15,33-39;16,1-6
         text: |
           Proclamação do Evangelho de Jesus Cristo segundo Marcos
-          
+
           Naquele tempo,
           quando chegou o meio-dia, houve escuridão sobre toda a terra, até as três horas da tarde.
           Pelas três da tarde, Jesus gritou com voz forte: "Eloi, Eloi, lamá sabactâni?", que quer dizer: "Meu Deus, meu Deus, por que me abandonaste?"
@@ -54239,13 +54239,13 @@ annunciation:
           Vós procurais Jesus de Nazaré, que foi crucificado?
           Ele ressuscitou. Não está aqui.
           Vede o lugar onde o puseram".
-          
+
           Palavra da Salvação.
       optional5:
         ref: Lc 7,11-17
         text: |
           Proclamação do Evangelho de Jesus Cristo segundo Lucas
-          
+
           Naquele tempo,
           Jesus dirigiu-se a uma cidade chamada Naim.
           Com ele iam seus discípulos e uma grande multidão.
@@ -54258,13 +54258,13 @@ annunciation:
           E Jesus o entregou à sua mãe.
           Todos ficaram com muito medo e glorificavam a Deus, dizendo: "Um grande profeta apareceu entre nós e Deus veio visitar o seu povo".
           E a notícia do fato espalhou-se pela Judéia inteira, e por toda a redondeza.
-          
+
           Palavra da Salvação.
       optional6:
         ref: Jo 11,17-27
         text: |
           Proclamação do Evangelho de Jesus Cristo segundo João
-          
+
           Naquele tempo,
           quando Jesus chegou, a Betânia, encontrou Lázaro sepultado havia quatro dias.
           Betânia ficava a uns três quilômetros de Jerusalém.
@@ -54280,13 +54280,13 @@ annunciation:
           E todo aquele que vive e crê em mim, não morrerá jamais.
           Crês isto?"
           Respondeu ela: "Sim, Senhor, eu creio firmemente que tu és o Messias, o Filho de Deus, que devia vir ao mundo".
-         
+
           Palavra da Salvação.
       optional7:
         ref: Jo 12,23-28
         text: |
           Proclamação do Evangelho de Jesus Cristo segundo João
-          
+
           Naquele tempo,
           disse Jesus a seus discípulos: "Chegou a hora em que o Filho do Homem vai ser glorificado.
           Em verdade, em verdade vos digo: Se o grão de trigo que cai na terra não morre, ele continua só um grão de trigo; mas se morre, então produz muito fruto.
@@ -54304,7 +54304,7 @@ annunciation:
         ref: Jo 14,1-6
         text: |
           Proclamação do Evangelho de Jesus Cristo segundo João
-          
+
           Naquele tempo,
           disse Jesus a seus discípulos: "Não se perturbe o vosso coração.
           Tendes fé em Deus, tende fé em mim também.
@@ -54323,9 +54323,9 @@ annunciation:
           Proclamação do Evangelho de Jesus Cristo segundo João Naquele tempo, levantando os olhos para o céu, Jesus orou, dizendo: "Pai, aqueles que me deste, quero que estejam comigo onde eu estiver, para que eles contemplem a minha glória, glória que tu me deste, porque me amaste, antes da fundação do universo.
           Pai justo, o mundo não te conheceu, mas eu te conheci, e estes também conheceram que tu me enviaste.
           Eu lhes fiz conhecer o teu nome, e o tornarei conhecido ainda mais, para que o amor com que me amaste esteja neles, e eu mesmo esteja neles".
-          
+
           Palavra da Salvação.
-'1109':
+"1109":
   title: Dedicação da Basílica de Latrão
   subtitle: Festa
   color: white
@@ -54334,7 +54334,7 @@ annunciation:
       ref: Ez 47,1-2.8-9.12
       text: |
         Leitura da Profecia de Ezequiel
-        
+
         Naqueles dias,
         o homem fez-me voltar até a entrada do Templo e eis que saía água da sua parte subterrânea na direção leste, porque o Templo estava voltado para o oriente; a água corria do lado direito do Templo, ao sul do altar.
         Ele fez-me sair pela porta que dá para o norte, e fez-me dar uma volta por fora, até à porta que dá para o leste, onde eu vi a água jorrando do lado direito.
@@ -54343,7 +54343,7 @@ annunciation:
         Haverá peixes em quantidade, pois ali desembocam as águas que trazem saúde; e haverá vida onde chegar o rio.
         Nas margens junto ao rio, de ambos os lados, crescerá toda espécie de árvores frutíferas; suas folhas não murcharão e seus frutos jamais se acabarão: cada mês darão novos frutos, pois as águas que banham as árvores saem do santuário.
         Seus frutos servirão de alimento e suas folhas serão remédio".
-        
+
         Palavra do Senhor.
     - type: psalm
       ref: Sl 45(46),2-3.5-6.8-9 (R. 5)
@@ -54355,12 +54355,12 @@ annunciation:
         sempre pronto, mostrou-se um socorro na angústia;
         assim não tememos, se a terra estremece,
         se os montes desabam, caindo nos mares. R.
-        
+
         Os braços de um rio vêm trazer alegria
         à Cidade de Deus, à morada do Altíssimo.
         Quem a pode abalar? Deus está no seu meio!
         Já bem antes da aurora, ele vem ajudá-la. R.
-        
+
         Conosco está o Senhor do universo!
         O nosso refúgio é o Deus de Jacó!
         Vinde ver, contemplai os prodígios de Deus
@@ -54370,7 +54370,7 @@ annunciation:
       ref: 1Cor 3,9c-11.16-17
       text: |
         Leitura da Primeira Carta de São Paulo aos Coríntios
-        
+
         Irmãos:
         vós sois  lavoura de Deus, construção de Deus.
         Segundo a graça que Deus me deu, eu coloquei — como experiente mestre de obra — o alicerce, sobre o qual outros se põem a construir.
@@ -54384,7 +54384,7 @@ annunciation:
       ref: Jo 2,13-22
       text: |
         Proclamação do Evangelho de Jesus Cristo segundo João
-        
+
         Estava próxima a Páscoa dos judeus
         e Jesus subiu a Jerusalém.
         No Templo, encontrou os vendedores de bois, ovelhas e pombas e os cambistas que estavam aí sentados.
@@ -54397,5 +54397,5 @@ annunciation:
         Os judeus disseram: "Quarenta e seis anos foram precisos para a construção deste santuário e tu o levantarás em três dias?"
         Mas Jesus estava falando do Templo do seu corpo.
         Quando Jesus ressuscitou, os discípulos lembraram-se do que ele tinha dito e acreditaram na Escritura e na palavra dele.
-        
+
         Palavra da Salvação.
